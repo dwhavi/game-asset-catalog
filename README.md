@@ -11,6 +11,7 @@
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델·애니메이션 캐릭터 (GLB·OBJ) | 64팩 (릴리스 첨부) |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘, 폰트 | 13팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악, 음성 (OGG) | 13팩 |
+| [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 삼국지 수묵담채 초상화 (자체 제작, 조건 없이 사용 가능) | 1팩 (660장) |
 
 각 저장소 README에 팩별 미리보기 이미지와 내용·형식·개수가 있습니다.
 
@@ -49,7 +50,7 @@
 
 https://sigco3111.github.io/game-asset-catalog/
 
-이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다. 팩 단위 검색이며, 팩 안의 개별 파일은 검색하지 않습니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
+이 저장소의 `catalog.csv`를 읽어 팩을 이미지로 둘러보고 검색하는 사이트입니다(현재 519팩). 팩 단위 검색이 기본이며, 초상화 탭에서는 팩 안의 인물을 이름으로 검색할 수 있습니다: 확정 한국어명과 한자명으로 찾고, 한국어명이 확정되지 않은 204명은 '미정'으로 표시되어 '미정' 검색으로 모아볼 수 있습니다. 결과는 60명씩 표시되고 '더 보기'로 전체를 탐색하며, 인물별 썸네일 미리보기와 개별 원본 다운로드(릴리스 개별 에셋)를 제공합니다. 사이트 파일은 `index.html`, `style.css`, `app.js`입니다.
 
 ### 새 팩을 추가할 때
 
