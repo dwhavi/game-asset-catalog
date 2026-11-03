@@ -104,3 +104,35 @@ $('grid').addEventListener('click',function(e){var b=e.target.closest('.card');i
 $('dlg').addEventListener('click',function(e){if(e.target===this||e.target.classList.contains('close')){this.close();var a=this.querySelector('audio');if(a)a.pause()}});
 fetch('catalog.csv',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.text()}).then(init).catch(function(e){$('sub').textContent='카탈로그를 불러오지 못했습니다. 잠시 후 다시 시도하세요.';console.error(e)});
 })();
+
+;(function(){
+var IDX='https://raw.githubusercontent.com/sigco3111/assets-2d-portraits/main/people-index.json';
+var THUMB='https://raw.githubusercontent.com/sigco3111/assets-2d-portraits/main/';
+var people=null,loading=false;
+function esc2(s){return String(s==null?'':s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+var sec=document.createElement('section');sec.id='people';sec.hidden=true;
+sec.innerHTML='<style>#people{margin:4px 0 18px}#people input{width:100%;box-sizing:border-box;padding:10px 12px;border:1px solid #d8d3c8;border-radius:10px;font-size:15px;background:#fff;margin-bottom:8px}#pgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(110px,1fr));gap:10px}#pgrid .pc{background:#fff;border:1px solid #e5e0d6;border-radius:12px;padding:8px;text-align:center;text-decoration:none;color:inherit;display:block}#pgrid .pc img{width:100%;border-radius:8px;display:block}#pgrid .pn{font-size:13px;font-weight:600;margin-top:6px}#pgrid .pz{font-size:11px;color:#888}#people .hint{color:#8a857a;font-size:13px}</style>'
++'<input id="pq" type="search" placeholder="인물 이름 검색 (한국어·한자, 미정)" autocomplete="off" aria-label="인물 검색">'
++'<p id="pcount" class="count"></p><div id="pgrid"></div><p id="phint" class="hint">초상화 팩 안의 인물을 이름으로 찾아 개별 원본을 내려받을 수 있습니다.</p>';
+var main=document.querySelector('main');main.insertBefore(sec,main.firstChild);
+function load(){if(people||loading)return;loading=true;fetch(IDX,{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json()}).then(function(d){people=d;renderPeople()}).catch(function(e){var h=document.getElementById('phint');if(h)h.textContent='인물 색인을 불러오지 못했습니다. 잠시 후 다시 시도하세요.'})}
+function cur(){var b=document.querySelector('#tabs button[aria-pressed="true"]');return b?b.getAttribute('data-t'):''}
+function renderPeople(){
+  var on=cur()==='assets-2d-portraits';sec.hidden=!on;if(!on)return;
+  load();var q=(document.getElementById('pq').value||'').trim();
+  var grid=document.getElementById('pgrid'),cnt=document.getElementById('pcount'),hint=document.getElementById('phint');
+  if(!people){cnt.textContent='인물 색인 불러오는 중…';return}
+  if(!q){grid.innerHTML='';cnt.textContent='';hint.hidden=false;return}
+  hint.hidden=true;
+  var list;
+  if(q==='미정')list=people.filter(function(p){return !p.name_ko});
+  else list=people.filter(function(p){return (p.name_ko&&p.name_ko.indexOf(q)>=0)||(p.name_zh&&p.name_zh.indexOf(q)>=0)});
+  var shown=list.slice(0,60);
+  grid.innerHTML=shown.map(function(p){var nm=p.name_ko||'미정';return '<a class="pc" href="'+esc2(p.dl)+'" target="_blank" rel="noopener" title="원본 다운로드"><img loading="lazy" decoding="async" alt="'+esc2(nm)+'" src="'+THUMB+esc2(p.thumb)+'"><div class="pn">'+esc2(nm)+'</div><div class="pz">'+esc2(p.name_zh)+'</div></a>'}).join('');
+  cnt.textContent=list.length?(list.length+'명'+(list.length>shown.length?' · 처음 60명만 표시':'')):'검색 결과가 없습니다.';
+}
+document.getElementById('pq').addEventListener('input',renderPeople);
+document.getElementById('tabs').addEventListener('click',function(){setTimeout(renderPeople,0)});
+document.getElementById('reset').addEventListener('click',function(){setTimeout(renderPeople,0)});
+renderPeople();
+})();
