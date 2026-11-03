@@ -122,10 +122,10 @@ function renderPeople(){
   load();var q=(document.getElementById('pq').value||'').trim();
   var grid=document.getElementById('pgrid'),cnt=document.getElementById('pcount'),hint=document.getElementById('phint');
   if(!people){cnt.textContent='인물 색인 불러오는 중…';return}
-  if(!q){grid.innerHTML='';cnt.textContent='';hint.hidden=false;return}
   hint.hidden=true;
   var list;
-  if(q==='미정')list=people.filter(function(p){return !p.name_ko});
+  if(!q)list=people;
+  else if(q==='미정')list=people.filter(function(p){return !p.name_ko});
   else list=people.filter(function(p){return (p.name_ko&&p.name_ko.indexOf(q)>=0)||(p.name_zh&&p.name_zh.indexOf(q)>=0)});
   var shown=list.slice(0,shownN);
   grid.innerHTML=shown.map(function(p){var nm=p.name_ko||'미정';return '<a class="pc" href="'+esc2(p.dl)+'" target="_blank" rel="noopener" title="원본 다운로드"><img loading="lazy" decoding="async" alt="'+esc2(nm)+'" src="'+THUMB+esc2(p.thumb)+'"><div class="pn">'+esc2(nm)+'</div><div class="pz">'+esc2(p.name_zh)+'</div></a>'}).join('')+(list.length>shownN?'<button type="button" id="pmore" style="grid-column:1/-1;padding:10px;border:1px solid #d8d3c8;border-radius:10px;background:#fff;cursor:pointer;font-size:14px">더 보기 (남은 '+(list.length-shownN)+'명)</button>':'');
