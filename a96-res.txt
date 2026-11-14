@@ -1,0 +1,213 @@
+header: ["name", "repo", "file", "type", "tags", "author", "source_url", "license", "attribution", "added", "notes", "preview", "sample", "split"]
+rows: 1891
+AGA row: ["Fjordfall Boats & Vehicles", "assets-3d-lowpoly-2", "fjordfall-boats-and-vehicles/fjordfall-boats-and-vehicles.zip", "3D", "3d,lowpoly,vehicles,boats,fjordfall,ai-generated", "Jonathan Maddison", "https://github.com/AgenticGameDevs/generated-assets", "CC-BY", "required: Jonathan Maddison (CC BY 4.0)", "2026-11-14", "3D 팩; AI 생성(AgenticGameDevs/generated-assets; 생성 도구 Blender, Meshy); 라이선스 CC BY 4.0 표기 파일(pack.md·CREDITS.txt·LICENSE-SOURCE.txt) 포함; 썸네일 480px 이하 JPEG; 저장소 내 포함", "https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/previews/fjordfall-boats-and-vehicles.jpg", "", ""]
+AGA row: ["Fjordfall Buildings", "assets-3d-lowpoly-2", "fjordfall-buildings/fjordfall-buildings.zip", "3D", "3d,lowpoly,buildings,fjordfall,ai-generated", "Jonathan Maddison", "https://github.com/AgenticGameDevs/generated-assets", "CC-BY", "required: Jonathan Maddison (CC BY 4.0)", "2026-11-14", "3D 팩; AI 생성(AgenticGameDevs/generated-assets; 생성 도구 Blender, Meshy); 라이선스 CC BY 4.0 표기 파일(pack.md·CREDITS.txt·LICENSE-SOURCE.txt) 포함; 썸네일 480px 이하 JPEG; 저장소 내 포함", "https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/previews/fjordfall-buildings.jpg", "", ""]
+AGA row: ["Fjordfall Characters", "assets-3d-lowpoly-2", "fjordfall-characters/fjordfall-characters.zip", "3D", "3d,lowpoly,characters,fjordfall,ai-generated", "Jonathan Maddison", "https://github.com/AgenticGameDevs/generated-assets", "CC-BY", "required: Jonathan Maddison (CC BY 4.0)", "2026-11-14", "3D 팩; AI 생성(AgenticGameDevs/generated-assets; 생성 도구 Meshy, Meshy + Blender); 라이선스 CC BY 4.0 표기 파일(pack.md·CREDITS.txt·LICENSE-SOURCE.txt) 포함; 썸네일 480px 이하 JPEG; 저장소 내 포함", "https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/previews/fjordfall-characters.jpg", "", ""]
+AGA row: ["Skybound Six Synthesized SFX", "assets-audio", "skybound-synthesized-sfx/skybound-synthesized-sfx.zip", "효과음", "sfx,effect,impact,explosion,laser,ai-generated", "Jonathan Maddison", "https://github.com/AgenticGameDevs/generated-assets", "CC-BY", "required: Jonathan Maddison (CC BY 4.0)", "2026-11-14", "효과음 팩; AI 생성(AgenticGameDevs/generated-assets; 생성 도구 Godot / Web Audio synthesis); 라이선스 CC BY 4.0 표기 파일 포함; 저장소 내 포함", "", "", ""]
+AGA count: 4
+release row: ["Fantasy Town Kit 1.0", "assets-3d-lowpoly", "releases/download/v1.0/fantasy-town-kit-1.0.zip", "3D 모델", "fantasy,town,buildings,lowpoly", "Kenney", "https://kenney.nl/assets/fantasy-town-kit", "CC0", "optional: Kenney (kenney.nl)", "2026-10-28", "모델 153종 GLB/OBJ/DAE/STL; 릴리스 v1.0 첨부; 미러 바이트(공식 미대조)", "https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly/main/previews/fantasy-town-kit-1.0.png", "", ""]
+repo assets-3d-lowpoly-2 sizeKB=170186
+repo assets-2d-pixel sizeKB=417115
+repo assets-audio sizeKB=398777
+
+### fjordfall | Animations n=10 kind=animation bytes=1424064
+  - Fjordfall humanoid · Nine-animation pack | assets/fjordfall/animations/humanoid-full-pack.glb | 196076 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Idle · Humanoid animation | assets/fjordfall/animations/idle.glb | 136320 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Jog · Humanoid animation | assets/fjordfall/animations/jog.glb | 136400 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Jump · Humanoid animation | assets/fjordfall/animations/jump.glb | 136464 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Row · Humanoid animation | assets/fjordfall/animations/row.glb | 136488 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Sail · Humanoid animation | assets/fjordfall/animations/sail.glb | 136352 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Skate Cruise · Humanoid animation | assets/fjordfall/animations/skate-cruise.glb | 136500 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Skate Push · Humanoid animation | assets/fjordfall/animations/skate-push.glb | 136440 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Skate Tuck · Humanoid animation | assets/fjordfall/animations/skate-tuck.glb | 136512 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+  - Walk · Humanoid animation | assets/fjordfall/animations/walk.glb | 136512 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+
+### fjordfall | Boats & vehicles n=17 kind=model bytes=1550960
+  - Board | assets/fjordfall/models/board.glb | 161980 | Meshy | CC-BY-4.0 | prev=True
+  - Boat Tarp | assets/fjordfall/models/boat_tarp.glb | 2204 | Blender | CC-BY-4.0 | prev=True
+  - Boat Trestle | assets/fjordfall/models/boat_trestle.glb | 3152 | Blender | CC-BY-4.0 | prev=True
+  - Bus | assets/fjordfall/models/bus.glb | 13824 | Blender | CC-BY-4.0 | prev=True
+  - Car | assets/fjordfall/models/car.glb | 229356 | Meshy | CC-BY-4.0 | prev=True
+  - Norwegian rowing boat | assets/fjordfall/models/faering.glb | 59560 | Blender | CC-BY-4.0 | prev=True
+  - Ferry | assets/fjordfall/models/ferry.glb | 280548 | Meshy | CC-BY-4.0 | prev=True
+  - Fjord boat | assets/fjordfall/models/fjordbaat.glb | 145908 | Meshy | CC-BY-4.0 | prev=True
+  - Garden Bicycle | assets/fjordfall/models/garden_bicycle.glb | 20744 | Blender | CC-BY-4.0 | prev=True
+  - Kayak Hull | assets/fjordfall/models/kayak_hull.glb | 2868 | Blender | CC-BY-4.0 | prev=True
+  - Kayak Rack | assets/fjordfall/models/kayak_rack.glb | 4480 | Blender | CC-BY-4.0 | prev=True
+  - Notice Board | assets/fjordfall/models/notice_board.glb | 15160 | Blender | CC-BY-4.0 | prev=True
+  - Postbus Open | assets/fjordfall/models/postbus_open.glb | 13984 | Blender | CC-BY-4.0 | prev=True
+  - Postbus Seated | assets/fjordfall/models/postbus_seated.glb | 16700 | Blender | CC-BY-4.0 | prev=True
+  - Rowing Oar | assets/fjordfall/models/rowing_oar.glb | 2908 | Blender | CC-BY-4.0 | prev=True
+  - Tractor | assets/fjordfall/models/tractor.glb | 229284 | Meshy | CC-BY-4.0 | prev=True
+  - Wheel Lo | assets/fjordfall/models/wheel_lo.glb | 348300 | Meshy | CC-BY-4.0 | prev=True
+
+### fjordfall | Buildings n=12 kind=model bytes=2030760
+  - Sauna cabin | assets/fjordfall/models/badstue.glb | 12160 | Blender | CC-BY-4.0 | prev=True
+  - Barn | assets/fjordfall/models/barn.glb | 130956 | Meshy | CC-BY-4.0 | prev=True
+  - Church | assets/fjordfall/models/church.glb | 35228 | Blender | CC-BY-4.0 | prev=True
+  - Church Gravel | assets/fjordfall/models/church_gravel.glb | 2060 | Blender | CC-BY-4.0 | prev=True
+  - Farmhouse | assets/fjordfall/models/farmhouse.glb | 136852 | Meshy | CC-BY-4.0 | prev=True
+  - Ferry waiting shelter | assets/fjordfall/models/ferjeskur.glb | 161128 | Meshy | CC-BY-4.0 | prev=True
+  - Oslo Kit | assets/fjordfall/models/oslo-kit.glb | 478896 | Blender | CC-BY-4.0 | prev=True
+  - Fisherman’s cabin | assets/fjordfall/models/rorbu.glb | 155808 | Meshy | CC-BY-4.0 | prev=True
+  - Mountain pasture cabin | assets/fjordfall/models/seterbu.glb | 149392 | Meshy | CC-BY-4.0 | prev=True
+  - Shophut | assets/fjordfall/models/shophut.glb | 472916 | Meshy | CC-BY-4.0 | prev=True
+  - Waterfront warehouse | assets/fjordfall/models/sjohus.glb | 149288 | Meshy | CC-BY-4.0 | prev=True
+  - Raised timber storehouse | assets/fjordfall/models/stabbur.glb | 146076 | Meshy | CC-BY-4.0 | prev=True
+
+### fjordfall | Characters n=5 kind=model bytes=3108192
+  - Traveller 2 | assets/fjordfall/models/female-rider.glb | 1763580 | Meshy + Blender | CC-BY-4.0 | prev=True
+  - Hooded traveller | assets/fjordfall/models/hooded.glb | 163068 | Meshy + Blender | CC-BY-4.0 | prev=True
+  - Traveller 3 · Helmeted rider | assets/fjordfall/models/rider.glb | 522156 | Meshy + Blender | CC-BY-4.0 | prev=True
+  - Shepherd | assets/fjordfall/models/shepherd.glb | 144948 | Meshy | CC-BY-4.0 | prev=True
+  - Traveller 1 | assets/fjordfall/models/traveller.glb | 514440 | Meshy + Blender | CC-BY-4.0 | prev=True
+
+### fjordfall | Props n=25 kind=model bytes=367928
+  - Advent Star | assets/fjordfall/models/advent_star.glb | 2184 | Blender | CC-BY-4.0 | prev=True
+  - Bench | assets/fjordfall/models/bench.glb | 7836 | Blender | CC-BY-4.0 | prev=True
+  - Birdbox | assets/fjordfall/models/birdbox.glb | 4400 | Blender | CC-BY-4.0 | prev=True
+  - Boulders | assets/fjordfall/models/boulders.glb | 9944 | Meshy | CC-BY-4.0 | prev=True
+  - Fishing Rod | assets/fjordfall/models/fishing_rod.glb | 5996 | Blender | CC-BY-4.0 | prev=True
+  - Fish drying rack | assets/fjordfall/models/fiskehjell.glb | 6156 | Blender | CC-BY-4.0 | prev=True
+  - Garden Trampoline | assets/fjordfall/models/garden_trampoline.glb | 143352 | Blender | CC-BY-4.0 | prev=True
+  - Hay drying rack | assets/fjordfall/models/hesje.glb | 52880 | Blender | CC-BY-4.0 | prev=True
+  - Roadside shelter | assets/fjordfall/models/leskur.glb | 11040 | Blender | CC-BY-4.0 | prev=True
+  - Log | assets/fjordfall/models/log.glb | 6052 | Blender | CC-BY-4.0 | prev=True
+  - Milk collection platform | assets/fjordfall/models/melkerampe.glb | 24536 | Blender | CC-BY-4.0 | prev=True
+  - Notice Paper | assets/fjordfall/models/notice_paper.glb | 2576 | Blender | CC-BY-4.0 | prev=True
+  - Rasteplass Bin | assets/fjordfall/models/rasteplass_bin.glb | 2584 | Blender | CC-BY-4.0 | prev=True
+  - Rasteplass Gravel | assets/fjordfall/models/rasteplass_gravel.glb | 3352 | Blender | CC-BY-4.0 | prev=True
+  - Rasteplass Table | assets/fjordfall/models/rasteplass_table.glb | 3836 | Blender | CC-BY-4.0 | prev=True
+  - Sankthans Lantern | assets/fjordfall/models/sankthans_lantern.glb | 2368 | Blender | CC-BY-4.0 | prev=True
+  - Sankthans Pyre | assets/fjordfall/models/sankthans_pyre.glb | 7932 | Blender | CC-BY-4.0 | prev=True
+  - Sauegjerde Net | assets/fjordfall/models/sauegjerde_net.glb | 5448 | Blender | CC-BY-4.0 | prev=True
+  - Sauegjerde Post | assets/fjordfall/models/sauegjerde_post.glb | 2408 | Blender | CC-BY-4.0 | prev=True
+  - Stone wall | assets/fjordfall/models/steingard.glb | 11432 | Blender | CC-BY-4.0 | prev=True
+  - Stockfish | assets/fjordfall/models/stockfish.glb | 8824 | Blender | CC-BY-4.0 | prev=True
+  - Swing Seat | assets/fjordfall/models/swing_seat.glb | 5084 | Blender | CC-BY-4.0 | prev=True
+  - Swing Tree | assets/fjordfall/models/swing_tree.glb | 20424 | Blender | CC-BY-4.0 | prev=True
+  - Weather Mast | assets/fjordfall/models/weather_mast.glb | 5356 | Blender | CC-BY-4.0 | prev=True
+  - Woodpile | assets/fjordfall/models/woodpile.glb | 11928 | Blender | CC-BY-4.0 | prev=True
+
+### fjordfall | Rigs n=1 kind=rig bytes=128972
+  - Fjordfall humanoid · 24-joint rig | assets/fjordfall/rigs/humanoid-24.glb | 128972 | Meshy + Blender + glTF Transform | CC-BY-4.0 | prev=True
+
+### fjordfall | Road & infrastructure n=17 kind=model bytes=332508
+  - Gate | assets/fjordfall/models/gate.glb | 6804 | Blender | CC-BY-4.0 | prev=True
+  - Street lamp | assets/fjordfall/models/gatelys.glb | 2844 | Blender | CC-BY-4.0 | prev=True
+  - Gatelys Pool | assets/fjordfall/models/gatelys_pool.glb | 2408 | Blender | CC-BY-4.0 | prev=True
+  - Junction Sign | assets/fjordfall/models/junction_sign.glb | 4292 | Blender | CC-BY-4.0 | prev=True
+  - Kilometre marker | assets/fjordfall/models/kmpost.glb | 3724 | Blender | CC-BY-4.0 | prev=True
+  - Power line pole | assets/fjordfall/models/kraftlinje.glb | 3248 | Blender | CC-BY-4.0 | prev=True
+  - Kraftlinje Transformer | assets/fjordfall/models/kraftlinje_transformer.glb | 3600 | Blender | CC-BY-4.0 | prev=True
+  - Rural mailboxes | assets/fjordfall/models/postkasser.glb | 10196 | Blender | CC-BY-4.0 | prev=True
+  - Road Chevron | assets/fjordfall/models/road_chevron.glb | 2612 | Blender | CC-BY-4.0 | prev=True
+  - Road Pole | assets/fjordfall/models/road_pole.glb | 2556 | Blender | CC-BY-4.0 | prev=True
+  - Road Post | assets/fjordfall/models/road_post.glb | 2128 | Blender | CC-BY-4.0 | prev=True
+  - Road Rail | assets/fjordfall/models/road_rail.glb | 2196 | Blender | CC-BY-4.0 | prev=True
+  - Sign Elg | assets/fjordfall/models/sign_elg.glb | 2896 | Blender | CC-BY-4.0 | prev=True
+  - Sign Rein | assets/fjordfall/models/sign_rein.glb | 2900 | Blender | CC-BY-4.0 | prev=True
+  - Snowfence | assets/fjordfall/models/snowfence.glb | 4776 | Blender | CC-BY-4.0 | prev=True
+  - Verge | assets/fjordfall/models/verge.glb | 270364 | Blender | CC-BY-4.0 | prev=True
+  - Waymark | assets/fjordfall/models/waymark.glb | 4964 | Blender | CC-BY-4.0 | prev=True
+
+### fjordfall | Sound effects n=2 kind=sound bytes=169541
+  - Church Bell | assets/fjordfall/sfx/church_bell.mp3 | 24676 | Additive synthesis | CC-BY-4.0 | prev=False
+  - Flock Bells | assets/fjordfall/sfx/flock_bells.mp3 | 144865 | Additive synthesis | CC0-1.0 | prev=False
+
+### fjordfall | Surface materials n=16 kind=texture bytes=2364395
+  - Asphalt | assets/fjordfall/tex/asphalt.webp | 393620 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Asphalt 512 | assets/fjordfall/tex/asphalt-512.webp | 102234 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Cabin Paint | assets/fjordfall/tex/cabin_paint.webp | 11898 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Gravel | assets/fjordfall/tex/gravel.webp | 353560 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Gravel 512 | assets/fjordfall/tex/gravel-512.webp | 114798 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Ground Transition | assets/fjordfall/tex/ground_transition.webp | 105106 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Lichen | assets/fjordfall/tex/lichen.webp | 60158 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Moss | assets/fjordfall/tex/moss.webp | 381808 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Moss 512 | assets/fjordfall/tex/moss-512.webp | 122552 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Rock | assets/fjordfall/tex/rock.webp | 384478 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Rock 512 | assets/fjordfall/tex/rock-512.webp | 97528 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Sankthans Charcoal | assets/fjordfall/tex/sankthans-charcoal.png | 16115 | Blender | CC-BY-4.0 | prev=False
+  - Snow | assets/fjordfall/tex/snow.webp | 157078 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Snow 512 | assets/fjordfall/tex/snow-512.webp | 24076 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Water Ripple | assets/fjordfall/tex/water_ripple.webp | 7180 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Weathered Timber | assets/fjordfall/tex/weathered_timber.webp | 32206 | OpenAI image generation | CC-BY-4.0 | prev=False
+
+### fjordfall | UI & illustration n=33 kind=artwork bytes=725668
+  - Field Paper | assets/fjordfall/ui/field-paper.webp | 11750 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Cows | assets/fjordfall/ui/mark-cows.webp | 8954 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Crossing | assets/fjordfall/ui/mark-crossing.webp | 4670 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Eiders | assets/fjordfall/ui/mark-eiders.webp | 5346 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Fieldfares | assets/fjordfall/ui/mark-fieldfares.webp | 11434 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Fire | assets/fjordfall/ui/mark-fire.webp | 7536 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark First Ride | assets/fjordfall/ui/mark-first-ride.webp | 3620 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Geese | assets/fjordfall/ui/mark-geese.webp | 5642 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Hare | assets/fjordfall/ui/mark-hare.webp | 12924 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark High Places | assets/fjordfall/ui/mark-high-places.webp | 3284 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Idea | assets/fjordfall/ui/mark-idea.webp | 4936 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Lift | assets/fjordfall/ui/mark-lift.webp | 5006 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Moose | assets/fjordfall/ui/mark-moose.webp | 10992 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Night Ride | assets/fjordfall/ui/mark-night-ride.webp | 5392 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Note | assets/fjordfall/ui/mark-note.webp | 6702 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Picture | assets/fjordfall/ui/mark-picture.webp | 10360 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Picture Vote | assets/fjordfall/ui/mark-picture-vote.webp | 6480 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Reindeer | assets/fjordfall/ui/mark-reindeer.webp | 7446 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Row | assets/fjordfall/ui/mark-row.webp | 6270 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Sail | assets/fjordfall/ui/mark-sail.webp | 6814 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Salmon | assets/fjordfall/ui/mark-salmon.webp | 5172 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Shore Roads | assets/fjordfall/ui/mark-shore-roads.webp | 4792 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Stone | assets/fjordfall/ui/mark-stone.webp | 4812 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Summit | assets/fjordfall/ui/mark-summit.webp | 3100 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Three Notes | assets/fjordfall/ui/mark-three-notes.webp | 5876 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Timber | assets/fjordfall/ui/mark-timber.webp | 10884 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Mark Whole Road | assets/fjordfall/ui/mark-whole-road.webp | 7162 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Marks Atlas | assets/fjordfall/ui/marks-atlas.webp | 110800 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Place Fall | assets/fjordfall/ui/place-fall.webp | 117750 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Place House | assets/fjordfall/ui/place-house.webp | 99468 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Place Mountain | assets/fjordfall/ui/place-mountain.webp | 113164 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Place Quay | assets/fjordfall/ui/place-quay.webp | 78370 | OpenAI image generation | CC-BY-4.0 | prev=False
+  - Postcard Border | assets/fjordfall/ui/postcard-border.webp | 18760 | OpenAI image generation | CC-BY-4.0 | prev=False
+
+### fjordfall | Vegetation n=9 kind=model bytes=396920
+  - Birch | assets/fjordfall/models/birch.glb | 155896 | Meshy | CC-BY-4.0 | prev=True
+  - Fern | assets/fjordfall/models/fern.glb | 14200 | Blender | CC-BY-4.0 | prev=True
+  - Pine A | assets/fjordfall/models/pine_a.glb | 12480 | Blender | CC-BY-4.0 | prev=True
+  - Pine B | assets/fjordfall/models/pine_b.glb | 10992 | Blender | CC-BY-4.0 | prev=True
+  - Pine C | assets/fjordfall/models/pine_c.glb | 13028 | Blender | CC-BY-4.0 | prev=True
+  - Rowan | assets/fjordfall/models/rowan.glb | 22544 | Blender | CC-BY-4.0 | prev=True
+  - Spruce | assets/fjordfall/models/spruce.glb | 157068 | Meshy | CC-BY-4.0 | prev=True
+  - Stump | assets/fjordfall/models/stump.glb | 5000 | Blender | CC-BY-4.0 | prev=True
+  - Winter Birch | assets/fjordfall/models/winter_birch.glb | 5712 | Blender | CC-BY-4.0 | prev=True
+
+### fjordfall | Wildlife n=15 kind=model bytes=715332
+  - Cow | assets/fjordfall/models/cow.glb | 14324 | Blender | CC-BY-4.0 | prev=True
+  - Cow Lying | assets/fjordfall/models/cow_lying.glb | 13676 | Blender | CC-BY-4.0 | prev=True
+  - Eider Drake | assets/fjordfall/models/eider_drake.glb | 6548 | Blender | CC-BY-4.0 | prev=True
+  - Eider Duck | assets/fjordfall/models/eider_duck.glb | 9836 | Blender | CC-BY-4.0 | prev=True
+  - Fieldfare | assets/fjordfall/models/fieldfare.glb | 3760 | Blender | CC-BY-4.0 | prev=True
+  - Goose | assets/fjordfall/models/goose.glb | 3316 | Blender | CC-BY-4.0 | prev=True
+  - Gull | assets/fjordfall/models/gull.glb | 3964 | Blender | CC-BY-4.0 | prev=True
+  - Hare Running | assets/fjordfall/models/hare_running.glb | 6092 | Blender | CC-BY-4.0 | prev=True
+  - Hare Sitting | assets/fjordfall/models/hare_sitting.glb | 6096 | Blender | CC-BY-4.0 | prev=True
+  - Moose | assets/fjordfall/models/moose.glb | 203852 | Meshy | CC-BY-4.0 | prev=True
+  - Moose Bull | assets/fjordfall/models/moose_bull.glb | 12392 | Blender | CC-BY-4.0 | prev=True
+  - Reindeer | assets/fjordfall/models/reindeer.glb | 149096 | Meshy | CC-BY-4.0 | prev=True
+  - Reindeer Young | assets/fjordfall/models/reindeer_young.glb | 149368 | Meshy + Blender | CC-BY-4.0 | prev=True
+  - Salmon | assets/fjordfall/models/salmon.glb | 3564 | Blender | CC-BY-4.0 | prev=True
+  - Sheep | assets/fjordfall/models/sheep.glb | 129448 | Meshy | CC-BY-4.0 | prev=True
+
+### skybound | Props n=1 kind=model bytes=11916
+  - Boulder | assets/skybound/models/boulder.glb | 11916 | Three.js procedural geometry | CC-BY-4.0 | prev=True
+
+### skybound | Sound effects n=6 kind=sound bytes=227374
+  - Crumble | assets/skybound/sfx/crumble.wav | 19888 | Godot / Web Audio synthesis | CC-BY-4.0 | prev=False
+  - Explosion | assets/skybound/sfx/explosion.wav | 55168 | Godot / Web Audio synthesis | CC-BY-4.0 | prev=False
+  - Laser Hum | assets/skybound/sfx/laser-hum.wav | 44144 | Godot / Web Audio synthesis | CC-BY-4.0 | prev=False
+  - Sonic Boom | assets/skybound/sfx/sonic-boom.wav | 63988 | Godot / Web Audio synthesis | CC-BY-4.0 | prev=False
+  - Thud | assets/skybound/sfx/thud.wav | 15478 | Godot / Web Audio synthesis | CC-BY-4.0 | prev=False
+  - Whoosh | assets/skybound/sfx/whoosh.wav | 28708 | Godot / Web Audio synthesis | CC-BY-4.0 | prev=False
+
+### skybound | Vegetation n=3 kind=model bytes=20228
+  - Cactus | assets/skybound/models/cactus.glb | 7496 | Three.js procedural geometry | CC-BY-4.0 | prev=True
+  - Pine | assets/skybound/models/pine.glb | 6364 | Three.js procedural geometry | CC-BY-4.0 | prev=True
+  - Snow Pine | assets/skybound/models/snow-pine.glb | 6368 | Three.js procedural geometry | CC-BY-4.0 | prev=True
