@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@5745ca3118a0c918185e931ea0e39a7e842bc6db`
+> generated from `catalog.csv@19bb850236a116aabc3485258e38ec102d5671f8`
 
 # 치유 이펙트 모음
 
