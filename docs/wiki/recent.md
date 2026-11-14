@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@2a08dffa16d98707cdcf284dff795ef89350e26a`
+> generated from `catalog.csv@5745ca3118a0c918185e931ea0e39a7e842bc6db`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -20,6 +20,9 @@
 | [Crates Chests Coins and Barrels Collection](https://opengameart.org/content/crates-chests-coins-and-barrels-collection) | `model-3d` | mabaci | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crates-chests-coins-barrels/medieval_items.zip) | 2026-11-14 |
 | [Dinnerware](https://opengameart.org/content/dinnerware) | `model-3d` | clint-bellanger | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dinnerware/dinnerware.zip) | 2026-11-14 |
 | [Dungeon interior kit](https://opengameart.org/content/dungeon-interior-kit) | `model-3d` | humble squirrel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/dungeon-interior-kit/dungeon_interior_kit.tar.gz) | 2026-11-14 |
+| [Fjordfall Boats & Vehicles](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-boats-and-vehicles/fjordfall-boats-and-vehicles.zip) | 2026-11-14 |
+| [Fjordfall Buildings](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-buildings/fjordfall-buildings.zip) | 2026-11-14 |
+| [Fjordfall Characters](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-characters/fjordfall-characters.zip) | 2026-11-14 |
 | [Food Pack: Cooking](https://opengameart.org/content/food-pack-cooking) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend) | 2026-11-14 |
 | [Gem collect SFX](https://opengameart.org/content/gem-collect-sfx) | `other` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav) | 2026-11-14 |
 | [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
@@ -32,6 +35,7 @@
 | [Platformer Animations](https://opengameart.org/content/platformer-animations) | `effect` | clint-bellanger | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/platformer-animations/platformer-animations.zip) | 2026-11-14 |
 | [Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-14 |
 | [RTS medieval props](https://opengameart.org/content/rts-medieval-props) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend) | 2026-11-14 |
+| [Skybound Six Synthesized SFX](https://github.com/AgenticGameDevs/generated-assets) | `sfx` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/skybound-synthesized-sfx/skybound-synthesized-sfx.zip) | 2026-11-14 |
 | [Stylised Fantasy Weapons](https://opengameart.org/content/stylised-fantasy-weapons) | `model-3d` | mastahcez | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylised-fantasy-weapons/stylised-fantasy-weapons.zip) | 2026-11-14 |
 | [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
 | [Toolbox](https://opengameart.org/content/toolbox-0) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip) | 2026-11-14 |
@@ -109,7 +113,3 @@
 | [PSX Style Cars](https://opengameart.org/content/psx-style-cars) | `vehicle-3d` | GGBotNet | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/psx-style-cars/psx-style-cars.zip) | 2026-11-12 |
 | [Punch SFX](https://opengameart.org/content/punch-sfx) | `sfx` | DavidW | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/punch-sfx/punch-sfx.zip) | 2026-11-12 |
 | [Sci-Fi Rotary Turret](https://opengameart.org/content/sci-fi-rotary-turret) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/sci-fi-rotary-turret.zip) | 2026-11-12 |
-| [Sci-Fi Shipping Crate](https://opengameart.org/content/sci-fi-shipping-crate) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sci-fi-shipping-crate/sci-fi-shipping-crate.zip) | 2026-11-12 |
-| [Shape Particles](https://opengameart.org/content/shape-particles) | `effect` | iyol | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shape-particles/shape-particles.zip) | 2026-11-12 |
-| [Shimmer glitter magic](https://opengameart.org/content/shimmer-glitter-magic) | `sfx` | The Berklee College of Music | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/shimmer-glitter-magic/shimmer-glitter-magic.zip) | 2026-11-12 |
-| [Short impact](https://opengameart.org/content/short-impact) | `sfx` | Soundsnap | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/short-impact/short-impact.zip) | 2026-11-12 |
