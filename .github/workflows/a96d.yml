@@ -1,0 +1,16 @@
+name: a96d
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: deps
+        run: |
+          sudo apt-get update -qq >/dev/null 2>&1 || true
+          sudo apt-get install -y -qq imagemagick unzip >/dev/null 2>&1 || true
+      - name: run
+        run: python3 tools/a96d.py
