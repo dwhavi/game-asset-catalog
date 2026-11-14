@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "fjordfall-props",
+  "name": "Fjordfall Props",
+  "collection": "fjordfall",
+  "category": "Props",
+  "repo": "assets-3d-lowpoly-2",
+  "type": "3D",
+  "tags": "3d,lowpoly,props,fjordfall,ai-generated",
+  "mode": "3d"
+ },
+ {
+  "slug": "fjordfall-wildlife",
+  "name": "Fjordfall Wildlife",
+  "collection": "fjordfall",
+  "category": "Wildlife",
+  "repo": "assets-3d-lowpoly-2",
+  "type": "3D",
+  "tags": "3d,lowpoly,animals,wildlife,fjordfall,ai-generated",
+  "mode": "3d"
+ },
+ {
+  "slug": "fjordfall-vegetation",
+  "name": "Fjordfall Vegetation",
+  "collection": "fjordfall",
+  "category": "Vegetation",
+  "repo": "assets-3d-lowpoly-2",
+  "type": "3D",
+  "tags": "3d,lowpoly,plants,trees,fjordfall,ai-generated",
+  "mode": "3d"
+ },
+ {
+  "slug": "fjordfall-sound-effects",
+  "name": "Fjordfall Sound Effects",
+  "collection": "fjordfall",
+  "category": "Sound effects",
+  "repo": "assets-audio",
+  "type": "효과음",
+  "tags": "sfx,bell,ambience,fjordfall,ai-generated",
+  "mode": "audio"
+ }
+]
