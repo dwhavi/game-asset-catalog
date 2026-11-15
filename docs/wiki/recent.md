@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@19bb850236a116aabc3485258e38ec102d5671f8`
+> generated from `catalog.csv@b39e14886f79c2644804133420ccb3b84366fbce`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,10 +13,13 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [16x16 Explosion](https://opengameart.org/content/16x16-explosion) | `effect` | BitingChaos | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-explosion/16x16-explosion.zip) | 2026-11-15 |
 | [Fjordfall Props](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-props/fjordfall-props.zip) | 2026-11-15 |
 | [Fjordfall Sound Effects](https://github.com/AgenticGameDevs/generated-assets) | `sfx` | Jonathan Maddison | CC-BY+CC0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fjordfall-sound-effects/fjordfall-sound-effects.zip) | 2026-11-15 |
 | [Fjordfall Vegetation](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-vegetation/fjordfall-vegetation.zip) | 2026-11-15 |
 | [Fjordfall Wildlife](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-wildlife/fjordfall-wildlife.zip) | 2026-11-15 |
+| [Golem Knight](https://opengameart.org/content/golem-knight) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/golem-knight/golem.zip) | 2026-11-15 |
+| [Painting Pack](https://opengameart.org/content/painting-pack) | `model-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a97-painting-pack/paintings_textured.zip) | 2026-11-15 |
 | [2D Explosion Animations #2 \| Frame by frame](https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame) | `effect` | Sinestesia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip) | 2026-11-14 |
 | [3D Character Pack](https://opengameart.org/content/3d-character-pack) | `character-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bravos_game_br_2024.zip) | 2026-11-14 |
 | [3D Cobblestone Texture](https://opengameart.org/content/3d-cobblestone-texture) | `other` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-cobblestone-texture/cobblestone.zip) | 2026-11-14 |
@@ -110,6 +113,3 @@
 | [low poly iron ore](https://opengameart.org/content/low-poly-iron-ore) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-iron-ore/low-poly-iron-ore.zip) | 2026-11-12 |
 | [Low-Poly Mushrooms](https://opengameart.org/content/low-poly-mushrooms) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-mushrooms/low-poly-mushrooms.zip) | 2026-11-12 |
 | [Low-poly Swords](https://opengameart.org/content/low-poly-swords) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-swords/low-poly-swords.zip) | 2026-11-12 |
-| [Medieval Dungeon – Modular Base Kit (Free)](https://opengameart.org/content/medieval-dungeon-%E2%80%93-modular-base-kit-free) | `model-3d` | Nodex3D | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/medieval-dungeon-modular-base-kit-free.zip) | 2026-11-12 |
-| [Mushroom Enemy](https://opengameart.org/content/mushroom-enemy) | `character-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/mushroom-enemy/mushroom-enemy.zip) | 2026-11-12 |
-| [Pine Tree](https://opengameart.org/content/pine-tree) | `model-3d` | trent\_taray | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/pine-tree/pine-tree.zip) | 2026-11-12 |

@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@19bb850236a116aabc3485258e38ec102d5671f8`
+> generated from `catalog.csv@b39e14886f79c2644804133420ccb3b84366fbce`
 
 # 이펙트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `effect`(이펙트)에 해당하는 에셋 **139개**입니다. 라이브러리에서 보기: [?cat=effect](https://sigco3111.github.io/game-asset-catalog/?cat=effect)
+분류 `effect`(이펙트)에 해당하는 에셋 **140개**입니다. 라이브러리에서 보기: [?cat=effect](https://sigco3111.github.io/game-asset-catalog/?cat=effect)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 139행 (전체 139개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 140행 (전체 140개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [16x16 Explosion](https://opengameart.org/content/16x16-explosion) | `effect` | BitingChaos | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-explosion/16x16-explosion.zip) | 2026-11-15 |
 | [2D Explosion Animations #2 \| Frame by frame](https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame) | `effect` | Sinestesia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip) | 2026-11-14 |
 | [More Explosions](https://opengameart.org/content/more-explosions) | `effect` | StumpyStrust | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip) | 2026-11-14 |
 | [Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack](https://opengameart.org/content/monsters-of-nature-all-pack) | `effect` | qwerty2723 | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/monsters-of-nature-all-pack/monsters-of-nature-all-pack.zip) | 2026-11-14 |
