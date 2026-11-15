@@ -1,4 +1,4 @@
-name: 임시 카탈로그 갱신 A98
+name: 임시 정리 A98
 
 on:
   workflow_dispatch:
@@ -7,12 +7,15 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  clean:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: 카탈로그 갱신
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 임시 파일 삭제
         run: |
-          python3 -u tools/tmp_a98_catalog.py
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+          git rm -q --ignore-unmatch .github/workflows/tmp-a98-catalog.yml
+          git rm -q --ignore-unmatch tools/tmp_a98_catalog.py tools/tmp_a98_collect.py tools/tmp_a98_collect2.py tools/tmp_a98_collect3.py tools/tmp_a98_collect4.py tools/tmp_a98_disc.py tools/tmp_a98_fix2d.py tools/tmp_a98_release.py
+          git commit -m "정리: A98 임시 파일 삭제" || echo "nothing to commit"
+          git push origin HEAD:main
