@@ -114,3 +114,10 @@
 - 2026-11-14 A95: Fjordfall Boats & Vehicles, Fjordfall Buildings, Fjordfall Characters, Skybound Six Synthesized SFX (4팩, 총 1891팩; 3D 3팩은 assets-3d-lowpoly-2, 효과음 1팩은 assets-audio; 출처 AgenticGameDevs/generated-assets, AI 생성 표기·생성 도구·CC BY 4.0 조건 기록; 이름·출처 URL 전체 catalog.csv 대조로 중복 제거).
 
 - 2026-11-15 A96: Fjordfall Props, Fjordfall Wildlife, Fjordfall Vegetation, Fjordfall Sound Effects (4팩, 총 1895팩; 3D 3팩은 assets-3d-lowpoly-2, 2D 이펙트 0팩은 assets-2d-pixel, 효과음 1팩은 assets-audio; 출처 AgenticGameDevs/generated-assets, AI 생성 표기·생성 도구·CC BY 4.0 조건 기록; 이름·출처 URL 전체 catalog.csv 대조로 중복 제거).
+
+
+## 2026-11-15 A97 에셋 수집
+
+- 3D 2팩: Golem Knight (CC0, 파일 2개), Painting Pack (CC0, 파일 12개, 릴리스 a97-painting-pack 첨부)
+- 2D 이펙트 1팩: 16x16 Explosion (CC0, 파일 5개)
+- catalog.csv 3행 추가, 총 1898행
