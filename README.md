@@ -7,6 +7,29 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-15 A98 추가 (3팩, 총 1901팩)
+
+A98 라운드: OpenGameArt에서 아직 카탈로그에 없는 로우폴리 3D 팩 2개(Lowpoly survival item pack, LOW POLY 3D MODEL PACKS)와 타격·마법 이펙트 스프라이트 1개(FIre and Spell Animations)를 모았습니다. 후보는 러너 안에서 전체 catalog.csv(name + source URL)와 대조해 걸러냈고, 팩마다 출처 페이지의 License(s) 항목이 CC0임을 확인했습니다.
+
+| 팩 | 저장소 | 라이선스 | 수록 위치 |
+| --- | --- | --- | --- |
+| [Lowpoly survival item pack](https://opengameart.org/content/lowpoly-survival-item-pack) | assets-3d-lowpoly-2 | CC0 | 저장소 내 포함 |
+| [LOW POLY 3D MODEL PACKS](https://opengameart.org/content/low-poly-3d-model-packs) | assets-3d-lowpoly-2 | CC0 | 저장소 내 포함 |
+| [FIre and Spell Animations](https://opengameart.org/content/fire-and-spell-animations) | assets-2d-pixel | CC0 | 릴리스 첨부 |
+
+종류: 3D 2팩, 2D 이펙트 1팩.
+
+| 저장소 | 내용 | 수록 |
+| --- | --- | --- |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트 | 670팩 |
+| [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델 (GLB·OBJ) | 508팩 |
+| [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 2호 저장소 | 23팩 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘 | 226팩 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악 (OGG) | 471팩 |
+| [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 초상화 | 3팩 |
+
+총 1901팩입니다.
+
 ## 2026-11-15 A96 추가 (4팩, 총 1895팩)
 
 A96 라운드: GitHub의 AgenticGameDevs/generated-assets(AI 생성 에셋 라이브러리; 미디어 CC BY 4.0·CC0, 코드 MIT)에서 아직 카탈로그에 없는 3D 모델 팩과 효과음 팩을 모았습니다. 후보는 러너 안에서 전체 catalog.csv(csv.reader, name+source URL)와 대조해 걸러냈고, 팩마다 원본 파일 바이트와 sha256을 확인했습니다.
