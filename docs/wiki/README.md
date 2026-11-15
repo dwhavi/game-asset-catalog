@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b39e14886f79c2644804133420ccb3b84366fbce`
+> generated from `catalog.csv@227c68fd043177ae43f89c6011364de1716a1584`
 
 # 게임 에셋 카탈로그 위키
 
@@ -12,7 +12,7 @@
 - 이 위키의 자동 생성 문서는 직접 고치지 않습니다. 에셋이 바뀌면 두 스크립트를 다시 실행합니다(표준 라이브러리만 사용, 같은 입력이면 같은 출력).
 - 에셋마다 쪽을 따로 만들지 않습니다. 표의 이름을 누르면 제작자의 출처 페이지로 갑니다.
 - 손으로 쓰는 문서는 [사용 장부](usage-ledger.md) 하나뿐이며 생성기가 덮어쓰지 않습니다.
-- 현재 색인: 에셋 **1898개** (`catalog.csv@b39e14886f79c2644804133420ccb3b84366fbce`).
+- 현재 색인: 에셋 **1901개** (`catalog.csv@227c68fd043177ae43f89c6011364de1716a1584`).
 
 ## 링크
 
@@ -41,7 +41,7 @@
 
 | 분류 | 이름 | 개수 | 목록 |
 |---|---|---|---|
-| `effect` | 이펙트 | 140 | [category-effect.md](category-effect.md) |
+| `effect` | 이펙트 | 141 | [category-effect.md](category-effect.md) |
 | `sfx` | 효과음 | 237 | [category-sfx.md](category-sfx.md) |
 | `music` | 음악 | 230 | [category-music.md](category-music.md) |
 | `voice` | 음성 | 2 | [category-voice.md](category-voice.md) |
@@ -54,7 +54,7 @@
 | `portrait` | 초상화 | 2 | [category-portrait.md](category-portrait.md) |
 | `font` | 폰트 | 2 | [category-font.md](category-font.md) |
 | `texture` | 텍스처 | 70 | [category-texture.md](category-texture.md) |
-| `model-3d` | 3D 모델 | 461 | [category-model-3d.md](category-model-3d.md) |
+| `model-3d` | 3D 모델 | 463 | [category-model-3d.md](category-model-3d.md) |
 | `character-3d` | 3D 캐릭터 | 32 | [category-character-3d.md](category-character-3d.md) |
 | `vehicle-3d` | 3D 탈것 | 10 | [category-vehicle-3d.md](category-vehicle-3d.md) |
 | `building-3d` | 3D 건물 | 23 | [category-building-3d.md](category-building-3d.md) |
@@ -62,7 +62,7 @@
 | `puzzle` | 퍼즐 | 2 | [category-puzzle.md](category-puzzle.md) |
 | `other` | 기타 | 129 | [category-other.md](category-other.md) |
 
-합계 1898개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
+합계 1901개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
 
 ## 효과 종류별 개수
 
@@ -70,11 +70,11 @@
 
 | 효과 종류 | 이름 | 개수 | 목록 |
 |---|---|---|---|
-| `hit` | 타격 | 44 | [effects-hit.md](effects-hit.md) |
-| `impact` | 충격 | 47 | [effects-impact.md](effects-impact.md) |
-| `magic` | 마법 | 93 | [effects-magic.md](effects-magic.md) |
+| `hit` | 타격 | 45 | [effects-hit.md](effects-hit.md) |
+| `impact` | 충격 | 48 | [effects-impact.md](effects-impact.md) |
+| `magic` | 마법 | 94 | [effects-magic.md](effects-magic.md) |
 | `explosion` | 폭발 | 67 | [effects-explosion.md](effects-explosion.md) |
-| `fire` | 불 | 53 | [effects-fire.md](effects-fire.md) |
+| `fire` | 불 | 54 | [effects-fire.md](effects-fire.md) |
 | `ice` | 얼음 | 21 | [effects-ice.md](effects-ice.md) |
 | `lightning` | 번개 | 26 | [effects-lightning.md](effects-lightning.md) |
 | `wind` | 바람 | 9 | [effects-wind.md](effects-wind.md) |

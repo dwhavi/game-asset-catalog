@@ -1,21 +1,22 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b39e14886f79c2644804133420ccb3b84366fbce`
+> generated from `catalog.csv@227c68fd043177ae43f89c6011364de1716a1584`
 
 # 타격·충격 이펙트 모음 — impact
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-효과 종류 `impact`(충격)에 해당하는 에셋 **47개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
+효과 종류 `impact`(충격)에 해당하는 에셋 **48개**입니다. 에셋 하나가 여러 효과 종류를 가질 수 있어 다른 효과 쪽과 겹칠 수 있습니다.
 라이브러리에서 보기: [?fx=impact](https://sigco3111.github.io/game-asset-catalog/?fx=impact) (라이브러리는 hit·impact를 '타격·충격' 하나로 묶어 보여줍니다.)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 47행 (전체 47개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 48행 (전체 48개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [FIre and Spell Animations](https://opengameart.org/content/fire-and-spell-animations) | `effect` | ztn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a98-fire-and-spell-animations/anims_0.zip) | 2026-11-15 |
 | [Skybound Six Synthesized SFX](https://github.com/AgenticGameDevs/generated-assets) | `sfx` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/skybound-synthesized-sfx/skybound-synthesized-sfx.zip) | 2026-11-14 |
 | [Punch SFX](https://opengameart.org/content/punch-sfx) | `sfx` | DavidW | CC-BY 4.0 (페이지에 CC-BY 3.0 / OGA-BY 3.0 / OGA-BY 4.0 병기, CC-BY 4.0 선택) | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/punch-sfx/punch-sfx.zip) | 2026-11-12 |
 | [Short impact](https://opengameart.org/content/short-impact) | `sfx` | Soundsnap | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/short-impact/short-impact.zip) | 2026-11-12 |

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b39e14886f79c2644804133420ccb3b84366fbce",
-  "count": 1898,
+  "generated_from": "catalog.csv@227c68fd043177ae43f89c6011364de1716a1584",
+  "count": 1901,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -67598,6 +67598,113 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-explosion/16x16-explosion.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-explosion/16x16-explosion.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/lowpoly-survival-item-pack",
+      "name": "Lowpoly survival item pack",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "lowpoly-survival-item-pack/Survival items.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "survival",
+        "items",
+        "lowpoly",
+        "3d",
+        "props"
+      ],
+      "effect_kind": [],
+      "author": "artie31",
+      "source_url": "https://opengameart.org/content/lowpoly-survival-item-pack",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: artie31",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-15",
+      "notes": "파일 4개; 페이지 zip을 수정 없이 보관(저장소 내 포함); 썸네일 preview.png",
+      "preview": "preview.png",
+      "download_path": "lowpoly-survival-item-pack/Survival items.zip",
+      "download_url": null,
+      "download_urls": [],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/low-poly-3d-model-packs",
+      "name": "LOW POLY 3D MODEL PACKS",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "low-poly-3d-model-packs/model_pack_low_poly.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d",
+        "characters",
+        "models"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/low-poly-3d-model-packs",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-15",
+      "notes": "파일 18개; 페이지 zip을 수정 없이 보관(저장소 내 포함); 썸네일 preview.jpg",
+      "preview": "preview.jpg",
+      "download_path": "low-poly-3d-model-packs/model_pack_low_poly.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-3d-model-packs/model_pack_low_poly.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-3d-model-packs/model_pack_low_poly.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/fire-and-spell-animations",
+      "name": "FIre and Spell Animations",
+      "repo": "assets-2d-pixel",
+      "file": "releases/download/a98-fire-and-spell-animations/anims_0.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "effect",
+        "hit",
+        "impact",
+        "sprite",
+        "2d"
+      ],
+      "effect_kind": [
+        "hit",
+        "impact",
+        "magic",
+        "fire"
+      ],
+      "author": "ztn",
+      "source_url": "https://opengameart.org/content/fire-and-spell-animations",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-15",
+      "notes": "파일 876개; 페이지 zip을 수정 없이 보관(릴리스 첨부); 썸네일 preview.png",
+      "preview": "preview.png",
+      "download_path": "releases/download/a98-fire-and-spell-animations/anims_0.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/a98-fire-and-spell-animations/anims_0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/a98-fire-and-spell-animations/anims_0.zip"
       ],
       "sample": null,
       "multipart": false,
