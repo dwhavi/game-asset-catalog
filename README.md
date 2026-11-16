@@ -7,6 +7,21 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-17 A106 추가 (3팩, 총 1927팩)
+
+A106 라운드: 2026-11-16 21:45~22:04 KST에 assets-3d-lowpoly-2에 올라갔으나 포털에 미등록이던 3D 팩 3개(Emotional Ghosts, Low Poly Mushroom Kit, Aztec Buildings)를 등록했습니다. 모두 출처 페이지 License(s)=CC0을 확인했습니다.
+
+| 팩 | 저장소 | 라이선스 | 제작자 |
+| --- | --- | --- | --- |
+| Emotional Ghosts | assets-3d-lowpoly-2 | CC0 | JellyLion |
+| Low Poly Mushroom Kit | assets-3d-lowpoly-2 | CC0 | AssetQuest |
+| Aztec Buildings | assets-3d-lowpoly-2 | CC0 | Kuvrot |
+
+종류: 3D 3팩(assets-3d-lowpoly-2). 팩 폴더에 pack.md·LICENSE-SOURCE.txt·LICENSE-CC0.txt·CREDITS.txt·preview.png가 있습니다. Low Poly Mushroom Kit·Aztec Buildings의 zip은 5MB를 넘어 Releases에 첨부했습니다.
+
+총 1927팩입니다.
+
+
 ## 2026-11-16 A105 추가 (4팩, 총 1924팩)
 
 A105 라운드: OpenGameArt 3D Art CC0 최신 목록에서 아직 카탈로그에 없는 3D 팩 3개(Sewer Tunnels, Office/campus buildings and restaurant, 32 Low Poly Models)와 효과음 팩 1개(Hurt Sound Effects)를 모았습니다. 후보는 러너 안에서 전체 catalog.csv 이름과 대조해 걸러냈고, 팩마다 출처 페이지 License(s)=CC0과 실제 첨부 파일을 확인했습니다.
