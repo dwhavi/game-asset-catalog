@@ -1,0 +1,38 @@
+name: tmp-cleanup
+
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-cleanup.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 임시 워크플로 삭제
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+          for f in .github/workflows/tmp-thumb.yml .github/workflows/tmp-thumb5.yml .github/workflows/tmp-cleanup.yml; do
+            if git ls-files --error-unmatch "$f" >/dev/null 2>&1; then
+              git rm -q "$f"
+              echo "removed $f"
+            fi
+          done
+          git commit -m "정리: 썸네일 임시 워크플로 삭제" || true
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin HEAD:main 2>/tmp/push.log; then
+              echo "push 완료"
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 5))
+          done
+          echo "::error::push 실패: $(tail -3 /tmp/push.log | tr '\n' ' ')"
+          exit 1
