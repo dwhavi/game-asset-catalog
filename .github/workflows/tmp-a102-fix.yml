@@ -1,0 +1,38 @@
+name: tmp-a102-fix
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: fix
+        run: |
+          python3 - <<'PY'
+          import re, subprocess
+          t = open('README.md', encoding='utf-8').read()
+          removed = 0
+          while True:
+              m = re.search(r'##\s+\d{4}-\d{2}-\d{2} A102 추가 \(0팩[^\n]*\n', t)
+              if not m:
+                  break
+              nxt = [x for x in [t.find('\n## ', m.end()), t.find('\n### ', m.end())] if x != -1]
+              end = min(nxt) if nxt else len(t)
+              t = t[:m.start()] + t[end + 1:]
+              removed += 1
+          open('README.md', 'w', encoding='utf-8').write(t)
+          print('README removed sections', removed)
+          log = open('docs/log.md', encoding='utf-8').read().split('\n')
+          keep = [l for l in log if not ('A102:' in l and '0팩' in l)]
+          print('LOG removed lines', len(log) - len(keep))
+          open('docs/log.md', 'w', encoding='utf-8').write('\n'.join(keep))
+          print('README A102_4 count', t.count('A102 추가 (4팩'))
+          print('LOG A102 lines', len([l for l in keep if 'A102:' in l]))
+          subprocess.run(['git', 'config', 'user.name', 'sigco3111'], check=True)
+          subprocess.run(['git', 'config', 'user.email', 'sigco3111@users.noreply.github.com'], check=True)
+          subprocess.run(['git', 'add', 'README.md', 'docs/log.md'], check=True)
+          subprocess.run(['git', 'commit', '-m', '문서: A102 빈 섹션 정리'], check=False)
+          subprocess.run(['git', 'pull', '--rebase', 'origin', 'main'], check=False)
+          subprocess.run(['git', 'push', 'origin', 'HEAD:main'], check=False)
