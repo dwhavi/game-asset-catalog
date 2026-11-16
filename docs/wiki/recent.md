@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4a7bff1e601670ed5fa874b36ef56084bd51d113`
+> generated from `catalog.csv@dd3eaef265206529f30a23bcb0a7f70673b27900`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,9 +16,13 @@
 | [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
 | [50+ Monsters Pack 3D](https://opengameart.org/content/50-monsters-pack-3d) | `model-3d` | isaiah658 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip) | 2026-11-16 |
 | [8-Bit Sound Effect Pack](https://opengameart.org/content/8-bit-sound-effect-pack) | `sfx` | OwlishMedia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip) | 2026-11-16 |
+| [Cartoon Low Poly trees and forest](https://opengameart.org/content/cartoon-low-poly-trees-and-forest) | `model-3d` | allen yatsura | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cartoon-low-poly-trees-and-forest/gtlf_e_obj.zip) | 2026-11-16 |
 | [Crab Low Poly Animated 3D Model](https://opengameart.org/content/crab-low-poly-animated-3d-model) | `model-3d` | methodical pixel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crab-low-poly-animated-3d-model/crab_0.zip) | 2026-11-16 |
+| [Elemental Weapons - Effect](https://opengameart.org/content/elemental-weapons-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-weapons-effect/elemental-weapons-effect.zip) | 2026-11-16 |
+| [Fantasy Town Kit](https://opengameart.org/content/fantasy-town-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fantasy-town-kit/kenney_fantasy-town-kit_2.0.zip) | 2026-11-16 |
 | [Free Lowpoly Pond Kit](https://opengameart.org/content/free-lowpoly-pond-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_pond_kit_assetquest.zip) | 2026-11-16 |
 | [Gore Blood Gibs Meat Chunks](https://opengameart.org/content/gore-blood-gibs-meat-chunks) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/gore-blood-gibs-meat-chunks/rc_art_-_gore_blood_gibs.zip) | 2026-11-16 |
+| [Low poly cave assets](https://opengameart.org/content/low-poly-cave-assets) | `model-3d` | agdg reject | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-cave-assets/low-poly-cave-assets.zip) | 2026-11-16 |
 | [Low Poly RPG Pack](https://opengameart.org/content/low-poly-rpg-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip) | 2026-11-16 |
 | [Low-Poly Halloween Kit](https://opengameart.org/content/low-poly-halloween-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_halloween_kit_assetquest.zip) | 2026-11-16 |
 | [LowPoly Survival Pack](https://opengameart.org/content/lowpoly-survival-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip) | 2026-11-16 |
@@ -109,7 +113,3 @@
 | [3rd version of Sparkle](https://opengameart.org/content/3rd-version-of-sparkle) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/3rd-version-of-sparkle/3rd-version-of-sparkle.zip) | 2026-11-12 |
 | [Bald Man - Rigged](https://opengameart.org/content/bald-man-rigged) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/bald-man-rigged.zip) | 2026-11-12 |
 | [Basic Female](https://opengameart.org/content/basic-female-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/basic-female.zip) | 2026-11-12 |
-| [Basic Pixel Animated Spells](https://opengameart.org/content/basic-pixel-animated-spells) | `effect` | beddedOtaku | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/basic-pixel-animated-spells/basic-pixel-animated-spells.zip) | 2026-11-12 |
-| [Bone Golem](https://opengameart.org/content/bone-golem) | `character-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bone-golem/bone-golem.zip) | 2026-11-12 |
-| [Cc0 crates + wooden pallet](https://opengameart.org/content/cc0-crates-wooden-pallet) | `model-3d` | Lucian Pavel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/cc0-crates-wooden-pallet.zip) | 2026-11-12 |
-| [Chibi Neko by cosmix](https://opengameart.org/content/chibi-neko-by-cosmix) | `character-3d` | zodiepupper (모델 제작: cosmix) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/chibi-neko-by-cosmix/chibi-neko-by-cosmix.zip) | 2026-11-12 |

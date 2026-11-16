@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@4a7bff1e601670ed5fa874b36ef56084bd51d113",
-  "count": 1916,
+  "generated_from": "catalog.csv@dd3eaef265206529f30a23bcb0a7f70673b27900",
+  "count": 1920,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -68237,6 +68237,134 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/trees_and_plants_0.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/trees_and_plants_0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/fantasy-town-kit",
+      "name": "Fantasy Town Kit",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "fantasy-town-kit/kenney_fantasy-town-kit_2.0.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Kenney",
+      "source_url": "https://opengameart.org/content/fantasy-town-kit",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; zip 원본 그대로 수록; preview.png 썸네일",
+      "preview": "fantasy-town-kit/preview.png",
+      "download_path": "fantasy-town-kit/kenney_fantasy-town-kit_2.0.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fantasy-town-kit/kenney_fantasy-town-kit_2.0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fantasy-town-kit/kenney_fantasy-town-kit_2.0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/cartoon-low-poly-trees-and-forest",
+      "name": "Cartoon Low Poly trees and forest",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "cartoon-low-poly-trees-and-forest/gtlf_e_obj.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "allen yatsura",
+      "source_url": "https://opengameart.org/content/cartoon-low-poly-trees-and-forest",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; zip 원본 그대로 수록; preview.png 썸네일",
+      "preview": "cartoon-low-poly-trees-and-forest/preview.png",
+      "download_path": "cartoon-low-poly-trees-and-forest/gtlf_e_obj.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cartoon-low-poly-trees-and-forest/gtlf_e_obj.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cartoon-low-poly-trees-and-forest/gtlf_e_obj.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/low-poly-cave-assets",
+      "name": "Low poly cave assets",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "low-poly-cave-assets/low-poly-cave-assets.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "agdg reject",
+      "source_url": "https://opengameart.org/content/low-poly-cave-assets",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; zip 원본 그대로 수록; preview.png 썸네일",
+      "preview": "low-poly-cave-assets/preview.png",
+      "download_path": "low-poly-cave-assets/low-poly-cave-assets.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-cave-assets/low-poly-cave-assets.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-cave-assets/low-poly-cave-assets.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/elemental-weapons-effect",
+      "name": "Elemental Weapons - Effect",
+      "repo": "assets-2d-pixel",
+      "file": "elemental-weapons-effect/elemental-weapons-effect.zip",
+      "type": "2D",
+      "category": "effect",
+      "tags": [
+        "2d",
+        "effect"
+      ],
+      "effect_kind": [],
+      "author": "Cethiel",
+      "source_url": "https://opengameart.org/content/elemental-weapons-effect",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; zip 원본 그대로 수록; preview.png 썸네일",
+      "preview": "elemental-weapons-effect/preview.png",
+      "download_path": "elemental-weapons-effect/elemental-weapons-effect.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-weapons-effect/elemental-weapons-effect.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-weapons-effect/elemental-weapons-effect.zip"
       ],
       "sample": null,
       "multipart": false,
