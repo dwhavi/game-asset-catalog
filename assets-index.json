@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@80e2d17eec17326231a0273d24fce3ff67096db7",
-  "count": 1931,
+  "generated_from": "catalog.csv@942ffafacd48d478d6073e452677adee78f3d1e1",
+  "count": 1934,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -68741,6 +68741,108 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/mini-shop",
+      "name": "mini-shop",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "mini-shop/mini-shop.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "mini",
+        "shop"
+      ],
+      "effect_kind": [],
+      "author": "출처 페이지 참조",
+      "source_url": "https://opengameart.org/content/mini-shop",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "출처 페이지 참조, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A108 라운드",
+      "preview": "mini-shop/preview.png",
+      "download_path": "mini-shop/mini-shop.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-shop/mini-shop.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-shop/mini-shop.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/mini-characters",
+      "name": "mini-characters",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "mini-characters/mini-characters.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "mini",
+        "characters"
+      ],
+      "effect_kind": [],
+      "author": "출처 페이지 참조",
+      "source_url": "https://opengameart.org/content/mini-characters",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "출처 페이지 참조, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A108 라운드",
+      "preview": "mini-characters/preview.png",
+      "download_path": "mini-characters/mini-characters.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-characters/mini-characters.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-characters/mini-characters.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/insect-sounds",
+      "name": "insect-sounds",
+      "repo": "assets-audio",
+      "file": "insect-sounds/insect-sounds.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sound",
+        "effect",
+        "insect",
+        "sounds"
+      ],
+      "effect_kind": [],
+      "author": "출처 페이지 참조",
+      "source_url": "https://opengameart.org/content/insect-sounds",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "출처 페이지 참조, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A108 라운드",
+      "preview": null,
+      "download_path": "insect-sounds/insect-sounds.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/insect-sounds/insect-sounds.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/insect-sounds/insect-sounds.zip"
       ],
       "sample": null,
       "multipart": false,

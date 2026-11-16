@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@80e2d17eec17326231a0273d24fce3ff67096db7`
+> generated from `catalog.csv@942ffafacd48d478d6073e452677adee78f3d1e1`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **486개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **488개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 486개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 488개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -21,6 +21,8 @@
 | [building](https://opengameart.org/content/building-3) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/building-3/building-3.zip) | 2026-11-17 |
 | [Emotional Ghosts](https://opengameart.org/content/emotional-ghosts) | `model-3d` | JellyLion | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/emotional-ghosts/emotional-ghosts.zip) | 2026-11-17 |
 | [Low Poly Mushroom Kit](https://opengameart.org/content/low-poly-mushroom-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip) | 2026-11-17 |
+| [mini-characters](https://opengameart.org/content/mini-characters) | `model-3d` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-characters/mini-characters.zip) | 2026-11-17 |
+| [mini-shop](https://opengameart.org/content/mini-shop) | `model-3d` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-shop/mini-shop.zip) | 2026-11-17 |
 | [sissors and a stappler](https://opengameart.org/content/sissors-and-a-stappler) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/sissors-and-a-stappler/sissors-and-a-stappler.zip) | 2026-11-17 |
 | [wheel](https://opengameart.org/content/wheel) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wheel/wheel.zip) | 2026-11-17 |
 | [32 Low Poly Models](https://opengameart.org/content/32-low-poly-models) | `model-3d` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/32-low-poly-models/32-low-poly-models.zip) | 2026-11-16 |
@@ -415,5 +417,3 @@
 | [3D Platformer Brickblock Pack](https://opengameart.org/content/3d-platformer-brickblock-pack) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.0/3d-platformer-brickblock-pack.zip) | 2026-10-28 |
 | [3D Road Tiles](https://kenney.nl/assets/3d-road-tiles) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/3d-road-tiles.zip) | 2026-10-28 |
 | [50 Fantasy RPG Asset Models](https://opengameart.org/content/50-fantasy-rpg-asset-models) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.0/50-fantasy-rpg-asset-models.zip) | 2026-10-28 |
-| [Abstract Fantasy Decoration Assets](https://opengameart.org/content/abstract-fantasy-decoration-assets) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.0/abstract-fantasy-decoration-assets.zip) | 2026-10-28 |
-| [Animated Alien](https://quaternius.com/packs/animatedalien.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-alien.zip) | 2026-10-28 |

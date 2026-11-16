@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@80e2d17eec17326231a0273d24fce3ff67096db7`
+> generated from `catalog.csv@942ffafacd48d478d6073e452677adee78f3d1e1`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,7 +16,10 @@
 | [Aztec Buildings](https://opengameart.org/content/aztec-buildings) | `model-3d` | Kuvrot | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip) | 2026-11-17 |
 | [building](https://opengameart.org/content/building-3) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/building-3/building-3.zip) | 2026-11-17 |
 | [Emotional Ghosts](https://opengameart.org/content/emotional-ghosts) | `model-3d` | JellyLion | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/emotional-ghosts/emotional-ghosts.zip) | 2026-11-17 |
+| [insect-sounds](https://opengameart.org/content/insect-sounds) | `sfx` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/insect-sounds/insect-sounds.zip) | 2026-11-17 |
 | [Low Poly Mushroom Kit](https://opengameart.org/content/low-poly-mushroom-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip) | 2026-11-17 |
+| [mini-characters](https://opengameart.org/content/mini-characters) | `model-3d` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-characters/mini-characters.zip) | 2026-11-17 |
+| [mini-shop](https://opengameart.org/content/mini-shop) | `model-3d` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-shop/mini-shop.zip) | 2026-11-17 |
 | [sissors and a stappler](https://opengameart.org/content/sissors-and-a-stappler) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/sissors-and-a-stappler/sissors-and-a-stappler.zip) | 2026-11-17 |
 | [spell set](https://opengameart.org/content/spell-set) | `effect` | Scribe | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip) | 2026-11-17 |
 | [wheel](https://opengameart.org/content/wheel) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wheel/wheel.zip) | 2026-11-17 |
@@ -110,6 +113,3 @@
 | [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Keith at Fertile Soil Productions | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/modular-dungeon-2/dungeon_collection_2.zip) | 2026-11-13 |
 | [Oozey the Slime](https://opengameart.org/content/oozey-the-slime) | `model-3d` | Mophs | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/oozey-the-slime/Oozey.zip) | 2026-11-13 |
 | [Packsmithy SFX sampler: 30 synthesised sound effects](https://opengameart.org/content/packsmithy-sfx-sampler-30-synthesised-sound-effects-ui-retro-horror-sci-fi-glitch) | `sfx` | packsmithy | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/packsmithy-sfx-sampler/packsmithy-sfx-sampler.zip) | 2026-11-13 |
-| [Pocket Bleeps – 31 Retro 8-Bit SFX](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-13 |
-| [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
-| [Rocket Thruster Effect Animations](https://opengameart.org/content/rocket-thruster-effect-animations) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip) | 2026-11-13 |
