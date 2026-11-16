@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@4989553b54c6db64581e686b99906f7574e5c7ac",
-  "count": 1905,
+  "generated_from": "catalog.csv@3ed914a733253910def7635328b0d59558a46d50",
+  "count": 1908,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -67847,6 +67847,113 @@
       "download_url": "https://github.com/sigco3111/assets-audio/releases/download/v6.0/all-in-one_1.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/releases/download/v6.0/all-in-one_1.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/low-poly-halloween-kit",
+      "name": "Low-Poly Halloween Kit",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "releases/download/v1.0/free_halloween_kit_assetquest.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "halloween",
+        "props",
+        "3d",
+        "lowpoly",
+        "environment"
+      ],
+      "effect_kind": [],
+      "author": "AssetQuest",
+      "source_url": "https://opengameart.org/content/low-poly-halloween-kit",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "파일 80개 할로윈 소품·환경 모델; 7.9MB 릴리스 v1.0 첨부",
+      "preview": null,
+      "download_path": "releases/download/v1.0/free_halloween_kit_assetquest.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_halloween_kit_assetquest.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_halloween_kit_assetquest.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/wooden-overhang-modular-kit",
+      "name": "Wooden Overhang Modular Kit",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "wooden-overhang-modular-kit/WoodenOverhangModularKit.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "wooden",
+        "modular",
+        "3d",
+        "lowpoly",
+        "environment"
+      ],
+      "effect_kind": [],
+      "author": "Kenney",
+      "source_url": "https://opengameart.org/content/wooden-overhang-modular-kit",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "있음 (제작자 Kenney · 원본 출처 링크 표기)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "파일 17개 목재 처마·모듈 조각; zip 3.1MB 저장소 내 포함",
+      "preview": null,
+      "download_path": "wooden-overhang-modular-kit/WoodenOverhangModularKit.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wooden-overhang-modular-kit/WoodenOverhangModularKit.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wooden-overhang-modular-kit/WoodenOverhangModularKit.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/shield-spell",
+      "name": "Shield Spell",
+      "repo": "assets-2d-pixel",
+      "file": "shield-spell/shield.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "spell",
+        "shield",
+        "magic",
+        "effect",
+        "sprite"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "Clint Bellanger",
+      "source_url": "https://opengameart.org/content/shield-spell",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "있음 (제작자 Clint Bellanger · 원본 출처 링크 표기)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "마법 방어막 이펙트 스프라이트; zip 0.48MB 저장소 내 포함",
+      "preview": null,
+      "download_path": "shield-spell/shield.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-spell/shield.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-spell/shield.zip"
       ],
       "sample": null,
       "multipart": false,
