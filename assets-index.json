@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@f783f179abb711e155dc569bdf2af15fb98b8bee",
-  "count": 1927,
+  "generated_from": "catalog.csv@80e2d17eec17326231a0273d24fce3ff67096db7",
+  "count": 1931,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -68603,6 +68603,144 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/sissors-and-a-stappler",
+      "name": "sissors and a stappler",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "sissors-and-a-stappler/sissors-and-a-stappler.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "sissors",
+        "and",
+        "stappler",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "DREAM_SEARCH_REPEAT",
+      "source_url": "https://opengameart.org/content/sissors-and-a-stappler",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "출처 페이지 License(s)=CC0 확인(2026-11-17); 첨부 zip sissors_and_stapler.zip(389311바이트)을 저장소 트리에 수록; preview.png 썸네일",
+      "preview": "sissors-and-a-stappler/preview.png",
+      "download_path": "sissors-and-a-stappler/sissors-and-a-stappler.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/sissors-and-a-stappler/sissors-and-a-stappler.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/sissors-and-a-stappler/sissors-and-a-stappler.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/wheel",
+      "name": "wheel",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "wheel/wheel.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "wheel",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "musher3004",
+      "source_url": "https://opengameart.org/content/wheel",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "출처 페이지 License(s)=CC0 확인(2026-11-17); 첨부 zip wheel.zip(344697바이트)을 저장소 트리에 수록; preview.png 썸네일",
+      "preview": "wheel/preview.png",
+      "download_path": "wheel/wheel.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wheel/wheel.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wheel/wheel.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/building",
+      "name": "building",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "building-3/building-3.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "building",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "musher3004",
+      "source_url": "https://opengameart.org/content/building-3",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "출처 페이지 License(s)=CC0 확인(2026-11-17); 첨부 zip building_3.zip(157598바이트)을 저장소 트리에 수록; preview.png 썸네일",
+      "preview": "building-3/preview.png",
+      "download_path": "building-3/building-3.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/building-3/building-3.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/building-3/building-3.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/spell-set",
+      "name": "spell set",
+      "repo": "assets-2d-pixel",
+      "file": "https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "spell",
+        "set",
+        "effect",
+        "2d",
+        "pixel"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "Scribe",
+      "source_url": "https://opengameart.org/content/spell-set",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "출처 페이지 License(s)=CC0 확인(2026-11-17); 첨부 zip spell set.zip(8926107바이트)은 5MB 초과라 Releases(a107-spell-set)에 첨부; preview.png 썸네일",
+      "preview": "spell-set/preview.png",
+      "download_path": "releases/download/a107-spell-set/spell-set.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip"
       ],
       "sample": null,
       "multipart": false,

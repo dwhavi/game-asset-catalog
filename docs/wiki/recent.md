@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@f783f179abb711e155dc569bdf2af15fb98b8bee`
+> generated from `catalog.csv@80e2d17eec17326231a0273d24fce3ff67096db7`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,8 +14,12 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Aztec Buildings](https://opengameart.org/content/aztec-buildings) | `model-3d` | Kuvrot | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip) | 2026-11-17 |
+| [building](https://opengameart.org/content/building-3) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/building-3/building-3.zip) | 2026-11-17 |
 | [Emotional Ghosts](https://opengameart.org/content/emotional-ghosts) | `model-3d` | JellyLion | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/emotional-ghosts/emotional-ghosts.zip) | 2026-11-17 |
 | [Low Poly Mushroom Kit](https://opengameart.org/content/low-poly-mushroom-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip) | 2026-11-17 |
+| [sissors and a stappler](https://opengameart.org/content/sissors-and-a-stappler) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/sissors-and-a-stappler/sissors-and-a-stappler.zip) | 2026-11-17 |
+| [spell set](https://opengameart.org/content/spell-set) | `effect` | Scribe | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip) | 2026-11-17 |
+| [wheel](https://opengameart.org/content/wheel) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wheel/wheel.zip) | 2026-11-17 |
 | [32 Low Poly Models](https://opengameart.org/content/32-low-poly-models) | `model-3d` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/32-low-poly-models/32-low-poly-models.zip) | 2026-11-16 |
 | [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
 | [50+ Monsters Pack 3D](https://opengameart.org/content/50-monsters-pack-3d) | `model-3d` | isaiah658 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip) | 2026-11-16 |
@@ -109,7 +113,3 @@
 | [Pocket Bleeps – 31 Retro 8-Bit SFX](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-13 |
 | [Rail Post](https://opengameart.org/content/rail-post) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/rail-post/post.zip) | 2026-11-13 |
 | [Rocket Thruster Effect Animations](https://opengameart.org/content/rocket-thruster-effect-animations) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/rocket-thruster-effect-animations/rocket-thruster-effect-animations.zip) | 2026-11-13 |
-| [Roulette Wheel and Board](https://opengameart.org/content/roulette-wheel-and-board) | `model-3d` | Klooverice | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/roulette-wheel-and-board/roulette-wheel-and-board.zip) | 2026-11-13 |
-| [Shipping Containers](https://opengameart.org/content/shipping-containers) | `model-3d` | miniforall | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/shipping-containers/shipping-containers.zip) | 2026-11-13 |
-| [Sofa and Bench](https://opengameart.org/content/sofa-and-bench) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/sofa-and-bench/sofa-and-bench.zip) | 2026-11-13 |
-| [Space port kit](https://opengameart.org/content/space-port-kit) | `model-3d` | Ludrol | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/space-port-kit/space_port_kit_glb.zip) | 2026-11-13 |
