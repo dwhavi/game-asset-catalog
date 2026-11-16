@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fa4d668dba87d8d93b57e09e739e2503d0e79e19`
+> generated from `catalog.csv@afce4f08f0117868217c1cccf34b7126c903f91b`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **463개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **466개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 463개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 466개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
+| [Low Poly RPG Pack](https://opengameart.org/content/low-poly-rpg-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip) | 2026-11-16 |
+| [LowPoly Survival Pack](https://opengameart.org/content/lowpoly-survival-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip) | 2026-11-16 |
 | [Fjordfall Props](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-props/fjordfall-props.zip) | 2026-11-15 |
 | [Fjordfall Vegetation](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-vegetation/fjordfall-vegetation.zip) | 2026-11-15 |
 | [Fjordfall Wildlife](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-wildlife/fjordfall-wildlife.zip) | 2026-11-15 |
@@ -414,6 +417,3 @@
 | [Food Kit](https://kenney.nl/assets/food-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v3.0/food-kit.zip) | 2026-10-28 |
 | [Free 3D Castle / Dungeon Tileset](https://opengameart.org/content/free-3d-castle-dungeon-tileset) | `model-3d` | rubberduck | CC0 | X | X | 2개 분할 | 2026-10-28 |
 | [Free 3D-Tileset-1](https://opengameart.org/content/free-3d-tileset-1) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.1/free-3d-tileset-1.zip) | 2026-10-28 |
-| [Free 3D-Tileset-2](https://opengameart.org/content/free-3d-tileset-2) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.2/free-3d-tileset-2.zip) | 2026-10-28 |
-| [Free 3D-Tileset-3 + Automapping Script](https://opengameart.org/content/free-3d-tileset-3-automapping-script) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.2/free-3d-tileset-3-automapping-script.zip) | 2026-10-28 |
-| [Free Mine Assets Pack](https://opengameart.org/content/free-mine-assets-pack) | `model-3d` | rubberduck | CC0 | X | X | 2개 분할 | 2026-10-28 |

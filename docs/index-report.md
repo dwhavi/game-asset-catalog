@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@fa4d668dba87d8d93b57e09e739e2503d0e79e19`
-- 데이터 행 수: **1901**
+- 원본: `catalog.csv@afce4f08f0117868217c1cccf34b7126c903f91b`
+- 데이터 행 수: **1904**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,820,972 bytes, `assets-index.min.json` 2,282,684 bytes
+- 파일 크기: `assets-index.json` 2,824,634 bytes, `assets-index.min.json` 2,285,539 bytes
 
 ## 2. 집계
 
@@ -20,14 +20,14 @@
 | assets-3d-lowpoly | 508 |
 | assets-audio | 471 |
 | assets-ui-icons | 226 |
-| assets-3d-lowpoly-2 | 23 |
+| assets-3d-lowpoly-2 | 26 |
 | assets-2d-portraits | 3 |
 
 ### 카테고리(category)별
 
 | category | 개수 |
 |---|---|
-| model-3d | 463 |
+| model-3d | 466 |
 | sfx | 237 |
 | music | 230 |
 | ui | 205 |
@@ -56,7 +56,7 @@
 | 효과음 | sfx | 237 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
-| 3D 모델 | model-3d | 153 |
+| 3D 모델 | model-3d | 156 |
 | 2D | other | 120 |
 | 2D 이펙트 | effect | 118 |
 | 2D 타일셋 | tileset-2d | 98 |
@@ -123,7 +123,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1737 |
+| cc0 | 1740 |
 | cc-by | 148 |
 | gpl | 10 |
 | mit | 3 |
@@ -133,7 +133,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1736 |
+| CC0 | 1739 |
 | CC-BY 3.0 | 67 |
 | CC-BY 4.0 | 62 |
 | CC-BY | 11 |
@@ -167,18 +167,19 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-13 | 41 |
 | 2026-11-14 | 27 |
 | 2026-11-15 | 10 |
+| 2026-11-16 | 3 |
 
 ### 상위 태그 30
 
 | tag | 개수 |
 |---|---|
-| 3d | 274 |
+| 3d | 277 |
 | 2d | 247 |
 | sfx | 239 |
 | music | 229 |
 | ui·아이콘 | 182 |
-| rpg | 147 |
-| lowpoly | 116 |
+| rpg | 148 |
+| lowpoly | 119 |
 | fantasy | 111 |
 | pixel | 100 |
 | platformer | 84 |
@@ -223,7 +224,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 9 |
 
-- effect_kind가 하나 이상인 에셋: 241 / 1901
+- effect_kind가 하나 이상인 에셋: 241 / 1904
 
 - attribution_required=true: 161, ai_generated=true: 30, preview 있음: 1444, 분할(split) 행: 147
 
@@ -232,14 +233,16 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 ### 3.1 필수 필드가 빈 행: 0건
 
 
-### 3.2 source_url 중복: 8개 URL에 걸쳐 22행 (한 페이지에서 여러 팩을 만든 경우 포함)
+### 3.2 source_url 중복: 10개 URL에 걸쳐 26행 (한 페이지에서 여러 팩을 만든 경우 포함)
 
 | source_url | 행 수 | id 예시 |
 |---|---|---|
 | https://github.com/AgenticGameDevs/generated-assets | 8 | assets-3d-lowpoly-2/fjordfall-boats-vehicles, assets-3d-lowpoly-2/fjordfall-buildings, assets-3d-lowpoly-2/fjordfall-characters |
 | https://github.com/achrefelouafi/CyberCityThreeJS | 2 | assets-3d-lowpoly/cybercity-modular-kit, assets-3d-lowpoly/cybercity-hover-car |
 | https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame | 2 | assets-2d-pixel/2d-explosion-animations-2, assets-2d-pixel/2d-explosion-animations-2-frame-by-frame |
+| https://opengameart.org/content/low-poly-rpg-pack | 2 | assets-3d-lowpoly/ultimate-rpg-pack, assets-3d-lowpoly-2/low-poly-rpg-pack |
 | https://opengameart.org/content/lowpoly-modular-dungeon | 2 | assets-3d-lowpoly/modular-dungeon-pack, assets-3d-lowpoly-2/lowpoly-modular-dungeon |
+| https://opengameart.org/content/lowpoly-survival-pack | 2 | assets-3d-lowpoly/survival-pack, assets-3d-lowpoly-2/lowpoly-survival-pack |
 | https://opengameart.org/content/modular-dungeon-2-3d-models | 2 | assets-3d-lowpoly/modular-dungeon-2-3d-models, assets-3d-lowpoly/modular-dungeon-2-3d-models-2 |
 | https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by | 2 | assets-audio/pocket-bleeps-31-retro-8-bit-sfx, assets-audio/pocket-bleeps-31-retro-8-bit-sfx-free-sampler-cc-by |
 | https://opengameart.org/content/sci-fi-essentials-kit | 2 | assets-3d-lowpoly/sci-fi-essentials-kit, assets-2d-pixel/sci-fi-essentials-kit-4k-textures |
@@ -267,7 +270,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1889행
+- 허용 목록과 정확히 일치: 1892행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 9행 (7종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -299,7 +302,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | assets-2d-pixel/nature-amp-seasonal-enemy-monsters-2d-pixel-art-animation-pack | CC-BY |
 
 - 참고: license_family가 cc-by/mit/gpl인데 attribution이 `optional`로 시작하는 행: 0건 (규칙상 attribution_required=false 처리됨; 확인 필요)
-- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 28건
+- 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 31건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
 - 참고: attribution_required=true인 행 161건 (cc0인데 true: 0건)
 
@@ -309,10 +312,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1533행, 저장소 트리 경로 368행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1535행, 저장소 트리 경로 369행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1813, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 1816, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 
@@ -354,7 +357,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1896 | Fjordfall Sound Effects | assets-audio | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 457건
+- preview가 없는 행: 460건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 
@@ -459,14 +462,16 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | UI Sounds | assets-audio | 714, 1543 | releases/download/v6.5/ui-sounds.zip; ui-sounds/ui-sounds.zip |
 | Weapon Slash - Effect | assets-2d-pixel | 897, 1827 | releases/download/v8.26/weapon-slash-effect.zip; weapon-slash-effect/weapon-slash-everything.zip |
 
-- source_url이 같은 값 8개(22행):
+- source_url이 같은 값 10개(26행):
 
 | source_url | CSV 줄 | name |
 |---|---|---|
 | https://github.com/AgenticGameDevs/generated-assets | 1889, 1890, 1891, 1892, 1893, 1894, 1895, 1896 | Fjordfall Boats & Vehicles; Fjordfall Buildings; Fjordfall Characters; Skybound Six Synthesized SFX; Fjordfall Props; Fjordfall Wildlife; Fjordfall Vegetation; Fjordfall Sound Effects |
 | https://github.com/achrefelouafi/CyberCityThreeJS | 1527, 1528 | CyberCity Modular Kit; CyberCity Hover Car |
 | https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame | 1077, 1883 | 2D Explosion Animations #2; 2D Explosion Animations #2 \| Frame by frame |
+| https://opengameart.org/content/low-poly-rpg-pack | 322, 1904 | Ultimate RPG Pack; Low Poly RPG Pack |
 | https://opengameart.org/content/lowpoly-modular-dungeon | 326, 1878 | Modular Dungeon Pack; LowPoly Modular Dungeon |
+| https://opengameart.org/content/lowpoly-survival-pack | 327, 1905 | Survival Pack; LowPoly Survival Pack |
 | https://opengameart.org/content/modular-dungeon-2-3d-models | 613, 1825 | Modular Dungeon 2 - 3D Models; Modular Dungeon 2 - 3D Models |
 | https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by | 1846, 1877 | Pocket Bleeps – 31 Retro 8-Bit SFX; Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY) |
 | https://opengameart.org/content/sci-fi-essentials-kit | 156, 157 | Sci-Fi Essentials Kit; Sci-Fi Essentials Kit - 4K Textures |
