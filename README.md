@@ -7,6 +7,12 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-17 A108 추가 (3팩, 총 1934팩)
+
+A108 라운드: OpenGameArt에서 CC0 3D 팩 2개(mini-shop, mini-characters)와 효과음 팩 1개(insect-sounds)를 수집했습니다. 후보는 러너 안에서 전체 catalog.csv와 이름·출처 URL로 대조했고, 팩마다 출처 페이지 License(s)=CC0을 확인했습니다.
+
+종류: 3D 2팩(assets-3d-lowpoly-2), 효과음 1팩(assets-audio). 3D 팩 zip은 5MB 이하라 저장소 트리에 직접 두었고 preview.png 썸네일을 넣었습니다. 이펙트 후보 중 효과음 팩 insect-sounds는 처음 assets-2d-pixel에 잘못 올라가 그 저장소에서 제거하고 assets-audio로 옮겼습니다.
+
 ## 2026-11-17 A107 추가 (4팩, 총 1931팩)
 
 A107 라운드: 2026-11-17 KST에 GitHub Actions 러너에서 올라간 팩 4개를 등록했습니다. 모두 출처 페이지 License(s)=CC0을 확인했습니다.
