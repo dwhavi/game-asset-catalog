@@ -1,30 +1,32 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@5b550f29a164b4d67327ee2cc64cb36244f630a9`
+> generated from `catalog.csv@4a7bff1e601670ed5fa874b36ef56084bd51d113`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **472개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **474개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 472개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 474개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
 | [50+ Monsters Pack 3D](https://opengameart.org/content/50-monsters-pack-3d) | `model-3d` | isaiah658 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip) | 2026-11-16 |
+| [Crab Low Poly Animated 3D Model](https://opengameart.org/content/crab-low-poly-animated-3d-model) | `model-3d` | methodical pixel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/crab-low-poly-animated-3d-model/crab_0.zip) | 2026-11-16 |
 | [Free Lowpoly Pond Kit](https://opengameart.org/content/free-lowpoly-pond-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_pond_kit_assetquest.zip) | 2026-11-16 |
 | [Low Poly RPG Pack](https://opengameart.org/content/low-poly-rpg-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip) | 2026-11-16 |
 | [Low-Poly Halloween Kit](https://opengameart.org/content/low-poly-halloween-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_halloween_kit_assetquest.zip) | 2026-11-16 |
 | [LowPoly Survival Pack](https://opengameart.org/content/lowpoly-survival-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip) | 2026-11-16 |
 | [Tiny Treats - Charming Kitchen set](https://opengameart.org/content/tiny-treats-charming-kitchen-set) | `model-3d` | Isa Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-charming-kitchen-set/tiny_treats_charming_kitchen_1.0.zip) | 2026-11-16 |
 | [Tiny Treats - Pretty Park set](https://opengameart.org/content/tiny-treats-pretty-park-set) | `model-3d` | Isa Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-pretty-park-set/tiny_treats_pretty_park_1.0.zip) | 2026-11-16 |
+| [Tree and Plants Low Poly 3D Models](https://opengameart.org/content/tree-and-plants-low-poly-3d-models) | `model-3d` | methodical pixel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/trees_and_plants_0.zip) | 2026-11-16 |
 | [Wooden Overhang Modular Kit](https://opengameart.org/content/wooden-overhang-modular-kit) | `model-3d` | Kenney | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wooden-overhang-modular-kit/WoodenOverhangModularKit.zip) | 2026-11-16 |
 | [Fjordfall Props](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-props/fjordfall-props.zip) | 2026-11-15 |
 | [Fjordfall Vegetation](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-vegetation/fjordfall-vegetation.zip) | 2026-11-15 |
@@ -415,5 +417,3 @@
 | [Cute Monsters](https://quaternius.com/packs/cutemonsters.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-cute-monsters.zip) | 2026-10-28 |
 | [Fantasy Props MegaKit](https://opengameart.org/content/fantasy-props-megakit) | `model-3d` | Quaternius | CC0 | X | X | 7개 분할 | 2026-10-28 |
 | [Fantasy Torch Pack 1](https://opengameart.org/content/fantasy-torch-pack-1) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.1/fantasy-torch-pack-1.zip) | 2026-10-28 |
-| [Fantasy Torch Pack 2](https://opengameart.org/content/fantasy-torch-pack-2) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.1/fantasy-torch-pack-2.zip) | 2026-10-28 |
-| [Fantasy Torch Pack 3](https://opengameart.org/content/fantasy-torch-pack-3) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.1/fantasy-torch-pack-3.zip) | 2026-10-28 |
