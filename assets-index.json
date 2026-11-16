@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@cf9131e65918ee8a821d26c017d95718743b839a",
-  "count": 1909,
+  "generated_from": "catalog.csv@5b550f29a164b4d67327ee2cc64cb36244f630a9",
+  "count": 1913,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -67988,6 +67988,146 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/50-monsters-pack-3d",
+      "name": "50+ Monsters Pack 3D",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "monster",
+        "creatures",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "isaiah658",
+      "source_url": "https://opengameart.org/content/50-monsters-pack-3d",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: isaiah658 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "파일 286개 (png 229, obj 56); 원본 zip에 라이선스 파일 없음 — LICENSE-SOURCE.txt로 표기 기록; 출처 페이지 대표 이미지를 preview로 저장",
+      "preview": "50-monsters-pack-3d/preview.png",
+      "download_path": "50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/tiny-treats-charming-kitchen-set",
+      "name": "Tiny Treats - Charming Kitchen set",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "tiny-treats-charming-kitchen-set/tiny_treats_charming_kitchen_1.0.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "kitchen",
+        "food",
+        "lowpoly",
+        "cute",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Isa Lousberg",
+      "source_url": "https://opengameart.org/content/tiny-treats-charming-kitchen-set",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Isa Lousberg (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "파일 348개 (fbx 110, obj/mtl/gltf 각 59 이하); zip에 원본 라이선스 파일 포함; 출처 페이지 대표 이미지를 preview로 저장",
+      "preview": "tiny-treats-charming-kitchen-set/preview.png",
+      "download_path": "tiny-treats-charming-kitchen-set/tiny_treats_charming_kitchen_1.0.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-charming-kitchen-set/tiny_treats_charming_kitchen_1.0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-charming-kitchen-set/tiny_treats_charming_kitchen_1.0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/tiny-treats-pretty-park-set",
+      "name": "Tiny Treats - Pretty Park set",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "tiny-treats-pretty-park-set/tiny_treats_pretty_park_1.0.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "park",
+        "nature",
+        "lowpoly",
+        "cute",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "Isa Lousberg",
+      "source_url": "https://opengameart.org/content/tiny-treats-pretty-park-set",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Isa Lousberg (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "파일 187개 (fbx 56, obj/mtl/gltf 각 30 이하); zip에 원본 라이선스 파일 포함; 출처 페이지 대표 이미지를 preview로 저장",
+      "preview": "tiny-treats-pretty-park-set/preview.png",
+      "download_path": "tiny-treats-pretty-park-set/tiny_treats_pretty_park_1.0.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-pretty-park-set/tiny_treats_pretty_park_1.0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-pretty-park-set/tiny_treats_pretty_park_1.0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/free-lowpoly-pond-kit",
+      "name": "Free Lowpoly Pond Kit",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "releases/download/v1.0/free_pond_kit_assetquest.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "pond",
+        "water",
+        "nature",
+        "environment",
+        "lowpoly",
+        "3d"
+      ],
+      "effect_kind": [],
+      "author": "AssetQuest",
+      "source_url": "https://opengameart.org/content/free-lowpoly-pond-kit",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: AssetQuest (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "파일 93개 (fbx 89, tga 1, png 1); zip에 원본 라이선스 파일 포함; 12.0MB라 v1.0 릴리스 첨부; 출처 페이지 대표 이미지를 preview로 저장",
+      "preview": "free-lowpoly-pond-kit/preview.jpg",
+      "download_path": "releases/download/v1.0/free_pond_kit_assetquest.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_pond_kit_assetquest.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_pond_kit_assetquest.zip"
       ],
       "sample": null,
       "multipart": false,

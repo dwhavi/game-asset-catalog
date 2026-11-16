@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cf9131e65918ee8a821d26c017d95718743b839a`
+> generated from `catalog.csv@5b550f29a164b4d67327ee2cc64cb36244f630a9`
 
 # 연기 이펙트 모음
 

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cf9131e65918ee8a821d26c017d95718743b839a`
+> generated from `catalog.csv@5b550f29a164b4d67327ee2cc64cb36244f630a9`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,12 +14,16 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
+| [50+ Monsters Pack 3D](https://opengameart.org/content/50-monsters-pack-3d) | `model-3d` | isaiah658 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip) | 2026-11-16 |
 | [8-Bit Sound Effect Pack](https://opengameart.org/content/8-bit-sound-effect-pack) | `sfx` | OwlishMedia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip) | 2026-11-16 |
+| [Free Lowpoly Pond Kit](https://opengameart.org/content/free-lowpoly-pond-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_pond_kit_assetquest.zip) | 2026-11-16 |
 | [Low Poly RPG Pack](https://opengameart.org/content/low-poly-rpg-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip) | 2026-11-16 |
 | [Low-Poly Halloween Kit](https://opengameart.org/content/low-poly-halloween-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_halloween_kit_assetquest.zip) | 2026-11-16 |
 | [LowPoly Survival Pack](https://opengameart.org/content/lowpoly-survival-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip) | 2026-11-16 |
 | [Shield Spell](https://opengameart.org/content/shield-spell) | `effect` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-spell/shield.zip) | 2026-11-16 |
 | [Some sounds 2](https://opengameart.org/content/some-sounds-2) | `sfx` | Ziph | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/v6.0/all-in-one_1.zip) | 2026-11-16 |
+| [Tiny Treats - Charming Kitchen set](https://opengameart.org/content/tiny-treats-charming-kitchen-set) | `model-3d` | Isa Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-charming-kitchen-set/tiny_treats_charming_kitchen_1.0.zip) | 2026-11-16 |
+| [Tiny Treats - Pretty Park set](https://opengameart.org/content/tiny-treats-pretty-park-set) | `model-3d` | Isa Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-pretty-park-set/tiny_treats_pretty_park_1.0.zip) | 2026-11-16 |
 | [Wooden Overhang Modular Kit](https://opengameart.org/content/wooden-overhang-modular-kit) | `model-3d` | Kenney | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wooden-overhang-modular-kit/WoodenOverhangModularKit.zip) | 2026-11-16 |
 | [16x16 Explosion](https://opengameart.org/content/16x16-explosion) | `effect` | BitingChaos | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-explosion/16x16-explosion.zip) | 2026-11-15 |
 | [FIre and Spell Animations](https://opengameart.org/content/fire-and-spell-animations) | `effect` | ztn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a98-fire-and-spell-animations/anims_0.zip) | 2026-11-15 |
@@ -109,7 +113,3 @@
 | [Crate](https://opengameart.org/content/crate-5) | `model-3d` | Kutejnikov | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate/crate.zip) | 2026-11-12 |
 | [Crate 3](https://opengameart.org/content/crate-3) | `model-3d` | plaggy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/crate-3/crate-3.zip) | 2026-11-12 |
 | [desert castle/tower](https://opengameart.org/content/desert-castletower) | `building-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/desert-castle-tower/desert-castle-tower.zip) | 2026-11-12 |
-| [Destroyed Walls - 3D models](https://opengameart.org/content/destroyed-walls-3d-models) | `model-3d` | LFA | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/destroyed-walls-3d-models/destroyed-walls-3d-models.zip) | 2026-11-12 |
-| [Elemental Charge Effects](https://opengameart.org/content/elemental-charge-effects) | `effect` | Kelvin Shadewing | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-charge-effects/elemental-charge-effects.zip) | 2026-11-12 |
-| [Energy Sword](https://opengameart.org/content/energy-sword) | `model-3d` | ova Xen | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/energy-sword.zip) | 2026-11-12 |
-| [Explolsion V2](https://opengameart.org/content/explolsion-v2) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip) | 2026-11-12 |
