@@ -1,0 +1,18 @@
+name: tmp-a102-clean
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: remove temp files
+        run: |
+          git config user.name sigco3111
+          git config user.email sigco3111@users.noreply.github.com
+          git rm -q --ignore-unmatch .github/workflows/tmp-a102-probe.yml .github/workflows/tmp-a102-probe2.yml .github/workflows/tmp-a102-catalog.yml .github/workflows/tmp-a102-test.yml .github/workflows/tmp-a102-fix.yml tmp-a102-clean.yml tools/tmp-a102-candidates.txt
+          git commit -m "정리: A102 임시 파일 삭제" || echo nothing
+          git pull --rebase origin main || true
+          git push origin HEAD:main
