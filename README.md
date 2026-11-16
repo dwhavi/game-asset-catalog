@@ -7,6 +7,22 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-16 A104 추가 (4팩, 총 1920팩)
+
+A104 라운드: OpenGameArt 3D Art CC0 최신 목록에서 아직 카탈로그에 없는 3D 팩 3개(Fantasy Town Kit, Cartoon Low Poly trees and forest, Low poly cave assets)와 2D 마법·타격 이펙트 팩(Cethiel)을 모았습니다. 후보는 러너 안에서 전체 catalog.csv 이름과 대조해 걸러냈고, 팩마다 출처 페이지 License(s)=CC0과 zip 첨부를 확인했습니다.
+
+| 팩 | 저장소 | 라이선스 | 제작자 |
+| --- | --- | --- | --- |
+| Fantasy Town Kit | assets-3d-lowpoly-2 | CC0 | Kenney |
+| Cartoon Low Poly trees and forest | assets-3d-lowpoly-2 | CC0 | allen yatsura |
+| Low poly cave assets | assets-3d-lowpoly-2 | CC0 | agdg reject |
+| Elemental Weapons - Effect | assets-2d-pixel | CC0 | Cethiel |
+
+종류: 3D 3팩, 2D 이펙트 1팩. 팩 폴더에 zip·pack.md·LICENSE-SOURCE.txt·LICENSE-CC0.txt·CREDITS.txt·preview.png가 있고, catalog.csv preview 열에 저장소 상대경로를 넣었습니다. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
+총 1920팩입니다.
+
+
 ### 2026-11-16 A99 마무리: Some sounds 2 추가 (1팩, 총 1909팩)
 
 A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Ziph, CC0)를 카탈로그에 등록했습니다. A99의 3D Vehicles Pack·Low Poly RPG Pack·LowPoly Survival Pack·IgnisForge Free SFX Sampler는 afce4f0에서 등록되어 1904팩이었고, 이번에 1팩을 더해 1909팩입니다.
