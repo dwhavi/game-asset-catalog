@@ -22,6 +22,21 @@ A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Zi
 팩 폴더에 pack.md·LICENSE-SOURCE.txt가 있습니다(CREDITS.txt는 이 저장소 관례상 두지 않고 README의 제작 줄로 대신합니다). 출처 페이지 License(s)가 CC0임을 확인했습니다. 색인은 Actions '색인: 자동 갱신'으로 갱신합니다.
 
 총 1909팩입니다.
+## 2026-11-16 A103 추가 (3팩, 총 1916팩)
+
+A103 라운드: OpenGameArt 3D Art 최신순 다른 페이지(2~4쪽)에서 아직 카탈로그에 없는 CC0 3D 팩 2개(Crab Low Poly Animated 3D Model, Tree and Plants Low Poly 3D Models — 모두 methodical pixel)와 2D Art 이펙트(타격·고어) 1개(Gore Blood Gibs Meat Chunks — Reactorcore)를 모았습니다. 후보 247개를 러너 안에서 전체 catalog.csv 이름과 대조해 걸러냈고, 팩마다 출처 페이지 License(s)=CC0과 실제 zip 첨부를 확인했습니다.
+
+| 항목 | 내용 |
+| --- | --- |
+| 팩 | Crab Low Poly Animated 3D Model / Tree and Plants Low Poly 3D Models / Gore Blood Gibs Meat Chunks |
+| 저장소 | assets-3d-lowpoly-2 2팩, assets-2d-pixel 1팩 |
+| 라이선스·제작 | CC0 3팩 / methodical pixel 2팩, Reactorcore 1팩 |
+| 출처 | https://opengameart.org/content/crab-low-poly-animated-3d-model , https://opengameart.org/content/tree-and-plants-low-poly-3d-models , https://opengameart.org/content/gore-blood-gibs-meat-chunks |
+
+팩 폴더에 pack.md·LICENSE-SOURCE.txt·LICENSE-CC0.txt·CREDITS.txt가 있고, 세 팩 모두 <팩 폴더>/preview.png 썸네일과 catalog.csv preview 열 경로를 넣었습니다. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
+총 1916팩입니다.
+
 ## 2026-11-16 A102 추가 (4팩, 총 1913팩)
 
 A102 라운드: OpenGameArt 3D Art 분류의 최신·즐겨찾기순 목록에서 아직 카탈로그에 없는 CC0 로우폴리 3D 팩 4개를 모았습니다. 후보는 카탈로그 사이트 검색으로 중복을 확인했고, 팩마다 출처 페이지 License(s)=CC0과 실제 zip 첨부를 확인했습니다.
