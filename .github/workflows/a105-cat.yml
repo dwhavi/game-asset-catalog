@@ -1,0 +1,55 @@
+name: a105-cat
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: run
+        run: |
+          python3 - <<'PY' > /tmp/c.txt 2>&1 || true
+          import io,csv,subprocess
+          R3="https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/"
+          P=[
+           ["Sewer Tunnels","assets-3d-lowpoly-2",R3+"a105-sewer-tunnels/sewer-tunnels.zip","3D 모델","lowpoly,3d,sewer,environment","tenacious whirlpool","https://opengameart.org/content/sewer-tunnels","CC0","2026-11-16","출처 페이지 License(s)=CC0 확인; zip 5MB 초과로 Releases(a105-sewer-tunnels) 첨부; preview.png 썸네일","https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/sewer-tunnels/preview.png","",""],
+           ["Office/campus buildings and restaurant","assets-3d-lowpoly-2",R3+"a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip","3D 모델","lowpoly,3d,building,office","32kda","https://opengameart.org/content/officecampus-buildings-and-restaurant","CC0","2026-11-16","출처 페이지 License(s)=CC0 확인; zip 5MB 초과로 Releases(a105-office-campus-buildings-and-restaurant) 첨부; preview.png 썸네일","https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/office-campus-buildings-and-restaurant/preview.png","",""],
+           ["32 Low Poly Models","assets-3d-lowpoly-2","32-low-poly-models/32-low-poly-models.zip","3D 모델","lowpoly,3d,props","Drummyfish","https://opengameart.org/content/32-low-poly-models","CC0","2026-11-16","출처 페이지 License(s)=CC0 확인; 페이지에 zip이 없어 첨부 obj·blend 파일을 수집자가 zip으로 묶음; preview.png 썸네일","https://raw.githubusercontent.com/sigco3111/assets-3d-lowpoly-2/main/32-low-poly-models/preview.png","",""],
+           ["Hurt Sound Effects","assets-audio","hurt-sound-effects/hurt-sound-effects.zip","효과음","sfx,hurt,combat","EZduzziteh","https://opengameart.org/content/hurt-sound-effects","CC0","2026-11-16","출처 페이지 License(s)=CC0 확인; mp3 6개를 수집자가 zip으로 묶음; 오디오 팩이라 썸네일 없음","","",""]
+          ]
+          txt=open("catalog.csv",encoding="utf-8").read()
+          rows=list(csv.DictReader(io.StringIO(txt)))
+          have={r["name"].strip().lower() for r in rows}
+          add=[p for p in P if p[0].strip().lower() not in have]
+          print("to add",len(add))
+          with open("catalog.csv","a",encoding="utf-8",newline="") as f:
+              wr=csv.writer(f,lineterminator="\n")
+              for p in add:
+                  wr.writerow([p[0],p[1],p[2],p[3],p[4],p[5],p[6],p[7],"",p[8],p[9],p[10],p[11],p[12]])
+          total=len(rows)+len(add)
+          rd=open("README.md",encoding="utf-8").read()
+          sec="## 2026-11-16 A105 추가 ("+str(len(add))+"팩, 총 "+str(total)+"팩)\n\n"
+          sec+="A105 라운드: OpenGameArt 3D Art CC0 최신 목록에서 아직 카탈로그에 없는 3D 팩 3개(Sewer Tunnels, Office/campus buildings and restaurant, 32 Low Poly Models)와 효과음 팩 1개(Hurt Sound Effects)를 모았습니다. 후보는 러너 안에서 전체 catalog.csv 이름과 대조해 걸러냈고, 팩마다 출처 페이지 License(s)=CC0과 실제 첨부 파일을 확인했습니다.\n\n"
+          sec+="| 팩 | 저장소 | 라이선스 | 제작자 |\n| --- | --- | --- | --- |\n"
+          for p in add:
+              sec+="| "+p[0]+" | "+p[1]+" | CC0 | "+p[5]+" |\n"
+          sec+="\n종류: 3D 3팩(assets-3d-lowpoly-2), 효과음 1팩(assets-audio). 팩 폴더에 pack.md·LICENSE-SOURCE.txt·LICENSE-CC0.txt·CREDITS.txt가 있고, 3D 팩은 preview.png 썸네일을 넣었습니다. Sewer Tunnels·Office/campus buildings and restaurant의 zip은 5MB를 넘어 Releases에 첨부했습니다. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.\n\n총 "+str(total)+"팩입니다.\n\n"
+          marker="![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)\n"
+          if marker in rd:
+              rd=rd.replace(marker, marker+"\n"+sec,1)
+          else:
+              rd=rd.replace("# game-asset-catalog\n", "# game-asset-catalog\n\n"+sec,1)
+          open("README.md","w",encoding="utf-8").write(rd)
+          names=", ".join(p[0] for p in add)
+          with open("docs/log.md","a",encoding="utf-8") as f:
+              f.write("- 2026-11-16 A105: "+names+" (모두 OGA CC0, "+str(len(add))+"팩, 총 "+str(total)+"팩; 3D 3팩은 assets-3d-lowpoly-2, 효과음 1팩은 assets-audio; 후보는 러너 안에서 catalog.csv 이름과 대조; Sewer Tunnels·Office/campus zip은 5MB 초과로 Releases(a105-*) 첨부, 32 Low Poly Models·Hurt Sound Effects는 저장소 포함; 32 Low Poly Models·Hurt Sound Effects는 페이지에 zip이 없어 첨부 파일을 zip으로 묶음; 용량: assets-3d-lowpoly 약 667MB, assets-3d-lowpoly-2 약 192MB, assets-audio 약 393MB)\n")
+          subprocess.run(["git","config","user.name","sigco3111"],check=True)
+          subprocess.run(["git","config","user.email","101856311+sigco3111@users.noreply.github.com"],check=True)
+          subprocess.run(["git","add","catalog.csv","README.md","docs/log.md"],check=True)
+          subprocess.run(["git","commit","-m","카탈로그: A105 "+str(len(add))+"팩 등록"],check=True)
+          subprocess.run(["git","push"],check=True)
+          print("OK total",total)
+          PY
+          cat /tmp/c.txt
