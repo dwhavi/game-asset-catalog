@@ -1,0 +1,131 @@
+name: tmp a99 final
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Edit catalog files
+        run: |
+          python3 - <<'PY'
+          import csv, io, pathlib, re, sys
+
+          cat = pathlib.Path('catalog.csv')
+          data = cat.read_text(encoding='utf-8')
+          rows = list(csv.reader(io.StringIO(data)))
+          header = [h.strip() for h in rows[0]]
+          print('HEADER:', header)
+          print('TOTAL_LINES:', len(rows))
+          print('LAST_ROW:', rows[-1])
+          print('LAST3:')
+          for r in rows[-3:]:
+              print('  ', r)
+
+          new = {
+              'name': 'Some sounds 2',
+              'repo': 'assets-audio',
+              'file': 'releases/download/v6.0/all-in-one_1.zip',
+              'type': '효과음',
+              'tags': 'sfx,magic,laser,sword,synth',
+              'author': 'Ziph',
+              'source_url': 'https://opengameart.org/content/some-sounds-2',
+              'license': 'CC0',
+              'attribution': '없음 (CC0)',
+              'added': '2026-11-16',
+              'notes': 'FM 합성 효과음 262개; 원본 all-in-one_1.zip(40.1MB)은 릴리스 v6.0 첨부; 출처 페이지 License(s) CC0 표기 확인; 미러 바이트(공식 미대조)',
+          }
+
+          present = any(r and r[0].strip() == 'Some sounds 2' for r in rows[1:])
+          added = 0
+          if present:
+              print('ALREADY_PRESENT')
+          else:
+              term = '\r\n' if '\r\n' in data[:2000] else '\n'
+              buf = io.StringIO()
+              w = csv.writer(buf, lineterminator=term)
+              w.writerow([new.get(h, '') for h in header])
+              line = buf.getvalue()
+              if not data.endswith('\n'):
+                  data += term
+              data += line
+              with open(cat, 'w', encoding='utf-8', newline='') as f:
+                  f.write(data)
+              added = 1
+              print('APPENDED:', line.strip())
+
+          total_lines = len(rows) + added
+          packs = total_lines - 1
+          print('TOTAL_LINES_AFTER:', total_lines, 'PACKS:', packs)
+
+          readme = pathlib.Path('README.md')
+          rt = readme.read_text(encoding='utf-8')
+          if '2026-11-16 A99 마무리' in rt:
+              print('README_ALREADY')
+          else:
+              block = '\n'.join([
+                  '### 2026-11-16 A99 마무리: Some sounds 2 추가 (1팩, 총 %d팩)' % packs,
+                  '',
+                  'A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Ziph, CC0)를 카탈로그에 등록했습니다. A99의 3D Vehicles Pack·Low Poly RPG Pack·LowPoly Survival Pack·IgnisForge Free SFX Sampler는 afce4f0에서 등록되어 1904팩이었고, 이번에 1팩을 더해 %d팩입니다.' % packs,
+                  '',
+                  '| 항목 | 내용 |',
+                  '| --- | --- |',
+                  '| 팩 | Some sounds 2 |',
+                  '| 저장소 | assets-audio |',
+                  '| 파일 | all-in-one_1.zip (40.1MB, 파일 262개, Releases v6.0 첨부) |',
+                  '| 라이선스·제작 | CC0 / Ziph |',
+                  '| 출처 | https://opengameart.org/content/some-sounds-2 |',
+                  '',
+                  '팩 폴더에 pack.md·LICENSE-SOURCE.txt가 있습니다(CREDITS.txt는 이 저장소 관례상 두지 않고 README의 제작 줄로 대신합니다). 출처 페이지 License(s)가 CC0임을 확인했습니다. 색인은 Actions \'색인: 자동 갱신\'으로 갱신합니다.',
+                  '',
+                  '총 %d팩입니다.' % packs,
+                  '',
+              ])
+              lines = rt.split('\n')
+              idx = None
+              for i, l in enumerate(lines):
+                  if re.match(r'^#{2,3} \d{4}-\d{2}-\d{2}', l):
+                      idx = i
+                      break
+              if idx is None:
+                  print('README_ANCHOR_NOT_FOUND')
+                  for l in lines[:45]:
+                      print('  |' + l)
+                  sys.exit(1)
+              newrt = '\n'.join(lines[:idx]) + '\n' + block + '\n'.join(lines[idx:])
+              readme.write_text(newrt, encoding='utf-8')
+              print('README_INSERTED_AT_LINE', idx + 1)
+
+          log = pathlib.Path('docs/log.md')
+          lt = log.read_text(encoding='utf-8')
+          if 'A99 마무리' in lt:
+              print('LOG_ALREADY')
+          else:
+              entry = '- 2026-11-16 A99 마무리: Some sounds 2 (Ziph, CC0, assets-audio) 등록(1팩, catalog.csv 1행 추가, 총 %d팩). 출처 https://opengameart.org/content/some-sounds-2 의 License(s) CC0 표기 확인. 파일은 릴리스 v6.0 첨부 all-in-one_1.zip(42,081,497바이트, sha256 30057ef906ed90d065c73b3518df41ed9e9ba9261b3fa9fbe0bf8104b083e226, 파일 262개)이며 40MB 초과라 zip은 저장소에 넣지 않음. 팩 폴더에 pack.md·LICENSE-SOURCE.txt 있음(CREDITS.txt는 관례상 README 제작 줄로 대체). bfda628로 이미 assets-audio에 올라와 있던 팩을 카탈로그에 반영한 것이며, catalog.csv·README(라운드 섹션)·docs/log.md만 수정하고 assets-index*.json·docs/wiki·llms.txt는 건드리지 않음(색인은 Actions 자동 갱신).' % packs
+              if not lt.endswith('\n'):
+                  lt += '\n'
+              lt += entry + '\n'
+              log.write_text(lt, encoding='utf-8')
+              print('LOG_APPENDED')
+          PY
+      - name: Check release files
+        run: |
+          set -x
+          for u in "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip" "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip"; do
+            echo "URL $u"
+            curl -sSL --max-time 600 -o /tmp/a.zip -w "code=%{http_code} size=%{size_download}\n" "$u" || echo "CURL_FAILED"
+            unzip -t /tmp/a.zip > /tmp/t.log 2>&1 && tail -1 /tmp/t.log || (echo "UNZIP_FAILED"; tail -3 /tmp/t.log)
+            rm -f /tmp/a.zip
+          done
+          curl -sSL -o /tmp/s.zip -w "audio code=%{http_code} size=%{size_download}\n" "https://github.com/sigco3111/assets-audio/releases/download/v6.0/all-in-one_1.zip"
+          unzip -l /tmp/s.zip | tail -1
+      - name: Commit and push
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111@users.noreply.github.com"
+          git add catalog.csv README.md docs/log.md
+          git diff --cached --stat
+          git commit -m "카탈로그: Some sounds 2 등록" || echo "no changes"
+          git push
