@@ -7,6 +7,21 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+### 2026-11-16 A99 마무리: Some sounds 2 추가 (1팩, 총 1905팩)
+
+A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Ziph, CC0)를 카탈로그에 등록했습니다. A99의 3D Vehicles Pack·Low Poly RPG Pack·LowPoly Survival Pack·IgnisForge Free SFX Sampler는 afce4f0에서 등록되어 1904팩이었고, 이번에 1팩을 더해 1905팩입니다.
+
+| 항목 | 내용 |
+| --- | --- |
+| 팩 | Some sounds 2 |
+| 저장소 | assets-audio |
+| 파일 | all-in-one_1.zip (40.1MB, 파일 262개, Releases v6.0 첨부) |
+| 라이선스·제작 | CC0 / Ziph |
+| 출처 | https://opengameart.org/content/some-sounds-2 |
+
+팩 폴더에 pack.md·LICENSE-SOURCE.txt가 있습니다(CREDITS.txt는 이 저장소 관례상 두지 않고 README의 제작 줄로 대신합니다). 출처 페이지 License(s)가 CC0임을 확인했습니다. 색인은 Actions '색인: 자동 갱신'으로 갱신합니다.
+
+총 1905팩입니다.
 ## 2026-11-15 A98 추가 (3팩, 총 1901팩)
 
 A98 라운드: OpenGameArt에서 아직 카탈로그에 없는 로우폴리 3D 팩 2개(Lowpoly survival item pack, LOW POLY 3D MODEL PACKS)와 타격·마법 이펙트 스프라이트 1개(FIre and Spell Animations)를 모았습니다. 후보는 러너 안에서 전체 catalog.csv(name + source URL)와 대조해 걸러냈고, 팩마다 출처 페이지의 License(s) 항목이 CC0임을 확인했습니다.
