@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ef574caa3dd4ca2b8eef3e2a6397c9e6c8aa88bc",
-  "count": 1924,
+  "generated_from": "catalog.csv@f783f179abb711e155dc569bdf2af15fb98b8bee",
+  "count": 1927,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -68499,6 +68499,110 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/hurt-sound-effects/hurt-sound-effects.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/hurt-sound-effects/hurt-sound-effects.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/emotional-ghosts",
+      "name": "Emotional Ghosts",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "emotional-ghosts/emotional-ghosts.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "ghost",
+        "character",
+        "3d",
+        "emotion"
+      ],
+      "effect_kind": [],
+      "author": "JellyLion",
+      "source_url": "https://opengameart.org/content/emotional-ghosts",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "출처 페이지 License(s)=CC0 확인(2026-11-17); 페이지 첨부 zip 2개(sad_ghost.zip, happyghostv2.zip)를 수집자가 묶음; preview.png 썸네일",
+      "preview": "emotional-ghosts/preview.png",
+      "download_path": "emotional-ghosts/emotional-ghosts.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/emotional-ghosts/emotional-ghosts.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/emotional-ghosts/emotional-ghosts.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/low-poly-mushroom-kit",
+      "name": "Low Poly Mushroom Kit",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d",
+        "mushroom",
+        "fungus",
+        "props"
+      ],
+      "effect_kind": [],
+      "author": "AssetQuest",
+      "source_url": "https://opengameart.org/content/low-poly-mushroom-kit",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "출처 페이지 License(s)=CC0 확인(2026-11-17); zip 54.8MB라 Releases(a105-low-poly-mushroom-kit)에 첨부(원본 free_mushroom_pack_assetquest.zip); preview.png 썸네일",
+      "preview": "low-poly-mushroom-kit/preview.png",
+      "download_path": "releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/aztec-buildings",
+      "name": "Aztec Buildings",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d",
+        "building",
+        "aztec",
+        "ancient"
+      ],
+      "effect_kind": [],
+      "author": "Kuvrot",
+      "source_url": "https://opengameart.org/content/aztec-buildings",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "출처 페이지 License(s)=CC0 확인(2026-11-17); zip 21.7MB라 Releases(a105-aztec-buildings)에 첨부(원본 buildings.zip); preview.png 썸네일",
+      "preview": "aztec-buildings/preview.png",
+      "download_path": "releases/download/a105-aztec-buildings/aztec-buildings.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip"
       ],
       "sample": null,
       "multipart": false,
