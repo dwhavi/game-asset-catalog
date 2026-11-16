@@ -7,9 +7,9 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
-### 2026-11-16 A99 마무리: Some sounds 2 추가 (1팩, 총 1905팩)
+### 2026-11-16 A99 마무리: Some sounds 2 추가 (1팩, 총 1908팩)
 
-A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Ziph, CC0)를 카탈로그에 등록했습니다. A99의 3D Vehicles Pack·Low Poly RPG Pack·LowPoly Survival Pack·IgnisForge Free SFX Sampler는 afce4f0에서 등록되어 1904팩이었고, 이번에 1팩을 더해 1905팩입니다.
+A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Ziph, CC0)를 카탈로그에 등록했습니다. A99의 3D Vehicles Pack·Low Poly RPG Pack·LowPoly Survival Pack·IgnisForge Free SFX Sampler는 afce4f0에서 등록되어 1904팩이었고, 이번에 1팩을 더해 1908팩입니다.
 
 | 항목 | 내용 |
 | --- | --- |
@@ -21,7 +21,7 @@ A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Zi
 
 팩 폴더에 pack.md·LICENSE-SOURCE.txt가 있습니다(CREDITS.txt는 이 저장소 관례상 두지 않고 README의 제작 줄로 대신합니다). 출처 페이지 License(s)가 CC0임을 확인했습니다. 색인은 Actions '색인: 자동 갱신'으로 갱신합니다.
 
-총 1905팩입니다.
+총 1908팩입니다.
 ## 2026-11-15 A98 추가 (3팩, 총 1901팩)
 
 A98 라운드: OpenGameArt에서 아직 카탈로그에 없는 로우폴리 3D 팩 2개(Lowpoly survival item pack, LOW POLY 3D MODEL PACKS)와 타격·마법 이펙트 스프라이트 1개(FIre and Spell Animations)를 모았습니다. 후보는 러너 안에서 전체 catalog.csv(name + source URL)와 대조해 걸러냈고, 팩마다 출처 페이지의 License(s) 항목이 CC0임을 확인했습니다.
@@ -1072,3 +1072,15 @@ A17 실행이 GitHub 커밋 오류("You can't perform that action at this time."
 종류: 2D 이펙트 1팩(assets-2d-pixel). 라이선스: CC-BY 3.0 1팩. AI 생성 명시 팩 없음. 1커밋(에셋: Magic sprite effects (Ardentryst) 추가, 5개 파일: zip, pack.md, preview.png, LICENSE-SOURCE.txt, CREDITS.txt; 텍스트 파일은 파일명 대소문자 유지를 위해 스크립트로 첨부), 업로드 후 저장소 파일 git blob 해시를 로컬과 대조해 5개 파일 전부 일치. 'You can't perform that action at this time.' 오류 없음. assets-2d-pixel README 첫 줄 팩 수는 617팩에서 618팩으로 갱신(별도 문서 커밋; GitHub Copilot이 커밋 메시지를 자동 생성해 제목이 표준 형식과 다름). 새 저장소 없음.
 
 실제 팩 수(catalog.csv 기준): 2D 617 · 3D 446 · UI/아이콘 226 · 오디오 439 · 기타 4 (합계 1732).
+
+## 2026-11-16 A100: 3D 2팩 + 이펙트 1팩 (총 1908팩)
+
+A100 라운드: OpenGameArt에서 Low-Poly Halloween Kit(CC0), Wooden Overhang Modular Kit(CC-BY 4.0) 두 3D 팩과 Shield Spell(CC-BY 3.0) 마법 이펙트 스프라이트를 추가했습니다.
+3D 2팩은 assets-3d-lowpoly-2, 이펙트 1팩은 assets-2d-pixel에 있습니다. 후보는 러너 안에서 assets-index.min.json 이름과 대조해 걸러냈고(중복 5+5+3건 제외), 라이선스는 각 출처 페이지 표기로 확인했습니다.
+
+| 팩 | 라이선스 | 파일 |
+| --- | --- | --- |
+| Low-Poly Halloween Kit | CC0 | 80개, 7.9MB (릴리스 v1.0) |
+| Wooden Overhang Modular Kit | CC-BY 4.0 | 17개, 3.1MB |
+| Shield Spell | CC-BY 3.0 | 방어막 스프라이트, 0.48MB |
+
