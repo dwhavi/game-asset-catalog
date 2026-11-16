@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@353a67a0f026536c011e4cfec1d7b4ee8887ac4f`
+- 원본: `catalog.csv@cf9131e65918ee8a821d26c017d95718743b839a`
 - 데이터 행 수: **1909**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,831,120 bytes, `assets-index.min.json` 2,290,603 bytes
+- 파일 크기: `assets-index.json` 2,831,444 bytes, `assets-index.min.json` 2,290,927 bytes
 
 ## 2. 집계
 
@@ -226,7 +226,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - effect_kind가 하나 이상인 에셋: 243 / 1909
 
-- attribution_required=true: 163, ai_generated=true: 30, preview 있음: 1444, 분할(split) 행: 147
+- attribution_required=true: 163, ai_generated=true: 30, preview 있음: 1453, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -357,7 +357,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1896 | Fjordfall Sound Effects | assets-audio | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 465건
+- preview가 없는 행: 456건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 
