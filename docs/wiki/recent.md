@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@afce4f08f0117868217c1cccf34b7126c903f91b`
+> generated from `catalog.csv@4989553b54c6db64581e686b99906f7574e5c7ac`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,6 +16,7 @@
 | [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
 | [Low Poly RPG Pack](https://opengameart.org/content/low-poly-rpg-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip) | 2026-11-16 |
 | [LowPoly Survival Pack](https://opengameart.org/content/lowpoly-survival-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip) | 2026-11-16 |
+| [Some sounds 2](https://opengameart.org/content/some-sounds-2) | `sfx` | Ziph | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/v6.0/all-in-one_1.zip) | 2026-11-16 |
 | [16x16 Explosion](https://opengameart.org/content/16x16-explosion) | `effect` | BitingChaos | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-explosion/16x16-explosion.zip) | 2026-11-15 |
 | [FIre and Spell Animations](https://opengameart.org/content/fire-and-spell-animations) | `effect` | ztn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a98-fire-and-spell-animations/anims_0.zip) | 2026-11-15 |
 | [Fjordfall Props](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-props/fjordfall-props.zip) | 2026-11-15 |
@@ -112,4 +113,3 @@
 | [GDQuest 3D Characters Repository](https://opengameart.org/content/gdquest-3d-characters-repository) | `character-3d` | GDQuest (Thibaud Goiffon); OGA: hardboileduser | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/gdquest-3d-characters-repository.zip) | 2026-11-12 |
 | [Germanic style castle](https://opengameart.org/content/germanic-style-castle) | `building-3d` | \_Creature\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/germanic-style-castle/germanic-style-castle.zip) | 2026-11-12 |
 | [Heavy Tank\[extra low poly, RTS\]](https://opengameart.org/content/heavy-tankextra-low-poly-rts) | `vehicle-3d` | 32kda | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/heavy-tank-extra-low-poly-rts/heavy-tank-extra-low-poly-rts.zip) | 2026-11-12 |
-| [Horror Monster](https://opengameart.org/content/horror-monster-0) | `character-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/horror-monster.zip) | 2026-11-12 |
