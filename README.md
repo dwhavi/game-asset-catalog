@@ -21,7 +21,20 @@ A99 라운드 마무리: assets-audio에 올라온 Some sounds 2(OpenGameArt, Zi
 
 팩 폴더에 pack.md·LICENSE-SOURCE.txt가 있습니다(CREDITS.txt는 이 저장소 관례상 두지 않고 README의 제작 줄로 대신합니다). 출처 페이지 License(s)가 CC0임을 확인했습니다. 색인은 Actions '색인: 자동 갱신'으로 갱신합니다.
 
-총 1909팩입니다.
+총 1913팩입니다.
+## 2026-11-16 A102 추가 (4팩, 총 1913팩)
+
+A102 라운드: OpenGameArt 3D Art 분류의 최신·즐겨찾기순 목록에서 아직 카탈로그에 없는 CC0 로우폴리 3D 팩 4개를 모았습니다. 후보는 카탈로그 사이트 검색으로 중복을 확인했고, 팩마다 출처 페이지 License(s)=CC0과 실제 zip 첨부를 확인했습니다.
+
+| 팩 | 저장소 | 라이선스 | 수록 위치 |
+| --- | --- | --- | --- |
+| [50+ Monsters Pack 3D](https://opengameart.org/content/50-monsters-pack-3d) | assets-3d-lowpoly-2 | CC0 | 저장소 내 포함 |
+| [Tiny Treats - Charming Kitchen set](https://opengameart.org/content/tiny-treats-charming-kitchen-set) | assets-3d-lowpoly-2 | CC0 | 저장소 내 포함 |
+| [Tiny Treats - Pretty Park set](https://opengameart.org/content/tiny-treats-pretty-park-set) | assets-3d-lowpoly-2 | CC0 | 저장소 내 포함 |
+| [Free Lowpoly Pond Kit](https://opengameart.org/content/free-lowpoly-pond-kit) | assets-3d-lowpoly-2 | CC0 | 릴리스 첨부 |
+
+종류: 3D 4팩. 썸네일: 4팩 모두 출처 페이지 대표 이미지를 preview.png/jpg로 저장했고 사이트 카드에서 표시를 확인했습니다. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
 ## 2026-11-15 A98 추가 (3팩, 총 1901팩)
 
 A98 라운드: OpenGameArt에서 아직 카탈로그에 없는 로우폴리 3D 팩 2개(Lowpoly survival item pack, LOW POLY 3D MODEL PACKS)와 타격·마법 이펙트 스프라이트 1개(FIre and Spell Animations)를 모았습니다. 후보는 러너 안에서 전체 catalog.csv(name + source URL)와 대조해 걸러냈고, 팩마다 출처 페이지의 License(s) 항목이 CC0임을 확인했습니다.
@@ -38,7 +51,7 @@ A98 라운드: OpenGameArt에서 아직 카탈로그에 없는 로우폴리 3D �
 | --- | --- | --- |
 | [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트 | 670팩 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델 (GLB·OBJ) | 508팩 |
-| [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 2호 저장소 | 23팩 |
+| [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 2호 저장소 | 27팩 |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘 | 226팩 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악 (OGG) | 471팩 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 초상화 | 3팩 |
