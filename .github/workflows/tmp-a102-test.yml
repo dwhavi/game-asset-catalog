@@ -1,0 +1,12 @@
+name: tmp-a102-test
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  t:
+    runs-on: ubuntu-latest
+    steps:
+      - name: hi
+        run: |
+          echo hello
