@@ -1,0 +1,31 @@
+name: 임시 csv 정리 A98
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: csv 경로 수정
+        run: |
+          set -e
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+          python3 - <<'PY'
+          p = "catalog.csv"
+          t = open(p, encoding="utf-8").read()
+          old = "lowpoly-survival-item-pack/Survival items.zip"
+          new = "lowpoly-survival-item-pack/survival-items.zip"
+          assert old in t, "row not found"
+          t = t.replace(old, new)
+          open(p, "w", encoding="utf-8").write(t)
+          PY
+          git add catalog.csv
+          git rm -q .github/workflows/fixcsv-a98.yml
+          git commit -m "정리: survival item 팩 경로 공백 제거"
+          git push origin HEAD:main
