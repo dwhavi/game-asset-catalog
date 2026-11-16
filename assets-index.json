@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@3ed914a733253910def7635328b0d59558a46d50",
-  "count": 1908,
+  "generated_from": "catalog.csv@353a67a0f026536c011e4cfec1d7b4ee8887ac4f",
+  "count": 1909,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -67954,6 +67954,40 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-spell/shield.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/shield-spell/shield.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/8-bit-sound-effect-pack",
+      "name": "8-Bit Sound Effect Pack",
+      "repo": "assets-audio",
+      "file": "8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "8bit",
+        "retro",
+        "audio"
+      ],
+      "effect_kind": [],
+      "author": "OwlishMedia",
+      "source_url": "https://opengameart.org/content/8-bit-sound-effect-pack",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "없음 (CC0)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "파일 75개 8비트 효과음; zip 3.9MB 저장소 내 포함; zip 내부 License.txt에 재판매 제한 문구 있음(페이지는 CC0)",
+      "preview": null,
+      "download_path": "8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip"
       ],
       "sample": null,
       "multipart": false,

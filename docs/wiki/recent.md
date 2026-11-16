@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@3ed914a733253910def7635328b0d59558a46d50`
+> generated from `catalog.csv@353a67a0f026536c011e4cfec1d7b4ee8887ac4f`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,6 +14,7 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
+| [8-Bit Sound Effect Pack](https://opengameart.org/content/8-bit-sound-effect-pack) | `sfx` | OwlishMedia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip) | 2026-11-16 |
 | [Low Poly RPG Pack](https://opengameart.org/content/low-poly-rpg-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip) | 2026-11-16 |
 | [Low-Poly Halloween Kit](https://opengameart.org/content/low-poly-halloween-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_halloween_kit_assetquest.zip) | 2026-11-16 |
 | [LowPoly Survival Pack](https://opengameart.org/content/lowpoly-survival-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip) | 2026-11-16 |
@@ -112,4 +113,3 @@
 | [Elemental Charge Effects](https://opengameart.org/content/elemental-charge-effects) | `effect` | Kelvin Shadewing | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-charge-effects/elemental-charge-effects.zip) | 2026-11-12 |
 | [Energy Sword](https://opengameart.org/content/energy-sword) | `model-3d` | ova Xen | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v9.1/energy-sword.zip) | 2026-11-12 |
 | [Explolsion V2](https://opengameart.org/content/explolsion-v2) | `effect` | davididev | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explolsion-v2/explolsion-v2.zip) | 2026-11-12 |
-| [flash bang sound](https://opengameart.org/content/flash-bang-sound) | `sfx` | teeeece | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/flash-bang-sound/flash-bang-sound.zip) | 2026-11-12 |
