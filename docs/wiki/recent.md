@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@227c68fd043177ae43f89c6011364de1716a1584`
+> generated from `catalog.csv@fa4d668dba87d8d93b57e09e739e2503d0e79e19`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -21,7 +21,7 @@
 | [Fjordfall Wildlife](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-wildlife/fjordfall-wildlife.zip) | 2026-11-15 |
 | [Golem Knight](https://opengameart.org/content/golem-knight) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/golem-knight/golem.zip) | 2026-11-15 |
 | [LOW POLY 3D MODEL PACKS](https://opengameart.org/content/low-poly-3d-model-packs) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-3d-model-packs/model_pack_low_poly.zip) | 2026-11-15 |
-| [Lowpoly survival item pack](https://opengameart.org/content/lowpoly-survival-item-pack) | `model-3d` | artie31 | CC0 | X | X | - | 2026-11-15 |
+| [Lowpoly survival item pack](https://opengameart.org/content/lowpoly-survival-item-pack) | `model-3d` | artie31 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-survival-item-pack/survival-items.zip) | 2026-11-15 |
 | [Painting Pack](https://opengameart.org/content/painting-pack) | `model-3d` | EmoPreben | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a97-painting-pack/paintings_textured.zip) | 2026-11-15 |
 | [2D Explosion Animations #2 \| Frame by frame](https://opengameart.org/content/2d-explosion-animations-2-frame-by-frame) | `effect` | Sinestesia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/2d-explosion-animations-2-frame-by-frame/2d-explosion-animations-2-frame-by-frame.zip) | 2026-11-14 |
 | [3D Character Pack](https://opengameart.org/content/3d-character-pack) | `character-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bravos_game_br_2024.zip) | 2026-11-14 |

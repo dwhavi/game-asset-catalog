@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@227c68fd043177ae43f89c6011364de1716a1584",
+  "generated_from": "catalog.csv@fa4d668dba87d8d93b57e09e739e2503d0e79e19",
   "count": 1901,
   "assets": [
     {
@@ -67607,7 +67607,7 @@
       "id": "assets-3d-lowpoly-2/lowpoly-survival-item-pack",
       "name": "Lowpoly survival item pack",
       "repo": "assets-3d-lowpoly-2",
-      "file": "lowpoly-survival-item-pack/Survival items.zip",
+      "file": "lowpoly-survival-item-pack/survival-items.zip",
       "type": "3D 모델",
       "category": "model-3d",
       "tags": [
@@ -67629,9 +67629,11 @@
       "added": "2026-11-15",
       "notes": "파일 4개; 페이지 zip을 수정 없이 보관(저장소 내 포함); 썸네일 preview.png",
       "preview": "preview.png",
-      "download_path": "lowpoly-survival-item-pack/Survival items.zip",
-      "download_url": null,
-      "download_urls": [],
+      "download_path": "lowpoly-survival-item-pack/survival-items.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-survival-item-pack/survival-items.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-survival-item-pack/survival-items.zip"
+      ],
       "sample": null,
       "multipart": false,
       "split_parts": []

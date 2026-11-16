@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@227c68fd043177ae43f89c6011364de1716a1584`
+- 원본: `catalog.csv@fa4d668dba87d8d93b57e09e739e2503d0e79e19`
 - 데이터 행 수: **1901**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,820,750 bytes, `assets-index.min.json` 2,282,478 bytes
+- 파일 크기: `assets-index.json` 2,820,972 bytes, `assets-index.min.json` 2,282,684 bytes
 
 ## 2. 집계
 
@@ -303,12 +303,11 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
 - 참고: attribution_required=true인 행 161건 (cc0인데 true: 0건)
 
-### 3.6 file 열 경로 형식 이상: 2건
+### 3.6 file 열 경로 형식 이상: 1건
 
 | CSV 줄 | file | 사유 |
 |---|---|---|
 | 1682 | https://raw.githubusercontent.com/sigco3111/assets-2d-pixel/main/cheonha-sambun/cheonha-sambun-assets.zip | 중복 슬래시 |
-| 1900 | lowpoly-survival-item-pack/Survival items.zip | 내부 공백 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 1건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip), 원본 file 값은 `file`에 그대로 유지.
 - file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1533행, 저장소 트리 경로 368행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
