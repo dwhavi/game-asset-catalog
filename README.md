@@ -7,6 +7,22 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-16 A105 추가 (4팩, 총 1924팩)
+
+A105 라운드: OpenGameArt 3D Art CC0 최신 목록에서 아직 카탈로그에 없는 3D 팩 3개(Sewer Tunnels, Office/campus buildings and restaurant, 32 Low Poly Models)와 효과음 팩 1개(Hurt Sound Effects)를 모았습니다. 후보는 러너 안에서 전체 catalog.csv 이름과 대조해 걸러냈고, 팩마다 출처 페이지 License(s)=CC0과 실제 첨부 파일을 확인했습니다.
+
+| 팩 | 저장소 | 라이선스 | 제작자 |
+| --- | --- | --- | --- |
+| Sewer Tunnels | assets-3d-lowpoly-2 | CC0 | tenacious whirlpool |
+| Office/campus buildings and restaurant | assets-3d-lowpoly-2 | CC0 | 32kda |
+| 32 Low Poly Models | assets-3d-lowpoly-2 | CC0 | Drummyfish |
+| Hurt Sound Effects | assets-audio | CC0 | EZduzziteh |
+
+종류: 3D 3팩(assets-3d-lowpoly-2), 효과음 1팩(assets-audio). 팩 폴더에 pack.md·LICENSE-SOURCE.txt·LICENSE-CC0.txt·CREDITS.txt가 있고, 3D 팩은 preview.png 썸네일을 넣었습니다. Sewer Tunnels·Office/campus buildings and restaurant의 zip은 5MB를 넘어 Releases에 첨부했습니다. 색인은 rebuild-index.yml 수동 실행으로 갱신합니다.
+
+총 1924팩입니다.
+
+
 ## 2026-11-16 A104 추가 (4팩, 총 1920팩)
 
 A104 라운드: OpenGameArt 3D Art CC0 최신 목록에서 아직 카탈로그에 없는 3D 팩 3개(Fantasy Town Kit, Cartoon Low Poly trees and forest, Low poly cave assets)와 2D 마법·타격 이펙트 팩(Cethiel)을 모았습니다. 후보는 러너 안에서 전체 catalog.csv 이름과 대조해 걸러냈고, 팩마다 출처 페이지 License(s)=CC0과 zip 첨부를 확인했습니다.
