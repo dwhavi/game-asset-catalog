@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@dd3eaef265206529f30a23bcb0a7f70673b27900",
-  "count": 1920,
+  "generated_from": "catalog.csv@ef574caa3dd4ca2b8eef3e2a6397c9e6c8aa88bc",
+  "count": 1924,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -68365,6 +68365,140 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-weapons-effect/elemental-weapons-effect.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-weapons-effect/elemental-weapons-effect.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/sewer-tunnels",
+      "name": "Sewer Tunnels",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-sewer-tunnels/sewer-tunnels.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d",
+        "sewer",
+        "environment"
+      ],
+      "effect_kind": [],
+      "author": "tenacious whirlpool",
+      "source_url": "https://opengameart.org/content/sewer-tunnels",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; zip 5MB 초과로 Releases(a105-sewer-tunnels) 첨부; preview.png 썸네일",
+      "preview": "sewer-tunnels/preview.png",
+      "download_path": "releases/download/a105-sewer-tunnels/sewer-tunnels.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-sewer-tunnels/sewer-tunnels.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-sewer-tunnels/sewer-tunnels.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/office-campus-buildings-and-restaurant",
+      "name": "Office/campus buildings and restaurant",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d",
+        "building",
+        "office"
+      ],
+      "effect_kind": [],
+      "author": "32kda",
+      "source_url": "https://opengameart.org/content/officecampus-buildings-and-restaurant",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; zip 5MB 초과로 Releases(a105-office-campus-buildings-and-restaurant) 첨부; preview.png 썸네일",
+      "preview": "office-campus-buildings-and-restaurant/preview.png",
+      "download_path": "releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/32-low-poly-models",
+      "name": "32 Low Poly Models",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "32-low-poly-models/32-low-poly-models.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "lowpoly",
+        "3d",
+        "props"
+      ],
+      "effect_kind": [],
+      "author": "Drummyfish",
+      "source_url": "https://opengameart.org/content/32-low-poly-models",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; 페이지에 zip이 없어 첨부 obj·blend 파일을 수집자가 zip으로 묶음; preview.png 썸네일",
+      "preview": "32-low-poly-models/preview.png",
+      "download_path": "32-low-poly-models/32-low-poly-models.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/32-low-poly-models/32-low-poly-models.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/32-low-poly-models/32-low-poly-models.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/hurt-sound-effects",
+      "name": "Hurt Sound Effects",
+      "repo": "assets-audio",
+      "file": "hurt-sound-effects/hurt-sound-effects.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "hurt",
+        "combat"
+      ],
+      "effect_kind": [],
+      "author": "EZduzziteh",
+      "source_url": "https://opengameart.org/content/hurt-sound-effects",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-16",
+      "notes": "출처 페이지 License(s)=CC0 확인; mp3 6개를 수집자가 zip으로 묶음; 오디오 팩이라 썸네일 없음",
+      "preview": null,
+      "download_path": "hurt-sound-effects/hurt-sound-effects.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/hurt-sound-effects/hurt-sound-effects.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/hurt-sound-effects/hurt-sound-effects.zip"
       ],
       "sample": null,
       "multipart": false,

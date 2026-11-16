@@ -1,22 +1,23 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@dd3eaef265206529f30a23bcb0a7f70673b27900`
+> generated from `catalog.csv@ef574caa3dd4ca2b8eef3e2a6397c9e6c8aa88bc`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **477개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **480개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 477개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 480개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [32 Low Poly Models](https://opengameart.org/content/32-low-poly-models) | `model-3d` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/32-low-poly-models/32-low-poly-models.zip) | 2026-11-16 |
 | [3D Vehicles Pack](https://opengameart.org/content/3d-vehicles-pack) | `model-3d` | mehrasaur | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-vehicles-pack/vehicle_pack.zip) | 2026-11-16 |
 | [50+ Monsters Pack 3D](https://opengameart.org/content/50-monsters-pack-3d) | `model-3d` | isaiah658 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-monsters-pack-3d/50_monsters_pack_3d_version_1.0.zip) | 2026-11-16 |
 | [Cartoon Low Poly trees and forest](https://opengameart.org/content/cartoon-low-poly-trees-and-forest) | `model-3d` | allen yatsura | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cartoon-low-poly-trees-and-forest/gtlf_e_obj.zip) | 2026-11-16 |
@@ -27,6 +28,8 @@
 | [Low Poly RPG Pack](https://opengameart.org/content/low-poly-rpg-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/ultimate_rpg_items_pack_by_quaternius_0.zip) | 2026-11-16 |
 | [Low-Poly Halloween Kit](https://opengameart.org/content/low-poly-halloween-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/free_halloween_kit_assetquest.zip) | 2026-11-16 |
 | [LowPoly Survival Pack](https://opengameart.org/content/lowpoly-survival-pack) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/survival_pack_-_sept_2020.zip) | 2026-11-16 |
+| [Office/campus buildings and restaurant](https://opengameart.org/content/officecampus-buildings-and-restaurant) | `model-3d` | 32kda | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip) | 2026-11-16 |
+| [Sewer Tunnels](https://opengameart.org/content/sewer-tunnels) | `model-3d` | tenacious whirlpool | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-sewer-tunnels/sewer-tunnels.zip) | 2026-11-16 |
 | [Tiny Treats - Charming Kitchen set](https://opengameart.org/content/tiny-treats-charming-kitchen-set) | `model-3d` | Isa Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-charming-kitchen-set/tiny_treats_charming_kitchen_1.0.zip) | 2026-11-16 |
 | [Tiny Treats - Pretty Park set](https://opengameart.org/content/tiny-treats-pretty-park-set) | `model-3d` | Isa Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tiny-treats-pretty-park-set/tiny_treats_pretty_park_1.0.zip) | 2026-11-16 |
 | [Tree and Plants Low Poly 3D Models](https://opengameart.org/content/tree-and-plants-low-poly-3d-models) | `model-3d` | methodical pixel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/v1.0/trees_and_plants_0.zip) | 2026-11-16 |
@@ -414,6 +417,3 @@
 | [Animated Robot](https://quaternius.com/packs/animatedrobot.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-robot.zip) | 2026-10-28 |
 | [Animated Zombie](https://quaternius.com/packs/animatedzombie.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-animated-zombie.zip) | 2026-10-28 |
 | [Basic 3D Platformer Pack](https://opengameart.org/content/basic-3d-platformer-pack) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.1/basic-3d-platformer-pack.zip) | 2026-10-28 |
-| [Cars](https://quaternius.com/packs/cars.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v4.0/quaternius-cars.zip) | 2026-10-28 |
-| [Colorful Bushes](https://opengameart.org/content/colorful-bushes) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.1/colorful-bushes.zip) | 2026-10-28 |
-| [Container](https://opengameart.org/content/container-0) | `model-3d` | rubberduck | CC0 | X | X | 2개 분할 | 2026-10-28 |
