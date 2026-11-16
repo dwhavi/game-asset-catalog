@@ -1,0 +1,114 @@
+name: tmp-thumb5
+
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-thumb5.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  wire:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: git 설정
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+
+      - name: catalog.csv 미리보기 열 채우기
+        run: |
+          cat > /tmp/wire.py <<'PY'
+          import csv, io, subprocess, sys, traceback
+
+          TARGETS = [
+              ("Golem Knight", "2026-11-15", "golem-knight/preview.jpg"),
+              ("Painting Pack", "2026-11-15", "painting-pack/preview.jpg"),
+              ("16x16 Explosion", "2026-11-15", "previews/16x16-explosion.png"),
+              ("Lowpoly survival item pack", "2026-11-15", "lowpoly-survival-item-pack/preview.png"),
+              ("LOW POLY 3D MODEL PACKS", "2026-11-15", "low-poly-3d-model-packs/preview.jpg"),
+              ("FIre and Spell Animations", "2026-11-15", "fire-and-spell-animations/preview.png"),
+              ("3D Vehicles Pack", "2026-11-16", "3d-vehicles-pack/preview.png"),
+              ("Low Poly RPG Pack", "2026-11-16", "low-poly-rpg-pack/preview.jpg"),
+              ("LowPoly Survival Pack", "2026-11-16", "lowpoly-survival-pack/preview.jpg"),
+              ("Low-Poly Halloween Kit", "2026-11-16", "low-poly-halloween-kit/preview.jpg"),
+              ("Wooden Overhang Modular Kit", "2026-11-16", "wooden-overhang-modular-kit/preview.jpg"),
+              ("Shield Spell", "2026-11-16", "previews/shield-spell.png"),
+          ]
+          PATH = "catalog.csv"
+
+
+          def parse(line):
+              return next(csv.reader([line]))
+
+
+          def dump(row):
+              s = io.StringIO()
+              csv.writer(s, lineterminator="").writerow(row)
+              return s.getvalue()
+
+
+          def save(lines):
+              with open(PATH, "w", encoding="utf-8", newline="") as f:
+                  f.write("\n".join(lines))
+
+
+          def main():
+              with open(PATH, encoding="utf-8", newline="") as f:
+                  lines = f.read().split("\n")
+              for name, added, pv in TARGETS:
+                  hits = []
+                  for i, line in enumerate(lines):
+                      if i == 0 or not line.strip():
+                          continue
+                      row = parse(line)
+                      if row and row[0] == name and len(row) > 9 and row[9] == added:
+                          hits.append((i, row))
+                  if len(hits) != 1:
+                      print("SKIP", name, "matches", len(hits))
+                      continue
+                  i, row = hits[0]
+                  while len(row) < 14:
+                      row.append("")
+                  if row[11] == pv:
+                      print("OK", name)
+                      continue
+                  row[11] = pv
+                  lines[i] = dump(row)
+                  save(lines)
+                  subprocess.run(["git", "add", "catalog.csv"], check=True)
+                  subprocess.run(["git", "commit", "-m", "썸네일: " + name + " 보완"], check=True)
+                  print("WROTE", name, pv)
+
+
+          try:
+              main()
+          except Exception:
+              tb = traceback.format_exc()
+              print(tb)
+              print("::error::" + tb.replace("\n", " | "))
+              sys.exit(1)
+          PY
+          python3 /tmp/wire.py
+          git log --oneline -3
+
+      - name: push
+        run: |
+          git config user.name "sigco3111"
+          git config user.email "sigco3111k@gmail.com"
+          for i in 1 2 3 4; do
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              echo "push 완료"
+              exit 0
+            fi
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 5))
+          done
+          echo "::error::push 실패"
+          exit 1
