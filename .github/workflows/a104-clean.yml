@@ -1,0 +1,17 @@
+name: a104-clean
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: clean
+        run: |
+          git config user.name sigco3111
+          git config user.email 101856311+sigco3111@users.noreply.github.com
+          git rm -q --ignore-unmatch ".github/workflows/a104-cat.yml" ".github/workflows/a104-clean.yml"
+          git commit -m '정리: A104 임시 워크플로 삭제' || true
+          git push || true
