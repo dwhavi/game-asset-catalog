@@ -7,6 +7,22 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-17 A107 추가 (4팩, 총 1931팩)
+
+A107 라운드: 2026-11-17 KST에 GitHub Actions 러너에서 올라간 팩 4개를 등록했습니다. 모두 출처 페이지 License(s)=CC0을 확인했습니다.
+
+| 팩 | 저장소 | 라이선스 | 제작자 |
+| --- | --- | --- | --- |
+| sissors and a stappler | assets-3d-lowpoly-2 | CC0 | DREAM_SEARCH_REPEAT |
+| wheel | assets-3d-lowpoly-2 | CC0 | musher3004 |
+| building | assets-3d-lowpoly-2 | CC0 | musher3004 |
+| spell set | assets-2d-pixel | CC0 | Scribe |
+
+종류: 3D 3팩(assets-3d-lowpoly-2), 2D 이펙트 1팩(assets-2d-pixel). 팩 폴더에 pack.md·LICENSE-SOURCE.txt·LICENSE-CC0.txt·CREDITS.txt·preview.png가 있습니다. spell set zip은 5MB를 넘어 Releases(a107-spell-set)에 첨부했습니다.
+
+총 1931팩입니다.
+
+
 ## 2026-11-17 A106 추가 (3팩, 총 1927팩)
 
 A106 라운드: 2026-11-16 21:45~22:04 KST에 assets-3d-lowpoly-2에 올라갔으나 포털에 미등록이던 3D 팩 3개(Emotional Ghosts, Low Poly Mushroom Kit, Aztec Buildings)를 등록했습니다. 모두 출처 페이지 License(s)=CC0을 확인했습니다.
