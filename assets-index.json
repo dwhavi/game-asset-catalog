@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@f8336e3494061142ae364ae3a100071c4f440e15",
+  "generated_from": "catalog.csv@47907653984bc6a1239d88cef07758981f13b11d",
   "count": 1941,
   "assets": [
     {
@@ -69074,8 +69074,8 @@
       "name": "Concrete 049",
       "repo": "assets-3d-lowpoly-2",
       "file": "ambientcg-concrete049/ambientcg-concrete049.zip",
-      "type": "3D 모델",
-      "category": "model-3d",
+      "type": "재질",
+      "category": "other",
       "tags": [
         "3d",
         "lowpoly",

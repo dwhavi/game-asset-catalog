@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@f8336e3494061142ae364ae3a100071c4f440e15`
+- 원본: `catalog.csv@47907653984bc6a1239d88cef07758981f13b11d`
 - 데이터 행 수: **1941**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,874,046 bytes, `assets-index.min.json` 2,324,700 bytes
+- 파일 크기: `assets-index.json` 2,874,040 bytes, `assets-index.min.json` 2,324,694 bytes
 
 ## 2. 집계
 
@@ -27,14 +27,14 @@
 
 | category | 개수 |
 |---|---|
-| model-3d | 494 |
+| model-3d | 493 |
 | sfx | 242 |
 | music | 230 |
 | ui | 205 |
 | tileset-2d | 146 |
 | effect | 145 |
 | sprite-2d | 132 |
-| other | 129 |
+| other | 130 |
 | texture | 70 |
 | icon | 40 |
 | character-3d | 32 |
@@ -56,7 +56,7 @@
 | 3D | model-3d | 237 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
-| 3D 모델 | model-3d | 184 |
+| 3D 모델 | model-3d | 183 |
 | 2D 이펙트 | effect | 121 |
 | 2D | other | 120 |
 | 2D 타일셋 | tileset-2d | 98 |
@@ -102,6 +102,7 @@
 | 3D 캐릭터 의상 | model-3d | 1 |
 | sfx | other | 1 |
 | 오디오 | other | 1 |
+| 재질 | other | 1 |
 | 폰트 | font | 1 |
 
 ### 원본 type `2D` 세분화 (정제 2차): 전 234행 모두 other → 후
@@ -325,7 +326,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.7 기타 관찰
 
-- category가 `other`인 행: 129 (원본 type 분포: 2D 120, model-3d 3, 2D 일러스트 2, 2D 컨셉아트 1, 2D 초상화 1, sfx 1, 오디오 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
+- category가 `other`인 행: 130 (원본 type 분포: 2D 120, model-3d 3, 2D 일러스트 2, 2D 컨셉아트 1, 2D 초상화 1, sfx 1, 오디오 1, 재질 1) — 원본 type이 `2D`처럼 모호하면 추측하지 않고 other로 둠.
 - notes에 `AI 생성` 문자열이 있는 행 163건 중 `AI 생성 아님`/`AI 생성 여부 …` 형태의 부정·불명 표현을 제외한 행 28건, 그리고 license/notes에 `AI-generated`/`AI generated`/`AI 생성물`이 긍정 의미로 있는 행을 ai_generated=true로 판정: 총 30건.
 - `AI 생성 아님`/`AI 생성 여부` 표기만 있는 행 중 true가 된 행: 0건
 
