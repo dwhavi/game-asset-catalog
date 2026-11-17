@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@942ffafacd48d478d6073e452677adee78f3d1e1",
-  "count": 1934,
+  "generated_from": "catalog.csv@c1ed9c432875759da1e0880ecc93595e607e5d3a",
+  "count": 1937,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -68843,6 +68843,118 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/insect-sounds/insect-sounds.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/insect-sounds/insect-sounds.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/stylized-low-poly-female-base-mesh-wip",
+      "name": "Stylized Low Poly Female Base Mesh (WIP)",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "stylized-low-poly-female-base-mesh-wip/stylized-low-poly-female-base-mesh-wip.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "stylized",
+        "low",
+        "poly",
+        "female",
+        "base",
+        "mesh",
+        "wip"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/stylized-low-poly-female-base-mesh-wip",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "byzmod3d, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A109 라운드",
+      "preview": "stylized-low-poly-female-base-mesh-wip/preview.jpg",
+      "download_path": "stylized-low-poly-female-base-mesh-wip/stylized-low-poly-female-base-mesh-wip.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-low-poly-female-base-mesh-wip/stylized-low-poly-female-base-mesh-wip.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-low-poly-female-base-mesh-wip/stylized-low-poly-female-base-mesh-wip.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-gun-part-3-free-version",
+      "name": "3D Gun Part 3 - Free Version",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "gun",
+        "part",
+        "3",
+        "free",
+        "version"
+      ],
+      "effect_kind": [],
+      "author": "Lyricsz",
+      "source_url": "https://opengameart.org/content/3d-gun-part-3-free-version",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "Lyricsz, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A109 라운드",
+      "preview": "3d-gun-part-3-free-version/preview.png",
+      "download_path": "3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/lo-fi-squelching-noise",
+      "name": "Lo Fi Squelching noise",
+      "repo": "assets-audio",
+      "file": "lo-fi-squelching-noise/lo-fi-squelching-noise.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sound",
+        "effect",
+        "lo",
+        "fi",
+        "squelching",
+        "noise"
+      ],
+      "effect_kind": [],
+      "author": "Some Weirdo",
+      "source_url": "https://opengameart.org/content/lo-fi-squelching-noise",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "Some Weirdo, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A109 라운드",
+      "preview": null,
+      "download_path": "lo-fi-squelching-noise/lo-fi-squelching-noise.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/lo-fi-squelching-noise/lo-fi-squelching-noise.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/lo-fi-squelching-noise/lo-fi-squelching-noise.zip"
       ],
       "sample": null,
       "multipart": false,
