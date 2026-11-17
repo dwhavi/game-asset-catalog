@@ -7,6 +7,7 @@
 - 저장소: assets-3d-lowpoly-2, 수집 커밋 713c5a9
 - 포털 등록: catalog.csv 1940→1941 (등록 커밋 f8336e3, 14열, preview=ambientcg-concrete049/preview.jpg)
 - 출처: https://ambientcg.com/a/Concrete049
+- 분류: 재질
 
 ## 2026-11-17 A112 Poly Haven 1팩 등록
 
