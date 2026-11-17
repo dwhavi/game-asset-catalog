@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@47907653984bc6a1239d88cef07758981f13b11d`
+> generated from `catalog.csv@2e8db0062a851997f8c40f644b21e03a9e722194`
 
 # 퍼즐 모음
 
