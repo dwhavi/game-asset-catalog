@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+## 2026-11-17 A112 Poly Haven 1팩 등록
+
+- 팩: Poly Haven Grass Medium 01 (polyhaven-grass-medium-01)
+- 라이선스: CC0 (polyhaven.com/license)
+- 저장소: assets-3d-lowpoly-2, 수집 커밋 2930d0d
+- 포털 등록: catalog.csv 1939→1940 (행 추가 커밋 545a462, type 수정 커밋 48d2ce9: 3D→3D 모델, 같은 repo 직전 행 형식)
+- 열: 14열 헤더 (preview, sample, split 포함), preview=polyhaven-grass-medium-01/preview.png, sample·split 빈 값
+
 라운드별 수집 기록입니다. 새 라운드의 상세 기록은 이 파일 맨 위에 추가합니다. 아래 내용은 README 정리 전 원문을 그대로 옮긴 것입니다.
 
 ## 2026-11-17 A110 추가 (2팩, 총 1939팩)
