@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@77b00d24bd7cfed344c74f796d6e16554a6aa475",
-  "count": 1939,
+  "generated_from": "catalog.csv@48d2ce9fe95bbd88dc8304ac72ad91e3ee609350",
+  "count": 1940,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69029,6 +69029,41 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/poly-haven-grass-medium-01",
+      "name": "Poly Haven Grass Medium 01",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "polyhaven-grass-medium-01/polyhaven-grass-medium-01.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "grass",
+        "vegetation",
+        "poly haven"
+      ],
+      "effect_kind": [],
+      "author": "Poly Haven",
+      "source_url": "https://polyhaven.com/a/grass_medium_01",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Poly Haven (polyhaven.com)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "원본 CC0 표기 확인 (LICENSE.txt, LICENSE-SOURCE.txt; 수집 커밋 2930d0d)",
+      "preview": "polyhaven-grass-medium-01/preview.png",
+      "download_path": "polyhaven-grass-medium-01/polyhaven-grass-medium-01.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-grass-medium-01/polyhaven-grass-medium-01.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-grass-medium-01/polyhaven-grass-medium-01.zip"
       ],
       "sample": null,
       "multipart": false,

@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@77b00d24bd7cfed344c74f796d6e16554a6aa475`
-- 데이터 행 수: **1939**
+- 원본: `catalog.csv@48d2ce9fe95bbd88dc8304ac72ad91e3ee609350`
+- 데이터 행 수: **1940**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 2,871,442 bytes, `assets-index.min.json` 2,322,670 bytes
+- 파일 크기: `assets-index.json` 2,872,812 bytes, `assets-index.min.json` 2,323,762 bytes
 
 ## 2. 집계
 
@@ -20,14 +20,14 @@
 | assets-3d-lowpoly | 508 |
 | assets-audio | 476 |
 | assets-ui-icons | 226 |
-| assets-3d-lowpoly-2 | 52 |
+| assets-3d-lowpoly-2 | 53 |
 | assets-2d-portraits | 3 |
 
 ### 카테고리(category)별
 
 | category | 개수 |
 |---|---|
-| model-3d | 492 |
+| model-3d | 493 |
 | sfx | 242 |
 | music | 230 |
 | ui | 205 |
@@ -56,7 +56,7 @@
 | 3D | model-3d | 237 |
 | 음악 | music | 211 |
 | UI·아이콘 | ui | 187 |
-| 3D 모델 | model-3d | 182 |
+| 3D 모델 | model-3d | 183 |
 | 2D 이펙트 | effect | 121 |
 | 2D | other | 120 |
 | 2D 타일셋 | tileset-2d | 98 |
@@ -123,7 +123,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license_family | 개수 |
 |---|---|
-| cc0 | 1773 |
+| cc0 | 1774 |
 | cc-by | 150 |
 | gpl | 10 |
 | mit | 3 |
@@ -133,7 +133,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | license | 개수 |
 |---|---|
-| CC0 | 1772 |
+| CC0 | 1773 |
 | CC-BY 3.0 | 68 |
 | CC-BY 4.0 | 63 |
 | CC-BY | 11 |
@@ -168,19 +168,19 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-14 | 27 |
 | 2026-11-15 | 10 |
 | 2026-11-16 | 23 |
-| 2026-11-17 | 15 |
+| 2026-11-17 | 16 |
 
 ### 상위 태그 30
 
 | tag | 개수 |
 |---|---|
-| 3d | 303 |
+| 3d | 304 |
 | 2d | 250 |
 | sfx | 242 |
 | music | 229 |
 | ui·아이콘 | 182 |
 | rpg | 148 |
-| lowpoly | 144 |
+| lowpoly | 145 |
 | fantasy | 111 |
 | pixel | 101 |
 | effect | 84 |
@@ -225,9 +225,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 9 |
 
-- effect_kind가 하나 이상인 에셋: 245 / 1939
+- effect_kind가 하나 이상인 에셋: 245 / 1940
 
-- attribution_required=true: 163, ai_generated=true: 30, preview 있음: 1480, 분할(split) 행: 147
+- attribution_required=true: 163, ai_generated=true: 30, preview 있음: 1481, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -271,7 +271,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 1927행
+- 허용 목록과 정확히 일치: 1928행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 9행 (7종)
 - 허용 목록에 해당하지 않음: **3행** (2종)
 
@@ -318,10 +318,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1928 | https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip | 중복 슬래시 |
 | 1932 | https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip | 중복 슬래시 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 6건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip, releases/download/a105-sewer-tunnels/sewer-tunnels.zip, releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1539행, 저장소 트리 경로 400행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1539행, 저장소 트리 경로 401행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 1851, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 1852, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@77b00d24bd7cfed344c74f796d6e16554a6aa475`
+> generated from `catalog.csv@48d2ce9fe95bbd88dc8304ac72ad91e3ee609350`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -24,6 +24,7 @@
 | [Low Poly Mushroom Kit](https://opengameart.org/content/low-poly-mushroom-kit) | `model-3d` | AssetQuest | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-low-poly-mushroom-kit/low-poly-mushroom-kit.zip) | 2026-11-17 |
 | [mini-characters](https://opengameart.org/content/mini-characters) | `model-3d` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-characters/mini-characters.zip) | 2026-11-17 |
 | [mini-shop](https://opengameart.org/content/mini-shop) | `model-3d` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mini-shop/mini-shop.zip) | 2026-11-17 |
+| [Poly Haven Grass Medium 01](https://polyhaven.com/a/grass_medium_01) | `model-3d` | Poly Haven | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-grass-medium-01/polyhaven-grass-medium-01.zip) | 2026-11-17 |
 | [sissors and a stappler](https://opengameart.org/content/sissors-and-a-stappler) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/sissors-and-a-stappler/sissors-and-a-stappler.zip) | 2026-11-17 |
 | [spell set](https://opengameart.org/content/spell-set) | `effect` | Scribe | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip) | 2026-11-17 |
 | [Stylized Low Poly Female Base Mesh (WIP)](https://opengameart.org/content/stylized-low-poly-female-base-mesh-wip) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-low-poly-female-base-mesh-wip/stylized-low-poly-female-base-mesh-wip.zip) | 2026-11-17 |
@@ -112,4 +113,3 @@
 | [Low Poly Penguin (Rigged)](https://opengameart.org/content/low-poly-penguin-w-skeleton) | `model-3d` | WarmHoneyBun | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip) | 2026-11-13 |
 | [Low-poly Retro PSX Skeleton](https://opengameart.org/content/low-poly-retro-psx-skeleton) | `model-3d` | LonesomeDucky | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip) | 2026-11-13 |
 | [Magic Flameblade - Pixel Art Animation](https://opengameart.org/content/%F0%9F%94%A5-magic-flameblade-pixel-art-animation) | `effect` | VoyPix | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip) | 2026-11-13 |
-| [Medieval Castle Manor](https://opengameart.org/content/medieval-castlemanor) | `model-3d` | unForastero | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/medieval-castle-manor/castle_001.zip) | 2026-11-13 |
