@@ -5,7 +5,7 @@
 - 팩: Carmilla Vampire (slug carmilla-vampire), 라이선스: CC-BY 4.0, 제작자: JellyLion
 - 출처: https://opengameart.org/content/carmilla-vampire
 - 수집 커밋: assets-3d-lowpoly-2 0120bd1 (에셋: Carmilla Vampire 추가)
-- 포털 등록: catalog.csv 1941→1942 (등록 커밋 시 기록), 기존 행 불변 확인
+- 포털 등록: catalog.csv 1941→1942 (등록 커밋 2e8db00, 색인 커밋 7b88c46), 기존 행 불변 확인
 - 규칙 메모: Mixamo 항목은 캐릭터 규칙에 따라 파일 수집 제외, Sketchfab 검색은 접근 키 필요로 이번 회차 미실행, 계절·이벤트 자료 제외
 
 ## A113 ambientCG 1팩 등록
