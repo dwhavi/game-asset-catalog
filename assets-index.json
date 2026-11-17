@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@c1ed9c432875759da1e0880ecc93595e607e5d3a",
-  "count": 1937,
+  "generated_from": "catalog.csv@77b00d24bd7cfed344c74f796d6e16554a6aa475",
+  "count": 1939,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -68955,6 +68955,80 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/lo-fi-squelching-noise/lo-fi-squelching-noise.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/lo-fi-squelching-noise/lo-fi-squelching-noise.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-gun-part-1-free-version",
+      "name": "3D Gun Part 1 - Free Version",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "gun",
+        "part",
+        "1",
+        "free",
+        "version"
+      ],
+      "effect_kind": [],
+      "author": "Lyricsz",
+      "source_url": "https://opengameart.org/content/3d-gun-part-1-free-version",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "Lyricsz, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A110 라운드",
+      "preview": "3d-gun-part-1-free-version/preview.png",
+      "download_path": "3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-gun-part-2-free-version",
+      "name": "3D Gun Part 2 - Free Version",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "gun",
+        "part",
+        "2",
+        "free",
+        "version"
+      ],
+      "effect_kind": [],
+      "author": "Lyricsz",
+      "source_url": "https://opengameart.org/content/3d-gun-part-2-free-version",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "Lyricsz, CC0 (OpenGameArt)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "A110 라운드",
+      "preview": "3d-gun-part-2-free-version/preview.png",
+      "download_path": "3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip"
       ],
       "sample": null,
       "multipart": false,
