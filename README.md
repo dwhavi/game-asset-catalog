@@ -7,6 +7,12 @@
 
 ![게임 에셋 도서관 실제 화면 - 1,849개 에셋 검색·미리보기](4-game-asset-catalog.jpg)
 
+## 2026-11-17 A110 추가 (2팩, 총 1939팩)
+
+A110 라운드: OpenGameArt에서 CC0 3D 팩 2개(3D Gun Part 1 - Free Version, 3D Gun Part 2 - Free Version)를 수집했습니다. 효과음 후보는 종류 점검에서 게임 효과음이 아닌 음성 팩이 걸려 제거했고 등록하지 않았습니다.
+
+종류: 3D 2팩(assets-3d-lowpoly-2). zip 5MB 이하라 저장소 트리에 직접 두었습니다.
+
 ## 2026-11-17 A109 추가 (3팩, 총 1937팩)
 
 A109 라운드: OpenGameArt에서 CC0 3D 팩 2개(Stylized Low Poly Female Base Mesh (WIP), 3D Gun Part 3 - Free Version)와 효과음 팩 1개(Lo Fi Squelching noise)를 수집했습니다. 후보는 러너 안에서 전체 catalog.csv와 출처 URL·이름으로 대조했고, 팩마다 출처 페이지 License(s)=CC0만 확인했습니다.
