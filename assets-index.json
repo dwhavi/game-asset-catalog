@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@48d2ce9fe95bbd88dc8304ac72ad91e3ee609350",
-  "count": 1940,
+  "generated_from": "catalog.csv@f8336e3494061142ae364ae3a100071c4f440e15",
+  "count": 1941,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69064,6 +69064,43 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-grass-medium-01/polyhaven-grass-medium-01.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/polyhaven-grass-medium-01/polyhaven-grass-medium-01.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/concrete-049",
+      "name": "Concrete 049",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "ambientcg-concrete049/ambientcg-concrete049.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "concrete",
+        "texture",
+        "material",
+        "pbr",
+        "ambientcg"
+      ],
+      "effect_kind": [],
+      "author": "ambientCG",
+      "source_url": "https://ambientcg.com/a/Concrete049",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "표기 불필요",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-17",
+      "notes": "",
+      "preview": "ambientcg-concrete049/preview.jpg",
+      "download_path": "ambientcg-concrete049/ambientcg-concrete049.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-concrete049/ambientcg-concrete049.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-concrete049/ambientcg-concrete049.zip"
       ],
       "sample": null,
       "multipart": false,

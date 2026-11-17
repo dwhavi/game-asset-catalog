@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@48d2ce9fe95bbd88dc8304ac72ad91e3ee609350`
+> generated from `catalog.csv@f8336e3494061142ae364ae3a100071c4f440e15`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,6 +18,7 @@
 | [3D Gun Part 3 - Free Version](https://opengameart.org/content/3d-gun-part-3-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip) | 2026-11-17 |
 | [Aztec Buildings](https://opengameart.org/content/aztec-buildings) | `model-3d` | Kuvrot | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/a105-aztec-buildings/aztec-buildings.zip) | 2026-11-17 |
 | [building](https://opengameart.org/content/building-3) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/building-3/building-3.zip) | 2026-11-17 |
+| [Concrete 049](https://ambientcg.com/a/Concrete049) | `model-3d` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ambientcg-concrete049/ambientcg-concrete049.zip) | 2026-11-17 |
 | [Emotional Ghosts](https://opengameart.org/content/emotional-ghosts) | `model-3d` | JellyLion | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/emotional-ghosts/emotional-ghosts.zip) | 2026-11-17 |
 | [insect-sounds](https://opengameart.org/content/insect-sounds) | `sfx` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/insect-sounds/insect-sounds.zip) | 2026-11-17 |
 | [Lo Fi Squelching noise](https://opengameart.org/content/lo-fi-squelching-noise) | `sfx` | Some Weirdo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/lo-fi-squelching-noise/lo-fi-squelching-noise.zip) | 2026-11-17 |
@@ -112,4 +113,3 @@
 | [Low Poly Camping Assets](https://opengameart.org/content/low-poly-camping-assets) | `model-3d` | Saraskau | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-camping-assets/low-poly-camping-assets.zip) | 2026-11-13 |
 | [Low Poly Penguin (Rigged)](https://opengameart.org/content/low-poly-penguin-w-skeleton) | `model-3d` | WarmHoneyBun | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip) | 2026-11-13 |
 | [Low-poly Retro PSX Skeleton](https://opengameart.org/content/low-poly-retro-psx-skeleton) | `model-3d` | LonesomeDucky | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-retro-psx-skeleton/low-poly-retro-psx-skeleton.zip) | 2026-11-13 |
-| [Magic Flameblade - Pixel Art Animation](https://opengameart.org/content/%F0%9F%94%A5-magic-flameblade-pixel-art-animation) | `effect` | VoyPix | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/magic-flameblade/magic-flameblade.zip) | 2026-11-13 |
