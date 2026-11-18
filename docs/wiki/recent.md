@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@2e8db0062a851997f8c40f644b21e03a9e722194`
+> generated from `catalog.csv@a75a372acdb212ccbffdd01abce26b9bf78c44a5`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,6 +14,7 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Carmilla Vampire](https://opengameart.org/content/carmilla-vampire) | `model-3d` | JellyLion | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/carmilla-vampire/carmilla_vampire.zip) | 2026-11-18 |
+| [Goth female - Fleur du Mal](https://opengameart.org/content/goth-female-fleur-du-mal) | `character-3d` | TiZeta | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/goth-female-fleur-du-mal/goth-female-fleur-du-mal.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 2 - Free Version](https://opengameart.org/content/3d-gun-part-2-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 3 - Free Version](https://opengameart.org/content/3d-gun-part-3-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip) | 2026-11-17 |
@@ -112,4 +113,3 @@
 | [Lava Waves](https://opengameart.org/content/lava-waves) | `effect` | StalwartBlue | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/lava-waves/lava_wave.zip) | 2026-11-13 |
 | [Lock](https://opengameart.org/content/lock-1) | `model-3d` | Q2DENJINDREW | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/lock/lock.zip) | 2026-11-13 |
 | [Low Poly Camping Assets](https://opengameart.org/content/low-poly-camping-assets) | `model-3d` | Saraskau | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-camping-assets/low-poly-camping-assets.zip) | 2026-11-13 |
-| [Low Poly Penguin (Rigged)](https://opengameart.org/content/low-poly-penguin-w-skeleton) | `model-3d` | WarmHoneyBun | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/low-poly-penguin-w-skeleton/low-poly-penguin-w-skeleton.zip) | 2026-11-13 |
