@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@a1be107202e1fd404db933400e748d849f2545a2",
-  "count": 1962,
+  "generated_from": "catalog.csv@2ff9407a8e5b0b5cb6e348ef95224087d195e355",
+  "count": 1964,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69777,6 +69777,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/low-poly-anime-girl",
+      "name": "Low poly anime girl",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "low-poly-anime-girl/low-poly-anime-girl.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "LcohTheNerd",
+      "source_url": "https://opengameart.org/content/low-poly-anime-girl",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: LcohTheNerd (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "low-poly-anime-girl/preview.png",
+      "download_path": "low-poly-anime-girl/low-poly-anime-girl.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-anime-girl/low-poly-anime-girl.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-anime-girl/low-poly-anime-girl.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/sci-fi-radio-dish-antenna",
+      "name": "Sci-Fi Radio Dish Antenna",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "release:pack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "David W CG",
+      "source_url": "https://opengameart.org/content/sci-fi-radio-dish-antenna",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: David W CG (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": "sci-fi-radio-dish-antenna/preview.png",
+      "download_path": "release:pack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip"
       ],
       "sample": null,
       "multipart": false,

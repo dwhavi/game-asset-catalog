@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@a1be107202e1fd404db933400e748d849f2545a2`
+> generated from `catalog.csv@2ff9407a8e5b0b5cb6e348ef95224087d195e355`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **513개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **515개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 513개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 515개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -30,11 +30,13 @@
 | [futeristic skyscraper](https://opengameart.org/content/futeristic-skyscraper) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/futeristic-skyscraper/futeristic-skyscraper.zip) | 2026-11-18 |
 | [Gamepad](https://opengameart.org/content/gamepad) | `model-3d` | KOTEES205 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/gamepad/gamepad.zip) | 2026-11-18 |
 | [Low Poly Animal Pack (WIP)](https://opengameart.org/content/low-poly-animal-pack-wip) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-animal-pack-wip/low-poly-animal-pack-wip.zip) | 2026-11-18 |
+| [Low poly anime girl](https://opengameart.org/content/low-poly-anime-girl) | `model-3d` | LcohTheNerd | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-anime-girl/low-poly-anime-girl.zip) | 2026-11-18 |
 | [Low Poly Weapon Pack](https://opengameart.org/content/low-poly-weapon-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip) | 2026-11-18 |
 | [Objects](https://opengameart.org/content/objects-1) | `model-3d` | ZigRain | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip) | 2026-11-18 |
 | [Prehistoric car](https://opengameart.org/content/prehistoric-car) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-prehistoric-car/prehistoric-car.zip) | 2026-11-18 |
 | [rainbow cat](https://opengameart.org/content/rainbow-cat) | `model-3d` | hacknorris | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rainbow-cat/rainbow-cat.zip) | 2026-11-18 |
 | [Rigged Low-Poly female character](https://opengameart.org/content/rigged-low-poly-female-character) | `model-3d` | NullGarel | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip) | 2026-11-18 |
+| [Sci-Fi Radio Dish Antenna](https://opengameart.org/content/sci-fi-radio-dish-antenna) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip) | 2026-11-18 |
 | [Simple Checker Pieces](https://opengameart.org/content/simple-checker-pieces) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip) | 2026-11-18 |
 | [Simple Piano Bench](https://opengameart.org/content/simple-piano-bench) | `model-3d` | musah | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
@@ -415,5 +417,3 @@
 | [Modular Dungeon Kit](https://kenney.nl/assets/modular-dungeon-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-dungeon-kit.zip) | 2026-10-29 |
 | [Modular Dungeon Pack](https://opengameart.org/content/lowpoly-modular-dungeon) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.9/modular-dungeon-pack.zip) | 2026-10-29 |
 | [Modular Platformer Pack](https://quaternius.com/packs/modularplatformer.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.7/modular-platformer-pack.zip) | 2026-10-29 |
-| [Modular Space Kit](https://kenney.nl/assets/modular-space-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-space-kit.zip) | 2026-10-29 |
-| [penguin](https://opengameart.org/content/penguin-1) | `model-3d` | konserwa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.14/penguin-1.zip) | 2026-10-29 |

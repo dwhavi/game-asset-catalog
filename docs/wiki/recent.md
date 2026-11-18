@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@a1be107202e1fd404db933400e748d849f2545a2`
+> generated from `catalog.csv@2ff9407a8e5b0b5cb6e348ef95224087d195e355`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-13.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-14.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
@@ -27,11 +27,13 @@
 | [Gamepad](https://opengameart.org/content/gamepad) | `model-3d` | KOTEES205 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/gamepad/gamepad.zip) | 2026-11-18 |
 | [Goth female - Fleur du Mal](https://opengameart.org/content/goth-female-fleur-du-mal) | `character-3d` | TiZeta | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/goth-female-fleur-du-mal/goth-female-fleur-du-mal.zip) | 2026-11-18 |
 | [Low Poly Animal Pack (WIP)](https://opengameart.org/content/low-poly-animal-pack-wip) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-animal-pack-wip/low-poly-animal-pack-wip.zip) | 2026-11-18 |
+| [Low poly anime girl](https://opengameart.org/content/low-poly-anime-girl) | `model-3d` | LcohTheNerd | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-anime-girl/low-poly-anime-girl.zip) | 2026-11-18 |
 | [Low Poly Weapon Pack](https://opengameart.org/content/low-poly-weapon-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip) | 2026-11-18 |
 | [Objects](https://opengameart.org/content/objects-1) | `model-3d` | ZigRain | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip) | 2026-11-18 |
 | [Prehistoric car](https://opengameart.org/content/prehistoric-car) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-prehistoric-car/prehistoric-car.zip) | 2026-11-18 |
 | [rainbow cat](https://opengameart.org/content/rainbow-cat) | `model-3d` | hacknorris | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rainbow-cat/rainbow-cat.zip) | 2026-11-18 |
 | [Rigged Low-Poly female character](https://opengameart.org/content/rigged-low-poly-female-character) | `model-3d` | NullGarel | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip) | 2026-11-18 |
+| [Sci-Fi Radio Dish Antenna](https://opengameart.org/content/sci-fi-radio-dish-antenna) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip) | 2026-11-18 |
 | [Simple Checker Pieces](https://opengameart.org/content/simple-checker-pieces) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip) | 2026-11-18 |
 | [Simple Piano Bench](https://opengameart.org/content/simple-piano-bench) | `model-3d` | musah | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
@@ -111,5 +113,3 @@
 | [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
 | [Toolbox](https://opengameart.org/content/toolbox-0) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/toolbox/toolbox.zip) | 2026-11-14 |
 | [Various Small Arms (Assault Rifles, Sniper, Pistol)](https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol) | `model-3d` | tabasco | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip) | 2026-11-14 |
-| [3D Sara - Wizard](https://opengameart.org/content/3d-sara-wizard) | `model-3d` | Mish7913 | CC-BY 3.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip) | 2026-11-13 |
-| [512x512 explosion](https://opengameart.org/content/512x512-explosion) | `effect` | johndekale | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip) | 2026-11-13 |
