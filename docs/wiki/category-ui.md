@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7670d4358b9593b9f926e01e32284411afd549fd`
+> generated from `catalog.csv@8ca475f50a1d4a9a5ebac683b789ccb00be1c123`
 
 # UI 모음
 

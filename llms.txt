@@ -1,8 +1,8 @@
 # game-asset-catalog
 
-> generated from `catalog.csv@7670d4358b9593b9f926e01e32284411afd549fd` by tools/build_wiki.py (do not edit by hand)
+> generated from `catalog.csv@8ca475f50a1d4a9a5ebac683b789ccb00be1c123` by tools/build_wiki.py (do not edit by hand)
 
-Catalog of 1944 free game asset packs (2D sprites and tilesets, 3D models, UI and icons, sound effects, music, VFX) with source, author, licence and attribution data. Only redistributable licences are listed. The packs themselves live in sibling repos (assets-2d-pixel, assets-3d-lowpoly, assets-ui-icons, assets-audio, assets-2d-portraits); this repo holds the index, the search site and a wiki.
+Catalog of 1948 free game asset packs (2D sprites and tilesets, 3D models, UI and icons, sound effects, music, VFX) with source, author, licence and attribution data. Only redistributable licences are listed. The packs themselves live in sibling repos (assets-2d-pixel, assets-3d-lowpoly, assets-ui-icons, assets-audio, assets-2d-portraits); this repo holds the index, the search site and a wiki.
 
 ## Machine-readable data
 - Library site (search UI): https://sigco3111.github.io/game-asset-catalog/
@@ -34,8 +34,8 @@ Example: https://sigco3111.github.io/game-asset-catalog/?cat=sfx&fx=explosion&li
 ## Regenerate
 `python3 tools/build_index.py` (catalog.csv -> assets-index.json, assets-index.min.json, docs/index-report.md) then `python3 tools/build_wiki.py` (-> docs/wiki/*.md and this file). Python 3 stdlib only; output is deterministic. `python3 tools/build_wiki.py --check` validates links and counts.
 
-## Counts snapshot (catalog.csv@7670d4358b9593b9f926e01e32284411afd549fd)
-- Assets: 1944; attribution required: 165; AI-generated: 30
-- By licence family: cc0 1776, cc-by 152, mit 3, gpl 10, other 3
-- By category: effect 145, sfx 242, music 230, voice 2, tileset-2d 146, sprite-2d 132, background-2d 27, map-2d 3, ui 205, icon 40, portrait 2, font 2, texture 70, model-3d 495, character-3d 33, vehicle-3d 10, building-3d 23, board 5, puzzle 2, other 130
+## Counts snapshot (catalog.csv@8ca475f50a1d4a9a5ebac683b789ccb00be1c123)
+- Assets: 1948; attribution required: 167; AI-generated: 30
+- By licence family: cc0 1778, cc-by 154, mit 3, gpl 10, other 3
+- By category: effect 145, sfx 242, music 230, voice 2, tileset-2d 146, sprite-2d 132, background-2d 27, map-2d 3, ui 205, icon 40, portrait 2, font 2, texture 70, model-3d 499, character-3d 33, vehicle-3d 10, building-3d 23, board 5, puzzle 2, other 130
 - By effect_kind: hit 45, impact 49, magic 97, explosion 67, fire 54, ice 21, lightning 26, wind 9, heal 16, laser 15, particle 30, smoke 12, aura 7, projectile 27, slash 9

@@ -1,5 +1,25 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261118-19 자동 수집 등록 (4팩, 2026-11-18 19:41 KST)
+
+- 팩: Fancy Poker Chip (slug fancy-poker-chip), 라이선스: CC0, 제작자: optimuspryne
+- 출처: https://opengameart.org/content/fancy-poker-chip
+- 저장: assets-3d-lowpoly-2 fancy-poker-chip/fancy-poker-chip.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1944→1948, 기존 행 불변 확인
+- 팩: futeristic skyscraper (slug futeristic-skyscraper), 라이선스: CC0, 제작자: musher3004
+- 출처: https://opengameart.org/content/futeristic-skyscraper
+- 저장: assets-3d-lowpoly-2 futeristic-skyscraper/futeristic-skyscraper.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1944→1948, 기존 행 불변 확인
+- 팩: Prehistoric car (slug prehistoric-car), 라이선스: CC-BY 3.0, 제작자: lucius39
+- 출처: https://opengameart.org/content/prehistoric-car
+- 저장: assets-3d-lowpoly-2 release:pack-prehistoric-car/prehistoric-car.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1944→1948, 기존 행 불변 확인
+- 팩: Rigged Low-Poly female character (slug rigged-low-poly-female-character), 라이선스: CC-BY 4.0, 제작자: NullGarel
+- 출처: https://opengameart.org/content/rigged-low-poly-female-character
+- 저장: assets-3d-lowpoly-2 rigged-low-poly-female-character/rigged-low-poly-female-character.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1944→1948, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261118-15 자동 수집 등록 (1팩, 2026-11-18 15:36 KST)
 
 - 팩: Simple Checker Pieces (slug simple-checker-pieces), 라이선스: CC0, 제작자: optimuspryne
