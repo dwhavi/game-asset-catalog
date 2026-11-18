@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@955552f6de70d889f1bfcca6ae1863ba1c309bcc`
+> generated from `catalog.csv@58cac62a05e727c28280e66aff639be76775ef7f`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **519개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **521개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 519개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 521개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [espada 3D low poly](https://opengameart.org/content/espada-3d-low-poly) | `model-3d` | Tiago Berger | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip) | 2026-11-18 |
 | [Face 2026](https://opengameart.org/content/face-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip) | 2026-11-18 |
 | [Fancy Poker Chip](https://opengameart.org/content/fancy-poker-chip) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fancy-poker-chip/fancy-poker-chip.zip) | 2026-11-18 |
+| [Free 3D Model: Face 5 Woman](https://opengameart.org/content/free-3d-model-face-5-woman) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/free-3d-model-face-5-woman/free-3d-model-face-5-woman.zip) | 2026-11-18 |
 | [futeristic skyscraper](https://opengameart.org/content/futeristic-skyscraper) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/futeristic-skyscraper/futeristic-skyscraper.zip) | 2026-11-18 |
 | [Gamepad](https://opengameart.org/content/gamepad) | `model-3d` | KOTEES205 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/gamepad/gamepad.zip) | 2026-11-18 |
 | [Human Foot 3D Model](https://opengameart.org/content/human-foot-3d-model) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/human-foot-3d-model/human-foot-3d-model.zip) | 2026-11-18 |
@@ -35,6 +36,7 @@
 | [Low poly anime girl](https://opengameart.org/content/low-poly-anime-girl) | `model-3d` | LcohTheNerd | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-anime-girl/low-poly-anime-girl.zip) | 2026-11-18 |
 | [Low Poly Weapon Pack](https://opengameart.org/content/low-poly-weapon-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip) | 2026-11-18 |
 | [Objects](https://opengameart.org/content/objects-1) | `model-3d` | ZigRain | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip) | 2026-11-18 |
+| [PaperClip](https://opengameart.org/content/paperclip) | `model-3d` | st0m4rv3r | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/paperclip/paperclip.zip) | 2026-11-18 |
 | [Prehistoric car](https://opengameart.org/content/prehistoric-car) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-prehistoric-car/prehistoric-car.zip) | 2026-11-18 |
 | [rainbow cat](https://opengameart.org/content/rainbow-cat) | `model-3d` | hacknorris | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rainbow-cat/rainbow-cat.zip) | 2026-11-18 |
 | [Rigged Low-Poly female character](https://opengameart.org/content/rigged-low-poly-female-character) | `model-3d` | NullGarel | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip) | 2026-11-18 |
@@ -415,5 +417,3 @@
 | [Mini Dungeon](https://kenney.nl/assets/mini-dungeon) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/mini-dungeon.zip) | 2026-10-29 |
 | [Mini Forest](https://kenney.nl/assets/mini-forest) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/mini-forest.zip) | 2026-10-29 |
 | [Mini Market](https://kenney.nl/assets/mini-market) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/mini-market.zip) | 2026-10-29 |
-| [Mini Skate](https://kenney.nl/assets/mini-skate) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/mini-skate.zip) | 2026-10-29 |
-| [Modular Cave Kit](https://kenney.nl/assets/modular-cave-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-cave-kit.zip) | 2026-10-29 |

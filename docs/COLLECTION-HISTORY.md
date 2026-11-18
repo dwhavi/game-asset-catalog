@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-07 자동 수집 등록 (2팩, 2026-11-19 07:30 KST)
+
+- 팩: Free 3D Model: Face 5 Woman (slug free-3d-model-face-5-woman), 라이선스: CC0, 제작자: byzmod3d
+- 출처: https://opengameart.org/content/free-3d-model-face-5-woman
+- 저장: assets-3d-lowpoly-2 free-3d-model-face-5-woman/free-3d-model-face-5-woman.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1968→1970, 기존 행 불변 확인
+- 팩: PaperClip (slug paperclip), 라이선스: CC0, 제작자: st0m4rv3r
+- 출처: https://opengameart.org/content/paperclip
+- 저장: assets-3d-lowpoly-2 paperclip/paperclip.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1968→1970, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-06 자동 수집 등록 (2팩, 2026-11-19 06:37 KST)
 
 - 팩: Stylized Chess Pieces (slug stylized-chess-pieces), 라이선스: CC0, 제작자: Lyricsz

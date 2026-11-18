@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@955552f6de70d889f1bfcca6ae1863ba1c309bcc`
+> generated from `catalog.csv@58cac62a05e727c28280e66aff639be76775ef7f`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -23,6 +23,7 @@
 | [espada 3D low poly](https://opengameart.org/content/espada-3d-low-poly) | `model-3d` | Tiago Berger | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip) | 2026-11-18 |
 | [Face 2026](https://opengameart.org/content/face-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip) | 2026-11-18 |
 | [Fancy Poker Chip](https://opengameart.org/content/fancy-poker-chip) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fancy-poker-chip/fancy-poker-chip.zip) | 2026-11-18 |
+| [Free 3D Model: Face 5 Woman](https://opengameart.org/content/free-3d-model-face-5-woman) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/free-3d-model-face-5-woman/free-3d-model-face-5-woman.zip) | 2026-11-18 |
 | [futeristic skyscraper](https://opengameart.org/content/futeristic-skyscraper) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/futeristic-skyscraper/futeristic-skyscraper.zip) | 2026-11-18 |
 | [Gamepad](https://opengameart.org/content/gamepad) | `model-3d` | KOTEES205 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/gamepad/gamepad.zip) | 2026-11-18 |
 | [Goth female - Fleur du Mal](https://opengameart.org/content/goth-female-fleur-du-mal) | `character-3d` | TiZeta | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/goth-female-fleur-du-mal/goth-female-fleur-du-mal.zip) | 2026-11-18 |
@@ -32,6 +33,7 @@
 | [Low poly anime girl](https://opengameart.org/content/low-poly-anime-girl) | `model-3d` | LcohTheNerd | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-anime-girl/low-poly-anime-girl.zip) | 2026-11-18 |
 | [Low Poly Weapon Pack](https://opengameart.org/content/low-poly-weapon-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip) | 2026-11-18 |
 | [Objects](https://opengameart.org/content/objects-1) | `model-3d` | ZigRain | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip) | 2026-11-18 |
+| [PaperClip](https://opengameart.org/content/paperclip) | `model-3d` | st0m4rv3r | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/paperclip/paperclip.zip) | 2026-11-18 |
 | [Prehistoric car](https://opengameart.org/content/prehistoric-car) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-prehistoric-car/prehistoric-car.zip) | 2026-11-18 |
 | [rainbow cat](https://opengameart.org/content/rainbow-cat) | `model-3d` | hacknorris | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rainbow-cat/rainbow-cat.zip) | 2026-11-18 |
 | [Rigged Low-Poly female character](https://opengameart.org/content/rigged-low-poly-female-character) | `model-3d` | NullGarel | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip) | 2026-11-18 |
@@ -111,5 +113,3 @@
 | [Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack](https://opengameart.org/content/monsters-of-nature-all-pack) | `effect` | qwerty2723 | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/monsters-of-nature-all-pack/monsters-of-nature-all-pack.zip) | 2026-11-14 |
 | [Platformer Animations](https://opengameart.org/content/platformer-animations) | `effect` | clint-bellanger | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/platformer-animations/platformer-animations.zip) | 2026-11-14 |
 | [Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-14 |
-| [RTS medieval props](https://opengameart.org/content/rts-medieval-props) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend) | 2026-11-14 |
-| [Skybound Six Synthesized SFX](https://github.com/AgenticGameDevs/generated-assets) | `sfx` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/skybound-synthesized-sfx/skybound-synthesized-sfx.zip) | 2026-11-14 |
