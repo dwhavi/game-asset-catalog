@@ -1,0 +1,39 @@
+name: auto-register2
+on:
+  schedule:
+    - cron: "53 * * * *"
+  workflow_dispatch:
+concurrency:
+  group: auto-register
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  register:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: 원본 auto-register.yml 의 단계를 그대로 실행
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import json, subprocess, sys
+          d = json.load(open('.github/workflows/auto-register.yml'))
+          for st in d['jobs']['register']['steps']:
+              u = st.get('uses', '')
+              if u.startswith('actions/checkout'):
+                  w = st.get('with', {})
+                  if w.get('repository'):
+                      subprocess.run(['git', 'clone', '--depth', '1', 'https://github.com/' + w['repository'] + '.git', w.get('path', 'x')], check=True)
+                  continue
+              if 'run' not in st:
+                  continue
+              print('== step:', st.get('name'), flush=True)
+              r = subprocess.run(['bash', '-c', st['run']])
+              if r.returncode != 0:
+                  sys.exit(r.returncode)
+          PY
