@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-06 자동 수집 등록 (2팩, 2026-11-19 06:37 KST)
+
+- 팩: Stylized Chess Pieces (slug stylized-chess-pieces), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/stylized-chess-pieces
+- 저장: assets-3d-lowpoly-2 stylized-chess-pieces/stylized-chess-pieces.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1966→1968, 기존 행 불변 확인
+- 팩: Xenia The Linux Fox (slug xenia-the-linux-fox-0), 라이선스: CC0, 제작자: illegal_instruction
+- 출처: https://opengameart.org/content/xenia-the-linux-fox-0
+- 저장: assets-3d-lowpoly-2 xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1966→1968, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-05 자동 수집 등록 (2팩, 2026-11-19 05:31 KST)
 
 - 팩: Human Foot 3D Model (slug human-foot-3d-model), 라이선스: CC0, 제작자: byzmod3d

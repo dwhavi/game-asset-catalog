@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d34f19dd15692f93f3810e31382249eb4b565b12`
+> generated from `catalog.csv@955552f6de70d889f1bfcca6ae1863ba1c309bcc`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **517개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **519개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 517개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 519개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -41,6 +41,8 @@
 | [Sci-Fi Radio Dish Antenna](https://opengameart.org/content/sci-fi-radio-dish-antenna) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip) | 2026-11-18 |
 | [Simple Checker Pieces](https://opengameart.org/content/simple-checker-pieces) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip) | 2026-11-18 |
 | [Simple Piano Bench](https://opengameart.org/content/simple-piano-bench) | `model-3d` | musah | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip) | 2026-11-18 |
+| [Stylized Chess Pieces](https://opengameart.org/content/stylized-chess-pieces) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-chess-pieces/stylized-chess-pieces.zip) | 2026-11-18 |
+| [Xenia The Linux Fox](https://opengameart.org/content/xenia-the-linux-fox-0) | `model-3d` | illegal\_instruction | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 2 - Free Version](https://opengameart.org/content/3d-gun-part-2-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 3 - Free Version](https://opengameart.org/content/3d-gun-part-3-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip) | 2026-11-17 |
@@ -415,5 +417,3 @@
 | [Mini Market](https://kenney.nl/assets/mini-market) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/mini-market.zip) | 2026-10-29 |
 | [Mini Skate](https://kenney.nl/assets/mini-skate) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/mini-skate.zip) | 2026-10-29 |
 | [Modular Cave Kit](https://kenney.nl/assets/modular-cave-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-cave-kit.zip) | 2026-10-29 |
-| [Modular Character Outfits - Fantasy](https://quaternius.com/packs/modularcharacteroutfitsfantasy.html) | `model-3d` | Quaternius | CC0 | X | X | 19개 분할 | 2026-10-29 |
-| [Modular Dungeon Kit](https://kenney.nl/assets/modular-dungeon-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-dungeon-kit.zip) | 2026-10-29 |

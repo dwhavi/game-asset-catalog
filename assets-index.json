@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@d34f19dd15692f93f3810e31382249eb4b565b12",
-  "count": 1966,
+  "generated_from": "catalog.csv@955552f6de70d889f1bfcca6ae1863ba1c309bcc",
+  "count": 1968,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69905,6 +69905,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/keith-c-mascot/keith-c-mascot.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/keith-c-mascot/keith-c-mascot.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/stylized-chess-pieces",
+      "name": "Stylized Chess Pieces",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "stylized-chess-pieces/stylized-chess-pieces.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Lyricsz",
+      "source_url": "https://opengameart.org/content/stylized-chess-pieces",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Lyricsz (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "stylized-chess-pieces/preview.png",
+      "download_path": "stylized-chess-pieces/stylized-chess-pieces.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-chess-pieces/stylized-chess-pieces.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-chess-pieces/stylized-chess-pieces.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/xenia-the-linux-fox",
+      "name": "Xenia The Linux Fox",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "illegal_instruction",
+      "source_url": "https://opengameart.org/content/xenia-the-linux-fox-0",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: illegal_instruction (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "xenia-the-linux-fox-0/preview.png",
+      "download_path": "xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip"
       ],
       "sample": null,
       "multipart": false,

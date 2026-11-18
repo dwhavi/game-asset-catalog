@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d34f19dd15692f93f3810e31382249eb4b565b12`
+> generated from `catalog.csv@955552f6de70d889f1bfcca6ae1863ba1c309bcc`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -38,6 +38,8 @@
 | [Sci-Fi Radio Dish Antenna](https://opengameart.org/content/sci-fi-radio-dish-antenna) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip) | 2026-11-18 |
 | [Simple Checker Pieces](https://opengameart.org/content/simple-checker-pieces) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip) | 2026-11-18 |
 | [Simple Piano Bench](https://opengameart.org/content/simple-piano-bench) | `model-3d` | musah | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip) | 2026-11-18 |
+| [Stylized Chess Pieces](https://opengameart.org/content/stylized-chess-pieces) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-chess-pieces/stylized-chess-pieces.zip) | 2026-11-18 |
+| [Xenia The Linux Fox](https://opengameart.org/content/xenia-the-linux-fox-0) | `model-3d` | illegal\_instruction | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 2 - Free Version](https://opengameart.org/content/3d-gun-part-2-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 3 - Free Version](https://opengameart.org/content/3d-gun-part-3-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip) | 2026-11-17 |
@@ -111,5 +113,3 @@
 | [Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-14 |
 | [RTS medieval props](https://opengameart.org/content/rts-medieval-props) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rts-medieval-props/rts-medieval-props.blend) | 2026-11-14 |
 | [Skybound Six Synthesized SFX](https://github.com/AgenticGameDevs/generated-assets) | `sfx` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/skybound-synthesized-sfx/skybound-synthesized-sfx.zip) | 2026-11-14 |
-| [Stylised Fantasy Weapons](https://opengameart.org/content/stylised-fantasy-weapons) | `model-3d` | mastahcez | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylised-fantasy-weapons/stylised-fantasy-weapons.zip) | 2026-11-14 |
-| [Tool Pack 1](https://opengameart.org/content/tool-pack-1) | `other` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/tool-pack-1/tool_pack_1.zip) | 2026-11-14 |
