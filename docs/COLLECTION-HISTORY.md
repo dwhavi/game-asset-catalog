@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-01 자동 수집 등록 (2팩, 2026-11-19 01:31 KST)
+
+- 팩: Gamepad (slug gamepad), 라이선스: CC0, 제작자: KOTEES205
+- 출처: https://opengameart.org/content/gamepad
+- 저장: assets-3d-lowpoly-2 gamepad/gamepad.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1958→1960, 기존 행 불변 확인
+- 팩: rainbow cat (slug rainbow-cat), 라이선스: CC-BY 3.0, 제작자: hacknorris
+- 출처: https://opengameart.org/content/rainbow-cat
+- 저장: assets-3d-lowpoly-2 rainbow-cat/rainbow-cat.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1958→1960, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-00 자동 수집 등록 (2팩, 2026-11-19 00:34 KST)
 
 - 팩: Brain and Skull (slug brain-and-skull), 라이선스: CC0, 제작자: Drummyfish
