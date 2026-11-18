@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@103e721813e4b49f3d36ff7a7ba7bb82a643665c",
-  "count": 1952,
+  "generated_from": "catalog.csv@d075e75b7725259ff8b9a4c4a73a48321579feb8",
+  "count": 1954,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69457,6 +69457,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-female-model-2026",
+      "name": "3D female model 2026",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-female-model-2026/3d-female-model-2026.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/3d-female-model-2026",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: byzmod3d (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "3d-female-model-2026/preview.png",
+      "download_path": "3d-female-model-2026/3d-female-model-2026.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-female-model-2026/3d-female-model-2026.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-female-model-2026/3d-female-model-2026.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-male-model-2026",
+      "name": "3D male model 2026",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-male-model-2026/3d-male-model-2026.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/3d-male-model-2026",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: byzmod3d (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "3d-male-model-2026/preview.png",
+      "download_path": "3d-male-model-2026/3d-male-model-2026.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-male-model-2026/3d-male-model-2026.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-male-model-2026/3d-male-model-2026.zip"
       ],
       "sample": null,
       "multipart": false,

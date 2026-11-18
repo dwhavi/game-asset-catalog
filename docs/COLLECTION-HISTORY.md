@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261118-22 자동 수집 등록 (2팩, 2026-11-18 22:32 KST)
+
+- 팩: 3D female model 2026 (slug 3d-female-model-2026), 라이선스: CC0, 제작자: byzmod3d
+- 출처: https://opengameart.org/content/3d-female-model-2026
+- 저장: assets-3d-lowpoly-2 3d-female-model-2026/3d-female-model-2026.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1952→1954, 기존 행 불변 확인
+- 팩: 3D male model 2026 (slug 3d-male-model-2026), 라이선스: CC0, 제작자: byzmod3d
+- 출처: https://opengameart.org/content/3d-male-model-2026
+- 저장: assets-3d-lowpoly-2 3d-male-model-2026/3d-male-model-2026.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1952→1954, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261118-21 자동 수집 등록 (2팩, 2026-11-18 21:32 KST)
 
 - 팩: Low Poly Animal Pack (WIP) (slug low-poly-animal-pack-wip), 라이선스: CC0, 제작자: byzmod3d
