@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-00 자동 수집 등록 (2팩, 2026-11-19 00:34 KST)
+
+- 팩: Brain and Skull (slug brain-and-skull), 라이선스: CC0, 제작자: Drummyfish
+- 출처: https://opengameart.org/content/brain-and-skull
+- 저장: assets-3d-lowpoly-2 brain-and-skull/brain-and-skull.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1956→1958, 기존 행 불변 확인
+- 팩: Cute skull character (slug cute-skull-character), 라이선스: CC0, 제작자: JellyLion
+- 출처: https://opengameart.org/content/cute-skull-character
+- 저장: assets-3d-lowpoly-2 cute-skull-character/cute-skull-character.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1956→1958, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261118-23 자동 수집 등록 (2팩, 2026-11-18 23:34 KST)
 
 - 팩: Face 2026 (slug face-2026), 라이선스: CC0, 제작자: byzmod3d

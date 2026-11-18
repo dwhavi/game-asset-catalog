@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6e75f727a785a3d3e3c93168272e3daf3edff2d3`
+> generated from `catalog.csv@ba576aadac2075c6fdd35f3353fe91789b7e732d`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,7 +16,9 @@
 | [3D Delivery Spaceship](https://opengameart.org/content/3d-delivery-spaceship) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-delivery-spaceship/3d-delivery-spaceship.zip) | 2026-11-18 |
 | [3D female model 2026](https://opengameart.org/content/3d-female-model-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-female-model-2026/3d-female-model-2026.zip) | 2026-11-18 |
 | [3D male model 2026](https://opengameart.org/content/3d-male-model-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-male-model-2026/3d-male-model-2026.zip) | 2026-11-18 |
+| [Brain and Skull](https://opengameart.org/content/brain-and-skull) | `model-3d` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/brain-and-skull/brain-and-skull.zip) | 2026-11-18 |
 | [Carmilla Vampire](https://opengameart.org/content/carmilla-vampire) | `model-3d` | JellyLion | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/carmilla-vampire/carmilla_vampire.zip) | 2026-11-18 |
+| [Cute skull character](https://opengameart.org/content/cute-skull-character) | `model-3d` | JellyLion | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cute-skull-character/cute-skull-character.zip) | 2026-11-18 |
 | [espada 3D low poly](https://opengameart.org/content/espada-3d-low-poly) | `model-3d` | Tiago Berger | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip) | 2026-11-18 |
 | [Face 2026](https://opengameart.org/content/face-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip) | 2026-11-18 |
 | [Fancy Poker Chip](https://opengameart.org/content/fancy-poker-chip) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fancy-poker-chip/fancy-poker-chip.zip) | 2026-11-18 |
@@ -111,5 +113,3 @@
 | [Armadillo Foe](https://opengameart.org/content/armadillo-foe) | `model-3d` | overactiongamestudio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/armadillo-foe/Armadillo-3D-Pack-Fbx-Obj.zip) | 2026-11-13 |
 | [Asian Girl](https://opengameart.org/content/asian-girl) | `model-3d` | McPato | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/asian-girl/dorposefbx.zip) | 2026-11-13 |
 | [B-chan](https://opengameart.org/content/b-chan) | `model-3d` | hardboileduser (원작 AmarilloArts) | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend) | 2026-11-13 |
-| [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
-| [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |

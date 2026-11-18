@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@6e75f727a785a3d3e3c93168272e3daf3edff2d3",
-  "count": 1956,
+  "generated_from": "catalog.csv@ba576aadac2075c6fdd35f3353fe91789b7e732d",
+  "count": 1958,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69585,6 +69585,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/brain-and-skull",
+      "name": "Brain and Skull",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "brain-and-skull/brain-and-skull.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Drummyfish",
+      "source_url": "https://opengameart.org/content/brain-and-skull",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Drummyfish (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "brain-and-skull/preview.png",
+      "download_path": "brain-and-skull/brain-and-skull.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/brain-and-skull/brain-and-skull.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/brain-and-skull/brain-and-skull.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/cute-skull-character",
+      "name": "Cute skull character",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "cute-skull-character/cute-skull-character.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "JellyLion",
+      "source_url": "https://opengameart.org/content/cute-skull-character",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: JellyLion (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "cute-skull-character/preview.png",
+      "download_path": "cute-skull-character/cute-skull-character.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cute-skull-character/cute-skull-character.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cute-skull-character/cute-skull-character.zip"
       ],
       "sample": null,
       "multipart": false,
