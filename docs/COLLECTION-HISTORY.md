@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261118-15 자동 수집 등록 (1팩, 2026-11-18 15:36 KST)
+
+- 팩: Simple Checker Pieces (slug simple-checker-pieces), 라이선스: CC0, 제작자: optimuspryne
+- 출처: https://opengameart.org/content/simple-checker-pieces
+- 저장: assets-3d-lowpoly-2 simple-checker-pieces/simple-checker-pieces.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1943→1944, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### A114 수동 라운드 (1팩, 2026-11-18 KST)
 
 - 팩: Carmilla Vampire (slug carmilla-vampire), 라이선스: CC-BY 4.0, 제작자: JellyLion

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@aaefd79bde67e7a16d113c6d79529eb47245e2f9",
-  "count": 1943,
+  "generated_from": "catalog.csv@52036774170c4e9d35e266b1df57cd6cbee50dbc",
+  "count": 1944,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69169,6 +69169,38 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/goth-female-fleur-du-mal/goth-female-fleur-du-mal.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/goth-female-fleur-du-mal/goth-female-fleur-du-mal.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/simple-checker-pieces",
+      "name": "Simple Checker Pieces",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "simple-checker-pieces/simple-checker-pieces.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "optimuspryne",
+      "source_url": "https://opengameart.org/content/simple-checker-pieces",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: optimuspryne (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "simple-checker-pieces/preview.png",
+      "download_path": "simple-checker-pieces/simple-checker-pieces.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip"
       ],
       "sample": null,
       "multipart": false,
