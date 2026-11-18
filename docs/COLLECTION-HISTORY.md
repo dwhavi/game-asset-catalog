@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261118-23 자동 수집 등록 (2팩, 2026-11-18 23:34 KST)
+
+- 팩: Face 2026 (slug face-2026), 라이선스: CC0, 제작자: byzmod3d
+- 출처: https://opengameart.org/content/face-2026
+- 저장: assets-3d-lowpoly-2 face-2026/face-2026.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1954→1956, 기존 행 불변 확인
+- 팩: Low Poly Weapon Pack (slug low-poly-weapon-pack), 라이선스: CC0, 제작자: byzmod3d
+- 출처: https://opengameart.org/content/low-poly-weapon-pack
+- 저장: assets-3d-lowpoly-2 low-poly-weapon-pack/low-poly-weapon-pack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1954→1956, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261118-22 자동 수집 등록 (2팩, 2026-11-18 22:32 KST)
 
 - 팩: 3D female model 2026 (slug 3d-female-model-2026), 라이선스: CC0, 제작자: byzmod3d

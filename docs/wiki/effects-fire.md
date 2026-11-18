@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d075e75b7725259ff8b9a4c4a73a48321579feb8`
+> generated from `catalog.csv@6e75f727a785a3d3e3c93168272e3daf3edff2d3`
 
 # 불 이펙트 모음
 

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@d075e75b7725259ff8b9a4c4a73a48321579feb8",
-  "count": 1954,
+  "generated_from": "catalog.csv@6e75f727a785a3d3e3c93168272e3daf3edff2d3",
+  "count": 1956,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69521,6 +69521,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-male-model-2026/3d-male-model-2026.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-male-model-2026/3d-male-model-2026.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/face-2026",
+      "name": "Face 2026",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "face-2026/face-2026.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/face-2026",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: byzmod3d (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "face-2026/preview.png",
+      "download_path": "face-2026/face-2026.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/low-poly-weapon-pack",
+      "name": "Low Poly Weapon Pack",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "low-poly-weapon-pack/low-poly-weapon-pack.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/low-poly-weapon-pack",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: byzmod3d (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "low-poly-weapon-pack/preview.png",
+      "download_path": "low-poly-weapon-pack/low-poly-weapon-pack.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip"
       ],
       "sample": null,
       "multipart": false,

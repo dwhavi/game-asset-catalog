@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d075e75b7725259ff8b9a4c4a73a48321579feb8`
+> generated from `catalog.csv@6e75f727a785a3d3e3c93168272e3daf3edff2d3`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,10 +18,12 @@
 | [3D male model 2026](https://opengameart.org/content/3d-male-model-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-male-model-2026/3d-male-model-2026.zip) | 2026-11-18 |
 | [Carmilla Vampire](https://opengameart.org/content/carmilla-vampire) | `model-3d` | JellyLion | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/carmilla-vampire/carmilla_vampire.zip) | 2026-11-18 |
 | [espada 3D low poly](https://opengameart.org/content/espada-3d-low-poly) | `model-3d` | Tiago Berger | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip) | 2026-11-18 |
+| [Face 2026](https://opengameart.org/content/face-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip) | 2026-11-18 |
 | [Fancy Poker Chip](https://opengameart.org/content/fancy-poker-chip) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fancy-poker-chip/fancy-poker-chip.zip) | 2026-11-18 |
 | [futeristic skyscraper](https://opengameart.org/content/futeristic-skyscraper) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/futeristic-skyscraper/futeristic-skyscraper.zip) | 2026-11-18 |
 | [Goth female - Fleur du Mal](https://opengameart.org/content/goth-female-fleur-du-mal) | `character-3d` | TiZeta | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/goth-female-fleur-du-mal/goth-female-fleur-du-mal.zip) | 2026-11-18 |
 | [Low Poly Animal Pack (WIP)](https://opengameart.org/content/low-poly-animal-pack-wip) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-animal-pack-wip/low-poly-animal-pack-wip.zip) | 2026-11-18 |
+| [Low Poly Weapon Pack](https://opengameart.org/content/low-poly-weapon-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip) | 2026-11-18 |
 | [Objects](https://opengameart.org/content/objects-1) | `model-3d` | ZigRain | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip) | 2026-11-18 |
 | [Prehistoric car](https://opengameart.org/content/prehistoric-car) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-prehistoric-car/prehistoric-car.zip) | 2026-11-18 |
 | [Rigged Low-Poly female character](https://opengameart.org/content/rigged-low-poly-female-character) | `model-3d` | NullGarel | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip) | 2026-11-18 |
@@ -111,5 +113,3 @@
 | [B-chan](https://opengameart.org/content/b-chan) | `model-3d` | hardboileduser (원작 AmarilloArts) | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/b-chan/bchan_edited.blend) | 2026-11-13 |
 | [Base Human Models (Low Poly)](https://opengameart.org/content/base-human-models-low-poly) | `character-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/base-human-models-low-poly/human.zip) | 2026-11-13 |
 | [Bird Bath](https://opengameart.org/content/bird-bath) | `model-3d` | JeremyWoods | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/bird-bath/birdbath_0.zip) | 2026-11-13 |
-| [Cast Iron Stove](https://opengameart.org/content/cast-iron-stove) | `model-3d` | Firefly in the Dusk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cast-iron-stove/cast-iron-stove.zip) | 2026-11-13 |
-| [Character Guy (Rigged)](https://opengameart.org/content/character-guy-rigged) | `character-3d` | EmoPreben | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/character-guy-rigged/emopreben_man_model_1.zip) | 2026-11-13 |
