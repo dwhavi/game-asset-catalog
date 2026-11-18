@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@52036774170c4e9d35e266b1df57cd6cbee50dbc`
+> generated from `catalog.csv@7670d4358b9593b9f926e01e32284411afd549fd`
 
 # 최근 추가된 에셋 (최신 100개)
 
