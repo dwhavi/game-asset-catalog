@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261118-20 자동 수집 등록 (2팩, 2026-11-18 20:39 KST)
+
+- 팩: 3D Delivery Spaceship (slug 3d-delivery-spaceship), 라이선스: CC-BY 3.0, 제작자: lucius39
+- 출처: https://opengameart.org/content/3d-delivery-spaceship
+- 저장: assets-3d-lowpoly-2 3d-delivery-spaceship/3d-delivery-spaceship.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1948→1950, 기존 행 불변 확인
+- 팩: espada 3D low poly (slug espada-3d-low-poly), 라이선스: CC-BY 4.0, 제작자: Tiago Berger
+- 출처: https://opengameart.org/content/espada-3d-low-poly
+- 저장: assets-3d-lowpoly-2 espada-3d-low-poly/espada-3d-low-poly.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1948→1950, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261118-19 자동 수집 등록 (4팩, 2026-11-18 19:41 KST)
 
 - 팩: Fancy Poker Chip (slug fancy-poker-chip), 라이선스: CC0, 제작자: optimuspryne

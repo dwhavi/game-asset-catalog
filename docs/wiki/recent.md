@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8ca475f50a1d4a9a5ebac683b789ccb00be1c123`
+> generated from `catalog.csv@97ca7f12153b568cbd823ad60fe6bd61044d4f80`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,7 +13,9 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [3D Delivery Spaceship](https://opengameart.org/content/3d-delivery-spaceship) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-delivery-spaceship/3d-delivery-spaceship.zip) | 2026-11-18 |
 | [Carmilla Vampire](https://opengameart.org/content/carmilla-vampire) | `model-3d` | JellyLion | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/carmilla-vampire/carmilla_vampire.zip) | 2026-11-18 |
+| [espada 3D low poly](https://opengameart.org/content/espada-3d-low-poly) | `model-3d` | Tiago Berger | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip) | 2026-11-18 |
 | [Fancy Poker Chip](https://opengameart.org/content/fancy-poker-chip) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fancy-poker-chip/fancy-poker-chip.zip) | 2026-11-18 |
 | [futeristic skyscraper](https://opengameart.org/content/futeristic-skyscraper) | `model-3d` | musher3004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/futeristic-skyscraper/futeristic-skyscraper.zip) | 2026-11-18 |
 | [Goth female - Fleur du Mal](https://opengameart.org/content/goth-female-fleur-du-mal) | `character-3d` | TiZeta | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/goth-female-fleur-du-mal/goth-female-fleur-du-mal.zip) | 2026-11-18 |
@@ -111,5 +113,3 @@
 | [Cozy Space SFX: 46 Retro Sound Effects](https://opengameart.org/content/cozy-space-sfx-46-retro-sound-effects) | `sfx` | roberto mellado | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cozy-space-sfx/cozy-space-sfx-cc-by.zip) | 2026-11-13 |
 | [Cremation Urn](https://opengameart.org/content/cremation-urn) | `model-3d` | ARoachIFoundOnMyPillow | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/cremation-urn/cremation_urn.zip) | 2026-11-13 |
 | [Dice](https://opengameart.org/content/dice-6) | `model-3d` | gearfox98 | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/dice/dice.zip) | 2026-11-13 |
-| [Elemental Golem](https://opengameart.org/content/elemental-golem) | `model-3d` | Grefuntor | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/elemental-golem/ElementalGolem-obj.zip) | 2026-11-13 |
-| [explosion (2D VFX)](https://opengameart.org/content/explosion-10) | `effect` | johndekale | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/explosion/explosion.zip) | 2026-11-13 |

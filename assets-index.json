@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@8ca475f50a1d4a9a5ebac683b789ccb00be1c123",
-  "count": 1948,
+  "generated_from": "catalog.csv@97ca7f12153b568cbd823ad60fe6bd61044d4f80",
+  "count": 1950,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69329,6 +69329,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-delivery-spaceship",
+      "name": "3D Delivery Spaceship",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-delivery-spaceship/3d-delivery-spaceship.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "lucius39",
+      "source_url": "https://opengameart.org/content/3d-delivery-spaceship",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: lucius39 (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "3d-delivery-spaceship/preview.png",
+      "download_path": "3d-delivery-spaceship/3d-delivery-spaceship.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-delivery-spaceship/3d-delivery-spaceship.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-delivery-spaceship/3d-delivery-spaceship.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/espada-3d-low-poly",
+      "name": "espada 3D low poly",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "espada-3d-low-poly/espada-3d-low-poly.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Tiago Berger",
+      "source_url": "https://opengameart.org/content/espada-3d-low-poly",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Tiago Berger (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": "espada-3d-low-poly/preview.png",
+      "download_path": "espada-3d-low-poly/espada-3d-low-poly.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip"
       ],
       "sample": null,
       "multipart": false,
