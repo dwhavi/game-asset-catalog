@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-03 자동 수집 등록 (2팩, 2026-11-19 03:41 KST)
+
+- 팩: Cypress Tree (slug cypress-tree), 라이선스: CC-BY 4.0, 제작자: David W CG
+- 출처: https://opengameart.org/content/cypress-tree
+- 저장: assets-3d-lowpoly-2 cypress-tree/cypress-tree.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1960→1962, 기존 행 불변 확인
+- 팩: Simple Piano Bench (slug simple-piano-bench), 라이선스: CC0, 제작자: musah
+- 출처: https://opengameart.org/content/simple-piano-bench
+- 저장: assets-3d-lowpoly-2 simple-piano-bench/simple-piano-bench.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1960→1962, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-01 자동 수집 등록 (2팩, 2026-11-19 01:31 KST)
 
 - 팩: Gamepad (slug gamepad), 라이선스: CC0, 제작자: KOTEES205

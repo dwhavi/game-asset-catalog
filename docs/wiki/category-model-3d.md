@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@db5180af48f41e6fe1eedaf9ff780d35b36a39c1`
+> generated from `catalog.csv@a1be107202e1fd404db933400e748d849f2545a2`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **511개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **513개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 511개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 513개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Brain and Skull](https://opengameart.org/content/brain-and-skull) | `model-3d` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/brain-and-skull/brain-and-skull.zip) | 2026-11-18 |
 | [Carmilla Vampire](https://opengameart.org/content/carmilla-vampire) | `model-3d` | JellyLion | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/carmilla-vampire/carmilla_vampire.zip) | 2026-11-18 |
 | [Cute skull character](https://opengameart.org/content/cute-skull-character) | `model-3d` | JellyLion | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cute-skull-character/cute-skull-character.zip) | 2026-11-18 |
+| [Cypress Tree](https://opengameart.org/content/cypress-tree) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cypress-tree/cypress-tree.zip) | 2026-11-18 |
 | [espada 3D low poly](https://opengameart.org/content/espada-3d-low-poly) | `model-3d` | Tiago Berger | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip) | 2026-11-18 |
 | [Face 2026](https://opengameart.org/content/face-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip) | 2026-11-18 |
 | [Fancy Poker Chip](https://opengameart.org/content/fancy-poker-chip) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fancy-poker-chip/fancy-poker-chip.zip) | 2026-11-18 |
@@ -35,6 +36,7 @@
 | [rainbow cat](https://opengameart.org/content/rainbow-cat) | `model-3d` | hacknorris | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rainbow-cat/rainbow-cat.zip) | 2026-11-18 |
 | [Rigged Low-Poly female character](https://opengameart.org/content/rigged-low-poly-female-character) | `model-3d` | NullGarel | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip) | 2026-11-18 |
 | [Simple Checker Pieces](https://opengameart.org/content/simple-checker-pieces) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip) | 2026-11-18 |
+| [Simple Piano Bench](https://opengameart.org/content/simple-piano-bench) | `model-3d` | musah | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 2 - Free Version](https://opengameart.org/content/3d-gun-part-2-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 3 - Free Version](https://opengameart.org/content/3d-gun-part-3-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip) | 2026-11-17 |
@@ -415,5 +417,3 @@
 | [Modular Platformer Pack](https://quaternius.com/packs/modularplatformer.html) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.7/modular-platformer-pack.zip) | 2026-10-29 |
 | [Modular Space Kit](https://kenney.nl/assets/modular-space-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-space-kit.zip) | 2026-10-29 |
 | [penguin](https://opengameart.org/content/penguin-1) | `model-3d` | konserwa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.14/penguin-1.zip) | 2026-10-29 |
-| [Pirate Kit](https://opengameart.org/content/low-poly-pirate-pack) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.9/pirate-kit.zip) | 2026-10-29 |
-| [Prototype Kit](https://kenney.nl/assets/prototype-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/prototype-kit.zip) | 2026-10-29 |

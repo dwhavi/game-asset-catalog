@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@db5180af48f41e6fe1eedaf9ff780d35b36a39c1`
+> generated from `catalog.csv@a1be107202e1fd404db933400e748d849f2545a2`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -19,6 +19,7 @@
 | [Brain and Skull](https://opengameart.org/content/brain-and-skull) | `model-3d` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/brain-and-skull/brain-and-skull.zip) | 2026-11-18 |
 | [Carmilla Vampire](https://opengameart.org/content/carmilla-vampire) | `model-3d` | JellyLion | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/carmilla-vampire/carmilla_vampire.zip) | 2026-11-18 |
 | [Cute skull character](https://opengameart.org/content/cute-skull-character) | `model-3d` | JellyLion | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cute-skull-character/cute-skull-character.zip) | 2026-11-18 |
+| [Cypress Tree](https://opengameart.org/content/cypress-tree) | `model-3d` | David W CG | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cypress-tree/cypress-tree.zip) | 2026-11-18 |
 | [espada 3D low poly](https://opengameart.org/content/espada-3d-low-poly) | `model-3d` | Tiago Berger | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/espada-3d-low-poly/espada-3d-low-poly.zip) | 2026-11-18 |
 | [Face 2026](https://opengameart.org/content/face-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/face-2026/face-2026.zip) | 2026-11-18 |
 | [Fancy Poker Chip](https://opengameart.org/content/fancy-poker-chip) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fancy-poker-chip/fancy-poker-chip.zip) | 2026-11-18 |
@@ -32,6 +33,7 @@
 | [rainbow cat](https://opengameart.org/content/rainbow-cat) | `model-3d` | hacknorris | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rainbow-cat/rainbow-cat.zip) | 2026-11-18 |
 | [Rigged Low-Poly female character](https://opengameart.org/content/rigged-low-poly-female-character) | `model-3d` | NullGarel | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rigged-low-poly-female-character/rigged-low-poly-female-character.zip) | 2026-11-18 |
 | [Simple Checker Pieces](https://opengameart.org/content/simple-checker-pieces) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip) | 2026-11-18 |
+| [Simple Piano Bench](https://opengameart.org/content/simple-piano-bench) | `model-3d` | musah | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 2 - Free Version](https://opengameart.org/content/3d-gun-part-2-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 3 - Free Version](https://opengameart.org/content/3d-gun-part-3-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-3-free-version/3d-gun-part-3-free-version.zip) | 2026-11-17 |
@@ -111,5 +113,3 @@
 | [Various Small Arms (Assault Rifles, Sniper, Pistol)](https://opengameart.org/content/various-small-arms-assault-rifles-sniper-pistol) | `model-3d` | tabasco | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/various-small-arms-assault-rifles-sniper-pistol/various-small-arms-assault-rifles-sniper-pistol.zip) | 2026-11-14 |
 | [3D Sara - Wizard](https://opengameart.org/content/3d-sara-wizard) | `model-3d` | Mish7913 | CC-BY 3.0 | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/3d-sara-wizard/sara_glb.zip) | 2026-11-13 |
 | [512x512 explosion](https://opengameart.org/content/512x512-explosion) | `effect` | johndekale | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v4.0/explosion_512.zip) | 2026-11-13 |
-| [Animated Charged Bolt](https://opengameart.org/content/animated-charged-bolt) | `effect` | Varkalandar | CC-BY 4.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/animated-charged-bolt/hjm-charged_bolt_v4_0.zip) | 2026-11-13 |
-| [Armadillo Foe](https://opengameart.org/content/armadillo-foe) | `model-3d` | overactiongamestudio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/raw/main/armadillo-foe/Armadillo-3D-Pack-Fbx-Obj.zip) | 2026-11-13 |
