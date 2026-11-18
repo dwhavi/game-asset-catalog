@@ -135,3 +135,5 @@
 - 2026-11-17 A108: mini-shop·mini-characters(3D, assets-3d-lowpoly-2), insect-sounds(효과음, assets-audio) 등록 (모두 OGA CC0, 3팩, 총 1934팩; 3D zip은 5MB 이하 저장소 트리 저장; insect-sounds는 assets-2d-pixel 오분류분을 제거하고 assets-audio로 이동)
 - 2026-11-17 A109: Stylized Low Poly Female Base Mesh (WIP)·3D Gun Part 3 - Free Version(3D, assets-3d-lowpoly-2), Lo Fi Squelching noise(효과음, assets-audio) 등록 (모두 OGA CC0, 3팩, 총 1937팩)
 - 2026-11-17 A110: 3D Gun Part 1 - Free Version, 3D Gun Part 2 - Free Version (3D, assets-3d-lowpoly-2) 등록 (OGA CC0, 2팩, 총 1939팩)
+
+- 2026-11-18 A115 등록: Goth female - Fleur du Mal (3D 캐릭터, CC-BY 3.0, https://opengameart.org/content/goth-female-fleur-du-mal) 포털 1943팩
