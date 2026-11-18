@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cd8b96bed9841481b9bc46f79322881f017999d1`
+> generated from `catalog.csv@d34f19dd15692f93f3810e31382249eb4b565b12`
 
 # 베기 이펙트 모음
 

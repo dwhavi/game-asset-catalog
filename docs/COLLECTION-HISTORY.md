@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-05 자동 수집 등록 (2팩, 2026-11-19 05:31 KST)
+
+- 팩: Human Foot 3D Model (slug human-foot-3d-model), 라이선스: CC0, 제작자: byzmod3d
+- 출처: https://opengameart.org/content/human-foot-3d-model
+- 저장: assets-3d-lowpoly-2 human-foot-3d-model/human-foot-3d-model.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1964→1966, 기존 행 불변 확인
+- 팩: Keith c++ mascot (slug keith-c-mascot), 라이선스: CC0, 제작자: kosero4
+- 출처: https://opengameart.org/content/keith-c-mascot
+- 저장: assets-3d-lowpoly-2 keith-c-mascot/keith-c-mascot.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1964→1966, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-04 자동 수집 등록 (2팩, 2026-11-19 04:31 KST)
 
 - 팩: Low poly anime girl (slug low-poly-anime-girl), 라이선스: CC0, 제작자: LcohTheNerd

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@cd8b96bed9841481b9bc46f79322881f017999d1",
-  "count": 1964,
+  "generated_from": "catalog.csv@d34f19dd15692f93f3810e31382249eb4b565b12",
+  "count": 1966,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -69841,6 +69841,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-sci-fi-radio-dish-antenna/sci-fi-radio-dish-antenna.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/human-foot-3d-model",
+      "name": "Human Foot 3D Model",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "human-foot-3d-model/human-foot-3d-model.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "byzmod3d",
+      "source_url": "https://opengameart.org/content/human-foot-3d-model",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: byzmod3d (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "human-foot-3d-model/preview.png",
+      "download_path": "human-foot-3d-model/human-foot-3d-model.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/human-foot-3d-model/human-foot-3d-model.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/human-foot-3d-model/human-foot-3d-model.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/keith-c-mascot",
+      "name": "Keith c++ mascot",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "keith-c-mascot/keith-c-mascot.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "kosero4",
+      "source_url": "https://opengameart.org/content/keith-c-mascot",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: kosero4 (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "keith-c-mascot/preview.png",
+      "download_path": "keith-c-mascot/keith-c-mascot.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/keith-c-mascot/keith-c-mascot.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/keith-c-mascot/keith-c-mascot.zip"
       ],
       "sample": null,
       "multipart": false,
