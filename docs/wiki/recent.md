@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@58cac62a05e727c28280e66aff639be76775ef7f`
+> generated from `catalog.csv@0deafbff61ff673a1bdde8752bf498c463315b11`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -32,6 +32,7 @@
 | [Low Poly Animal Pack (WIP)](https://opengameart.org/content/low-poly-animal-pack-wip) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-animal-pack-wip/low-poly-animal-pack-wip.zip) | 2026-11-18 |
 | [Low poly anime girl](https://opengameart.org/content/low-poly-anime-girl) | `model-3d` | LcohTheNerd | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-anime-girl/low-poly-anime-girl.zip) | 2026-11-18 |
 | [Low Poly Weapon Pack](https://opengameart.org/content/low-poly-weapon-pack) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-weapon-pack/low-poly-weapon-pack.zip) | 2026-11-18 |
+| [Mannequiny The Open 3D Mannequin](https://opengameart.org/content/mannequiny-the-open-3d-mannequin) | `model-3d` | hardboileduser | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mannequiny-the-open-3d-mannequin/mannequiny-the-open-3d-mannequin.zip) | 2026-11-18 |
 | [Objects](https://opengameart.org/content/objects-1) | `model-3d` | ZigRain | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-1/objects-1.zip) | 2026-11-18 |
 | [PaperClip](https://opengameart.org/content/paperclip) | `model-3d` | st0m4rv3r | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/paperclip/paperclip.zip) | 2026-11-18 |
 | [Prehistoric car](https://opengameart.org/content/prehistoric-car) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-prehistoric-car/prehistoric-car.zip) | 2026-11-18 |
@@ -41,6 +42,7 @@
 | [Simple Checker Pieces](https://opengameart.org/content/simple-checker-pieces) | `model-3d` | optimuspryne | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-checker-pieces/simple-checker-pieces.zip) | 2026-11-18 |
 | [Simple Piano Bench](https://opengameart.org/content/simple-piano-bench) | `model-3d` | musah | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/simple-piano-bench/simple-piano-bench.zip) | 2026-11-18 |
 | [Stylized Chess Pieces](https://opengameart.org/content/stylized-chess-pieces) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stylized-chess-pieces/stylized-chess-pieces.zip) | 2026-11-18 |
+| [TNT Low Poly](https://opengameart.org/content/tnt-low-poly) | `model-3d` | Chill\_vista | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tnt-low-poly/tnt-low-poly.zip) | 2026-11-18 |
 | [Xenia The Linux Fox](https://opengameart.org/content/xenia-the-linux-fox-0) | `model-3d` | illegal\_instruction | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/xenia-the-linux-fox-0/xenia-the-linux-fox-0.zip) | 2026-11-18 |
 | [3D Gun Part 1 - Free Version](https://opengameart.org/content/3d-gun-part-1-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-1-free-version/3d-gun-part-1-free-version.zip) | 2026-11-17 |
 | [3D Gun Part 2 - Free Version](https://opengameart.org/content/3d-gun-part-2-free-version) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-gun-part-2-free-version/3d-gun-part-2-free-version.zip) | 2026-11-17 |
@@ -111,5 +113,3 @@
 | [LowPoly Modular Dungeon](https://opengameart.org/content/lowpoly-modular-dungeon) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip) | 2026-11-14 |
 | [More Explosions](https://opengameart.org/content/more-explosions) | `effect` | StumpyStrust | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/more-explosions/more-explosions.zip) | 2026-11-14 |
 | [Nature &amp; Seasonal Enemy Monsters — 2D Pixel Art Animation Pack](https://opengameart.org/content/monsters-of-nature-all-pack) | `effect` | qwerty2723 | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/monsters-of-nature-all-pack/monsters-of-nature-all-pack.zip) | 2026-11-14 |
-| [Platformer Animations](https://opengameart.org/content/platformer-animations) | `effect` | clint-bellanger | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/platformer-animations/platformer-animations.zip) | 2026-11-14 |
-| [Pocket Bleeps - 31 Retro 8-Bit SFX (Free Sampler, CC-BY)](https://opengameart.org/content/pocket-bleeps-%E2%80%93-31-retro-8-bit-sfx-free-sampler-cc-by) | `sfx` | Pocket Bleeps | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/pocket-bleeps/pocket-bleeps-free-sampler-31-sfx-wav-cc-by.zip) | 2026-11-14 |

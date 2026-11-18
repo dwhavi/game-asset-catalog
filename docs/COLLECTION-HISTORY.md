@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-08 자동 수집 등록 (2팩, 2026-11-19 08:28 KST)
+
+- 팩: Mannequiny The Open 3D Mannequin (slug mannequiny-the-open-3d-mannequin), 라이선스: CC-BY 4.0, 제작자: hardboileduser
+- 출처: https://opengameart.org/content/mannequiny-the-open-3d-mannequin
+- 저장: assets-3d-lowpoly-2 mannequiny-the-open-3d-mannequin/mannequiny-the-open-3d-mannequin.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1970→1972, 기존 행 불변 확인
+- 팩: TNT Low Poly (slug tnt-low-poly), 라이선스: CC0, 제작자: Chill_vista
+- 출처: https://opengameart.org/content/tnt-low-poly
+- 저장: assets-3d-lowpoly-2 tnt-low-poly/tnt-low-poly.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1970→1972, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-07 자동 수집 등록 (2팩, 2026-11-19 07:30 KST)
 
 - 팩: Free 3D Model: Face 5 Woman (slug free-3d-model-face-5-woman), 라이선스: CC0, 제작자: byzmod3d

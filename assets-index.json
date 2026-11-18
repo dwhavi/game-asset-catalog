@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@58cac62a05e727c28280e66aff639be76775ef7f",
-  "count": 1970,
+  "generated_from": "catalog.csv@0deafbff61ff673a1bdde8752bf498c463315b11",
+  "count": 1972,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -70033,6 +70033,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/paperclip/paperclip.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/paperclip/paperclip.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/mannequiny-the-open-3d-mannequin",
+      "name": "Mannequiny The Open 3D Mannequin",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "mannequiny-the-open-3d-mannequin/mannequiny-the-open-3d-mannequin.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "hardboileduser",
+      "source_url": "https://opengameart.org/content/mannequiny-the-open-3d-mannequin",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: hardboileduser (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": "mannequiny-the-open-3d-mannequin/preview.png",
+      "download_path": "mannequiny-the-open-3d-mannequin/mannequiny-the-open-3d-mannequin.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mannequiny-the-open-3d-mannequin/mannequiny-the-open-3d-mannequin.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mannequiny-the-open-3d-mannequin/mannequiny-the-open-3d-mannequin.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/tnt-low-poly",
+      "name": "TNT Low Poly",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "tnt-low-poly/tnt-low-poly.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Chill_vista",
+      "source_url": "https://opengameart.org/content/tnt-low-poly",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Chill_vista (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-18",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "tnt-low-poly/preview.png",
+      "download_path": "tnt-low-poly/tnt-low-poly.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tnt-low-poly/tnt-low-poly.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tnt-low-poly/tnt-low-poly.zip"
       ],
       "sample": null,
       "multipart": false,
