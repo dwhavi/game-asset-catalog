@@ -1,5 +1,233 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-17 자동 수집 등록 (56팩, 2026-11-19 17:57 KST)
+
+- 팩: 20 Cups, 4 Chairs, and a Toilet (slug 20-cups-4-chairs-and-a-toilet), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/20-cups-4-chairs-and-a-toilet
+- 저장: assets-3d-lowpoly-2 release:pack-20-cups-4-chairs-and-a-toilet/20-cups-4-chairs-and-a-toilet.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: 20 Gases (slug 20-gases), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/20-gases
+- 저장: assets-3d-lowpoly-2 20-gases/20-gases.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: 3D Car (slug 3d-car-0), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/3d-car-0
+- 저장: assets-3d-lowpoly-2 3d-car-0/3d-car-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: 3D Piano Model (slug 3d-piano-model), 라이선스: CC0, 제작자: pickentcode
+- 출처: https://opengameart.org/content/3d-piano-model
+- 저장: assets-3d-lowpoly-2 3d-piano-model/3d-piano-model.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: 3d Santa (Raw Model) (slug 3d-santa-raw-model), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/3d-santa-raw-model
+- 저장: assets-3d-lowpoly-2 3d-santa-raw-model/3d-santa-raw-model.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: 3D Swords (slug 3d-swords), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/3d-swords
+- 저장: assets-3d-lowpoly-2 3d-swords/3d-swords.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: 3d Tables and Chairs (Ultimate Asset Pack) (slug 3d-tables-and-chairs-ultimate-asset-pack), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/3d-tables-and-chairs-ultimate-asset-pack
+- 저장: assets-3d-lowpoly-2 release:pack-3d-tables-and-chairs-ultimate-asset-pack/3d-tables-and-chairs-ultimate-asset-pack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: 50 Bottles (3D) (slug 50-bottles-3d), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/50-bottles-3d
+- 저장: assets-3d-lowpoly-2 50-bottles-3d/50-bottles-3d.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: AKIRA-LASER RIFLE ST-001 (slug akira-laser-rifle-st-001), 라이선스: CC0, 제작자: DREAM_SEARCH_REPEAT
+- 출처: https://opengameart.org/content/akira-laser-rifle-st-001
+- 저장: assets-3d-lowpoly-2 akira-laser-rifle-st-001/akira-laser-rifle-st-001.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Barrels (slug barrels-3), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/barrels-3
+- 저장: assets-3d-lowpoly-2 barrels-3/barrels-3.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Bedside Table (slug bedside-table), 라이선스: CC0, 제작자: Mish7913
+- 출처: https://opengameart.org/content/bedside-table
+- 저장: assets-3d-lowpoly-2 bedside-table/bedside-table.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: blue toy car (slug blue-toy-car), 라이선스: CC0, 제작자: DREAM_SEARCH_REPEAT
+- 출처: https://opengameart.org/content/blue-toy-car
+- 저장: assets-3d-lowpoly-2 blue-toy-car/blue-toy-car.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Bottle Cap (slug bottle-cap), 라이선스: CC0, 제작자: Paul Wortmann
+- 출처: https://opengameart.org/content/bottle-cap
+- 저장: assets-3d-lowpoly-2 bottle-cap/bottle-cap.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Box with different colors (slug box-with-different-colors), 라이선스: CC0, 제작자: iamsujitcu
+- 출처: https://opengameart.org/content/box-with-different-colors
+- 저장: assets-3d-lowpoly-2 box-with-different-colors/box-with-different-colors.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Bunny 3D (slug bunny-3d), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/bunny-3d
+- 저장: assets-3d-lowpoly-2 bunny-3d/bunny-3d.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Chair (slug chair-8), 라이선스: CC-BY 4.0, 제작자: pikachufan25
+- 출처: https://opengameart.org/content/chair-8
+- 저장: assets-3d-lowpoly-2 chair-8/chair-8.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Classical Guitar (slug classical-guitar), 라이선스: CC0, 제작자: MonoTone
+- 출처: https://opengameart.org/content/classical-guitar
+- 저장: assets-3d-lowpoly-2 classical-guitar/classical-guitar.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Colt lowpoly revolver (slug colt-lowpoly-revolver), 라이선스: CC-BY 4.0, 제작자: TimDev
+- 출처: https://opengameart.org/content/colt-lowpoly-revolver
+- 저장: assets-3d-lowpoly-2 colt-lowpoly-revolver/colt-lowpoly-revolver.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Cup (slug cup-2), 라이선스: CC-BY 4.0, 제작자: pikachufan25
+- 출처: https://opengameart.org/content/cup-2
+- 저장: assets-3d-lowpoly-2 cup-2/cup-2.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Darkness_Castle_Temple (slug darknesscastletemple), 라이선스: CC0, 제작자: DREAM_SEARCH_REPEAT
+- 출처: https://opengameart.org/content/darknesscastletemple
+- 저장: assets-3d-lowpoly-2 release:pack-darknesscastletemple/darknesscastletemple.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Elven blade (slug elven-blade), 라이선스: CC0, 제작자: DREAM_SEARCH_REPEAT
+- 출처: https://opengameart.org/content/elven-blade
+- 저장: assets-3d-lowpoly-2 elven-blade/elven-blade.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Extrema Ratio Knife (slug extrema-ratio-knife), 라이선스: CC0, 제작자: wobba89
+- 출처: https://opengameart.org/content/extrema-ratio-knife
+- 저장: assets-3d-lowpoly-2 extrema-ratio-knife/extrema-ratio-knife.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Fan 3D Model (Uncomplete) (slug fan-3d-model-uncomplete), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/fan-3d-model-uncomplete
+- 저장: assets-3d-lowpoly-2 fan-3d-model-uncomplete/fan-3d-model-uncomplete.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Fantasy Sword (slug fantasy-sword-0), 라이선스: CC0, 제작자: TCCDev
+- 출처: https://opengameart.org/content/fantasy-sword-0
+- 저장: assets-3d-lowpoly-2 fantasy-sword-0/fantasy-sword-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Feminine Humanoid base mesh (slug feminine-humanoid-base-mesh), 라이선스: CC0, 제작자: GoldenThumbs
+- 출처: https://opengameart.org/content/feminine-humanoid-base-mesh
+- 저장: assets-3d-lowpoly-2 feminine-humanoid-base-mesh/feminine-humanoid-base-mesh.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Game console (slug game-console), 라이선스: CC-BY 4.0, 제작자: Radiance
+- 출처: https://opengameart.org/content/game-console
+- 저장: assets-3d-lowpoly-2 game-console/game-console.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: High Poly Trash Can (Stylise) (slug high-poly-trash-can-stylise), 라이선스: CC-BY 3.0, 제작자: pikachufan25
+- 출처: https://opengameart.org/content/high-poly-trash-can-stylise
+- 저장: assets-3d-lowpoly-2 high-poly-trash-can-stylise/high-poly-trash-can-stylise.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: High-rise building model (slug high-rise-building-model), 라이선스: CC-BY 4.0, 제작자: Radiance
+- 출처: https://opengameart.org/content/high-rise-building-model
+- 저장: assets-3d-lowpoly-2 high-rise-building-model/high-rise-building-model.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Laptop (slug laptop-1), 라이선스: CC0, 제작자: Klooverice
+- 출처: https://opengameart.org/content/laptop-1
+- 저장: assets-3d-lowpoly-2 laptop-1/laptop-1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Low Poly Chess Set v2 (slug low-poly-chess-set-v2), 라이선스: CC-BY 4.0, 제작자: gubbins
+- 출처: https://opengameart.org/content/low-poly-chess-set-v2
+- 저장: assets-3d-lowpoly-2 low-poly-chess-set-v2/low-poly-chess-set-v2.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Low Poly Honey Bun 3D (slug low-poly-honey-bun-3d), 라이선스: CC-BY 4.0, 제작자: WarmHoneyBun
+- 출처: https://opengameart.org/content/low-poly-honey-bun-3d
+- 저장: assets-3d-lowpoly-2 low-poly-honey-bun-3d/low-poly-honey-bun-3d.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Low-Poly Lighthouse Scene (slug low-poly-lighthouse-scene), 라이선스: CC0, 제작자: ultr4vis1tor
+- 출처: https://opengameart.org/content/low-poly-lighthouse-scene
+- 저장: assets-3d-lowpoly-2 low-poly-lighthouse-scene/low-poly-lighthouse-scene.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Low-res pistol (slug low-res-pistol), 라이선스: CC-BY 4.0, 제작자: arcade_b
+- 출처: https://opengameart.org/content/low-res-pistol
+- 저장: assets-3d-lowpoly-2 release:pack-low-res-pistol/low-res-pistol.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Lowpoly pixelart Gatling Gun, Tank and Grass Terrain (slug lowpoly-pixelart-gatling-gun-tank-and-grass-terrain), 라이선스: CC-BY 3.0, 제작자: soyGus
+- 출처: https://opengameart.org/content/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain
+- 저장: assets-3d-lowpoly-2 lowpoly-pixelart-gatling-gun-tank-and-grass-terrain/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Lowpoly Shoe (slug lowpoly-shoe), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/lowpoly-shoe
+- 저장: assets-3d-lowpoly-2 lowpoly-shoe/lowpoly-shoe.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Ludo (slug ludo-0), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/ludo-0
+- 저장: assets-3d-lowpoly-2 ludo-0/ludo-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Porta Potty / Portable Toilet / Mobile Toilet (slug porta-potty-portable-toilet-mobile-toilet), 라이선스: CC0, 제작자: mubble
+- 출처: https://opengameart.org/content/porta-potty-portable-toilet-mobile-toilet
+- 저장: assets-3d-lowpoly-2 porta-potty-portable-toilet-mobile-toilet/porta-potty-portable-toilet-mobile-toilet.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: PS2 Styled Characters (slug ps2-styled-characters), 라이선스: CC0, 제작자: Wobble Blocks
+- 출처: https://opengameart.org/content/ps2-styled-characters
+- 저장: assets-3d-lowpoly-2 ps2-styled-characters/ps2-styled-characters.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: PSX style medieval house (slug psx-style-medieval-house), 라이선스: CC0, 제작자: _Creature_
+- 출처: https://opengameart.org/content/psx-style-medieval-house
+- 저장: assets-3d-lowpoly-2 psx-style-medieval-house/psx-style-medieval-house.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: PSX style medieval keep (slug psx-style-medieval-keep), 라이선스: CC0, 제작자: _Creature_
+- 출처: https://opengameart.org/content/psx-style-medieval-keep
+- 저장: assets-3d-lowpoly-2 psx-style-medieval-keep/psx-style-medieval-keep.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Pyramid 3d (slug pyramid-3d), 라이선스: CC0, 제작자: Intrix
+- 출처: https://opengameart.org/content/pyramid-3d
+- 저장: assets-3d-lowpoly-2 pyramid-3d/pyramid-3d.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Radio (slug radio-1), 라이선스: CC-BY 4.0, 제작자: Radiance
+- 출처: https://opengameart.org/content/radio-1
+- 저장: assets-3d-lowpoly-2 radio-1/radio-1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Realy Low poly gun | CC0 (slug realy-low-poly-gun-cc0), 라이선스: CC0, 제작자: Zxelt
+- 출처: https://opengameart.org/content/realy-low-poly-gun-cc0
+- 저장: assets-3d-lowpoly-2 realy-low-poly-gun-cc0/realy-low-poly-gun-cc0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Shell Game - Cup and Ball Game (slug shell-game-cup-and-ball-game), 라이선스: CC0, 제작자: Klooverice
+- 출처: https://opengameart.org/content/shell-game-cup-and-ball-game
+- 저장: assets-3d-lowpoly-2 shell-game-cup-and-ball-game/shell-game-cup-and-ball-game.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Snipper Rifle Lowpoly (slug snipper-rifle-lowpoly), 라이선스: CC0, 제작자: NephthysGameDev
+- 출처: https://opengameart.org/content/snipper-rifle-lowpoly
+- 저장: assets-3d-lowpoly-2 snipper-rifle-lowpoly/snipper-rifle-lowpoly.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Spacecraft (slug spacecraft-1), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/spacecraft-1
+- 저장: assets-3d-lowpoly-2 spacecraft-1/spacecraft-1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Stylized Wizard Staff (slug stylized-wizard-staff), 라이선스: CC0, 제작자: TCCDev
+- 출처: https://opengameart.org/content/stylized-wizard-staff
+- 저장: assets-3d-lowpoly-2 stylized-wizard-staff/stylized-wizard-staff.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Sword (slug sword-13), 라이선스: CC0, 제작자: MonoTone
+- 출처: https://opengameart.org/content/sword-13
+- 저장: assets-3d-lowpoly-2 sword-13/sword-13.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Toon Waterfall (slug toon-waterfall), 라이선스: CC0, 제작자: doodlebuilt
+- 출처: https://opengameart.org/content/toon-waterfall
+- 저장: assets-3d-lowpoly-2 toon-waterfall/toon-waterfall.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: toy_train (slug toytrain), 라이선스: CC0, 제작자: DREAM_SEARCH_REPEAT
+- 출처: https://opengameart.org/content/toytrain
+- 저장: assets-3d-lowpoly-2 toytrain/toytrain.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: USS Horne (slug uss-horne), 라이선스: CC-BY 3.0, 제작자: Captain_Ahab_62
+- 출처: https://opengameart.org/content/uss-horne
+- 저장: assets-3d-lowpoly-2 uss-horne/uss-horne.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: USS Iowa (slug uss-iowa), 라이선스: CC-BY 3.0, 제작자: Captain_Ahab_62
+- 출처: https://opengameart.org/content/uss-iowa
+- 저장: assets-3d-lowpoly-2 uss-iowa/uss-iowa.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: USS Ticonderoga (slug uss-ticonderoga), 라이선스: CC-BY 3.0, 제작자: Captain_Ahab_62
+- 출처: https://opengameart.org/content/uss-ticonderoga
+- 저장: assets-3d-lowpoly-2 uss-ticonderoga/uss-ticonderoga.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Wall decoration with pendants and picture frames (slug wall-decoration-with-pendants-and-picture-frames), 라이선스: CC0, 제작자: Klooverice
+- 출처: https://opengameart.org/content/wall-decoration-with-pendants-and-picture-frames
+- 저장: assets-3d-lowpoly-2 wall-decoration-with-pendants-and-picture-frames/wall-decoration-with-pendants-and-picture-frames.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: Wizzah's 3D Models Pack 1 (slug wizzahs-3d-models-pack-1), 라이선스: CC0, 제작자: wizzah2
+- 출처: https://opengameart.org/content/wizzahs-3d-models-pack-1
+- 저장: assets-3d-lowpoly-2 release:pack-wizzahs-3d-models-pack-1/wizzahs-3d-models-pack-1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 팩: wlily's characters (slug wlilys-characters), 라이선스: CC0, 제작자: hecko
+- 출처: https://opengameart.org/content/wlilys-characters
+- 저장: assets-3d-lowpoly-2 wlilys-characters/wlilys-characters.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1981→2037, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-15 자동 수집 등록 (1팩, 2026-11-19 15:34 KST)
 
 - 팩: Pack of extremly low poly soviet vehicles in pixel art style. (slug pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style), 라이선스: CC0, 제작자: madmedicsoft

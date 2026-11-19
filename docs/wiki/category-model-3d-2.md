@@ -1,22 +1,78 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d42a9d2861ab003989e47063514dfeced6b0a48d`
+> generated from `catalog.csv@ea429efa2d057d1e100e82dd346a710a32571ccc`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **532개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **588개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 132행 (전체 532개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 188행 (전체 588개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [RPG Item collection 3](https://opengameart.org/content/rpg-item-collection-3) | `model-3d` | Starry Skydancer | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/rpg-item-collection-3.zip) | 2026-11-04 |
+| [Sci-fi environment pack](https://opengameart.org/content/sci-fi-environment-pack) | `model-3d` | Aspecty | CC0 | X | X | 2개 분할 | 2026-11-04 |
+| [Sci-fi soldier](https://opengameart.org/content/sci-fi-soldier) | `model-3d` | josepharaoh99 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/sci-fi-soldier.zip) | 2026-11-04 |
+| [SciFi Girl](https://opengameart.org/content/scifi-girl) | `model-3d` | DeadDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.20/scifi-girl.zip) | 2026-11-04 |
+| [Scrolls](https://opengameart.org/content/scrolls-0) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/scrolls-0.zip) | 2026-11-04 |
+| [SENTRY-2 (Sentry Bot Mark 2)](https://opengameart.org/content/sentry-2-sentry-bot-mark-2) | `model-3d` | bart | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.25/sentry-2-sentry-bot-mark-2.zip) | 2026-11-04 |
+| [Shipyard](https://opengameart.org/content/shipyard) | `model-3d` | farcodev | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.28/shipyard.zip) | 2026-11-04 |
+| [Shipyard v0.4 customizable spaceships](https://opengameart.org/content/shipyard-v04-customizable-spaceships) | `model-3d` | Clint Bellanger | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/shipyard-v04-customizable-spaceships.zip) | 2026-11-04 |
+| [Short Sword](https://opengameart.org/content/short-sword-0) | `model-3d` | Bogart VGM | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.29/short-sword-0.zip) | 2026-11-04 |
+| [Simple Cat](https://opengameart.org/content/simple-cat) | `model-3d` | Puffolotti | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/simple-cat.zip) | 2026-11-04 |
+| [Skeleton Outlaw 3D Character](https://opengameart.org/content/skeleton-outlaw-3d-character) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/skeleton-outlaw-3d-character.zip) | 2026-11-04 |
+| [Skeleton with rig](https://opengameart.org/content/skeleton-with-rig) | `model-3d` | rudy85 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/skeleton-with-rig.zip) | 2026-11-04 |
+| [Skull prop](https://opengameart.org/content/skull-prop) | `model-3d` | Teirdalin Shadowfall | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.29/skull-prop.zip) | 2026-11-04 |
+| [Starship Corvette](https://opengameart.org/content/starship-corvette) | `model-3d` | Sindwiller | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/starship-corvette.zip) | 2026-11-04 |
+| [Stone coffin](https://opengameart.org/content/stone-coffin) | `model-3d` | yd | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.19/stone-coffin.zip) | 2026-11-04 |
+| [Stylish plants](https://opengameart.org/content/stylish-plants) | `model-3d` | Skorpio | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/stylish-plants.zip) | 2026-11-04 |
+| [Suburb Asset pt1](https://opengameart.org/content/suburb-asset-pt1) | `model-3d` | asenqualia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/suburb-asset-pt1.zip) | 2026-11-04 |
+| [Superpowers assets 3D stuff](https://opengameart.org/content/superpowers-assets-3d-stuff) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/superpowers-assets-3d-stuff.zip) | 2026-11-04 |
+| [Tiby 3D rigged model](https://opengameart.org/content/tiby-3d-rigged-model) | `model-3d` | bambooman | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/tiby-3d-rigged-model.zip) | 2026-11-04 |
+| [Tiny weeds](https://opengameart.org/content/tiny-weeds) | `model-3d` | Bonsaiheldin | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/tiny-weeds.zip) | 2026-11-04 |
+| [Tiny weeds 2](https://opengameart.org/content/tiny-weeds-2) | `model-3d` | Duion2 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.16/tiny-weeds-2.zip) | 2026-11-04 |
+| [Tiny weeds 3](https://opengameart.org/content/tiny-weeds-3) | `model-3d` | riidom | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/tiny-weeds-3.zip) | 2026-11-04 |
+| [Treasure Chest](https://opengameart.org/content/treasure-chest-3) | `model-3d` | cdoty | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.16/treasure-chest-3.zip) | 2026-11-04 |
+| [Treasure Pack](https://opengameart.org/content/treasure-pack) | `model-3d` | ? | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.19/treasure-pack.zip) | 2026-11-04 |
+| [tree](https://opengameart.org/content/tree-5) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/tree-5.zip) | 2026-11-04 |
+| [Tropical plant 02](https://opengameart.org/content/tropical-plant-02-0) | `model-3d` | cemkalyoncu | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/tropical-plant-02-0.zip) | 2026-11-04 |
+| [Tropical shrubs](https://opengameart.org/content/tropical-shrubs) | `model-3d` | Mev Lyshkin | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/tropical-shrubs.zip) | 2026-11-04 |
+| [Two Pistols](https://opengameart.org/content/two-pistols) | `model-3d` | Anonymous (not verified) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.26/two-pistols.zip) | 2026-11-04 |
+| [Undead Squirrel (ANIMATED)](https://opengameart.org/content/undead-squirrel-animated) | `model-3d` | Alopex | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.25/undead-squirrel-animated.zip) | 2026-11-04 |
+| [Vehicles Assets pt1](https://opengameart.org/content/vehicles-assets-pt1) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/vehicles-assets-pt1.zip) | 2026-11-04 |
+| [Very Low Poly Human](https://opengameart.org/content/very-low-poly-human) | `model-3d` | Prinsu-Kun | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/very-low-poly-human.zip) | 2026-11-04 |
+| [Watchtower-Wood](https://opengameart.org/content/watchtower-wood) | `model-3d` | Duion2 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.31/watchtower-wood.zip) | 2026-11-04 |
+| [Weapon Box Pack](https://opengameart.org/content/weapon-box-pack) | `model-3d` | biglew | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.31/weapon-box-pack.zip) | 2026-11-04 |
+| [Weapon Box pack 2](https://opengameart.org/content/weapon-box-pack-2) | `model-3d` | bart | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.26/weapon-box-pack-2.zip) | 2026-11-04 |
+| [Wolf](https://opengameart.org/content/wolf-1) | `model-3d` | Duion2 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.25/wolf-1.zip) | 2026-11-04 |
+| [Wood Barrels Pack](https://opengameart.org/content/wood-barrels-pack) | `model-3d` | mattn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/wood-barrels-pack.zip) | 2026-11-04 |
+| [Wood Pallet v1 Pack](https://opengameart.org/content/wood-pallet-v1-pack) | `model-3d` | Anonymous (not verified) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.27/wood-pallet-v1-pack.zip) | 2026-11-04 |
+| [Wooden Bridge](https://opengameart.org/content/wooden-bridge-0) | `model-3d` | Tozan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/wooden-bridge-0.zip) | 2026-11-04 |
+| [Wooden Furnitures](https://opengameart.org/content/wooden-furnitures) | `model-3d` | glitchart | CC0 | X | X | 2개 분할 | 2026-11-04 |
+| [3D Card Kit - Fantasy](https://quaternius.com/packs/3dcardkitfantasy.html) | `model-3d` | Quaternius | CC0 | X | X | 4개 분할 | 2026-10-29 |
+| [Animal Pack Vol.2](https://opengameart.org/content/animated-animales-low-poly) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/animal-pack-vol2.zip) | 2026-10-29 |
+| [Animated Guns Pack](https://opengameart.org/content/low-poly-animated-guns) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.9/animated-guns-pack.zip) | 2026-10-29 |
+| [Blaster Kit](https://kenney.nl/assets/blaster-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/blaster-kit.zip) | 2026-10-29 |
+| [Brick Kit](https://kenney.nl/assets/brick-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/brick-kit.zip) | 2026-10-29 |
+| [cmvalley lamps reworked](https://opengameart.org/content/cmvalley-lamps-reworked) | `model-3d` | rubberduck | CC-BY 4.0 | O | X | 2개 분할 | 2026-10-29 |
+| [Coaster Kit](https://kenney.nl/assets/coaster-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/coaster-kit.zip) | 2026-10-29 |
+| [Downtown City MegaKit](https://quaternius.com/packs/downtowncitymegakit.html) | `model-3d` | Quaternius | CC0 | X | X | 15개 분할 | 2026-10-29 |
+| [Factory Kit](https://kenney.nl/assets/factory-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/factory-kit.zip) | 2026-10-29 |
+| [Furniture Pack Vol.2](https://opengameart.org/content/low-poly-furniture-1) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.9/furniture-pack-vol2.zip) | 2026-10-29 |
+| [GunPack Vol.1](https://opengameart.org/content/low-poly-guns) | `model-3d` | Quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.9/gunpack-vol1.zip) | 2026-10-29 |
+| [handpainted rock formations](https://opengameart.org/content/handpainted-rock-formations) | `model-3d` | rubberduck | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.6/handpainted-rock-formations.zip) | 2026-10-29 |
+| [KayKit Block Bits 1.0](https://kaylousberg.itch.io/block-bits) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/kaykit-block-bits.zip) | 2026-10-29 |
+| [KayKit Board Game Bits 1.0](https://kaylousberg.itch.io/board-game-bits) | `model-3d` | Kay Lousberg | CC0 | X | X | 3개 분할 | 2026-10-29 |
+| [KayKit Fantasy Weapons Bits 1.0](https://kaylousberg.itch.io/fantasy-weapons-bits) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/kaykit-fantasy-weapons-bits.zip) | 2026-10-29 |
+| [KayKit Forest Nature Pack 1.0](https://kaylousberg.itch.io/kaykit-forest) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/kaykit-forest-nature-pack.zip) | 2026-10-29 |
+| [KayKit Holiday Bits 1.0](https://kaylousberg.itch.io/holiday-bits) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/kaykit-holiday-bits.zip) | 2026-10-29 |
 | [KayKit Platformer Pack 1.0](https://kaylousberg.itch.io/kaykit-platformer) | `model-3d` | Kay Lousberg | CC0 | X | X | 2개 분할 | 2026-10-29 |
 | [KayKit Resource Bits 1.0](https://kaylousberg.itch.io/resource-bits) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/kaykit-resource-bits.zip) | 2026-10-29 |
 | [KayKit RPG Tools Bits 1.0](https://kaylousberg.itch.io/rpg-tools-bits) | `model-3d` | Kay Lousberg | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/kaykit-rpg-tools-bits.zip) | 2026-10-29 |
