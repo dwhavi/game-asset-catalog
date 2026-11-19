@@ -1,0 +1,113 @@
+name: tmp-audit-20261119
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: sigco3111/assets-3d-lowpoly-2
+          path: assets
+          fetch-depth: 1
+      - name: audit
+        run: |
+          python3 - <<'PY'
+          import csv, re, os, collections
+          from urllib.parse import urlparse
+          ALLOWED = {'CC0','CC-BY 3.0','CC-BY 4.0','MIT','GPL 2.0','GPL 3.0','OGA-BY 3.0','OGA-BY 4.0'}
+          out = []
+          def P(s=''):
+              out.append(s)
+          with open('catalog.csv', encoding='utf-8-sig', newline='') as f:
+              rd = csv.DictReader(f)
+              hdr = list(rd.fieldnames or [])
+              rows = list(rd)
+          def g(r, k):
+              for kk, v in r.items():
+                  if kk and kk.strip().lower() == k:
+                      return (v or '').strip()
+              return ''
+          P('# 감사 보고서 (임시)')
+          P('헤더: ' + ' | '.join(hdr))
+          P('catalog 데이터 행 수: %d' % len(rows))
+          readme = open('README.md', encoding='utf-8').read()
+          m = re.search(r'총\s*(\d+)\s*팩입니다', readme)
+          P('README 총수: ' + (m.group(1) if m else '없음'))
+          P('README 표 줄:')
+          for l in readme.splitlines():
+              if l.strip().startswith('|'):
+                  P(l)
+          bad = [r for r in rows if g(r, 'license') not in ALLOWED]
+          P('')
+          P('## 허용 집합 외 license 행: %d' % len(bad))
+          for rp, c in collections.Counter(g(r, 'repo') for r in bad).items():
+              P('- repo %s: %d' % (rp, c))
+          for r in bad:
+              P('- %s | %s | %s' % (g(r, 'name'), g(r, 'license'), g(r, 'repo')))
+          auto = [r for r in rows if g(r, 'repo') == 'assets-3d-lowpoly-2' and g(r, 'added')[:10] >= '2026-11-18']
+          P('')
+          P('## 자동 수집분 행 수: %d' % len(auto))
+          for lc, c in collections.Counter(g(r, 'license') for r in auto).items():
+              P('- license %s: %d' % (lc, c))
+          urlc = collections.Counter(g(r, 'source_url') for r in rows if g(r, 'source_url'))
+          namec = collections.Counter(g(r, 'name') for r in rows if g(r, 'name'))
+          P('')
+          P('## 자동 수집분 이상 항목')
+          n_ok = 0
+          for r in auto:
+              reasons = []
+              pv = g(r, 'preview')
+              if not pv:
+                  reasons.append('preview 빈칸')
+              else:
+                  fp = os.path.join('assets', pv)
+                  if not os.path.isfile(fp):
+                      reasons.append('preview 파일 없음')
+                  elif os.path.getsize(fp) > 1048576:
+                      reasons.append('preview 1MB 초과(%d bytes)' % os.path.getsize(fp))
+              su = g(r, 'source_url')
+              if 'quaternius' in su.lower():
+                  reasons.append('source_url quaternius 포함')
+              host = urlparse(su).netloc.lower()
+              if not (host == 'opengameart.org' or host.endswith('.opengameart.org')):
+                  reasons.append('source_url 이 opengameart.org 아님')
+              if su and urlc[su] >= 2:
+                  reasons.append('source_url 중복(%d회)' % urlc[su])
+              if g(r, 'name') and namec[g(r, 'name')] >= 2:
+                  reasons.append('name 중복(%d회)' % namec[g(r, 'name')])
+              if reasons:
+                  P('- %s | %s | %s | %s' % (g(r, 'name'), g(r, 'repo'), g(r, 'added'), '; '.join(reasons)))
+              else:
+                  n_ok += 1
+          P('이상 없는 자동 수집분: %d' % n_ok)
+          P('')
+          P('## 전체 catalog 의 source_url 중복 그룹')
+          for u, c in urlc.items():
+              if c >= 2:
+                  P('- %s x%d' % (u, c))
+                  for r in rows:
+                      if g(r, 'source_url') == u:
+                          P('  - %s | %s | %s | %s' % (g(r, 'name'), g(r, 'license'), g(r, 'repo'), g(r, 'added')))
+          P('')
+          P('## 전체 catalog 의 name 중복 그룹')
+          for nm, c in namec.items():
+              if c >= 2:
+                  P('- %s x%d' % (nm, c))
+                  for r in rows:
+                      if g(r, 'name') == nm:
+                          P('  - %s | %s | %s | %s' % (g(r, 'license'), g(r, 'repo'), g(r, 'added'), g(r, 'source_url')))
+          os.makedirs('docs', exist_ok=True)
+          open('docs/audit-20261119.md', 'w', encoding='utf-8').write('\n'.join(out) + '\n')
+          print('\n'.join(out))
+          PY
+      - name: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/audit-20261119.md
+          git commit -m "감사 보고서 임시 기록"
+          git push
