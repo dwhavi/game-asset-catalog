@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c593032d0c442d5ef74dc6c56a16250a3e1d0c6f`
+> generated from `catalog.csv@cc4e2498fb06279ba3ac55ba3e82edb15582f6a0`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -17,7 +17,9 @@
 | [3d donut](https://opengameart.org/content/3d-donut) | `model-3d` | moath alkhawtani | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-donut/3d-donut.zip) | 2026-11-19 |
 | [Bebis 3D](https://opengameart.org/content/bebis-3d) | `model-3d` | bebis | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip) | 2026-11-19 |
 | [Cave Man Creation](https://opengameart.org/content/cave-man-creation) | `model-3d` | Johannes Nienaber Creations | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cave-man-creation/cave-man-creation.zip) | 2026-11-19 |
+| [Dim's arboretum for Blender 4.3.1+](https://opengameart.org/content/dims-arboretum-for-blender-431) | `model-3d` | velocirection | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-dims-arboretum-for-blender-431/dims-arboretum-for-blender-431.zip) | 2026-11-19 |
 | [Electric Guitar](https://opengameart.org/content/electric-guitar) | `model-3d` | Firefly in the Dusk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip) | 2026-11-19 |
+| [Genie](https://opengameart.org/content/genie) | `model-3d` | Teh\_Bucket | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/genie/genie.zip) | 2026-11-19 |
 | [Wizard Creation](https://opengameart.org/content/wizard-creation) | `model-3d` | Johannes Nienaber Creations | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wizard-creation/wizard-creation.zip) | 2026-11-19 |
 | [3D Delivery Spaceship](https://opengameart.org/content/3d-delivery-spaceship) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-delivery-spaceship/3d-delivery-spaceship.zip) | 2026-11-18 |
 | [3D female model 2026](https://opengameart.org/content/3d-female-model-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-female-model-2026/3d-female-model-2026.zip) | 2026-11-18 |
@@ -111,5 +113,3 @@
 | [Fjordfall Buildings](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-buildings/fjordfall-buildings.zip) | 2026-11-14 |
 | [Fjordfall Characters](https://github.com/AgenticGameDevs/generated-assets) | `model-3d` | Jonathan Maddison | CC-BY | O | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fjordfall-characters/fjordfall-characters.zip) | 2026-11-14 |
 | [Food Pack: Cooking](https://opengameart.org/content/food-pack-cooking) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend) | 2026-11-14 |
-| [Gem collect SFX](https://opengameart.org/content/gem-collect-sfx) | `other` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav) | 2026-11-14 |
-| [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
