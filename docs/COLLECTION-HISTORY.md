@@ -1,5 +1,233 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-18 자동 수집 등록 (56팩, 2026-11-19 18:38 KST)
+
+- 팩: 3D Lowpoly Chair (slug 3d-lowpoly-chair), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/3d-lowpoly-chair
+- 저장: assets-3d-lowpoly-2 3d-lowpoly-chair/3d-lowpoly-chair.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: A-104 Cold Fusion Assault Rifle (slug a-104-cold-fusion-assault-rifle), 라이선스: CC-BY 3.0, 제작자: qubodup
+- 출처: https://opengameart.org/content/a-104-cold-fusion-assault-rifle
+- 저장: assets-3d-lowpoly-2 a-104-cold-fusion-assault-rifle/a-104-cold-fusion-assault-rifle.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: A 3D signal effect for Unity + Satellite 3D Model (slug a-3d-signal-effect-for-unity-satellite-3d-model), 라이선스: CC-BY 4.0, 제작자: FlexUnit
+- 출처: https://opengameart.org/content/a-3d-signal-effect-for-unity-satellite-3d-model
+- 저장: assets-3d-lowpoly-2 a-3d-signal-effect-for-unity-satellite-3d-model/a-3d-signal-effect-for-unity-satellite-3d-model.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Acient ruins (slug acient-ruins), 라이선스: CC-BY 3.0, 제작자: killyoverdrive
+- 출처: https://opengameart.org/content/acient-ruins
+- 저장: assets-3d-lowpoly-2 acient-ruins/acient-ruins.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Bartender (slug bartender), 라이선스: CC0, 제작자: CDmir
+- 출처: https://opengameart.org/content/bartender
+- 저장: assets-3d-lowpoly-2 release:pack-bartender/bartender.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Basic 3D Terrain Tiles (slug basic-3d-terrain-tiles), 라이선스: CC0, 제작자: MrOvkill
+- 출처: https://opengameart.org/content/basic-3d-terrain-tiles
+- 저장: assets-3d-lowpoly-2 release:pack-basic-3d-terrain-tiles/basic-3d-terrain-tiles.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Bike (slug bike-0), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/bike-0
+- 저장: assets-3d-lowpoly-2 bike-0/bike-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Brigand (slug brigand), 라이선스: CC-BY 3.0, 제작자: AnthonyMyers
+- 출처: https://opengameart.org/content/brigand
+- 저장: assets-3d-lowpoly-2 release:pack-brigand/brigand.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Castle Kit (slug castle-kit), 라이선스: CC0, 제작자: Kenney
+- 출처: https://opengameart.org/content/castle-kit
+- 저장: assets-3d-lowpoly-2 castle-kit/castle-kit.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Chorketown Vegetables (slug chorketown-vegetables), 라이선스: CC0, 제작자: agdg reject
+- 출처: https://opengameart.org/content/chorketown-vegetables
+- 저장: assets-3d-lowpoly-2 chorketown-vegetables/chorketown-vegetables.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Claw Hammer (slug claw-hammer-0), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/claw-hammer-0
+- 저장: assets-3d-lowpoly-2 claw-hammer-0/claw-hammer-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Cordless Drill (slug cordless-drill), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/cordless-drill
+- 저장: assets-3d-lowpoly-2 release:pack-cordless-drill/cordless-drill.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Cottage (slug cottage), 라이선스: CC-BY 3.0, 제작자: WeaponGuy
+- 출처: https://opengameart.org/content/cottage
+- 저장: assets-3d-lowpoly-2 release:pack-cottage/cottage.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Derringer Pistol (slug derringer-pistol), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/derringer-pistol
+- 저장: assets-3d-lowpoly-2 release:pack-derringer-pistol/derringer-pistol.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Detective Special Revolver (slug detective-special-revolver), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/detective-special-revolver
+- 저장: assets-3d-lowpoly-2 release:pack-detective-special-revolver/detective-special-revolver.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Dim's arboretum (slug dims-arboretum), 라이선스: CC-BY 3.0, 제작자: WeaponGuy
+- 출처: https://opengameart.org/content/dims-arboretum
+- 저장: assets-3d-lowpoly-2 release:pack-dims-arboretum/dims-arboretum.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Fantasy tombstone (slug fantasy-tombstone), 라이선스: CC0, 제작자: DREAM_SEARCH_REPEAT
+- 출처: https://opengameart.org/content/fantasy-tombstone
+- 저장: assets-3d-lowpoly-2 release:pack-fantasy-tombstone/fantasy-tombstone.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Flathead Screwdriver (slug flathead-screwdriver), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/flathead-screwdriver
+- 저장: assets-3d-lowpoly-2 flathead-screwdriver/flathead-screwdriver.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Free Fantasy Medieval Town Props Unity Assets low-poly 3D model (slug free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model), 라이선스: CC-BY 4.0, 제작자: EmacEArt
+- 출처: https://opengameart.org/content/free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model
+- 저장: assets-3d-lowpoly-2 release:pack-free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model/free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Gems (slug gems), 라이선스: CC-BY 3.0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/gems
+- 저장: assets-3d-lowpoly-2 gems/gems.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Gnarly Tools (slug gnarly-tools), 라이선스: CC-BY 3.0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/gnarly-tools
+- 저장: assets-3d-lowpoly-2 gnarly-tools/gnarly-tools.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Hammer (slug hammer-5), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/hammer-5
+- 저장: assets-3d-lowpoly-2 hammer-5/hammer-5.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Harvester Truck in C&C Tiberian Sun style (slug harvester-truck-in-cc-tiberian-sun-style), 라이선스: CC0, 제작자: 32kda
+- 출처: https://opengameart.org/content/harvester-truck-in-cc-tiberian-sun-style
+- 저장: assets-3d-lowpoly-2 harvester-truck-in-cc-tiberian-sun-style/harvester-truck-in-cc-tiberian-sun-style.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Health and Mana Potion (slug health-and-mana-potion), 라이선스: CC-BY 3.0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/health-and-mana-potion
+- 저장: assets-3d-lowpoly-2 health-and-mana-potion/health-and-mana-potion.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Human basaemeshes (slug human-basaemeshes), 라이선스: CC-BY 3.0, 제작자: thehumbug
+- 출처: https://opengameart.org/content/human-basaemeshes
+- 저장: assets-3d-lowpoly-2 human-basaemeshes/human-basaemeshes.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Lightning Pump Action Rifle (slug lightning-pump-action-rifle), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/lightning-pump-action-rifle
+- 저장: assets-3d-lowpoly-2 release:pack-lightning-pump-action-rifle/lightning-pump-action-rifle.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: low poly canon (slug low-poly-canon), 라이선스: CC0, 제작자: tbbk
+- 출처: https://opengameart.org/content/low-poly-canon
+- 저장: assets-3d-lowpoly-2 low-poly-canon/low-poly-canon.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Low Poly Chuveiro (Brazilian Electric Shower) (slug low-poly-chuveiro-brazilian-electric-shower), 라이선스: CC0, 제작자: cosmac
+- 출처: https://opengameart.org/content/low-poly-chuveiro-brazilian-electric-shower
+- 저장: assets-3d-lowpoly-2 low-poly-chuveiro-brazilian-electric-shower/low-poly-chuveiro-brazilian-electric-shower.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Low-poly Crossbow (slug low-poly-crossbow), 라이선스: CC-BY 3.0, 제작자: Lamoot
+- 출처: https://opengameart.org/content/low-poly-crossbow
+- 저장: assets-3d-lowpoly-2 low-poly-crossbow/low-poly-crossbow.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Low-poly plants (slug low-poly-plants), 라이선스: CC-BY 3.0, 제작자: Lamoot
+- 출처: https://opengameart.org/content/low-poly-plants
+- 저장: assets-3d-lowpoly-2 low-poly-plants/low-poly-plants.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Low Poly Speaker (slug low-poly-speaker), 라이선스: CC0, 제작자: cosmac
+- 출처: https://opengameart.org/content/low-poly-speaker
+- 저장: assets-3d-lowpoly-2 low-poly-speaker/low-poly-speaker.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Low-poly trees, stumps, branches (slug low-poly-trees-stumps-branches), 라이선스: CC-BY 3.0, 제작자: Lamoot
+- 출처: https://opengameart.org/content/low-poly-trees-stumps-branches
+- 저장: assets-3d-lowpoly-2 low-poly-trees-stumps-branches/low-poly-trees-stumps-branches.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Medieval Props textured (slug medieval-props-textured), 라이선스: CC-BY 3.0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/medieval-props-textured
+- 저장: assets-3d-lowpoly-2 medieval-props-textured/medieval-props-textured.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Mine Cart Set (slug mine-cart-set), 라이선스: CC-BY 3.0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/mine-cart-set
+- 저장: assets-3d-lowpoly-2 mine-cart-set/mine-cart-set.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Mk2 Grenade (slug mk2-grenade), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/mk2-grenade
+- 저장: assets-3d-lowpoly-2 release:pack-mk2-grenade/mk2-grenade.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: N64 Lasers (slug n64-lasers), 라이선스: CC0, 제작자: n64guy
+- 출처: https://opengameart.org/content/n64-lasers
+- 저장: assets-3d-lowpoly-2 n64-lasers/n64-lasers.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: N64 Potions (slug n64-potions), 라이선스: CC0, 제작자: n64guy
+- 출처: https://opengameart.org/content/n64-potions
+- 저장: assets-3d-lowpoly-2 n64-potions/n64-potions.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: N64 Sign (slug n64-sign), 라이선스: CC0, 제작자: n64guy
+- 출처: https://opengameart.org/content/n64-sign
+- 저장: assets-3d-lowpoly-2 n64-sign/n64-sign.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Objects in a house (slug objects-in-a-house), 라이선스: CC-BY 3.0, 제작자: TiZeta
+- 출처: https://opengameart.org/content/objects-in-a-house
+- 저장: assets-3d-lowpoly-2 objects-in-a-house/objects-in-a-house.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Old Baseball (slug old-baseball), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/old-baseball
+- 저장: assets-3d-lowpoly-2 release:pack-old-baseball/old-baseball.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Old book (slug old-book), 라이선스: CC-BY 3.0, 제작자: Aare
+- 출처: https://opengameart.org/content/old-book
+- 저장: assets-3d-lowpoly-2 old-book/old-book.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Old canon (slug old-canon), 라이선스: CC0, 제작자: tbbk
+- 출처: https://opengameart.org/content/old-canon
+- 저장: assets-3d-lowpoly-2 old-canon/old-canon.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Old Wooden Baseball Bat (slug old-wooden-baseball-bat), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/old-wooden-baseball-bat
+- 저장: assets-3d-lowpoly-2 release:pack-old-wooden-baseball-bat/old-wooden-baseball-bat.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Pirate (slug pirate), 라이선스: CC-BY 3.0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/pirate
+- 저장: assets-3d-lowpoly-2 pirate/pirate.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Rail Basic assets v1 (slug rail-basic-assets-v1), 라이선스: CC-BY 3.0, 제작자: eracoon
+- 출처: https://opengameart.org/content/rail-basic-assets-v1
+- 저장: assets-3d-lowpoly-2 rail-basic-assets-v1/rail-basic-assets-v1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Rifle Scope (slug rifle-scope), 라이선스: CC0, 제작자: LonesomeDucky
+- 출처: https://opengameart.org/content/rifle-scope
+- 저장: assets-3d-lowpoly-2 rifle-scope/rifle-scope.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Ring Set - Precious Metals (slug ring-set-precious-metals), 라이선스: CC-BY 3.0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/ring-set-precious-metals
+- 저장: assets-3d-lowpoly-2 ring-set-precious-metals/ring-set-precious-metals.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Rope Fence (slug rope-fence), 라이선스: CC0, 제작자: Clint Bellanger
+- 출처: https://opengameart.org/content/rope-fence
+- 저장: assets-3d-lowpoly-2 rope-fence/rope-fence.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Rough Chess Piece (slug rough-chess-piece), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/rough-chess-piece
+- 저장: assets-3d-lowpoly-2 rough-chess-piece/rough-chess-piece.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Santa Claus (slug santa-claus-2), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/santa-claus-2
+- 저장: assets-3d-lowpoly-2 santa-claus-2/santa-claus-2.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Sci-Fi Wall Light (slug sci-fi-wall-light), 라이선스: CC0, 제작자: Eponasoft
+- 출처: https://opengameart.org/content/sci-fi-wall-light
+- 저장: assets-3d-lowpoly-2 sci-fi-wall-light/sci-fi-wall-light.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Space Kit (remade) (slug space-kit-remade), 라이선스: CC0, 제작자: Kenney
+- 출처: https://opengameart.org/content/space-kit-remade
+- 저장: assets-3d-lowpoly-2 release:pack-space-kit-remade/space-kit-remade.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: space ship 3d&2d (slug space-ship-3d2d), 라이선스: CC-BY 3.0, 제작자: killyoverdrive
+- 출처: https://opengameart.org/content/space-ship-3d2d
+- 저장: assets-3d-lowpoly-2 space-ship-3d2d/space-ship-3d2d.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Tetine Elfe (slug tetine-elfe), 라이선스: CC-BY 3.0, 제작자: bart
+- 출처: https://opengameart.org/content/tetine-elfe
+- 저장: assets-3d-lowpoly-2 release:pack-tetine-elfe/tetine-elfe.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: Thin Zombie [ Awake Zombie Asset ] (slug thin-zombie-awake-zombie-asset), 라이선스: CC-BY 3.0, 제작자: dogchicken
+- 출처: https://opengameart.org/content/thin-zombie-awake-zombie-asset
+- 저장: assets-3d-lowpoly-2 thin-zombie-awake-zombie-asset/thin-zombie-awake-zombie-asset.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 팩: zombie (slug zombie), 라이선스: CC-BY 3.0, 제작자: pixelhouse
+- 출처: https://opengameart.org/content/zombie
+- 저장: assets-3d-lowpoly-2 zombie/zombie.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2037→2093, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-17 자동 수집 등록 (56팩, 2026-11-19 17:57 KST)
 
 - 팩: 20 Cups, 4 Chairs, and a Toilet (slug 20-cups-4-chairs-and-a-toilet), 라이선스: CC0, 제작자: Lyricsz

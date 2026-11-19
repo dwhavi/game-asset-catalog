@@ -1,22 +1,78 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ea429efa2d057d1e100e82dd346a710a32571ccc`
+> generated from `catalog.csv@d5828cc672cd3fc128b2a2f7cdbf7707fb12aa8e`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **588개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **644개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 188행 (전체 588개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 244행 (전체 644개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Medieval House Pack](https://opengameart.org/content/medieval-house-pack) | `model-3d` | Lucian Pavel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/medieval-house-pack.zip) | 2026-11-04 |
+| [Medieval Props Pack 1](https://opengameart.org/content/medieval-props-pack-1) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/medieval-props-pack-1.zip) | 2026-11-04 |
+| [Medieval Props Pack 2](https://opengameart.org/content/medieval-props-pack-2) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.22/medieval-props-pack-2.zip) | 2026-11-04 |
+| [Medieval Props Pack 3](https://opengameart.org/content/medieval-props-pack-3) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/medieval-props-pack-3.zip) | 2026-11-04 |
+| [Medieval Smith Pack](https://opengameart.org/content/medieval-smith-pack) | `model-3d` | MikeeUSA | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/medieval-smith-pack.zip) | 2026-11-04 |
+| [Medieval Statue](https://opengameart.org/content/medieval-statue) | `model-3d` | looneybits | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.22/medieval-statue.zip) | 2026-11-04 |
+| [Medieval Tavern](https://opengameart.org/content/medieval-tavern) | `model-3d` | karthik 2901 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/medieval-tavern.zip) | 2026-11-04 |
+| [Medieval Tavern Props Pack](https://opengameart.org/content/medieval-tavern-props-pack) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.31/medieval-tavern-props-pack.zip) | 2026-11-04 |
+| [Medieval Waterpowered Sawmill](https://opengameart.org/content/medieval-waterpowered-sawmill) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/medieval-waterpowered-sawmill.zip) | 2026-11-04 |
+| [Medieval Well](https://opengameart.org/content/medieval-well) | `model-3d` | AnyRPG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.27/medieval-well.zip) | 2026-11-04 |
+| [Merchant tent v2](https://opengameart.org/content/merchant-tent-v2) | `model-3d` | CruzR | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.29/merchant-tent-v2.zip) | 2026-11-04 |
+| [Metal Barrels Pack](https://opengameart.org/content/metal-barrels-pack) | `model-3d` | fabiosarts | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.20/metal-barrels-pack.zip) | 2026-11-04 |
+| [Mini Library](https://opengameart.org/content/mini-library) | `model-3d` | Teirdalin Shadowfall | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/mini-library.zip) | 2026-11-04 |
+| [Modular (3D) buildings](https://opengameart.org/content/modular-3d-buildings) | `model-3d` | Yorwan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/modular-3d-buildings.zip) | 2026-11-04 |
+| [Modular building asset](https://opengameart.org/content/modular-building-asset-0) | `model-3d` | surt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-building-asset-0.zip) | 2026-11-04 |
+| [Modular Castle Level Construction Kit](https://opengameart.org/content/modular-castle-level-construction-kit) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/modular-castle-level-construction-kit.zip) | 2026-11-04 |
+| [Modular Dungeon - 3D Models](https://opengameart.org/content/modular-dungeon-3d-models) | `model-3d` | 불명 (OGA 계정 삭제됨) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/modular-dungeon-3d-models.zip) | 2026-11-04 |
+| [Modular Dungeon 2 - 3D Models](https://opengameart.org/content/modular-dungeon-2-3d-models) | `model-3d` | Matei511 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-dungeon-2-3d-models.zip) | 2026-11-04 |
+| [Modular House - 3D Models](https://opengameart.org/content/modular-house-3d-models) | `model-3d` | Cougarmint | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.20/modular-house-3d-models.zip) | 2026-11-04 |
+| [Modular Medieval Building Pack](https://opengameart.org/content/modular-medieval-building-pack) | `model-3d` | dennydenning | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/modular-medieval-building-pack.zip) | 2026-11-04 |
+| [Modular Medieval House Pack 01](https://opengameart.org/content/modular-medieval-house-pack-01) | `model-3d` | reidh | CC0 | X | X | 2개 분할 | 2026-11-04 |
+| [Modular Medieval House Pack 02](https://opengameart.org/content/modular-medieval-house-pack-02) | `model-3d` | Chris\_M\_The\_Gam... | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/modular-medieval-house-pack-02.zip) | 2026-11-04 |
+| [Modular Medieval House Pack 03](https://opengameart.org/content/modular-medieval-house-pack-03) | `model-3d` | ? | CC0 | X | X | 2개 분할 | 2026-11-04 |
+| [Modular Medieval House Pack 04](https://opengameart.org/content/modular-medieval-house-pack-04) | `model-3d` | ? | CC0 | X | X | 2개 분할 | 2026-11-04 |
+| [Modular Racetrack - 3D Models](https://opengameart.org/content/modular-racetrack-3d-models) | `model-3d` | Keith at Fertil... | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.20/modular-racetrack-3d-models.zip) | 2026-11-04 |
+| [Modular RPG Characters](https://opengameart.org/content/modular-rpg-characters) | `model-3d` | buttons | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.16/modular-rpg-characters.zip) | 2026-11-04 |
+| [Modular Temple - 3D Models](https://opengameart.org/content/modular-temple-3d-models) | `model-3d` | JWS | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/modular-temple-3d-models.zip) | 2026-11-04 |
+| [Modular Terrain](https://opengameart.org/content/modular-terrain) | `model-3d` | Keith at Fertil... | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/modular-terrain.zip) | 2026-11-04 |
+| [Modular Village](https://opengameart.org/content/modular-village) | `model-3d` | Croomfolk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/modular-village.zip) | 2026-11-04 |
+| [Money](https://opengameart.org/content/money) | `model-3d` | qubodup | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/money.zip) | 2026-11-04 |
+| [Monk](https://opengameart.org/content/monk) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/monk.zip) | 2026-11-04 |
+| [Mossy Stone Rock](https://opengameart.org/content/mossy-stone-rock) | `model-3d` | bytheleft | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.22/mossy-stone-rock.zip) | 2026-11-04 |
+| [Mudeater (animated)](https://opengameart.org/content/mudeater-animated) | `model-3d` | Tozan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/mudeater-animated.zip) | 2026-11-04 |
+| [Multi stylized grass](https://opengameart.org/content/multi-stylized-grass) | `model-3d` | Danimal | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/multi-stylized-grass.zip) | 2026-11-04 |
+| [Nature Kit](https://opengameart.org/content/nature-kit) | `model-3d` | Luca Pixel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/nature-kit.zip) | 2026-11-04 |
+| [Old Deer Male](https://opengameart.org/content/old-deer-male) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/old-deer-male.zip) | 2026-11-04 |
+| [Old Lady](https://opengameart.org/content/old-lady) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/old-lady.zip) | 2026-11-04 |
+| [old windmill](https://opengameart.org/content/old-windmill) | `model-3d` | bart | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/old-windmill.zip) | 2026-11-04 |
+| [Oldschool AFPS Weapons](https://opengameart.org/content/oldschool-afps-weapons) | `model-3d` | FiveBrosStopMosYT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/oldschool-afps-weapons.zip) | 2026-11-04 |
+| [Palm tree v2](https://opengameart.org/content/palm-tree-v2) | `model-3d` | manwesulimo2004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.19/palm-tree-v2.zip) | 2026-11-04 |
+| [Pirate Sword (Animated)](https://opengameart.org/content/pirate-sword-animated) | `model-3d` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/pirate-sword-animated.zip) | 2026-11-04 |
+| [Plastic Barrel Pack](https://opengameart.org/content/plastic-barrel-pack) | `model-3d` | ? | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.26/plastic-barrel-pack.zip) | 2026-11-04 |
+| [Potion Bottle](https://opengameart.org/content/potion-bottle-0) | `model-3d` | Grahhhhh | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/potion-bottle-0.zip) | 2026-11-04 |
+| [Potions](https://opengameart.org/content/potions-6) | `model-3d` | inmysights | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.22/potions-6.zip) | 2026-11-04 |
+| [QueChan](https://opengameart.org/content/quechan) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.29/quechan.zip) | 2026-11-04 |
+| [Rabbit](https://opengameart.org/content/rabbit-0) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/rabbit-0.zip) | 2026-11-04 |
+| [Racing Assets v1](https://opengameart.org/content/racing-assets-v1) | `model-3d` | AnthonyMyers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/racing-assets-v1.zip) | 2026-11-04 |
+| [Realtime Rancher's 3D Model Pack](https://opengameart.org/content/realtime-ranchers-3d-model-pack) | `model-3d` | Iconoclast | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.27/realtime-ranchers-3d-model-pack.zip) | 2026-11-04 |
+| [Retro Medieval Kit](https://opengameart.org/content/retro-medieval-kit) | `model-3d` | genderfreak | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.26/retro-medieval-kit.zip) | 2026-11-04 |
+| [Rigged Horse](https://opengameart.org/content/rigged-horse) | `model-3d` | Iconoclast | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/rigged-horse.zip) | 2026-11-04 |
+| [Rocks](https://opengameart.org/content/rocks-0) | `model-3d` | 불명 (OGA 계정 삭제됨) | CC0 | X | X | 2개 분할 | 2026-11-04 |
+| [Rocks 02](https://opengameart.org/content/rocks-02) | `model-3d` | vk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/rocks-02.zip) | 2026-11-04 |
+| [Rocks 03](https://opengameart.org/content/rocks-03) | `model-3d` | Delirius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/rocks-03.zip) | 2026-11-04 |
+| [Rooster (Animated)](https://opengameart.org/content/rooster-animated) | `model-3d` | abdolama | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/rooster-animated.zip) | 2026-11-04 |
+| [RPG Item collection 1](https://opengameart.org/content/rpg-item-collection-1) | `model-3d` | Lee Davis | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/rpg-item-collection-1.zip) | 2026-11-04 |
+| [RPG Item collection 2](https://opengameart.org/content/rpg-item-collection-2) | `model-3d` | RmateHadi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/rpg-item-collection-2.zip) | 2026-11-04 |
 | [RPG Item collection 3](https://opengameart.org/content/rpg-item-collection-3) | `model-3d` | Starry Skydancer | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/rpg-item-collection-3.zip) | 2026-11-04 |
 | [Sci-fi environment pack](https://opengameart.org/content/sci-fi-environment-pack) | `model-3d` | Aspecty | CC0 | X | X | 2개 분할 | 2026-11-04 |
 | [Sci-fi soldier](https://opengameart.org/content/sci-fi-soldier) | `model-3d` | josepharaoh99 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/sci-fi-soldier.zip) | 2026-11-04 |
