@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@cc4e2498fb06279ba3ac55ba3e82edb15582f6a0",
-  "count": 1980,
+  "generated_from": "catalog.csv@7f2e8e762fa9442560447ce4a4d7f9c8903a6953",
+  "count": 1981,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -70355,6 +70355,38 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/genie/genie.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/genie/genie.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style",
+      "name": "Pack of extremly low poly soviet vehicles in pixel art style.",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "madmedicsoft",
+      "source_url": "https://opengameart.org/content/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: madmedicsoft (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style/preview.png",
+      "download_path": "pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style.zip"
       ],
       "sample": null,
       "multipart": false,

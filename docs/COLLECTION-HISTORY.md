@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-15 자동 수집 등록 (1팩, 2026-11-19 15:34 KST)
+
+- 팩: Pack of extremly low poly soviet vehicles in pixel art style. (slug pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style), 라이선스: CC0, 제작자: madmedicsoft
+- 출처: https://opengameart.org/content/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style
+- 저장: assets-3d-lowpoly-2 pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1980→1981, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-14 자동 수집 등록 (2팩, 2026-11-19 14:31 KST)
 
 - 팩: Dim's arboretum for Blender 4.3.1+ (slug dims-arboretum-for-blender-431), 라이선스: CC-BY 3.0, 제작자: velocirection
