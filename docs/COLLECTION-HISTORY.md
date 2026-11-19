@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-02 자동 수집 등록 (1팩, 2026-11-20 02:44 KST)
+
+- 팩: Robo Welder (slug robo-welder), 라이선스: CC-BY 3.0, 제작자: Bartheinz
+- 출처: https://opengameart.org/content/robo-welder
+- 저장: assets-3d-lowpoly-2 robo-welder/robo-welder.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2093→2094, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-18 자동 수집 등록 (56팩, 2026-11-19 18:38 KST)
 
 - 팩: 3D Lowpoly Chair (slug 3d-lowpoly-chair), 라이선스: CC0, 제작자: Lyricsz

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d5828cc672cd3fc128b2a2f7cdbf7707fb12aa8e`
+> generated from `catalog.csv@109d79dd4a6d27bdb2f3159174d1e5c43ba82f11`
 
 # 보드게임 모음
 

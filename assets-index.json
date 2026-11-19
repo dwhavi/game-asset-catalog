@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@d5828cc672cd3fc128b2a2f7cdbf7707fb12aa8e",
-  "count": 2093,
+  "generated_from": "catalog.csv@109d79dd4a6d27bdb2f3159174d1e5c43ba82f11",
+  "count": 2094,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -73979,6 +73979,38 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/zombie/zombie.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/zombie/zombie.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/robo-welder",
+      "name": "Robo Welder",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "robo-welder/robo-welder.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Bartheinz",
+      "source_url": "https://opengameart.org/content/robo-welder",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Bartheinz (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "robo-welder/preview.png",
+      "download_path": "robo-welder/robo-welder.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/robo-welder/robo-welder.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/robo-welder/robo-welder.zip"
       ],
       "sample": null,
       "multipart": false,

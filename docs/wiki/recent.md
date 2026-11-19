@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d5828cc672cd3fc128b2a2f7cdbf7707fb12aa8e`
+> generated from `catalog.csv@109d79dd4a6d27bdb2f3159174d1e5c43ba82f11`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -111,5 +111,5 @@
 | [Realy Low poly gun \| CC0](https://opengameart.org/content/realy-low-poly-gun-cc0) | `model-3d` | Zxelt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/realy-low-poly-gun-cc0/realy-low-poly-gun-cc0.zip) | 2026-11-19 |
 | [Rifle Scope](https://opengameart.org/content/rifle-scope) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rifle-scope/rifle-scope.zip) | 2026-11-19 |
 | [Ring Set - Precious Metals](https://opengameart.org/content/ring-set-precious-metals) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ring-set-precious-metals/ring-set-precious-metals.zip) | 2026-11-19 |
+| [Robo Welder](https://opengameart.org/content/robo-welder) | `model-3d` | Bartheinz | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/robo-welder/robo-welder.zip) | 2026-11-19 |
 | [Rope Fence](https://opengameart.org/content/rope-fence) | `model-3d` | Clint Bellanger | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rope-fence/rope-fence.zip) | 2026-11-19 |
-| [Rough Chess Piece](https://opengameart.org/content/rough-chess-piece) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rough-chess-piece/rough-chess-piece.zip) | 2026-11-19 |

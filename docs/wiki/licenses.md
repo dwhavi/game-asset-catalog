@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d5828cc672cd3fc128b2a2f7cdbf7707fb12aa8e`
+> generated from `catalog.csv@109d79dd4a6d27bdb2f3159174d1e5c43ba82f11`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2093개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2094개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1875 | 0 | 예 |
-| cc-by | CC-BY | 202 | 202 | 예 |
+| cc-by | CC-BY | 203 | 203 | 예 |
 | mit | MIT | 3 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
 | other | 기타(허용 목록 밖) | 3 | 0 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1874 |
-| CC-BY 3.0 | cc-by | O | 102 |
+| CC-BY 3.0 | cc-by | O | 103 |
 | CC-BY 4.0 | cc-by | O | 81 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 10 |
@@ -46,7 +46,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 215개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 216개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Radio](https://opengameart.org/content/radio-1) | Radiance | CC-BY 4.0 | 필수: Radiance (opengameart.org), CC-BY 4.0 | 2026-11-19 |
 | [Rail Basic assets v1](https://opengameart.org/content/rail-basic-assets-v1) | eracoon | CC-BY 3.0 | 필수: eracoon (opengameart.org), CC-BY 3.0 | 2026-11-19 |
 | [Ring Set - Precious Metals](https://opengameart.org/content/ring-set-precious-metals) | Clint Bellanger | CC-BY 3.0 | 필수: Clint Bellanger (opengameart.org), CC-BY 3.0 | 2026-11-19 |
+| [Robo Welder](https://opengameart.org/content/robo-welder) | Bartheinz | CC-BY 3.0 | 필수: Bartheinz (opengameart.org), CC-BY 3.0 | 2026-11-19 |
 | [space ship 3d&2d](https://opengameart.org/content/space-ship-3d2d) | killyoverdrive | CC-BY 3.0 | 필수: killyoverdrive (opengameart.org), CC-BY 3.0 | 2026-11-19 |
 | [Tetine Elfe](https://opengameart.org/content/tetine-elfe) | bart | CC-BY 3.0 | 필수: bart (opengameart.org), CC-BY 3.0 | 2026-11-19 |
 | [Thin Zombie \[ Awake Zombie Asset \]](https://opengameart.org/content/thin-zombie-awake-zombie-asset) | dogchicken | CC-BY 3.0 | 필수: dogchicken (opengameart.org), CC-BY 3.0 | 2026-11-19 |
