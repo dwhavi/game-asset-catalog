@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@1bee600877db5d17c384af998d08a9c024627773`
+> generated from `catalog.csv@b3173354b58a4e259fbb6c7ede8a364b85c464b2`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)](https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0) | `sprite-2d` | levshop | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip) | 2026-11-19 |
 | [20 Cups, 4 Chairs, and a Toilet](https://opengameart.org/content/20-cups-4-chairs-and-a-toilet) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-20-cups-4-chairs-and-a-toilet/20-cups-4-chairs-and-a-toilet.zip) | 2026-11-19 |
 | [20 Gases](https://opengameart.org/content/20-gases) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/20-gases/20-gases.zip) | 2026-11-19 |
 | [3D Car](https://opengameart.org/content/3d-car-0) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-car-0/3d-car-0.zip) | 2026-11-19 |
@@ -24,6 +25,8 @@
 | [3D Swords](https://opengameart.org/content/3d-swords) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-swords/3d-swords.zip) | 2026-11-19 |
 | [3d Tables and Chairs (Ultimate Asset Pack)](https://opengameart.org/content/3d-tables-and-chairs-ultimate-asset-pack) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-3d-tables-and-chairs-ultimate-asset-pack/3d-tables-and-chairs-ultimate-asset-pack.zip) | 2026-11-19 |
 | [50 Bottles (3D)](https://opengameart.org/content/50-bottles-3d) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/50-bottles-3d/50-bottles-3d.zip) | 2026-11-19 |
+| [8x8 Pixel Topdown Pack](https://opengameart.org/content/8x8-pixel-topdown-pack) | `sprite-2d` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/8x8-pixel-topdown-pack/8x8-pixel-topdown-pack.zip) | 2026-11-19 |
+| [: 9 Fantasy Pixel Potions + 4 Animated](https://opengameart.org/content/9-fantasy-pixel-potions-4-animated) | `sprite-2d` | Veric Silix | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip) | 2026-11-19 |
 | [A 3D signal effect for Unity + Satellite 3D Model](https://opengameart.org/content/a-3d-signal-effect-for-unity-satellite-3d-model) | `model-3d` | FlexUnit | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/a-3d-signal-effect-for-unity-satellite-3d-model/a-3d-signal-effect-for-unity-satellite-3d-model.zip) | 2026-11-19 |
 | [A-104 Cold Fusion Assault Rifle](https://opengameart.org/content/a-104-cold-fusion-assault-rifle) | `model-3d` | qubodup | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/a-104-cold-fusion-assault-rifle/a-104-cold-fusion-assault-rifle.zip) | 2026-11-19 |
 | [Acient ruins](https://opengameart.org/content/acient-ruins) | `model-3d` | killyoverdrive | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/acient-ruins/acient-ruins.zip) | 2026-11-19 |
@@ -110,6 +113,3 @@
 | [Rail Basic assets v1](https://opengameart.org/content/rail-basic-assets-v1) | `model-3d` | eracoon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rail-basic-assets-v1/rail-basic-assets-v1.zip) | 2026-11-19 |
 | [Realy Low poly gun \| CC0](https://opengameart.org/content/realy-low-poly-gun-cc0) | `model-3d` | Zxelt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/realy-low-poly-gun-cc0/realy-low-poly-gun-cc0.zip) | 2026-11-19 |
 | [Rifle Scope](https://opengameart.org/content/rifle-scope) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rifle-scope/rifle-scope.zip) | 2026-11-19 |
-| [Ring Set - Precious Metals](https://opengameart.org/content/ring-set-precious-metals) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ring-set-precious-metals/ring-set-precious-metals.zip) | 2026-11-19 |
-| [Robo Welder](https://opengameart.org/content/robo-welder) | `model-3d` | Bartheinz | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/robo-welder/robo-welder.zip) | 2026-11-19 |
-| [Rope Fence](https://opengameart.org/content/rope-fence) | `model-3d` | Clint Bellanger | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rope-fence/rope-fence.zip) | 2026-11-19 |

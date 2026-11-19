@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-07 자동 수집 등록 (3팩, 2026-11-20 07:00 KST)
+
+- 팩: 16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0) (slug 16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0), 라이선스: CC0, 제작자: levshop
+- 출처: https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0
+- 저장: assets-3d-lowpoly-2 16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2094→2097, 기존 행 불변 확인
+- 팩: 8x8 Pixel Topdown Pack (slug 8x8-pixel-topdown-pack), 라이선스: CC0, 제작자: ZaninDevelopers
+- 출처: https://opengameart.org/content/8x8-pixel-topdown-pack
+- 저장: assets-3d-lowpoly-2 8x8-pixel-topdown-pack/8x8-pixel-topdown-pack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2094→2097, 기존 행 불변 확인
+- 팩: : 9 Fantasy Pixel Potions + 4 Animated (slug 9-fantasy-pixel-potions-4-animated), 라이선스: CC-BY 3.0, 제작자: Veric Silix
+- 출처: https://opengameart.org/content/9-fantasy-pixel-potions-4-animated
+- 저장: assets-3d-lowpoly-2 9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2094→2097, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261120-02 자동 수집 등록 (1팩, 2026-11-20 02:44 KST)
 
 - 팩: Robo Welder (slug robo-welder), 라이선스: CC-BY 3.0, 제작자: Bartheinz

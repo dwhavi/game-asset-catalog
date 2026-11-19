@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@1bee600877db5d17c384af998d08a9c024627773",
-  "count": 2094,
+  "generated_from": "catalog.csv@b3173354b58a4e259fbb6c7ede8a364b85c464b2",
+  "count": 2097,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -74011,6 +74011,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/robo-welder/robo-welder.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/robo-welder/robo-welder.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0",
+      "name": "16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)",
+      "repo": "assets-2d-pixel",
+      "file": "16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip",
+      "type": "2D 스프라이트",
+      "category": "sprite-2d",
+      "tags": [
+        "2d",
+        "pixel",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "levshop",
+      "source_url": "https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: levshop (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/preview.png",
+      "download_path": "16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/8x8-pixel-topdown-pack",
+      "name": "8x8 Pixel Topdown Pack",
+      "repo": "assets-2d-pixel",
+      "file": "8x8-pixel-topdown-pack/8x8-pixel-topdown-pack.zip",
+      "type": "2D 스프라이트",
+      "category": "sprite-2d",
+      "tags": [
+        "2d",
+        "pixel",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "ZaninDevelopers",
+      "source_url": "https://opengameart.org/content/8x8-pixel-topdown-pack",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: ZaninDevelopers (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "8x8-pixel-topdown-pack/preview.png",
+      "download_path": "8x8-pixel-topdown-pack/8x8-pixel-topdown-pack.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/8x8-pixel-topdown-pack/8x8-pixel-topdown-pack.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/8x8-pixel-topdown-pack/8x8-pixel-topdown-pack.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/9-fantasy-pixel-potions-4-animated",
+      "name": ": 9 Fantasy Pixel Potions + 4 Animated",
+      "repo": "assets-2d-pixel",
+      "file": "9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip",
+      "type": "2D 스프라이트",
+      "category": "sprite-2d",
+      "tags": [
+        "2d",
+        "pixel",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Veric Silix",
+      "source_url": "https://opengameart.org/content/9-fantasy-pixel-potions-4-animated",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Veric Silix (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "9-fantasy-pixel-potions-4-animated/preview.png",
+      "download_path": "9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip",
+      "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-2d-pixel/raw/main/9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip"
       ],
       "sample": null,
       "multipart": false,
