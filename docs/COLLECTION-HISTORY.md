@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-10 자동 수집 등록 (2팩, 2026-11-19 10:29 KST)
+
+- 팩: 3D Ceiling Fans (slug 3d-ceiling-fans), 라이선스: CC0, 제작자: Lyricsz
+- 출처: https://opengameart.org/content/3d-ceiling-fans
+- 저장: assets-3d-lowpoly-2 3d-ceiling-fans/3d-ceiling-fans.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1972→1974, 기존 행 불변 확인
+- 팩: Electric Guitar (slug electric-guitar), 라이선스: CC0, 제작자: Firefly in the Dusk
+- 출처: https://opengameart.org/content/electric-guitar
+- 저장: assets-3d-lowpoly-2 electric-guitar/electric-guitar.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1972→1974, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-08 자동 수집 등록 (2팩, 2026-11-19 08:28 KST)
 
 - 팩: Mannequiny The Open 3D Mannequin (slug mannequiny-the-open-3d-mannequin), 라이선스: CC-BY 4.0, 제작자: hardboileduser

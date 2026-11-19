@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@0deafbff61ff673a1bdde8752bf498c463315b11",
-  "count": 1972,
+  "generated_from": "catalog.csv@e7525bc90ee06de328d8c4763315f7854fa01a2a",
+  "count": 1974,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -70097,6 +70097,72 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tnt-low-poly/tnt-low-poly.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tnt-low-poly/tnt-low-poly.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-ceiling-fans",
+      "name": "3D Ceiling Fans",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-ceiling-fans/3d-ceiling-fans.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Lyricsz",
+      "source_url": "https://opengameart.org/content/3d-ceiling-fans",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Lyricsz (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "3d-ceiling-fans/preview.png",
+      "download_path": "3d-ceiling-fans/3d-ceiling-fans.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-ceiling-fans/3d-ceiling-fans.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-ceiling-fans/3d-ceiling-fans.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/electric-guitar",
+      "name": "Electric Guitar",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "electric-guitar/electric-guitar.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [
+        "lightning"
+      ],
+      "author": "Firefly in the Dusk",
+      "source_url": "https://opengameart.org/content/electric-guitar",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Firefly in the Dusk (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "electric-guitar/preview.png",
+      "download_path": "electric-guitar/electric-guitar.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip"
       ],
       "sample": null,
       "multipart": false,
