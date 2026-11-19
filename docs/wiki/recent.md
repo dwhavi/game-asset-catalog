@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e7525bc90ee06de328d8c4763315f7854fa01a2a`
+> generated from `catalog.csv@ae1ed2aa799306ba3b790ccd9e636c05a874eda2`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,6 +14,8 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [3D Ceiling Fans](https://opengameart.org/content/3d-ceiling-fans) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-ceiling-fans/3d-ceiling-fans.zip) | 2026-11-19 |
+| [3d donut](https://opengameart.org/content/3d-donut) | `model-3d` | moath alkhawtani | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-donut/3d-donut.zip) | 2026-11-19 |
+| [Bebis 3D](https://opengameart.org/content/bebis-3d) | `model-3d` | bebis | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip) | 2026-11-19 |
 | [Electric Guitar](https://opengameart.org/content/electric-guitar) | `model-3d` | Firefly in the Dusk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip) | 2026-11-19 |
 | [3D Delivery Spaceship](https://opengameart.org/content/3d-delivery-spaceship) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-delivery-spaceship/3d-delivery-spaceship.zip) | 2026-11-18 |
 | [3D female model 2026](https://opengameart.org/content/3d-female-model-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-female-model-2026/3d-female-model-2026.zip) | 2026-11-18 |
@@ -111,5 +113,3 @@
 | [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
 | [Knight](https://opengameart.org/content/knight-2) | `model-3d` | piacenti | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/knight-2/knight-2.zip) | 2026-11-14 |
 | [Low Poly Stalls](https://opengameart.org/content/low-poly-stalls) | `model-3d` | lightdreamerlabs | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip) | 2026-11-14 |
-| [low\_poly\_swords](https://opengameart.org/content/lowpolyswords) | `model-3d` | Q2DENJINDREW | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/swords_obj.zip) | 2026-11-14 |
-| [LowPoly Modular Dungeon](https://opengameart.org/content/lowpoly-modular-dungeon) | `model-3d` | quaternius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-modular-dungeon/lowpoly-modular-dungeon.zip) | 2026-11-14 |

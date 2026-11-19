@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@e7525bc90ee06de328d8c4763315f7854fa01a2a",
-  "count": 1974,
+  "generated_from": "catalog.csv@ae1ed2aa799306ba3b790ccd9e636c05a874eda2",
+  "count": 1976,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -70163,6 +70163,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/3d-donut",
+      "name": "3d donut",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "3d-donut/3d-donut.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "moath alkhawtani",
+      "source_url": "https://opengameart.org/content/3d-donut",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: moath alkhawtani (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": "3d-donut/preview.png",
+      "download_path": "3d-donut/3d-donut.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-donut/3d-donut.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-donut/3d-donut.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/bebis-3d",
+      "name": "Bebis 3D",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "bebis-3d/bebis-3d.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "bebis",
+      "source_url": "https://opengameart.org/content/bebis-3d",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: bebis (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "bebis-3d/preview.png",
+      "download_path": "bebis-3d/bebis-3d.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip"
       ],
       "sample": null,
       "multipart": false,
