@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b3173354b58a4e259fbb6c7ede8a364b85c464b2",
+  "generated_from": "catalog.csv@49e66689bb098b6a2dec947d03caeb459ef5cd03",
   "count": 2097,
   "assets": [
     {
@@ -74084,7 +74084,7 @@
     },
     {
       "id": "assets-2d-pixel/9-fantasy-pixel-potions-4-animated",
-      "name": ": 9 Fantasy Pixel Potions + 4 Animated",
+      "name": "9 Fantasy Pixel Potions + 4 Animated",
       "repo": "assets-2d-pixel",
       "file": "9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip",
       "type": "2D 스프라이트",

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b3173354b58a4e259fbb6c7ede8a364b85c464b2`
+> generated from `catalog.csv@49e66689bb098b6a2dec947d03caeb459ef5cd03`
 
 # 라이선스 모음
 
@@ -51,7 +51,7 @@
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [3d donut](https://opengameart.org/content/3d-donut) | moath alkhawtani | CC-BY 4.0 | 필수: moath alkhawtani (opengameart.org), CC-BY 4.0 | 2026-11-19 |
-| [: 9 Fantasy Pixel Potions + 4 Animated](https://opengameart.org/content/9-fantasy-pixel-potions-4-animated) | Veric Silix | CC-BY 3.0 | 필수: Veric Silix (opengameart.org), CC-BY 3.0 | 2026-11-19 |
+| [9 Fantasy Pixel Potions + 4 Animated](https://opengameart.org/content/9-fantasy-pixel-potions-4-animated) | Veric Silix | CC-BY 3.0 | 필수: Veric Silix (opengameart.org), CC-BY 3.0 | 2026-11-19 |
 | [A 3D signal effect for Unity + Satellite 3D Model](https://opengameart.org/content/a-3d-signal-effect-for-unity-satellite-3d-model) | FlexUnit | CC-BY 4.0 | 필수: FlexUnit (opengameart.org), CC-BY 4.0 | 2026-11-19 |
 | [A-104 Cold Fusion Assault Rifle](https://opengameart.org/content/a-104-cold-fusion-assault-rifle) | qubodup | CC-BY 3.0 | 필수: qubodup (opengameart.org), CC-BY 3.0 | 2026-11-19 |
 | [Acient ruins](https://opengameart.org/content/acient-ruins) | killyoverdrive | CC-BY 3.0 | 필수: killyoverdrive (opengameart.org), CC-BY 3.0 | 2026-11-19 |
