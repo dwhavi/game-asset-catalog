@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261119-13 자동 수집 등록 (2팩, 2026-11-19 13:30 KST)
+
+- 팩: Cave Man Creation (slug cave-man-creation), 라이선스: CC0, 제작자: Johannes Nienaber Creations
+- 출처: https://opengameart.org/content/cave-man-creation
+- 저장: assets-3d-lowpoly-2 cave-man-creation/cave-man-creation.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1976→1978, 기존 행 불변 확인
+- 팩: Wizard Creation (slug wizard-creation), 라이선스: CC0, 제작자: Johannes Nienaber Creations
+- 출처: https://opengameart.org/content/wizard-creation
+- 저장: assets-3d-lowpoly-2 wizard-creation/wizard-creation.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 1976→1978, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261119-12 자동 수집 등록 (2팩, 2026-11-19 12:33 KST)
 
 - 팩: 3d donut (slug 3d-donut), 라이선스: CC-BY 4.0, 제작자: moath alkhawtani

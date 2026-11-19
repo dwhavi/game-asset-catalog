@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ae1ed2aa799306ba3b790ccd9e636c05a874eda2`
+> generated from `catalog.csv@c593032d0c442d5ef74dc6c56a16250a3e1d0c6f`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,7 +16,9 @@
 | [3D Ceiling Fans](https://opengameart.org/content/3d-ceiling-fans) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-ceiling-fans/3d-ceiling-fans.zip) | 2026-11-19 |
 | [3d donut](https://opengameart.org/content/3d-donut) | `model-3d` | moath alkhawtani | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-donut/3d-donut.zip) | 2026-11-19 |
 | [Bebis 3D](https://opengameart.org/content/bebis-3d) | `model-3d` | bebis | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip) | 2026-11-19 |
+| [Cave Man Creation](https://opengameart.org/content/cave-man-creation) | `model-3d` | Johannes Nienaber Creations | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cave-man-creation/cave-man-creation.zip) | 2026-11-19 |
 | [Electric Guitar](https://opengameart.org/content/electric-guitar) | `model-3d` | Firefly in the Dusk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip) | 2026-11-19 |
+| [Wizard Creation](https://opengameart.org/content/wizard-creation) | `model-3d` | Johannes Nienaber Creations | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wizard-creation/wizard-creation.zip) | 2026-11-19 |
 | [3D Delivery Spaceship](https://opengameart.org/content/3d-delivery-spaceship) | `model-3d` | lucius39 | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-delivery-spaceship/3d-delivery-spaceship.zip) | 2026-11-18 |
 | [3D female model 2026](https://opengameart.org/content/3d-female-model-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-female-model-2026/3d-female-model-2026.zip) | 2026-11-18 |
 | [3D male model 2026](https://opengameart.org/content/3d-male-model-2026) | `model-3d` | byzmod3d | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-male-model-2026/3d-male-model-2026.zip) | 2026-11-18 |
@@ -111,5 +113,3 @@
 | [Food Pack: Cooking](https://opengameart.org/content/food-pack-cooking) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/food-pack-cooking/food-pack-cooking.blend) | 2026-11-14 |
 | [Gem collect SFX](https://opengameart.org/content/gem-collect-sfx) | `other` | Bobjt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gem-collect-sfx/gem-gather-stereo.wav) | 2026-11-14 |
 | [IgnisForge Free SFX Sampler - 43 Synthesized Retro Sound Effects](https://opengameart.org/content/ignisforge-free-sfx-sampler-43-synthesized-retro-sound-effects) | `other` | ignisforge | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ignisforge-free-sfx-sampler/ignisforge-oga-sampler-cc0_7.zip) | 2026-11-14 |
-| [Knight](https://opengameart.org/content/knight-2) | `model-3d` | piacenti | CC-BY | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/knight-2/knight-2.zip) | 2026-11-14 |
-| [Low Poly Stalls](https://opengameart.org/content/low-poly-stalls) | `model-3d` | lightdreamerlabs | CC0 | X | O | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lightdreamerlabs-3d-stalls.zip) | 2026-11-14 |

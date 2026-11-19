@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ae1ed2aa799306ba3b790ccd9e636c05a874eda2",
-  "count": 1976,
+  "generated_from": "catalog.csv@c593032d0c442d5ef74dc6c56a16250a3e1d0c6f",
+  "count": 1978,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -70227,6 +70227,70 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/cave-man-creation",
+      "name": "Cave Man Creation",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "cave-man-creation/cave-man-creation.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Johannes Nienaber Creations",
+      "source_url": "https://opengameart.org/content/cave-man-creation",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Johannes Nienaber Creations (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "cave-man-creation/preview.png",
+      "download_path": "cave-man-creation/cave-man-creation.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cave-man-creation/cave-man-creation.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cave-man-creation/cave-man-creation.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/wizard-creation",
+      "name": "Wizard Creation",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "wizard-creation/wizard-creation.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Johannes Nienaber Creations",
+      "source_url": "https://opengameart.org/content/wizard-creation",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Johannes Nienaber Creations (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-19",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "wizard-creation/preview.png",
+      "download_path": "wizard-creation/wizard-creation.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wizard-creation/wizard-creation.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/wizard-creation/wizard-creation.zip"
       ],
       "sample": null,
       "multipart": false,
