@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@25f3a20d83239ee021bb9b4c50640931a3de3aed`
+> generated from `catalog.csv@6dd56a933efbbc260ee27bad864548eefddf3202`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2143개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2144개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | cc0 | CC0 | 1881 | 0 | 예 |
 | cc-by | CC-BY | 219 | 219 | 예 |
-| mit | MIT | 13 | 12 | 예 |
+| mit | MIT | 14 | 13 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
 | other | 기타(허용 목록 밖) | 20 | 17 | 아니오 |
 
@@ -31,7 +31,7 @@
 | CC0 | cc0 | X | 1879 |
 | CC-BY 3.0 | cc-by | O | 107 |
 | CC-BY 4.0 | cc-by | O | 93 |
-| MIT | mit | O | 12 |
+| MIT | mit | O | 13 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 10 |
 | 알 수 없음 | other | O | 9 |
@@ -54,7 +54,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 258개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 259개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Papertrails 종이 질감 텍스처 9종](https://github.com/xikhar/papertrails) | xikhar (Shikhar) | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Shikhar) | 2026-11-20 |
 | [Papertrails 종이오리기 아트 아틀라스 3종](https://github.com/xikhar/papertrails) | xikhar (Shikhar) | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Shikhar) | 2026-11-20 |
 | [Papertrails 팝업북 3D 모델 (타일·여행자)](https://github.com/xikhar/papertrails) | xikhar (Shikhar) | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Shikhar) | 2026-11-20 |
+| [pixelfx](https://github.com/patch-gg/pixelfx) | Patch | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Patch, Hugo Duprez) | 2026-11-20 |
 | [Pocket Soccer 3D 경기 효과음·해설 음성 14종](https://github.com/ShaunPrice/soccer-3d) | ShaunPrice | 알 수 없음 | 권장(미확인): ShaunPrice (github.com/ShaunPrice/soccer-3d) | 2026-11-20 |
 | [Pocket Soccer 3D 타이틀 아트워크·앱 아이콘](https://github.com/ShaunPrice/soccer-3d) | ShaunPrice | 알 수 없음 | 권장(미확인): ShaunPrice (github.com/ShaunPrice/soccer-3d) | 2026-11-20 |
 | [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | Polyfork | CC-BY 4.0 | Pushback Tug by Polyfork (https://polyfork.dev/asset/pushback-tug-8eab46), CC BY 4.0 | 2026-11-20 |

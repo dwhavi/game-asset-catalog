@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@25f3a20d83239ee021bb9b4c50640931a3de3aed",
-  "count": 2143,
+  "generated_from": "catalog.csv@6dd56a933efbbc260ee27bad864548eefddf3202",
+  "count": 2144,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -75788,6 +75788,43 @@
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip"
       ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-2d-pixel/pixelfx",
+      "name": "pixelfx",
+      "repo": "assets-2d-pixel",
+      "file": "https://github.com/sigco3111/assets-2d-pixel/tree/main/pixelfx",
+      "type": "2D 이펙트",
+      "category": "effect",
+      "tags": [
+        "pixel",
+        "pixelart",
+        "vfx",
+        "effect",
+        "spritesheet",
+        "canvas",
+        "javascript",
+        "browser-game",
+        "2d"
+      ],
+      "effect_kind": [],
+      "author": "Patch",
+      "source_url": "https://github.com/patch-gg/pixelfx",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Patch, Hugo Duprez)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "코드 기반 2D 이펙트 244종(21개 카테고리); JS/canvas 라이브러리, npm 설치 또는 src 복사 사용, tools/render.mjs로 PNG 스프라이트시트 내보내기 가능; 원본 커밋 5294518 미러(SOURCE-COMMIT.txt), zip 없이 폴더 보관; 미리보기 추후 추가; 서드파티 고지: 일부 효과 Hugo Duprez(MIT), act.js는 hollow-crown 각색, gallery/fonts의 Patch Pixel 폰트는 MIT 제외(© Patch)",
+      "preview": null,
+      "download_path": "https://github.com/sigco3111/assets-2d-pixel/tree/main/pixelfx",
+      "download_url": null,
+      "download_urls": [],
       "sample": null,
       "multipart": false,
       "split_parts": []

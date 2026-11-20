@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@25f3a20d83239ee021bb9b4c50640931a3de3aed`
+> generated from `catalog.csv@6dd56a933efbbc260ee27bad864548eefddf3202`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -37,6 +37,7 @@
 | [Papertrails 종이 질감 텍스처 9종](https://github.com/xikhar/papertrails) | `texture` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/papertrails-paper-textures/papertrails-paper-textures.zip) | 2026-11-20 |
 | [Papertrails 종이오리기 아트 아틀라스 3종](https://github.com/xikhar/papertrails) | `sprite-2d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/papertrails-art-atlas/papertrails-art-atlas.zip) | 2026-11-20 |
 | [Papertrails 팝업북 3D 모델 (타일·여행자)](https://github.com/xikhar/papertrails) | `model-3d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/papertrails-popup-models/papertrails-popup-models.zip) | 2026-11-20 |
+| [pixelfx](https://github.com/patch-gg/pixelfx) | `effect` | Patch | MIT | O | X | - | 2026-11-20 |
 | [Pocket Soccer 3D 경기 효과음·해설 음성 14종](https://github.com/ShaunPrice/soccer-3d) | `sfx` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/soccer-3d-match-audio/soccer-3d-match-audio.zip) | 2026-11-20 |
 | [Pocket Soccer 3D 타이틀 아트워크·앱 아이콘](https://github.com/ShaunPrice/soccer-3d) | `background-2d` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/soccer-3d-title-artwork/soccer-3d-title-artwork.zip) | 2026-11-20 |
 | [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip) | 2026-11-20 |
@@ -112,4 +113,3 @@
 | [Feminine Humanoid base mesh](https://opengameart.org/content/feminine-humanoid-base-mesh) | `model-3d` | GoldenThumbs | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/feminine-humanoid-base-mesh/feminine-humanoid-base-mesh.zip) | 2026-11-19 |
 | [Flathead Screwdriver](https://opengameart.org/content/flathead-screwdriver) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/flathead-screwdriver/flathead-screwdriver.zip) | 2026-11-19 |
 | [Free Fantasy Medieval Town Props Unity Assets low-poly 3D model](https://opengameart.org/content/free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model) | `model-3d` | EmacEArt | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model/free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model.zip) | 2026-11-19 |
-| [Game console](https://opengameart.org/content/game-console) | `model-3d` | Radiance | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/game-console/game-console.zip) | 2026-11-19 |
