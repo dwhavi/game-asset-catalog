@@ -137,3 +137,4 @@
 - 2026-11-17 A110: 3D Gun Part 1 - Free Version, 3D Gun Part 2 - Free Version (3D, assets-3d-lowpoly-2) 등록 (OGA CC0, 2팩, 총 1939팩)
 
 - 2026-11-18 A115 등록: Goth female - Fleur du Mal (3D 캐릭터, CC-BY 3.0, https://opengameart.org/content/goth-female-fleur-du-mal) 포털 1943팩
+- 2026-11-20 pixelfx 이펙트 244종 추가(assets-2d-pixel, MIT, 제작자 Patch)
