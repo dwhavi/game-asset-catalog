@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@dc6569cd290846f65483d11b47bd950c024240fc`
+> generated from `catalog.csv@a380689bb04063aea75f46cf1f709be91470117d`
 
 # 얼음 이펙트 모음
 

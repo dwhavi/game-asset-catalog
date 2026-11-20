@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@dc6569cd290846f65483d11b47bd950c024240fc",
+  "generated_from": "catalog.csv@a380689bb04063aea75f46cf1f709be91470117d",
   "count": 2103,
   "assets": [
     {
@@ -74276,7 +74276,7 @@
       "ai_generated": false,
       "added": "2026-11-20",
       "notes": "The Lost Storm 게임용 GLB 변형분; 헬멧 12종(남/여 핏)·무기 24종·skeleton/wight·스핀 클립 3종; CC0·자체제작 모델 제외",
-      "preview": null,
+      "preview": "the-lost-storm-ccby-models/preview.jpg",
       "download_path": "the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip",
       "download_urls": [
@@ -74311,7 +74311,7 @@
       "ai_generated": false,
       "added": "2026-11-20",
       "notes": "The Lost Storm 배포 PBR 텍스처(color/normal/orm WebP + half/ 모바일 절반 해상도)",
-      "preview": null,
+      "preview": "the-lost-storm-cc0-textures/preview.jpg",
       "download_path": "the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip",
       "download_urls": [
