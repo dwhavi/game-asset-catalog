@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b052f39f7ff26aae39036f685261f38797bad079`
+> generated from `catalog.csv@64a64fb1b33cc7f7737dea212364f40b35532fba`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -26,6 +26,7 @@
 | [Battle Drones 유닛·건물 아이콘 28종+변형](https://github.com/simonw/battledrones) | `ui` | Battle Drones authors (simonw) | Apache-2.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/battledrones-unit-icons/battledrones-unit-icons.zip) | 2026-11-20 |
 | [Battle Drones 키아트 (가로·세로 2종)](https://github.com/simonw/battledrones) | `background-2d` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-keyart/battledrones-keyart.zip) | 2026-11-20 |
 | [Battle Drones 페인티드 지형 맵 7종 (알베도 타일)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/battledrones-terrain-maps/battledrones-terrain-maps.zip) | 2026-11-20 |
+| [C Tonal Electronic](https://opengameart.org/content/c-tonal-electronic) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/c-tonal-electronic/c-tonal-electronic.zip) | 2026-11-20 |
 | [Cadle WebAudio 합성 음향 엔진](https://github.com/Humpalumps/Cadle) | `other` | Ian Cadle (Humpalumps) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cadle-webaudio-synth/cadle-webaudio-synth.zip) | 2026-11-20 |
 | [Chasing Excellence](https://opengameart.org/content/chasing-excellence) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/chasing-excellence/chasing-excellence.zip) | 2026-11-20 |
 | [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/clay-wine-jar/clay-wine-jar.zip) | 2026-11-20 |
@@ -47,6 +48,7 @@
 | [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip) | 2026-11-20 |
 | [Klarbase 절차적 섬 월드 생성 코드](https://github.com/TanmoyP/klarbase) | `other` | TanmoyP and Klarbase contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/klarbase-procedural-world/klarbase-procedural-world.zip) | 2026-11-20 |
 | [LANTERNFALL 절차적 3D RPG 코드 17종](https://github.com/loktar00/lanternfall) | `other` | loktar00 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lanternfall-procedural-code/lanternfall-procedural-code.zip) | 2026-11-20 |
+| [Opening the Window for Some Fresh Air](https://opengameart.org/content/opening-the-window-for-some-fresh-air) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip) | 2026-11-20 |
 | [Ox Cart](https://polyfork.dev/asset/ox-cart-c12bca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ox-cart/ox-cart.zip) | 2026-11-20 |
 | [Papertrails 종이 질감 텍스처 9종](https://github.com/xikhar/papertrails) | `texture` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/papertrails-paper-textures/papertrails-paper-textures.zip) | 2026-11-20 |
 | [Papertrails 종이오리기 아트 아틀라스 3종](https://github.com/xikhar/papertrails) | `sprite-2d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/papertrails-art-atlas/papertrails-art-atlas.zip) | 2026-11-20 |
@@ -59,6 +61,7 @@
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
 | [Silkworm Tray Rack](https://polyfork.dev/asset/silkworm-tray-rack-bf6067) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/silkworm-tray-rack/silkworm-tray-rack.zip) | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
+| [Silly Theme Song](https://opengameart.org/content/silly-theme-song) | `music` | vandem\_music | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip) | 2026-11-20 |
 | [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip) | 2026-11-20 |
 | [Stake Palisade Run](https://polyfork.dev/asset/stake-palisade-run-548617) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stake-palisade-run/stake-palisade-run.zip) | 2026-11-20 |
 | [Starember Field Procedural Character Toolkit](https://github.com/weit0529/gamedemo_by_Fable5.2) | `other` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-code/raw/main/starember-field-char-toolkit/starember-field-char-toolkit.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Castle Kit](https://opengameart.org/content/castle-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/castle-kit/castle-kit.zip) | 2026-11-19 |
 | [Cave Man Creation](https://opengameart.org/content/cave-man-creation) | `model-3d` | Johannes Nienaber Creations | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cave-man-creation/cave-man-creation.zip) | 2026-11-19 |
 | [Chair](https://opengameart.org/content/chair-8) | `model-3d` | pikachufan25 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/chair-8/chair-8.zip) | 2026-11-19 |
-| [Chorketown Vegetables](https://opengameart.org/content/chorketown-vegetables) | `model-3d` | agdg reject | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/chorketown-vegetables/chorketown-vegetables.zip) | 2026-11-19 |
-| [Classical Guitar](https://opengameart.org/content/classical-guitar) | `model-3d` | MonoTone | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/classical-guitar/classical-guitar.zip) | 2026-11-19 |
-| [Claw Hammer](https://opengameart.org/content/claw-hammer-0) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/claw-hammer-0/claw-hammer-0.zip) | 2026-11-19 |

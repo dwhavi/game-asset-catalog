@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-07 자동 수집 등록 (3팩, 2026-11-21 07:44 KST)
+
+- 팩: C Tonal Electronic (slug c-tonal-electronic), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/c-tonal-electronic
+- 저장: assets-3d-lowpoly-2 c-tonal-electronic/c-tonal-electronic.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2162→2165, 기존 행 불변 확인
+- 팩: Opening the Window for Some Fresh Air (slug opening-the-window-for-some-fresh-air), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/opening-the-window-for-some-fresh-air
+- 저장: assets-3d-lowpoly-2 opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2162→2165, 기존 행 불변 확인
+- 팩: Silly Theme Song (slug silly-theme-song), 라이선스: CC0, 제작자: vandem_music
+- 출처: https://opengameart.org/content/silly-theme-song
+- 저장: assets-3d-lowpoly-2 silly-theme-song/silly-theme-song.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2162→2165, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-07 자동 수집 등록 (3팩, 2026-11-21 07:37 KST)
 
 - 팩: Timber Tower House (slug timber-tower-house), 라이선스: CC-BY 4.0, 제작자: Polyfork

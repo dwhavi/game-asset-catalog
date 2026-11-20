@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b052f39f7ff26aae39036f685261f38797bad079",
-  "count": 2162,
+  "generated_from": "catalog.csv@64a64fb1b33cc7f7737dea212364f40b35532fba",
+  "count": 2165,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76415,6 +76415,102 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/c-tonal-electronic",
+      "name": "C Tonal Electronic",
+      "repo": "assets-audio",
+      "file": "c-tonal-electronic/c-tonal-electronic.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Pro Sensory",
+      "source_url": "https://opengameart.org/content/c-tonal-electronic",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Pro Sensory (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "c-tonal-electronic/c-tonal-electronic.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/c-tonal-electronic/c-tonal-electronic.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/c-tonal-electronic/c-tonal-electronic.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/opening-the-window-for-some-fresh-air",
+      "name": "Opening the Window for Some Fresh Air",
+      "repo": "assets-audio",
+      "file": "opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "purrplecat",
+      "source_url": "https://opengameart.org/content/opening-the-window-for-some-fresh-air",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: purrplecat (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/silly-theme-song",
+      "name": "Silly Theme Song",
+      "repo": "assets-audio",
+      "file": "silly-theme-song/silly-theme-song.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "vandem_music",
+      "source_url": "https://opengameart.org/content/silly-theme-song",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: vandem_music (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "silly-theme-song/silly-theme-song.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip"
       ],
       "sample": null,
       "multipart": false,
