@@ -1,0 +1,1 @@
+verify reg pf2 run
