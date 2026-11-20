@@ -1,5 +1,33 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-20 자동 수집 등록 (6팩, 2026-11-20 20:44 KST)
+
+- 팩: Clay Wine Jar (slug clay-wine-jar), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/clay-wine-jar-8eea26
+- 저장: assets-3d-polyfork clay-wine-jar/clay-wine-jar.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2144→2150, 기존 행 불변 확인
+- 팩: Ox Cart (slug ox-cart), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/ox-cart-c12bca
+- 저장: assets-3d-polyfork ox-cart/ox-cart.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2144→2150, 기존 행 불변 확인
+- 팩: Silkworm Tray Rack (slug silkworm-tray-rack), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/silkworm-tray-rack-bf6067
+- 저장: assets-3d-polyfork silkworm-tray-rack/silkworm-tray-rack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2144→2150, 기존 행 불변 확인
+- 팩: Stake Palisade Run (slug stake-palisade-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/stake-palisade-run-548617
+- 저장: assets-3d-polyfork stake-palisade-run/stake-palisade-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2144→2150, 기존 행 불변 확인
+- 팩: Traction Trebuchet (slug traction-trebuchet), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/traction-trebuchet-1e5d18
+- 저장: assets-3d-polyfork traction-trebuchet/traction-trebuchet.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2144→2150, 기존 행 불변 확인
+- 팩: War Drum on a Frame (slug war-drum-on-a-frame), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/war-drum-on-a-5fdf9d
+- 저장: assets-3d-polyfork war-drum-on-a-frame/war-drum-on-a-frame.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2144→2150, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### 2026-11-20 pixelfx 추가 (1팩, 총 2144팩)
 
 - Patch의 MIT 라이선스 pixelfx 1팩을 assets-2d-pixel에 등록. catalog.csv는 2143에서 2144로 증가했고 기존 항목과 중복되지 않음.
