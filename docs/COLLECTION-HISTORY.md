@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-01 자동 수집 등록 (3팩, 2026-11-21 01:22 KST)
+
+- 팩: Ambient Solo Guitar Interludes (slug ambient-solo-guitar-interludes), 라이선스: CC-BY 4.0, 제작자: SpringySpringo
+- 출처: https://opengameart.org/content/ambient-solo-guitar-interludes
+- 저장: assets-3d-lowpoly-2 ambient-solo-guitar-interludes/ambient-solo-guitar-interludes.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2150→2153, 기존 행 불변 확인
+- 팩: Chasing Excellence (slug chasing-excellence), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/chasing-excellence
+- 저장: assets-3d-lowpoly-2 chasing-excellence/chasing-excellence.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2150→2153, 기존 행 불변 확인
+- 팩: cyber core (slug cyber-core), 라이선스: CC0, 제작자: oglsdl
+- 출처: https://opengameart.org/content/cyber-core
+- 저장: assets-3d-lowpoly-2 release:pack-cyber-core/cyber-core.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2150→2153, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261120-20 자동 수집 등록 (6팩, 2026-11-20 20:44 KST)
 
 - 팩: Clay Wine Jar (slug clay-wine-jar), 라이선스: CC-BY 4.0, 제작자: Polyfork

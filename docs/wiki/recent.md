@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@536d98694aac2839b4b0f1f192240c8b9c5bee26`
+> generated from `catalog.csv@d7a19d02a0842ac94f3241ca23906a85dd91839a`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -15,11 +15,13 @@
 |---|---|---|---|---|---|---|---|
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
+| [Ambient Solo Guitar Interludes](https://opengameart.org/content/ambient-solo-guitar-interludes) | `music` | SpringySpringo | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ambient-solo-guitar-interludes/ambient-solo-guitar-interludes.zip) | 2026-11-20 |
 | [Battle Drones 바위 타일 텍스처 5종 (심리스 512²)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-rock-textures/battledrones-rock-textures.zip) | 2026-11-20 |
 | [Battle Drones 유닛·건물 아이콘 28종+변형](https://github.com/simonw/battledrones) | `ui` | Battle Drones authors (simonw) | Apache-2.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/battledrones-unit-icons/battledrones-unit-icons.zip) | 2026-11-20 |
 | [Battle Drones 키아트 (가로·세로 2종)](https://github.com/simonw/battledrones) | `background-2d` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-keyart/battledrones-keyart.zip) | 2026-11-20 |
 | [Battle Drones 페인티드 지형 맵 7종 (알베도 타일)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/battledrones-terrain-maps/battledrones-terrain-maps.zip) | 2026-11-20 |
 | [Cadle WebAudio 합성 음향 엔진](https://github.com/Humpalumps/Cadle) | `other` | Ian Cadle (Humpalumps) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cadle-webaudio-synth/cadle-webaudio-synth.zip) | 2026-11-20 |
+| [Chasing Excellence](https://opengameart.org/content/chasing-excellence) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/chasing-excellence/chasing-excellence.zip) | 2026-11-20 |
 | [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/clay-wine-jar/clay-wine-jar.zip) | 2026-11-20 |
 | [Cold Boot 인하우스 생성 음성 484파일](https://github.com/rossinek/cold-boot) | `voice` | rossinek (Cold Boot) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/cold-boot-voices/cold-boot-voices.zip) | 2026-11-20 |
 | [Cold Boot 토마스 3D 머리 (Lee Perry-Smith 스캔)](https://github.com/rossinek/cold-boot) | `character-3d` | Lee Perry-Smith (Infinite Realities) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-tomas-head/cold-boot-tomas-head.zip) | 2026-11-20 |
@@ -27,6 +29,7 @@
 | [Concrete Echo FPS 프롭 3D 모델 24종+Soldier](https://github.com/Rikinshah787/Game-Fable-5.2) | `model-3d` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/concrete-echo-props/concrete-echo-props.zip) | 2026-11-20 |
 | [Concrete Echo 콘크리트·플라스터 PBR 텍스처 6쌍](https://github.com/Rikinshah787/Game-Fable-5.2) | `other` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/concrete-echo-concrete-textures/concrete-echo-concrete-textures.zip) | 2026-11-20 |
 | [Cool Adventure](https://opengameart.org/content/cool-adventure) | `music` | MintoDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cool-adventure/cool-adventure.zip) | 2026-11-20 |
+| [cyber core](https://opengameart.org/content/cyber-core) | `music` | oglsdl | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-cyber-core/cyber-core.zip) | 2026-11-20 |
 | [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
 | [Goodnight Newcastle](https://opengameart.org/content/goodnight-newcastle) | `music` | dmrgn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/goodnight-newcastle/goodnight-newcastle.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Detective Special Revolver](https://opengameart.org/content/detective-special-revolver) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-detective-special-revolver/detective-special-revolver.zip) | 2026-11-19 |
 | [Dim's arboretum](https://opengameart.org/content/dims-arboretum) | `model-3d` | WeaponGuy | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-dims-arboretum/dims-arboretum.zip) | 2026-11-19 |
 | [Dim's arboretum for Blender 4.3.1+](https://opengameart.org/content/dims-arboretum-for-blender-431) | `model-3d` | velocirection | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-dims-arboretum-for-blender-431/dims-arboretum-for-blender-431.zip) | 2026-11-19 |
-| [Electric Guitar](https://opengameart.org/content/electric-guitar) | `model-3d` | Firefly in the Dusk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/electric-guitar/electric-guitar.zip) | 2026-11-19 |
-| [Elven blade](https://opengameart.org/content/elven-blade) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/elven-blade/elven-blade.zip) | 2026-11-19 |
-| [Extrema Ratio Knife](https://opengameart.org/content/extrema-ratio-knife) | `model-3d` | wobba89 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/extrema-ratio-knife/extrema-ratio-knife.zip) | 2026-11-19 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@536d98694aac2839b4b0f1f192240c8b9c5bee26`
+> generated from `catalog.csv@d7a19d02a0842ac94f3241ca23906a85dd91839a`
 
 # 마법 이펙트 모음
 
