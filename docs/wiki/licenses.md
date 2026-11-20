@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@005b55b5edb03f84bfd3d67fd3e10f6dd8cac941`
+> generated from `catalog.csv@cb0c9ce18d577341d8ef64f648aba5426886c9cb`
 
 # 라이선스 모음
 
@@ -56,7 +56,7 @@
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | Hyperwebster | CC-BY 4.0 | 필수: Hyperwebster (opengameart.org), CC-BY 4.0 | 2026-11-20 |
-| [everyday-game 캔버스 2D 절차적 드로잉 코드 11종](https://github.com/zhgarylu/everyday-game) | zhgarylu | 알 수 없음 | 권장(미확인): zhgarylu (github.com/zhgarylu/everyday-game) | 2026-11-20 |
+| [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | zhgarylu | 알 수 없음 | 권장(미확인): zhgarylu (github.com/zhgarylu/everyday-game) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | Polyfork | CC-BY 4.0 | Fire Arena by Polyfork (https://polyfork.dev/asset/fire-arena-e2e3ef), CC BY 4.0 | 2026-11-20 |
 | [Han Weapon Rack](https://polyfork.dev/asset/han-weapon-rack-b51a33) | Polyfork | CC-BY 4.0 | Han Weapon Rack by Polyfork (https://polyfork.dev/asset/han-weapon-rack-b51a33), CC BY 4.0 | 2026-11-20 |
 | [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | Polyfork | CC-BY 4.0 | Iron Standing Brazier by Polyfork (https://polyfork.dev/asset/iron-standing-brazier-89d117), CC BY 4.0 | 2026-11-20 |
@@ -318,7 +318,7 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 8개입니다. *
 
 | 이름 | license_family | 라이선스 | 표기 필요 | AI 생성 | 추가일 |
 |---|---|---|---|---|---|
-| [everyday-game 캔버스 2D 절차적 드로잉 코드 11종](https://github.com/zhgarylu/everyday-game) | other | 알 수 없음 | O | X | 2026-11-20 |
+| [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | other | 알 수 없음 | O | X | 2026-11-20 |
 | [The Lost Storm CC-BY 4.0 Models](https://github.com/sigco3111/the-lost-storm-ko) | other | CC BY 4.0 | O | X | 2026-11-20 |
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | other | OGA-BY 3.0 | O | X | 2026-11-20 |
 | [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | other | 알 수 없음 | O | O | 2026-11-20 |
