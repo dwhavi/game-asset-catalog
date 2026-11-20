@@ -18,7 +18,7 @@
 
 ### EG-20261120 everyday-game 수집 등록 (3팩, 2026-11-20 KST)
 
-- 팩: 물결 소탕 스프라이트 26 (slug everyday-game-tide-sprites) / 배달 라이더·광저우 드리프트 절차적 3D 코드 (slug everyday-game-rider-3d) / everyday-game 캔버스 2D 절차적 드로잉 코드 11종 (slug everyday-game-canvas-2d), 라이선스: 알 수 없음, 제작자: zhgarylu
+- 팩: 물결 소탕 스프라이트 26 (slug everyday-game-tide-sprites) / 배달 라이더·광저우 드리프트 절차적 3D 코드 (slug everyday-game-rider-3d) / everyday-game 절차적 3D 코드 11종(Three.js) (slug everyday-game-canvas-2d), 라이선스: 알 수 없음, 제작자: zhgarylu
 - 출처: https://github.com/zhgarylu/everyday-game (한글판 포크 sigco3111/everyday-game와 파일 바이트 동일 확인)
 - 저장: assets-2d-pixel everyday-game-tide-sprites/12-everyday-game-tide-sprites.zip · assets-code everyday-game-rider-3d/14-everyday-game-rider-3d.zip · assets-code everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip
 - 규칙 메모: 소유자 지시(2026-11-20, "라이선스는 알 수 없음으로 표시하고 수집", "공개 재배포")로 등록. 원작·포크 모두 LICENSE 파일 없음, 재사용 허락 미확인이며 이용 허락 확보로 표시하지 않음. 권리자 요청 시 즉시 내림. 음성 mp3는 Volcano Engine TTS 합성(원작 README 기재)으로 미수록. user_monster.png는 실물 얼굴 합성으로 보여 초상권 주의 표기.
