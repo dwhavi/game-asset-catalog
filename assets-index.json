@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@546d8ab9dd73df80ef375db58a118e8fbdf9dd0f",
-  "count": 2112,
+  "generated_from": "catalog.csv@25529d205028368fbf567ca3f164873557a8f6b5",
+  "count": 2115,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -74640,6 +74640,107 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/starember-field-char-toolkit/starember-field-char-toolkit.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/starember-field-char-toolkit/starember-field-char-toolkit.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/fire-arena",
+      "name": "Fire Arena",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "fire-arena/fire-arena.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [
+        "fire"
+      ],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/fire-arena-e2e3ef",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Fire Arena by Polyfork (https://polyfork.dev/asset/fire-arena-e2e3ef), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "fire-arena/preview.png",
+      "download_path": "fire-arena/fire-arena.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/iron-standing-brazier",
+      "name": "Iron Standing Brazier",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "iron-standing-brazier/iron-standing-brazier.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/iron-standing-brazier-89d117",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Iron Standing Brazier by Polyfork (https://polyfork.dev/asset/iron-standing-brazier-89d117), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "iron-standing-brazier/preview.png",
+      "download_path": "iron-standing-brazier/iron-standing-brazier.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/shipping-label-printer",
+      "name": "Shipping Label Printer",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "shipping-label-printer/shipping-label-printer.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/shipping-label-printer-ba8a6a",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Shipping Label Printer by Polyfork (https://polyfork.dev/asset/shipping-label-printer-ba8a6a), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "shipping-label-printer/preview.png",
+      "download_path": "shipping-label-printer/shipping-label-printer.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip"
       ],
       "sample": null,
       "multipart": false,

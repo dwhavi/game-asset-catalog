@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@546d8ab9dd73df80ef375db58a118e8fbdf9dd0f`
+> generated from `catalog.csv@25529d205028368fbf567ca3f164873557a8f6b5`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2112개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2115개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1878 | 0 | 예 |
-| cc-by | CC-BY | 212 | 212 | 예 |
+| cc-by | CC-BY | 215 | 215 | 예 |
 | mit | MIT | 7 | 6 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
 | other | 기타(허용 목록 밖) | 5 | 2 | 아니오 |
@@ -30,7 +30,7 @@
 |---|---|---|---|
 | CC0 | cc0 | X | 1876 |
 | CC-BY 3.0 | cc-by | O | 106 |
-| CC-BY 4.0 | cc-by | O | 87 |
+| CC-BY 4.0 | cc-by | O | 90 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 10 |
 | MIT | mit | O | 6 |
@@ -50,12 +50,15 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 230개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 233개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | Hyperwebster | CC-BY 4.0 | 필수: Hyperwebster (opengameart.org), CC-BY 4.0 | 2026-11-20 |
+| [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | Polyfork | CC-BY 4.0 | Fire Arena by Polyfork (https://polyfork.dev/asset/fire-arena-e2e3ef), CC BY 4.0 | 2026-11-20 |
+| [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | Polyfork | CC-BY 4.0 | Iron Standing Brazier by Polyfork (https://polyfork.dev/asset/iron-standing-brazier-89d117), CC BY 4.0 | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | Polyfork | CC-BY 4.0 | Runway Tile by Polyfork (https://polyfork.dev/asset/runway-tile-9a2808), CC BY 4.0 | 2026-11-20 |
+| [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | Polyfork | CC-BY 4.0 | Shipping Label Printer by Polyfork (https://polyfork.dev/asset/shipping-label-printer-ba8a6a), CC BY 4.0 | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | mla | CC-BY 4.0 | 필수: mla (opengameart.org), CC-BY 4.0 | 2026-11-20 |
 | [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | purrplecat | CC-BY 4.0 | 필수: purrplecat (opengameart.org), CC-BY 4.0 | 2026-11-20 |
 | [Starember Field Procedural Character Toolkit](https://github.com/weit0529/gamedemo_by_Fable5.2) | weit0529 | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 weit0529) | 2026-11-20 |

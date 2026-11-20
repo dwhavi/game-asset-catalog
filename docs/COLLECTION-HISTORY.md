@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-12 자동 수집 등록 (3팩, 2026-11-20 12:37 KST)
+
+- 팩: Fire Arena (slug fire-arena), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/fire-arena-e2e3ef
+- 저장: assets-3d-lowpoly-2 fire-arena/fire-arena.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2112→2115, 기존 행 불변 확인
+- 팩: Iron Standing Brazier (slug iron-standing-brazier), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/iron-standing-brazier-89d117
+- 저장: assets-3d-lowpoly-2 iron-standing-brazier/iron-standing-brazier.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2112→2115, 기존 행 불변 확인
+- 팩: Shipping Label Printer (slug shipping-label-printer), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/shipping-label-printer-ba8a6a
+- 저장: assets-3d-lowpoly-2 shipping-label-printer/shipping-label-printer.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2112→2115, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261120-11 자동 수집 등록 (3팩, 2026-11-20 11:43 KST)
 
 - 팩: Runway Tile (slug runway-tile), 라이선스: CC-BY 4.0, 제작자: Polyfork

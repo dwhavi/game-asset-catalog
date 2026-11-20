@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@546d8ab9dd73df80ef375db58a118e8fbdf9dd0f`
+> generated from `catalog.csv@25529d205028368fbf567ca3f164873557a8f6b5`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,7 +14,10 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
+| [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
+| [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip) | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
+| [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
 | [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip) | 2026-11-20 |
 | [Starember Field Procedural Character Toolkit](https://github.com/weit0529/gamedemo_by_Fable5.2) | `other` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-code/raw/main/starember-field-char-toolkit/starember-field-char-toolkit.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Mine Cart Set](https://opengameart.org/content/mine-cart-set) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/mine-cart-set/mine-cart-set.zip) | 2026-11-19 |
 | [Mk2 Grenade](https://opengameart.org/content/mk2-grenade) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-mk2-grenade/mk2-grenade.zip) | 2026-11-19 |
 | [N64 Lasers](https://opengameart.org/content/n64-lasers) | `model-3d` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/n64-lasers/n64-lasers.zip) | 2026-11-19 |
-| [N64 Potions](https://opengameart.org/content/n64-potions) | `model-3d` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/n64-potions/n64-potions.zip) | 2026-11-19 |
-| [N64 Sign](https://opengameart.org/content/n64-sign) | `model-3d` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/n64-sign/n64-sign.zip) | 2026-11-19 |
-| [Objects in a house](https://opengameart.org/content/objects-in-a-house) | `model-3d` | TiZeta | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-in-a-house/objects-in-a-house.zip) | 2026-11-19 |
