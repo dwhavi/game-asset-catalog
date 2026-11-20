@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d519e22b37244bfcca06a06db947fdfcb78bb71a`
+> generated from `catalog.csv@25f3a20d83239ee021bb9b4c50640931a3de3aed`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -25,8 +25,10 @@
 | [Cold Boot 할보르센 3D 머리 (MakeHuman CC0)](https://github.com/rossinek/cold-boot) | `character-3d` | MakeHuman team (가공: rossinek) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-halvorsen-head/cold-boot-halvorsen-head.zip) | 2026-11-20 |
 | [Concrete Echo FPS 프롭 3D 모델 24종+Soldier](https://github.com/Rikinshah787/Game-Fable-5.2) | `model-3d` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/concrete-echo-props/concrete-echo-props.zip) | 2026-11-20 |
 | [Concrete Echo 콘크리트·플라스터 PBR 텍스처 6쌍](https://github.com/Rikinshah787/Game-Fable-5.2) | `other` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/concrete-echo-concrete-textures/concrete-echo-concrete-textures.zip) | 2026-11-20 |
+| [Cool Adventure](https://opengameart.org/content/cool-adventure) | `music` | MintoDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cool-adventure/cool-adventure.zip) | 2026-11-20 |
 | [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
+| [Goodnight Newcastle](https://opengameart.org/content/goodnight-newcastle) | `music` | dmrgn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/goodnight-newcastle/goodnight-newcastle.zip) | 2026-11-20 |
 | [Graveyard Shift 키아트 (밤비 내리는 주유소 좀비)](https://github.com/ethanplusai/zombies) | `background-2d` | ethanplusai | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/zombies-keyart/zombies-keyart.zip) | 2026-11-20 |
 | [Han Weapon Rack](https://polyfork.dev/asset/han-weapon-rack-b51a33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip) | 2026-11-20 |
 | [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip) | 2026-11-20 |
@@ -54,6 +56,7 @@
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |
 | [Tree Stump](https://polyfork.dev/asset/tree-stump-00f3bf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tree-stump/tree-stump.zip) | 2026-11-20 |
 | [Waybill Clipboard](https://polyfork.dev/asset/waybill-clipboard-05bd4a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/waybill-clipboard/waybill-clipboard.zip) | 2026-11-20 |
+| [When i'm feeling a bit snowed-in](https://opengameart.org/content/when-im-feeling-a-bit-snowed-in) | `music` | Bonky | OGA-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip) | 2026-11-20 |
 | [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `sprite-2d` | zhgarylu | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/everyday-game-tide-sprites/12-everyday-game-tide-sprites.zip) | 2026-11-20 |
 | [배달 라이더·광저우 드리프트 절차적 3D 코드 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-rider-3d/14-everyday-game-rider-3d.zip) | 2026-11-20 |
 | [16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)](https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0) | `sprite-2d` | levshop | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip) | 2026-11-19 |
@@ -110,6 +113,3 @@
 | [Flathead Screwdriver](https://opengameart.org/content/flathead-screwdriver) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/flathead-screwdriver/flathead-screwdriver.zip) | 2026-11-19 |
 | [Free Fantasy Medieval Town Props Unity Assets low-poly 3D model](https://opengameart.org/content/free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model) | `model-3d` | EmacEArt | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model/free-fantasy-medieval-town-props-unity-assets-low-poly-3d-model.zip) | 2026-11-19 |
 | [Game console](https://opengameart.org/content/game-console) | `model-3d` | Radiance | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/game-console/game-console.zip) | 2026-11-19 |
-| [Gems](https://opengameart.org/content/gems) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/gems/gems.zip) | 2026-11-19 |
-| [Genie](https://opengameart.org/content/genie) | `model-3d` | Teh\_Bucket | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/genie/genie.zip) | 2026-11-19 |
-| [Gnarly Tools](https://opengameart.org/content/gnarly-tools) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/gnarly-tools/gnarly-tools.zip) | 2026-11-19 |

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@d519e22b37244bfcca06a06db947fdfcb78bb71a",
-  "count": 2140,
+  "generated_from": "catalog.csv@25f3a20d83239ee021bb9b4c50640931a3de3aed",
+  "count": 2143,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -75693,6 +75693,102 @@
         "https://github.com/sigco3111/assets-audio/releases/download/cold-boot-voices/cold-boot-voices.zip"
       ],
       "sample": "https://raw.githubusercontent.com/sigco3111/assets-audio/main/cold-boot-voices/sample.ogg",
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/cool-adventure",
+      "name": "Cool Adventure",
+      "repo": "assets-audio",
+      "file": "cool-adventure/cool-adventure.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "MintoDog",
+      "source_url": "https://opengameart.org/content/cool-adventure",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: MintoDog (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "cool-adventure/cool-adventure.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/cool-adventure/cool-adventure.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/cool-adventure/cool-adventure.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/goodnight-newcastle",
+      "name": "Goodnight Newcastle",
+      "repo": "assets-audio",
+      "file": "goodnight-newcastle/goodnight-newcastle.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "dmrgn",
+      "source_url": "https://opengameart.org/content/goodnight-newcastle",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: dmrgn (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "goodnight-newcastle/goodnight-newcastle.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/goodnight-newcastle/goodnight-newcastle.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/goodnight-newcastle/goodnight-newcastle.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/when-i-m-feeling-a-bit-snowed-in",
+      "name": "When i'm feeling a bit snowed-in",
+      "repo": "assets-audio",
+      "file": "when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Bonky",
+      "source_url": "https://opengameart.org/content/when-im-feeling-a-bit-snowed-in",
+      "license": "OGA-BY 4.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "필수: Bonky (opengameart.org), OGA-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) OGA-BY 4.0 확인 (자동 수집, 원문: : OGA-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip"
+      ],
+      "sample": null,
       "multipart": false,
       "split_parts": []
     }

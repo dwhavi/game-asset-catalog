@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d519e22b37244bfcca06a06db947fdfcb78bb71a`
+> generated from `catalog.csv@25f3a20d83239ee021bb9b4c50640931a3de3aed`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2140개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2143개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -16,11 +16,11 @@
 
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
-| cc0 | CC0 | 1879 | 0 | 예 |
+| cc0 | CC0 | 1881 | 0 | 예 |
 | cc-by | CC-BY | 219 | 219 | 예 |
 | mit | MIT | 13 | 12 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
-| other | 기타(허용 목록 밖) | 19 | 16 | 아니오 |
+| other | 기타(허용 목록 밖) | 20 | 17 | 아니오 |
 
 ## 라이선스 문구(license)별 개수
 
@@ -28,7 +28,7 @@
 
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
-| CC0 | cc0 | X | 1877 |
+| CC0 | cc0 | X | 1879 |
 | CC-BY 3.0 | cc-by | O | 107 |
 | CC-BY 4.0 | cc-by | O | 93 |
 | MIT | mit | O | 12 |
@@ -49,11 +49,12 @@
 | MIT | mit | X | 1 |
 | OFL-1.1 | other | O | 1 |
 | OGA-BY 3.0 | other | O | 1 |
+| OGA-BY 4.0 | other | O | 1 |
 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | other | X | 1 |
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 257개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 258개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -95,6 +96,7 @@
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | EmoPreben | OGA-BY 3.0 | 필수: EmoPreben (opengameart.org), OGA-BY 3.0 | 2026-11-20 |
 | [Tree Stump](https://polyfork.dev/asset/tree-stump-00f3bf) | Polyfork | CC-BY 4.0 | Tree Stump by Polyfork (https://polyfork.dev/asset/tree-stump-00f3bf), CC BY 4.0 | 2026-11-20 |
 | [Waybill Clipboard](https://polyfork.dev/asset/waybill-clipboard-05bd4a) | Polyfork | CC-BY 4.0 | Waybill Clipboard by Polyfork (https://polyfork.dev/asset/waybill-clipboard-05bd4a), CC BY 4.0 | 2026-11-20 |
+| [When i'm feeling a bit snowed-in](https://opengameart.org/content/when-im-feeling-a-bit-snowed-in) | Bonky | OGA-BY 4.0 | 필수: Bonky (opengameart.org), OGA-BY 4.0 | 2026-11-20 |
 | [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | zhgarylu | 알 수 없음 | 권장(미확인): zhgarylu (github.com/zhgarylu/everyday-game) | 2026-11-20 |
 | [배달 라이더·광저우 드리프트 절차적 3D 코드 (everyday-game)](https://github.com/zhgarylu/everyday-game) | zhgarylu | 알 수 없음 | 권장(미확인): zhgarylu (github.com/zhgarylu/everyday-game) | 2026-11-20 |
 | [3d donut](https://opengameart.org/content/3d-donut) | moath alkhawtani | CC-BY 4.0 | 필수: moath alkhawtani (opengameart.org), CC-BY 4.0 | 2026-11-19 |
@@ -334,7 +336,7 @@
 
 ## 허용 목록 밖 에셋 (확인 없이 쓰지 마세요)
 
-license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 19개입니다. **do not use without checking** — 사용하기 전에 라이선스 문구와 출처를 직접 확인하세요.
+license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 20개입니다. **do not use without checking** — 사용하기 전에 라이선스 문구와 출처를 직접 확인하세요.
 
 | 이름 | license_family | 라이선스 | 표기 필요 | AI 생성 | 추가일 |
 |---|---|---|---|---|---|
@@ -352,6 +354,7 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 19개입니다. 
 | [Pocket Soccer 3D 타이틀 아트워크·앱 아이콘](https://github.com/ShaunPrice/soccer-3d) | other | 알 수 없음 | O | O | 2026-11-20 |
 | [The Lost Storm CC-BY 4.0 Models](https://github.com/sigco3111/the-lost-storm-ko) | other | CC BY 4.0 | O | X | 2026-11-20 |
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | other | OGA-BY 3.0 | O | X | 2026-11-20 |
+| [When i'm feeling a bit snowed-in](https://opengameart.org/content/when-im-feeling-a-bit-snowed-in) | other | OGA-BY 4.0 | O | X | 2026-11-20 |
 | [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | other | 알 수 없음 | O | O | 2026-11-20 |
 | [배달 라이더·광저우 드리프트 절차적 3D 코드 (everyday-game)](https://github.com/zhgarylu/everyday-game) | other | 알 수 없음 | O | X | 2026-11-20 |
 | [불씨의 서약 아트](https://readasesang-lab.vercel.app/v16/) | other | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | X | O | 2026-11-12 |

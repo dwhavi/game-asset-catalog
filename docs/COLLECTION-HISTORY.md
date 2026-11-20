@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-18 자동 수집 등록 (3팩, 2026-11-20 18:11 KST)
+
+- 팩: Cool Adventure (slug cool-adventure), 라이선스: CC0, 제작자: MintoDog
+- 출처: https://opengameart.org/content/cool-adventure
+- 저장: assets-3d-lowpoly-2 cool-adventure/cool-adventure.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2140→2143, 기존 행 불변 확인
+- 팩: Goodnight Newcastle (slug goodnight-newcastle), 라이선스: CC0, 제작자: dmrgn
+- 출처: https://opengameart.org/content/goodnight-newcastle
+- 저장: assets-3d-lowpoly-2 goodnight-newcastle/goodnight-newcastle.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2140→2143, 기존 행 불변 확인
+- 팩: When i'm feeling a bit snowed-in (slug when-im-feeling-a-bit-snowed-in), 라이선스: OGA-BY 4.0, 제작자: Bonky
+- 출처: https://opengameart.org/content/when-im-feeling-a-bit-snowed-in
+- 저장: assets-3d-lowpoly-2 when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2140→2143, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### KOASSET-20261120-2 게임 10종 후속 수집 (11팩, 2026-11-20 KST)
 
 사용자 지시(2026-11-20 15:26 KST, iMessage, "라이선스가 없어도 수집해. 사용할 수 없다고 명시하지 않으면 모두 수집해")에 따라 1차 보류분을 재검토해 등록. '알 수 없음' 팩은 이용 허락 확보를 뜻하지 않으며 출처 보존·주의 문구 표기. 명시적 권리 유보(cadle 이미지·모델, 원작 NOTICE가 MIT 부여 대상에서 제외하고 공개 포크 시 교체 지시)와 명시적 재배포 금지(cadle 녹음 음원)는 미수록 유지. catalog.csv 2129→2140.
