@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@bbc006f9b08d43c60e34716466f6d6623e2cfe25`
+> generated from `catalog.csv@005b55b5edb03f84bfd3d67fd3e10f6dd8cac941`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,7 +16,9 @@
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [everyday-game 캔버스 2D 절차적 드로잉 코드 11종](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
+| [Han Weapon Rack](https://polyfork.dev/asset/han-weapon-rack-b51a33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip) | 2026-11-20 |
 | [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip) | 2026-11-20 |
+| [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip) | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
@@ -32,6 +34,7 @@
 | [Three "western desert" like tracks](https://opengameart.org/content/three-western-desert-like-tracks) | `music` | Bockanator | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip) | 2026-11-20 |
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |
 | [Tree Stump](https://polyfork.dev/asset/tree-stump-00f3bf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tree-stump/tree-stump.zip) | 2026-11-20 |
+| [Waybill Clipboard](https://polyfork.dev/asset/waybill-clipboard-05bd4a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/waybill-clipboard/waybill-clipboard.zip) | 2026-11-20 |
 | [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `sprite-2d` | zhgarylu | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/everyday-game-tide-sprites/12-everyday-game-tide-sprites.zip) | 2026-11-20 |
 | [배달 라이더·광저우 드리프트 절차적 3D 코드 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-rider-3d/14-everyday-game-rider-3d.zip) | 2026-11-20 |
 | [16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)](https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0) | `sprite-2d` | levshop | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip) | 2026-11-19 |
@@ -110,6 +113,3 @@
 | [Low-poly trees, stumps, branches](https://opengameart.org/content/low-poly-trees-stumps-branches) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-trees-stumps-branches/low-poly-trees-stumps-branches.zip) | 2026-11-19 |
 | [Low-res pistol](https://opengameart.org/content/low-res-pistol) | `model-3d` | arcade\_b | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-low-res-pistol/low-res-pistol.zip) | 2026-11-19 |
 | [Lowpoly pixelart Gatling Gun, Tank and Grass Terrain](https://opengameart.org/content/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain) | `model-3d` | soyGus | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain.zip) | 2026-11-19 |
-| [Lowpoly Shoe](https://opengameart.org/content/lowpoly-shoe) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-shoe/lowpoly-shoe.zip) | 2026-11-19 |
-| [Ludo](https://opengameart.org/content/ludo-0) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ludo-0/ludo-0.zip) | 2026-11-19 |
-| [Medieval Props textured](https://opengameart.org/content/medieval-props-textured) | `model-3d` | Clint Bellanger | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/medieval-props-textured/medieval-props-textured.zip) | 2026-11-19 |

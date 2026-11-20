@@ -1,29 +1,32 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@bbc006f9b08d43c60e34716466f6d6623e2cfe25`
+> generated from `catalog.csv@005b55b5edb03f84bfd3d67fd3e10f6dd8cac941`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **652개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **655개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 652개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 655개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
+| [Han Weapon Rack](https://polyfork.dev/asset/han-weapon-rack-b51a33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip) | 2026-11-20 |
 | [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip) | 2026-11-20 |
+| [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip) | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
 | [Stone-Flagged Courtyard Tile](https://polyfork.dev/asset/stone-flagged-courtyard-tile-529c20) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stone-flagged-courtyard-tile/stone-flagged-courtyard-tile.zip) | 2026-11-20 |
 | [The Lost Storm CC-BY 4.0 Models](https://github.com/sigco3111/the-lost-storm-ko) | `model-3d` | 다수(Sketchfab·PolyOne·martinjario·100STYLE) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip) | 2026-11-20 |
 | [Tree Stump](https://polyfork.dev/asset/tree-stump-00f3bf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tree-stump/tree-stump.zip) | 2026-11-20 |
+| [Waybill Clipboard](https://polyfork.dev/asset/waybill-clipboard-05bd4a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/waybill-clipboard/waybill-clipboard.zip) | 2026-11-20 |
 | [20 Cups, 4 Chairs, and a Toilet](https://opengameart.org/content/20-cups-4-chairs-and-a-toilet) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-20-cups-4-chairs-and-a-toilet/20-cups-4-chairs-and-a-toilet.zip) | 2026-11-19 |
 | [20 Gases](https://opengameart.org/content/20-gases) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/20-gases/20-gases.zip) | 2026-11-19 |
 | [3D Car](https://opengameart.org/content/3d-car-0) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-car-0/3d-car-0.zip) | 2026-11-19 |
@@ -414,6 +417,3 @@
 | [Low-spec Air/Space Fighter](https://opengameart.org/content/low-spec-airspace-fighter) | `model-3d` | qubodup | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.22/low-spec-airspace-fighter.zip) | 2026-11-04 |
 | [Low-spec Reticulans](https://opengameart.org/content/low-spec-reticulans) | `model-3d` | Danimal | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/low-spec-reticulans.zip) | 2026-11-04 |
 | [LowPoly Animated Farm Animal Pack](https://opengameart.org/content/lowpoly-animated-farm-animal-pack) | `model-3d` | tylerhollow | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/lowpoly-animated-farm-animal-pack.zip) | 2026-11-04 |
-| [LowPoly Medieval Village Pack](https://opengameart.org/content/lowpoly-medieval-village-pack) | `model-3d` | tir2 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/lowpoly-medieval-village-pack.zip) | 2026-11-04 |
-| [LowPoly RPG Characters](https://opengameart.org/content/lowpoly-rpg-characters) | `model-3d` | BribeLedenicki | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.20/lowpoly-rpg-characters.zip) | 2026-11-04 |
-| [LowPoly Spaceships Pack](https://opengameart.org/content/lowpoly-spaceships-pack) | `model-3d` | Baker | CC0 | X | X | 2개 분할 | 2026-11-04 |

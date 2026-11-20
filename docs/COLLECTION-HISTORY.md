@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-14 자동 수집 등록 (3팩, 2026-11-20 14:25 KST)
+
+- 팩: Han Weapon Rack (slug han-weapon-rack), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/han-weapon-rack-b51a33
+- 저장: assets-3d-polyfork han-weapon-rack/han-weapon-rack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2118→2121, 기존 행 불변 확인
+- 팩: Pushback Tug (slug pushback-tug), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/pushback-tug-8eab46
+- 저장: assets-3d-polyfork pushback-tug/pushback-tug.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2118→2121, 기존 행 불변 확인
+- 팩: Waybill Clipboard (slug waybill-clipboard), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/waybill-clipboard-05bd4a
+- 저장: assets-3d-polyfork waybill-clipboard/waybill-clipboard.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2118→2121, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### EG-20261120 everyday-game 수집 등록 (3팩, 2026-11-20 KST)
 
 - 팩: 물결 소탕 스프라이트 26 (slug everyday-game-tide-sprites) / 배달 라이더·광저우 드리프트 절차적 3D 코드 (slug everyday-game-rider-3d) / everyday-game 캔버스 2D 절차적 드로잉 코드 11종 (slug everyday-game-canvas-2d), 라이선스: 알 수 없음, 제작자: zhgarylu

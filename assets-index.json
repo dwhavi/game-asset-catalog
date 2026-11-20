@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@bbc006f9b08d43c60e34716466f6d6623e2cfe25",
-  "count": 2118,
+  "generated_from": "catalog.csv@005b55b5edb03f84bfd3d67fd3e10f6dd8cac941",
+  "count": 2121,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -74858,6 +74858,105 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/han-weapon-rack",
+      "name": "Han Weapon Rack",
+      "repo": "assets-3d-polyfork",
+      "file": "han-weapon-rack/han-weapon-rack.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/han-weapon-rack-b51a33",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Han Weapon Rack by Polyfork (https://polyfork.dev/asset/han-weapon-rack-b51a33), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "han-weapon-rack/preview.png",
+      "download_path": "han-weapon-rack/han-weapon-rack.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/pushback-tug",
+      "name": "Pushback Tug",
+      "repo": "assets-3d-polyfork",
+      "file": "pushback-tug/pushback-tug.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/pushback-tug-8eab46",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Pushback Tug by Polyfork (https://polyfork.dev/asset/pushback-tug-8eab46), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "pushback-tug/preview.png",
+      "download_path": "pushback-tug/pushback-tug.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/waybill-clipboard",
+      "name": "Waybill Clipboard",
+      "repo": "assets-3d-polyfork",
+      "file": "waybill-clipboard/waybill-clipboard.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/waybill-clipboard-05bd4a",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Waybill Clipboard by Polyfork (https://polyfork.dev/asset/waybill-clipboard-05bd4a), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "waybill-clipboard/preview.png",
+      "download_path": "waybill-clipboard/waybill-clipboard.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/waybill-clipboard/waybill-clipboard.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/waybill-clipboard/waybill-clipboard.zip"
       ],
       "sample": null,
       "multipart": false,
