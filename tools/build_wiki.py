@@ -242,7 +242,7 @@ def llms_text(doc, commit):
 
 > generated from `catalog.csv@%(c)s` by tools/build_wiki.py (do not edit by hand)
 
-Catalog of %(n)d free game asset packs (2D sprites and tilesets, 3D models, UI and icons, sound effects, music, VFX) with source, author, licence and attribution data. Only redistributable licences are listed. The packs themselves live in sibling repos (assets-2d-pixel, assets-3d-lowpoly, assets-ui-icons, assets-audio, assets-2d-portraits); this repo holds the index, the search site and a wiki.
+Catalog of %(n)d free game asset packs (2D sprites and tilesets, 3D models, UI and icons, sound effects, music, VFX) with source, author, licence and attribution data. Only redistributable licences are listed. The packs themselves live in sibling repos (assets-2d-pixel, assets-3d-lowpoly, assets-ui-icons, assets-audio, assets-2d-portraits, assets-code); this repo holds the index, the search site and a wiki.
 
 ## Machine-readable data
 - Library site (search UI): %(site)s

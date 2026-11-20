@@ -1,8 +1,8 @@
 (function(){
 'use strict';
 var OWNER='sigco3111',PAGE=60,INDEX='assets-index.min.json',CSV='catalog.csv';
-var REPOS=[['','','전체'],['2d','assets-2d-pixel','2D·텍스처'],['3d','assets-3d-lowpoly','3D'],['ui','assets-ui-icons','UI·아이콘'],['audio','assets-audio','오디오'],['portrait','assets-2d-portraits','초상화']];
-var REPO_BY_KEY={},KEY_BY_REPO={},SHORT={'assets-2d-pixel':'2D','assets-3d-lowpoly':'3D','assets-ui-icons':'UI','assets-audio':'오디오','assets-2d-portraits':'초상화'};
+var REPOS=[['','','전체'],['2d','assets-2d-pixel','2D·텍스처'],['3d','assets-3d-lowpoly','3D'],['ui','assets-ui-icons','UI·아이콘'],['audio','assets-audio','오디오'],['portrait','assets-2d-portraits','초상화'],['code','assets-code','코드']];
+var REPO_BY_KEY={},KEY_BY_REPO={},SHORT={'assets-2d-pixel':'2D','assets-3d-lowpoly':'3D','assets-ui-icons':'UI','assets-audio':'오디오','assets-2d-portraits':'초상화','assets-code':'코드'};
 REPOS.forEach(function(r,i){if(r[0]){REPO_BY_KEY[r[0]]=r[1];KEY_BY_REPO[r[1]]=r[0]}});
 var REPO_ORDER={};REPOS.forEach(function(r,i){if(r[1])REPO_ORDER[r[1]]=i});
 var CAT_LABEL={effect:'이펙트',sfx:'효과음',music:'음악',voice:'음성',
@@ -169,7 +169,7 @@ function dlHtml(r){
   var one=safeUrl(r.download_url)||u[0];
   return one?'<a class="act pri" href="'+esc(one)+'" target="_blank" rel="noopener" aria-label="'+esc(r.name)+' 다운로드">다운로드</a>':''}
 function card(r){
-  var img=imgOf(r),ph=(audioOf(r)||r.repo==='assets-audio')?'🔊':'🖼';
+  var img=imgOf(r),ph=(audioOf(r)||r.repo==='assets-audio')?'🔊':(r.repo==='assets-code'?'💻':'🖼');
   var th=img?'<button type="button" class="thumb'+(isPx(r)?' px':'')+'" data-act="zoom" data-i="'+r._i+'" aria-label="'+esc(r.name)+' 미리보기 크게 보기"><img loading="lazy" decoding="async" alt="" src="'+esc(img)+'"></button>'
     :'<div class="thumb noimg"><span class="ph" aria-hidden="true">'+ph+'</span></div>';
   var b='<span class="badge gray">'+esc(r._cat||r.type||'')+'</span>'
