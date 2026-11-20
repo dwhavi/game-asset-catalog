@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c9fc29625663fbdad1e43628c890b6e2791fc054`
+> generated from `catalog.csv@b052f39f7ff26aae39036f685261f38797bad079`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -16,6 +16,9 @@
 | [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip) | 2026-11-21 |
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
 | [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
+| [Timber Tower House](https://polyfork.dev/asset/timber-tower-house-494243) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip) | 2026-11-21 |
+| [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip) | 2026-11-21 |
+| [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip) | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
 | [Ambient Solo Guitar Interludes](https://opengameart.org/content/ambient-solo-guitar-interludes) | `music` | SpringySpringo | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ambient-solo-guitar-interludes/ambient-solo-guitar-interludes.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Chorketown Vegetables](https://opengameart.org/content/chorketown-vegetables) | `model-3d` | agdg reject | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/chorketown-vegetables/chorketown-vegetables.zip) | 2026-11-19 |
 | [Classical Guitar](https://opengameart.org/content/classical-guitar) | `model-3d` | MonoTone | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/classical-guitar/classical-guitar.zip) | 2026-11-19 |
 | [Claw Hammer](https://opengameart.org/content/claw-hammer-0) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/claw-hammer-0/claw-hammer-0.zip) | 2026-11-19 |
-| [Colt lowpoly revolver](https://opengameart.org/content/colt-lowpoly-revolver) | `model-3d` | TimDev | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/colt-lowpoly-revolver/colt-lowpoly-revolver.zip) | 2026-11-19 |
-| [Cordless Drill](https://opengameart.org/content/cordless-drill) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-cordless-drill/cordless-drill.zip) | 2026-11-19 |
-| [Cottage](https://opengameart.org/content/cottage) | `model-3d` | WeaponGuy | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-cottage/cottage.zip) | 2026-11-19 |

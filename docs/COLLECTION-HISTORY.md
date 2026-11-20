@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-07 자동 수집 등록 (3팩, 2026-11-21 07:37 KST)
+
+- 팩: Timber Tower House (slug timber-tower-house), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/timber-tower-house-494243
+- 저장: assets-3d-polyfork timber-tower-house/timber-tower-house.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2159→2162, 기존 행 불변 확인
+- 팩: Weeping Willow (slug weeping-willow), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/weeping-willow-55e38c
+- 저장: assets-3d-polyfork weeping-willow/weeping-willow.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2159→2162, 기존 행 불변 확인
+- 팩: Wine Inn (slug wine-inn), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/wine-inn-a41b12
+- 저장: assets-3d-polyfork wine-inn/wine-inn.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2159→2162, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-03 자동 수집 등록 (3팩, 2026-11-21 03:37 KST)
 
 - 팩: Arched Stone Bridge (slug arched-stone-bridge), 라이선스: CC-BY 4.0, 제작자: Polyfork

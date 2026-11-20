@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@c9fc29625663fbdad1e43628c890b6e2791fc054",
-  "count": 2159,
+  "generated_from": "catalog.csv@b052f39f7ff26aae39036f685261f38797bad079",
+  "count": 2162,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76316,6 +76316,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/timber-tower-house",
+      "name": "Timber Tower House",
+      "repo": "assets-3d-polyfork",
+      "file": "timber-tower-house/timber-tower-house.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/timber-tower-house-494243",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Timber Tower House by Polyfork (https://polyfork.dev/asset/timber-tower-house-494243), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "timber-tower-house/preview.png",
+      "download_path": "timber-tower-house/timber-tower-house.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/weeping-willow",
+      "name": "Weeping Willow",
+      "repo": "assets-3d-polyfork",
+      "file": "weeping-willow/weeping-willow.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/weeping-willow-55e38c",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Weeping Willow by Polyfork (https://polyfork.dev/asset/weeping-willow-55e38c), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "weeping-willow/preview.png",
+      "download_path": "weeping-willow/weeping-willow.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/wine-inn",
+      "name": "Wine Inn",
+      "repo": "assets-3d-polyfork",
+      "file": "wine-inn/wine-inn.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/wine-inn-a41b12",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Wine Inn by Polyfork (https://polyfork.dev/asset/wine-inn-a41b12), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "wine-inn/preview.png",
+      "download_path": "wine-inn/wine-inn.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip"
       ],
       "sample": null,
       "multipart": false,
