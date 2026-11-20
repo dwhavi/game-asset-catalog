@@ -1,20 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cb0c9ce18d577341d8ef64f648aba5426886c9cb`
+> generated from `catalog.csv@e76d197eb02824fa19c3d860ab9c1e205789cdc6`
 
 # 2D 스프라이트 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **136개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
+분류 `sprite-2d`(2D 스프라이트)에 해당하는 에셋 **137개**입니다. 라이브러리에서 보기: [?cat=sprite-2d](https://sigco3111.github.io/game-asset-catalog/?cat=sprite-2d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 136행 (전체 136개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 137행 (전체 137개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Papertrails 종이오리기 아트 아틀라스 3종](https://github.com/xikhar/papertrails) | `sprite-2d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/papertrails-art-atlas/papertrails-art-atlas.zip) | 2026-11-20 |
 | [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `sprite-2d` | zhgarylu | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/everyday-game-tide-sprites/12-everyday-game-tide-sprites.zip) | 2026-11-20 |
 | [16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)](https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0) | `sprite-2d` | levshop | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip) | 2026-11-19 |
 | [8x8 Pixel Topdown Pack](https://opengameart.org/content/8x8-pixel-topdown-pack) | `sprite-2d` | ZaninDevelopers | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/8x8-pixel-topdown-pack/8x8-pixel-topdown-pack.zip) | 2026-11-19 |

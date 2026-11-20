@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@cb0c9ce18d577341d8ef64f648aba5426886c9cb`
+> generated from `catalog.csv@e76d197eb02824fa19c3d860ab9c1e205789cdc6`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,10 +14,18 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
+| [Cadle WebAudio 합성 음향 엔진](https://github.com/Humpalumps/Cadle) | `other` | Ian Cadle (Humpalumps) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cadle-webaudio-synth/cadle-webaudio-synth.zip) | 2026-11-20 |
+| [Cold Boot 토마스 3D 머리 (Lee Perry-Smith 스캔)](https://github.com/rossinek/cold-boot) | `character-3d` | Lee Perry-Smith (Infinite Realities) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-tomas-head/cold-boot-tomas-head.zip) | 2026-11-20 |
+| [Cold Boot 할보르센 3D 머리 (MakeHuman CC0)](https://github.com/rossinek/cold-boot) | `character-3d` | MakeHuman team (가공: rossinek) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-halvorsen-head/cold-boot-halvorsen-head.zip) | 2026-11-20 |
 | [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
+| [Graveyard Shift 키아트 (밤비 내리는 주유소 좀비)](https://github.com/ethanplusai/zombies) | `background-2d` | ethanplusai | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/zombies-keyart/zombies-keyart.zip) | 2026-11-20 |
 | [Han Weapon Rack](https://polyfork.dev/asset/han-weapon-rack-b51a33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip) | 2026-11-20 |
 | [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip) | 2026-11-20 |
+| [Klarbase 절차적 섬 월드 생성 코드](https://github.com/TanmoyP/klarbase) | `other` | TanmoyP and Klarbase contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/klarbase-procedural-world/klarbase-procedural-world.zip) | 2026-11-20 |
+| [Papertrails 종이 질감 텍스처 9종](https://github.com/xikhar/papertrails) | `texture` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/papertrails-paper-textures/papertrails-paper-textures.zip) | 2026-11-20 |
+| [Papertrails 종이오리기 아트 아틀라스 3종](https://github.com/xikhar/papertrails) | `sprite-2d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/papertrails-art-atlas/papertrails-art-atlas.zip) | 2026-11-20 |
+| [Papertrails 팝업북 3D 모델 (타일·여행자)](https://github.com/xikhar/papertrails) | `model-3d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/papertrails-popup-models/papertrails-popup-models.zip) | 2026-11-20 |
 | [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip) | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
@@ -105,11 +113,3 @@
 | [low poly canon](https://opengameart.org/content/low-poly-canon) | `model-3d` | tbbk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-canon/low-poly-canon.zip) | 2026-11-19 |
 | [Low Poly Chess Set v2](https://opengameart.org/content/low-poly-chess-set-v2) | `model-3d` | gubbins | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-chess-set-v2/low-poly-chess-set-v2.zip) | 2026-11-19 |
 | [Low Poly Chuveiro (Brazilian Electric Shower)](https://opengameart.org/content/low-poly-chuveiro-brazilian-electric-shower) | `model-3d` | cosmac | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-chuveiro-brazilian-electric-shower/low-poly-chuveiro-brazilian-electric-shower.zip) | 2026-11-19 |
-| [Low Poly Honey Bun 3D](https://opengameart.org/content/low-poly-honey-bun-3d) | `model-3d` | WarmHoneyBun | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-honey-bun-3d/low-poly-honey-bun-3d.zip) | 2026-11-19 |
-| [Low Poly Speaker](https://opengameart.org/content/low-poly-speaker) | `model-3d` | cosmac | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-speaker/low-poly-speaker.zip) | 2026-11-19 |
-| [Low-poly Crossbow](https://opengameart.org/content/low-poly-crossbow) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-crossbow/low-poly-crossbow.zip) | 2026-11-19 |
-| [Low-Poly Lighthouse Scene](https://opengameart.org/content/low-poly-lighthouse-scene) | `model-3d` | ultr4vis1tor | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-lighthouse-scene/low-poly-lighthouse-scene.zip) | 2026-11-19 |
-| [Low-poly plants](https://opengameart.org/content/low-poly-plants) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-plants/low-poly-plants.zip) | 2026-11-19 |
-| [Low-poly trees, stumps, branches](https://opengameart.org/content/low-poly-trees-stumps-branches) | `model-3d` | Lamoot | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/low-poly-trees-stumps-branches/low-poly-trees-stumps-branches.zip) | 2026-11-19 |
-| [Low-res pistol](https://opengameart.org/content/low-res-pistol) | `model-3d` | arcade\_b | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-low-res-pistol/low-res-pistol.zip) | 2026-11-19 |
-| [Lowpoly pixelart Gatling Gun, Tank and Grass Terrain](https://opengameart.org/content/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain) | `model-3d` | soyGus | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain/lowpoly-pixelart-gatling-gun-tank-and-grass-terrain.zip) | 2026-11-19 |
