@@ -75284,7 +75284,8 @@
         "menu",
         "scifi",
         "military",
-        "webp"
+        "webp",
+        "battledrones"
       ],
       "effect_kind": [],
       "author": "Battle Drones authors (simonw)",
@@ -75322,7 +75323,8 @@
         "terrain",
         "cliff",
         "512",
-        "webp"
+        "webp",
+        "battledrones"
       ],
       "effect_kind": [],
       "author": "Battle Drones authors (simonw)",
@@ -75362,7 +75364,8 @@
         "island",
         "desert",
         "arctic",
-        "volcanic"
+        "volcanic",
+        "battledrones"
       ],
       "effect_kind": [],
       "author": "Battle Drones authors (simonw)",
@@ -75400,7 +75403,8 @@
         "portrait",
         "military",
         "scifi",
-        "webp"
+        "webp",
+        "battledrones"
       ],
       "effect_kind": [],
       "author": "Battle Drones authors (simonw)",
