@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### KOASSET-20261120-2 게임 10종 후속 수집 (11팩, 2026-11-20 KST)
+
+사용자 지시(2026-11-20 15:26 KST, iMessage, "라이선스가 없어도 수집해. 사용할 수 없다고 명시하지 않으면 모두 수집해")에 따라 1차 보류분을 재검토해 등록. '알 수 없음' 팩은 이용 허락 확보를 뜻하지 않으며 출처 보존·주의 문구 표기. 명시적 권리 유보(cadle 이미지·모델, 원작 NOTICE가 MIT 부여 대상에서 제외하고 공개 포크 시 교체 지시)와 명시적 재배포 금지(cadle 녹음 음원)는 미수록 유지. catalog.csv 2129→2140.
+
+- 팩: Battle Drones 키아트 2종 (slug battledrones-keyart) / 바위 타일 텍스처 5종 (battledrones-rock-textures) / 페인티드 지형 맵 7종 (battledrones-terrain-maps, 13MB→assets-2d-pixel Releases) / 유닛·건물 아이콘 28종+변형 (battledrones-unit-icons, assets-ui-icons), 라이선스: Apache-2.0, 제작자: Battle Drones authors (simonw/battledrones). 아트는 원작 ART.md 기준 gpt-image-2.5 생성물
+- 팩: Afterlight 세리프 웹폰트 3족 (slug afterlight-serif-fonts, assets-ui-icons), 라이선스: OFL-1.1 (Alegreya·Alegreya Sans SC·Cinzel, OFL 전문 동봉)
+- 팩: Concrete Echo FPS 프롭 24종+Soldier (slug concrete-echo-props, 44MB→assets-3d-lowpoly-2 Releases) / 콘크리트·플라스터 PBR 텍스처 6쌍 (concrete-echo-concrete-textures, 11MB→assets-2d-pixel Releases), 라이선스: 알 수 없음, 제작자: Rikinshah787
+- 팩: LANTERNFALL 절차적 3D RPG 코드 17종 (slug lanternfall-procedural-code, assets-code), 라이선스: 알 수 없음, 제작자: loktar00
+- 팩: Pocket Soccer 3D 경기 효과음·해설 음성 14종 (slug soccer-3d-match-audio, assets-audio) / 타이틀 아트워크·앱 아이콘 (soccer-3d-title-artwork, assets-2d-pixel), 라이선스: 알 수 없음, 제작자: ShaunPrice. 원작 README: ElevenLabs 생성물, 에셋 권리 별도 확인 필요
+- 팩: Cold Boot 인하우스 생성 음성 484파일 (slug cold-boot-voices, 10MB→assets-audio Releases), 라이선스: 알 수 없음, 제작자: rossinek
+- 문서 정비: README 허용 라이선스 표에 Apache-2.0·OFL 1.1 추가. '수록하되 사용 주의' 절의 출처 불명 귀속 문구(2026-11-17 결정 주장, 사용자 채널에서 원문 확인 불가)를 2026-11-20 소유자 지시 원문 인용으로 정정. 알 수 없음 팩 현황(9건) 갱신
+
 ### KOASSET-20261120 게임 10종 재사용 에셋 수집 등록 (8팩, 2026-11-20 KST)
 
 사용자 지정 한글화 게임 저장소 10종(concrete-echo-ko, zombies-ko, cold-boot-ko, papertrails-ko, soccer-3d-ko, afterlight-ko, battledrones-ko, cadle-ko, klarbase-ko, lanternfall-ko)에서 재사용 가능 에셋을 추려 등록. 원작 게임 변경 없이 추출만 수행. catalog.csv 2121→2129.

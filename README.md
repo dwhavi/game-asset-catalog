@@ -3,7 +3,7 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
-**총 2,129팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
+**총 2,140팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
 
 ※ Quaternius 팩: 팩 페이지는 CC0로 표기하지만 Quaternius 사이트의 공통 라이선스(QAL)는 에셋 단독 재배포를 제한합니다. 사용 전 원 사이트(quaternius.com)에서 확인해 주세요.
 
@@ -18,15 +18,15 @@
 
 | 저장소 | 내용 | 팩 수 |
 | --- | --- | ---: |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트, 텍스처 | 681 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트, 텍스처 | 686 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델 (1호, GLB·OBJ) | 508 |
-| [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 (2호) | 218 |
+| [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 (2호) | 219 |
 | [assets-3d-polyfork](https://github.com/sigco3111/assets-3d-polyfork) | 3D 모델 (Polyfork 자동 수집) | 3 |
-| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘 | 229 |
-| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악 (OGG) | 481 |
+| [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘 | 231 |
+| [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악 (OGG) | 483 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 2D 초상화 | 3 |
-| [assets-code](https://github.com/sigco3111/assets-code) | 재사용 코드 모듈 (TypeScript·JavaScript) | 6 |
-| **합계** | | **2129** |
+| [assets-code](https://github.com/sigco3111/assets-code) | 재사용 코드 모듈 (TypeScript·JavaScript) | 7 |
+| **합계** | | **2140** |
 
 ## 사이트와 검색
 
@@ -65,10 +65,12 @@ catalog.csv 열:
 | MIT | 저작권·허가 고지를 유지하면 사용할 수 있습니다. 라이선스 전문 파일을 팩에 함께 둡니다. |
 | GPL 2.0 / 3.0 | 원본 GPL 라이선스를 그대로 유지합니다. 재배포할 때는 GPL 조건(라이선스 고지, 소스 공개 등)을 따릅니다. |
 | OGA-BY | OpenGameArt의 CC-BY 계열 표기 조건으로, 출처와 작가 표기가 필요합니다. |
+| Apache-2.0 | 저작권·라이선스 고지와 변경 표기를 유지하면 사용할 수 있습니다. LICENSE·NOTICE 전문을 팩에 함께 둡니다. (2026-11-20 추가) |
+| OFL 1.1 | SIL 폰트 라이선스. 폰트 단독 판매는 금지, 수정 폰트는 같은 라이선스로 배포해야 합니다. OFL 전문을 팩에 함께 둡니다. (2026-11-20 추가) |
 
-### 수록하되 사용 주의 (2026-11-17부터 파일 수집 포함)
+### 수록하되 사용 주의
 
-희정님 결정으로 아래 팩도 수록합니다. 위험을 감수하고 수록하는 것이므로 사용 전에 확인하세요.
+소유자 지시(2026-11-20, "라이선스가 없어도 수집해. 사용할 수 없다고 명시하지 않으면 모두 수집해")로 아래 팩도 수록합니다. 위험을 감수하고 수록하는 것이므로 사용 전에 확인하세요.
 
 | 라이선스 | 설명 |
 | --- | --- |
@@ -76,7 +78,7 @@ catalog.csv 열:
 | ND | 변경 금지. 수정·파생물 제작 불가. |
 | 불명확 | 출처 페이지에 라이선스 표기가 없거나 모호함. 사용 전 원작자 확인 필요. 불명확 팩은 허용 라이선스로 적지 않습니다. |
 
-NC·ND·불명확 팩은 catalog.csv 라이선스 열에 있는 그대로 표기하고, notes 열에 주의 문구를 적습니다. 현재 수록 팩 중에는 NC·ND·불명확 범주에 해당하는 팩이 없습니다 (catalog.csv 라이선스 열, 러너 확인).
+NC·ND·불명확 팩은 catalog.csv 라이선스 열에 있는 그대로 표기하고, notes 열에 주의 문구를 적습니다. 2026-11-20 기준 '알 수 없음' 팩 9건이 수록돼 있습니다 (everyday-game 3, 게임 10종 수집 6; catalog.csv 라이선스 열).
 
 ### 수록하지 않음
 
@@ -118,6 +120,7 @@ Kenney, KayKit, Quaternius 등의 출처 검증 상태와 추가 확장 기록�
 
 라운드별 상세 기록은 [docs/COLLECTION-HISTORY.md](docs/COLLECTION-HISTORY.md)에 있습니다. 최근 3개 라운드:
 
+- 2026-11-20 KOASSET-2 추가 (11팩, 총 2140팩)
 - 2026-11-20 KOASSET 추가 (8팩, 총 2129팩)
 - 2026-11-20 AUTO-20261120-14 추가 (3팩, 총 2121팩)
 - 2026-11-20 EG-20261120 추가 (3팩, 총 2118팩)
