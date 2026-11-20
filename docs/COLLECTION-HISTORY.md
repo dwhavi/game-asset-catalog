@@ -1,5 +1,27 @@
 # 수집 이력 (라운드별 상세)
 
+### KOASSET-20261120 게임 10종 재사용 에셋 수집 등록 (8팩, 2026-11-20 KST)
+
+사용자 지정 한글화 게임 저장소 10종(concrete-echo-ko, zombies-ko, cold-boot-ko, papertrails-ko, soccer-3d-ko, afterlight-ko, battledrones-ko, cadle-ko, klarbase-ko, lanternfall-ko)에서 재사용 가능 에셋을 추려 등록. 원작 게임 변경 없이 추출만 수행. catalog.csv 2121→2129.
+
+- 팩: Cold Boot 할보르센 3D 머리 (slug cold-boot-halvorsen-head), 라이선스: CC0 1.0, 제작자: MakeHuman team (가공: rossinek)
+- 팩: Cold Boot 토마스 3D 머리 (slug cold-boot-tomas-head), 라이선스: CC-BY 3.0, 제작자: Lee Perry-Smith (Infinite Realities). 실존 인물 스캔이라 초상권·퍼블리시티권 별도 확인 주의 표기
+- 출처(위 2팩): https://github.com/rossinek/cold-boot (한글판 포크 sigco3111/cold-boot-ko와 파일 바이트 동일). 원작 docs/ASSETS.md의 라이선스 근거(MakeHuman CC0, three.js 예제 LeePerrySmith CC BY 3.0) 확인
+- 저장: assets-3d-lowpoly-2 각 팩 폴더 (zip·pack.md·CREDITS.txt·LICENSE-SOURCE.txt·meta.json·preview.png)
+- 팩: Papertrails 팝업북 3D 모델 (slug papertrails-popup-models) / Papertrails 종이 질감 텍스처 9종 (slug papertrails-paper-textures) / Papertrails 종이오리기 아트 아틀라스 3종 (slug papertrails-art-atlas), 라이선스: MIT, 제작자: xikhar (Shikhar)
+- 출처: https://github.com/xikhar/papertrails (포크 sigco3111/papertrails-ko에서 추출). 아틀라스 zip 8.3MB는 5MB 초과로 assets-2d-pixel Releases(태그 papertrails-art-atlas) 첨부
+- 저장: assets-3d-lowpoly-2 papertrails-popup-models/ · assets-2d-pixel papertrails-paper-textures/, papertrails-art-atlas/
+- 팩: Graveyard Shift 키아트 (slug zombies-keyart), 라이선스: MIT, 제작자: ethanplusai
+- 출처: https://github.com/ethanplusai/zombies (포크 sigco3111/zombies-ko에서 추출)
+- 저장: assets-2d-pixel zombies-keyart/
+- 팩: Cadle WebAudio 합성 음향 엔진 (slug cadle-webaudio-synth), 라이선스: MIT(코드), 제작자: Ian Cadle (Humpalumps)
+- 출처: https://github.com/Humpalumps/Cadle. 원작 NOTICE 확인: public/assets/의 이미지·모델은 MIT 부여 대상 아니고 녹음 음원은 재배포 금지라 코드(src/audio)만 수록, NOTICE.txt 동봉
+- 저장: assets-code cadle-webaudio-synth/
+- 팩: Klarbase 절차적 섬 월드 생성 코드 (slug klarbase-procedural-world), 라이선스: MIT, 제작자: TanmoyP and Klarbase contributors
+- 출처: https://github.com/TanmoyP/klarbase. 원작 README: 그래픽 전량 절차적 생성(별도 에셋 라이선스 없음) 확인 후 client/src/game 모듈 14개 수록
+- 저장: assets-code klarbase-procedural-world/
+- 미수록: concrete-echo-ko(라이선스 표기 없음·불명확 후보로 보류), battledrones-ko(Apache-2.0은 카탈로그 허용 목록에 없음, 아트는 OpenAI gpt-image 생성물), soccer-3d-ko(ElevenLabs 생성 에셋으로 권리 별도 확인 필요라는 원작 표기), cadle 이미지·모델(원작 NOTICE가 MIT 부여 대상에서 명시 제외), cold-boot 음성(인하우스 생성 음성, 라이선스 없음), afterlight-ko 폰트(OFL 1.1, 카탈로그 폰트 분류·허용 목록 없음), lanternfall-ko(라이선스 표기 없음)
+
 ### AUTO-20261120-14 자동 수집 등록 (3팩, 2026-11-20 14:25 KST)
 
 - 팩: Han Weapon Rack (slug han-weapon-rack), 라이선스: CC-BY 4.0, 제작자: Polyfork

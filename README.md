@@ -3,7 +3,7 @@
 재사용 가능한 게임 에셋 라이브러리의 중앙 카탈로그입니다.
 실제 파일은 유형별 저장소에 두고, 여기에 모든 에셋의 출처·라이선스·작가·장르 태그를 기록합니다.
 
-**총 2,121팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
+**총 2,129팩입니다.** (catalog.csv 기준, 아래 저장소 표의 팩 수 합계와 같습니다.)
 
 ※ Quaternius 팩: 팩 페이지는 CC0로 표기하지만 Quaternius 사이트의 공통 라이선스(QAL)는 에셋 단독 재배포를 제한합니다. 사용 전 원 사이트(quaternius.com)에서 확인해 주세요.
 
@@ -18,14 +18,15 @@
 
 | 저장소 | 내용 | 팩 수 |
 | --- | --- | ---: |
-| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트, 텍스처 | 678 |
+| [assets-2d-pixel](https://github.com/sigco3111/assets-2d-pixel) | 2D 픽셀 스프라이트, 타일셋, 이펙트, 텍스처 | 681 |
 | [assets-3d-lowpoly](https://github.com/sigco3111/assets-3d-lowpoly) | 3D 로우폴리 모델 (1호, GLB·OBJ) | 508 |
-| [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 (2호) | 215 |
+| [assets-3d-lowpoly-2](https://github.com/sigco3111/assets-3d-lowpoly-2) | 3D 로우폴리 모델 (2호) | 218 |
+| [assets-3d-polyfork](https://github.com/sigco3111/assets-3d-polyfork) | 3D 모델 (Polyfork 자동 수집) | 3 |
 | [assets-ui-icons](https://github.com/sigco3111/assets-ui-icons) | UI 키트, 아이콘 | 229 |
 | [assets-audio](https://github.com/sigco3111/assets-audio) | 효과음, 배경음악 (OGG) | 481 |
 | [assets-2d-portraits](https://github.com/sigco3111/assets-2d-portraits) | 2D 초상화 | 3 |
-| [assets-code](https://github.com/sigco3111/assets-code) | 재사용 코드 모듈 (TypeScript·JavaScript) | 4 |
-| **합계** | | **2121** |
+| [assets-code](https://github.com/sigco3111/assets-code) | 재사용 코드 모듈 (TypeScript·JavaScript) | 6 |
+| **합계** | | **2129** |
 
 ## 사이트와 검색
 
@@ -117,9 +118,9 @@ Kenney, KayKit, Quaternius 등의 출처 검증 상태와 추가 확장 기록�
 
 라운드별 상세 기록은 [docs/COLLECTION-HISTORY.md](docs/COLLECTION-HISTORY.md)에 있습니다. 최근 3개 라운드:
 
-- 2026-11-17 A110 추가 (2팩, 총 1939팩)
-- 2026-11-17 A109 추가 (3팩, 총 1937팩)
-- 2026-11-17 A108 추가 (3팩, 총 1934팩)
+- 2026-11-20 KOASSET 추가 (8팩, 총 2129팩)
+- 2026-11-20 AUTO-20261120-14 추가 (3팩, 총 2121팩)
+- 2026-11-20 EG-20261120 추가 (3팩, 총 2118팩)
 
 ## 문서 관리
 
