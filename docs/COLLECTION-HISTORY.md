@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-03 자동 수집 등록 (3팩, 2026-11-21 03:37 KST)
+
+- 팩: Arched Stone Bridge (slug arched-stone-bridge), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/arched-stone-bridge-9474cf
+- 저장: assets-3d-polyfork arched-stone-bridge/arched-stone-bridge.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2156→2159, 기존 행 불변 확인
+- 팩: Stone Guardian Beast (slug stone-guardian-beast), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/stone-guardian-beast-663ee9
+- 저장: assets-3d-polyfork stone-guardian-beast/stone-guardian-beast.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2156→2159, 기존 행 불변 확인
+- 팩: Strategy Table (slug strategy-table), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/strategy-table-882a29
+- 저장: assets-3d-polyfork strategy-table/strategy-table.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2156→2159, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-01 자동 수집 등록 (3팩, 2026-11-21 01:34 KST)
 
 - 팩: Fantasy RPG Icons (slug fantasy-rpg-icons-0), 라이선스: CC0, 제작자: Drummyfish

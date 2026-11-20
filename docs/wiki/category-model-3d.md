@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@039e8cd4534b0a0e0990c178371e13a4bb4ad668`
+> generated from `catalog.csv@d1f7fda6fb3bc0d5b46fb398c7f2ce2b35bdb26e`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **663개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **666개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 663개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 666개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip) | 2026-11-21 |
+| [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
+| [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
 | [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/clay-wine-jar/clay-wine-jar.zip) | 2026-11-20 |
 | [Concrete Echo FPS 프롭 3D 모델 24종+Soldier](https://github.com/Rikinshah787/Game-Fable-5.2) | `model-3d` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/concrete-echo-props/concrete-echo-props.zip) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
@@ -414,6 +417,3 @@
 | [Low poly character (+Blend File)](https://opengameart.org/content/low-poly-character-blend-file) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/low-poly-character-blend-file.zip) | 2026-11-04 |
 | [Low Poly Forest Pack](https://opengameart.org/content/low-poly-forest-pack) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/low-poly-forest-pack.zip) | 2026-11-04 |
 | [Low Poly Furniture](https://opengameart.org/content/low-poly-furniture-0) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/low-poly-furniture-0.zip) | 2026-11-04 |
-| [Low poly furniture](https://opengameart.org/content/low-poly-furniture) | `model-3d` | manwesulimo2004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.20/low-poly-furniture.zip) | 2026-11-04 |
-| [Low Poly House Interior](https://opengameart.org/content/low-poly-house-interior) | `model-3d` | ? | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.27/low-poly-house-interior.zip) | 2026-11-04 |
-| [Low Poly Knight](https://opengameart.org/content/low-poly-knight) | `model-3d` | MasterXENON | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.32/low-poly-knight.zip) | 2026-11-04 |

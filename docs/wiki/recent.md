@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@039e8cd4534b0a0e0990c178371e13a4bb4ad668`
+> generated from `catalog.csv@d1f7fda6fb3bc0d5b46fb398c7f2ce2b35bdb26e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,9 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip) | 2026-11-21 |
+| [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
+| [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
 | [Ambient Solo Guitar Interludes](https://opengameart.org/content/ambient-solo-guitar-interludes) | `music` | SpringySpringo | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ambient-solo-guitar-interludes/ambient-solo-guitar-interludes.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Colt lowpoly revolver](https://opengameart.org/content/colt-lowpoly-revolver) | `model-3d` | TimDev | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/colt-lowpoly-revolver/colt-lowpoly-revolver.zip) | 2026-11-19 |
 | [Cordless Drill](https://opengameart.org/content/cordless-drill) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-cordless-drill/cordless-drill.zip) | 2026-11-19 |
 | [Cottage](https://opengameart.org/content/cottage) | `model-3d` | WeaponGuy | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-cottage/cottage.zip) | 2026-11-19 |
-| [Cup](https://opengameart.org/content/cup-2) | `model-3d` | pikachufan25 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cup-2/cup-2.zip) | 2026-11-19 |
-| [Darkness\_Castle\_Temple](https://opengameart.org/content/darknesscastletemple) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-darknesscastletemple/darknesscastletemple.zip) | 2026-11-19 |
-| [Derringer Pistol](https://opengameart.org/content/derringer-pistol) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-derringer-pistol/derringer-pistol.zip) | 2026-11-19 |

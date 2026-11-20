@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@039e8cd4534b0a0e0990c178371e13a4bb4ad668",
-  "count": 2156,
+  "generated_from": "catalog.csv@d1f7fda6fb3bc0d5b46fb398c7f2ce2b35bdb26e",
+  "count": 2159,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76217,6 +76217,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/arched-stone-bridge",
+      "name": "Arched Stone Bridge",
+      "repo": "assets-3d-polyfork",
+      "file": "arched-stone-bridge/arched-stone-bridge.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/arched-stone-bridge-9474cf",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Arched Stone Bridge by Polyfork (https://polyfork.dev/asset/arched-stone-bridge-9474cf), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "arched-stone-bridge/preview.png",
+      "download_path": "arched-stone-bridge/arched-stone-bridge.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/stone-guardian-beast",
+      "name": "Stone Guardian Beast",
+      "repo": "assets-3d-polyfork",
+      "file": "stone-guardian-beast/stone-guardian-beast.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/stone-guardian-beast-663ee9",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Stone Guardian Beast by Polyfork (https://polyfork.dev/asset/stone-guardian-beast-663ee9), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "stone-guardian-beast/preview.png",
+      "download_path": "stone-guardian-beast/stone-guardian-beast.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/strategy-table",
+      "name": "Strategy Table",
+      "repo": "assets-3d-polyfork",
+      "file": "strategy-table/strategy-table.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/strategy-table-882a29",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Strategy Table by Polyfork (https://polyfork.dev/asset/strategy-table-882a29), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "strategy-table/preview.png",
+      "download_path": "strategy-table/strategy-table.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip"
       ],
       "sample": null,
       "multipart": false,
