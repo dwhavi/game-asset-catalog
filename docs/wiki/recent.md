@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@49e66689bb098b6a2dec947d03caeb459ef5cd03`
+> generated from `catalog.csv@f14707488eafebbba3ad6a38f26e7b9d8e1c149f`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [The Lost Storm Replacement SFX](https://github.com/sigco3111/the-lost-storm-ko) | `sfx` | The Lost Storm Korean fan localization (synthesized in-project) | MIT | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/1-the-lost-storm-audio.zip) | 2026-11-20 |
 | [16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)](https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0) | `sprite-2d` | levshop | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip) | 2026-11-19 |
 | [20 Cups, 4 Chairs, and a Toilet](https://opengameart.org/content/20-cups-4-chairs-and-a-toilet) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-20-cups-4-chairs-and-a-toilet/20-cups-4-chairs-and-a-toilet.zip) | 2026-11-19 |
 | [20 Gases](https://opengameart.org/content/20-gases) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/20-gases/20-gases.zip) | 2026-11-19 |
@@ -112,4 +113,3 @@
 | [Radio](https://opengameart.org/content/radio-1) | `model-3d` | Radiance | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/radio-1/radio-1.zip) | 2026-11-19 |
 | [Rail Basic assets v1](https://opengameart.org/content/rail-basic-assets-v1) | `model-3d` | eracoon | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rail-basic-assets-v1/rail-basic-assets-v1.zip) | 2026-11-19 |
 | [Realy Low poly gun \| CC0](https://opengameart.org/content/realy-low-poly-gun-cc0) | `model-3d` | Zxelt | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/realy-low-poly-gun-cc0/realy-low-poly-gun-cc0.zip) | 2026-11-19 |
-| [Rifle Scope](https://opengameart.org/content/rifle-scope) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/rifle-scope/rifle-scope.zip) | 2026-11-19 |

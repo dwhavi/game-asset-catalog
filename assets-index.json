@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@49e66689bb098b6a2dec947d03caeb459ef5cd03",
-  "count": 2097,
+  "generated_from": "catalog.csv@f14707488eafebbba3ad6a38f26e7b9d8e1c149f",
+  "count": 2098,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -74110,6 +74110,41 @@
       "download_url": "https://github.com/sigco3111/assets-2d-pixel/raw/main/9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-2d-pixel/raw/main/9-fantasy-pixel-potions-4-animated/9-fantasy-pixel-potions-4-animated.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/the-lost-storm-replacement-sfx",
+      "name": "The Lost Storm Replacement SFX",
+      "repo": "assets-audio",
+      "file": "the-lost-storm-audio/1-the-lost-storm-audio.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "fantasy",
+        "rpg",
+        "synth",
+        "ogg"
+      ],
+      "effect_kind": [],
+      "author": "The Lost Storm Korean fan localization (synthesized in-project)",
+      "source_url": "https://github.com/sigco3111/the-lost-storm-ko",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "optional: The Lost Storm Korean fan localization",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "자체 합성 효과음 OGG 219개; 생성 스크립트 audio-synth.py 동봉; 원작 음원 미포함; the-lost-storm-ko 저장소 MIT와 동일",
+      "preview": null,
+      "download_path": "the-lost-storm-audio/1-the-lost-storm-audio.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/1-the-lost-storm-audio.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/1-the-lost-storm-audio.zip"
       ],
       "sample": null,
       "multipart": false,

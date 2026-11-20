@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@49e66689bb098b6a2dec947d03caeb459ef5cd03`
+> generated from `catalog.csv@f14707488eafebbba3ad6a38f26e7b9d8e1c149f`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2097개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2098개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | cc0 | CC0 | 1877 | 0 | 예 |
 | cc-by | CC-BY | 204 | 204 | 예 |
-| mit | MIT | 3 | 3 | 예 |
+| mit | MIT | 4 | 3 | 예 |
 | gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
 | other | 기타(허용 목록 밖) | 3 | 0 | 아니오 |
 
@@ -42,6 +42,7 @@
 | CC-BY+CC0 | cc-by | O | 1 |
 | CC-BY-3.0 / CC0 (2 contributors) | cc-by | O | 1 |
 | CC0 (페이지에 CC-BY 3.0/4.0·CC-BY-SA·GPL 2.0/3.0·OGA-BY 3.0 병기, CC0 선택) | cc0 | X | 1 |
+| MIT | mit | X | 1 |
 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | other | X | 1 |
 
 ## 표기가 필요한 에셋
