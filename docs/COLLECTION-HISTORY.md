@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-11 자동 수집 등록 (3팩, 2026-11-20 11:08 KST)
+
+- 팩: Silly Song 1 (slug silly-song-1), 라이선스: CC-BY 4.0, 제작자: mla
+- 출처: https://opengameart.org/content/silly-song-1
+- 저장: assets-3d-lowpoly-2 release:pack-silly-song-1/silly-song-1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2103→2106, 기존 행 불변 확인
+- 팩: Sometimes I Feel Like I'm Stuck in Limbo (slug sometimes-i-feel-like-im-stuck-in-limbo), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo
+- 저장: assets-3d-lowpoly-2 release:pack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2103→2106, 기존 행 불변 확인
+- 팩: Three "western desert" like tracks (slug three-western-desert-like-tracks), 라이선스: CC-BY 3.0, 제작자: Bockanator
+- 출처: https://opengameart.org/content/three-western-desert-like-tracks
+- 저장: assets-3d-lowpoly-2 release:pack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2103→2106, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261120-09 자동 수집 등록 (3팩, 2026-11-20 09:29 KST)
 
 - 팩: 2D Pixel Art Retro OS & Horror Icon Pack | Pixo (slug 2d-pixel-art-retro-os-horror-icon-pack-pixo), 라이선스: CC-BY 4.0, 제작자: Hyperwebster

@@ -1,20 +1,23 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@a380689bb04063aea75f46cf1f709be91470117d`
+> generated from `catalog.csv@b179e8d5e3b43317f5eb622f8ab27fe3f52c7be7`
 
 # 음악 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `music`(음악)에 해당하는 에셋 **230개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
+분류 `music`(음악)에 해당하는 에셋 **233개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 230행 (전체 230개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 233행 (전체 233개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
+| [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip) | 2026-11-20 |
+| [Three "western desert" like tracks](https://opengameart.org/content/three-western-desert-like-tracks) | `music` | Bockanator | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip) | 2026-11-20 |
 | [Enchanted Festival](https://opengameart.org/content/enchanted-festival) | `music` | Matthew Pablo | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/enchanted-festival/enchanted-festival.zip) | 2026-11-10 |
 | [7DaysofVGM Free Asset Pack](https://opengameart.org/content/7daysofvgm-free-asset-pack) | `music` | LemonheadVGM | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/7daysofvgm-free-asset-pack/7daysofvgm-free-asset-pack.zip) | 2026-11-07 |
 | [8-Bit Victory Loop](https://opengameart.org/content/8-bit-victory-loop) | `music` | josepharaoh99 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8bit-victory-loop/8bit-victory-loop.zip) | 2026-11-07 |

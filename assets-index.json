@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@a380689bb04063aea75f46cf1f709be91470117d",
-  "count": 2103,
+  "generated_from": "catalog.csv@b179e8d5e3b43317f5eb622f8ab27fe3f52c7be7",
+  "count": 2106,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -74316,6 +74316,102 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/silly-song-1",
+      "name": "Silly Song 1",
+      "repo": "assets-audio",
+      "file": "release:pack-silly-song-1/silly-song-1.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "mla",
+      "source_url": "https://opengameart.org/content/silly-song-1",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: mla (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "release:pack-silly-song-1/silly-song-1.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/sometimes-i-feel-like-i-m-stuck-in-limbo",
+      "name": "Sometimes I Feel Like I'm Stuck in Limbo",
+      "repo": "assets-audio",
+      "file": "release:pack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "purrplecat",
+      "source_url": "https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: purrplecat (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "release:pack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/three-western-desert-like-tracks",
+      "name": "Three \"western desert\" like tracks",
+      "repo": "assets-audio",
+      "file": "release:pack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Bockanator",
+      "source_url": "https://opengameart.org/content/three-western-desert-like-tracks",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Bockanator (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "release:pack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip"
       ],
       "sample": null,
       "multipart": false,
