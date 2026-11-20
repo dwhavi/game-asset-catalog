@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d7a19d02a0842ac94f3241ca23906a85dd91839a`
+> generated from `catalog.csv@039e8cd4534b0a0e0990c178371e13a4bb4ad668`
 
 # UI 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `ui`(UI)에 해당하는 에셋 **209개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
+분류 `ui`(UI)에 해당하는 에셋 **212개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 209행 (전체 209개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 212행 (전체 212개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Battle Drones 유닛·건물 아이콘 28종+변형](https://github.com/simonw/battledrones) | `ui` | Battle Drones authors (simonw) | Apache-2.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/battledrones-unit-icons/battledrones-unit-icons.zip) | 2026-11-20 |
+| [Fantasy RPG Icons](https://opengameart.org/content/fantasy-rpg-icons-0) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip) | 2026-11-20 |
+| [Fantasy RPG Icons 2](https://opengameart.org/content/fantasy-rpg-icons-2) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip) | 2026-11-20 |
+| [Fruit Icon Pack](https://opengameart.org/content/fruit-icon-pack) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip) | 2026-11-20 |
 | [Technology and Machinery Icons](https://opengameart.org/content/technology-and-machinery-icons) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/technology-and-machinery-icons/technology-and-machinery-icons.zip) | 2026-11-20 |
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |
 | [Ancient Armory \| 2D Historical Weapons](https://opengameart.org/content/ancient-armory-2d-historical-weapons) | `ui` | JoeRaig | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/ancient-armory/ancient-armory.zip) | 2026-11-07 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@d7a19d02a0842ac94f3241ca23906a85dd91839a`
+> generated from `catalog.csv@039e8cd4534b0a0e0990c178371e13a4bb4ad668`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -31,7 +31,10 @@
 | [Cool Adventure](https://opengameart.org/content/cool-adventure) | `music` | MintoDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cool-adventure/cool-adventure.zip) | 2026-11-20 |
 | [cyber core](https://opengameart.org/content/cyber-core) | `music` | oglsdl | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-cyber-core/cyber-core.zip) | 2026-11-20 |
 | [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip) | 2026-11-20 |
+| [Fantasy RPG Icons](https://opengameart.org/content/fantasy-rpg-icons-0) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip) | 2026-11-20 |
+| [Fantasy RPG Icons 2](https://opengameart.org/content/fantasy-rpg-icons-2) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
+| [Fruit Icon Pack](https://opengameart.org/content/fruit-icon-pack) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip) | 2026-11-20 |
 | [Goodnight Newcastle](https://opengameart.org/content/goodnight-newcastle) | `music` | dmrgn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/goodnight-newcastle/goodnight-newcastle.zip) | 2026-11-20 |
 | [Graveyard Shift 키아트 (밤비 내리는 주유소 좀비)](https://github.com/ethanplusai/zombies) | `background-2d` | ethanplusai | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/zombies-keyart/zombies-keyart.zip) | 2026-11-20 |
 | [Han Weapon Rack](https://polyfork.dev/asset/han-weapon-rack-b51a33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Cup](https://opengameart.org/content/cup-2) | `model-3d` | pikachufan25 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cup-2/cup-2.zip) | 2026-11-19 |
 | [Darkness\_Castle\_Temple](https://opengameart.org/content/darknesscastletemple) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-darknesscastletemple/darknesscastletemple.zip) | 2026-11-19 |
 | [Derringer Pistol](https://opengameart.org/content/derringer-pistol) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-derringer-pistol/derringer-pistol.zip) | 2026-11-19 |
-| [Detective Special Revolver](https://opengameart.org/content/detective-special-revolver) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-detective-special-revolver/detective-special-revolver.zip) | 2026-11-19 |
-| [Dim's arboretum](https://opengameart.org/content/dims-arboretum) | `model-3d` | WeaponGuy | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-dims-arboretum/dims-arboretum.zip) | 2026-11-19 |
-| [Dim's arboretum for Blender 4.3.1+](https://opengameart.org/content/dims-arboretum-for-blender-431) | `model-3d` | velocirection | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-dims-arboretum-for-blender-431/dims-arboretum-for-blender-431.zip) | 2026-11-19 |

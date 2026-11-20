@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@d7a19d02a0842ac94f3241ca23906a85dd91839a",
-  "count": 2153,
+  "generated_from": "catalog.csv@039e8cd4534b0a0e0990c178371e13a4bb4ad668",
+  "count": 2156,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76118,6 +76118,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-cyber-core/cyber-core.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-cyber-core/cyber-core.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/fantasy-rpg-icons",
+      "name": "Fantasy RPG Icons",
+      "repo": "assets-ui-icons",
+      "file": "fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Drummyfish",
+      "source_url": "https://opengameart.org/content/fantasy-rpg-icons-0",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Drummyfish (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "fantasy-rpg-icons-0/preview.png",
+      "download_path": "fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/fantasy-rpg-icons-2",
+      "name": "Fantasy RPG Icons 2",
+      "repo": "assets-ui-icons",
+      "file": "fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Drummyfish",
+      "source_url": "https://opengameart.org/content/fantasy-rpg-icons-2",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Drummyfish (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "fantasy-rpg-icons-2/preview.png",
+      "download_path": "fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/fruit-icon-pack",
+      "name": "Fruit Icon Pack",
+      "repo": "assets-ui-icons",
+      "file": "fruit-icon-pack/fruit-icon-pack.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Moku",
+      "source_url": "https://opengameart.org/content/fruit-icon-pack",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Moku (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "fruit-icon-pack/preview.png",
+      "download_path": "fruit-icon-pack/fruit-icon-pack.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip"
       ],
       "sample": null,
       "multipart": false,

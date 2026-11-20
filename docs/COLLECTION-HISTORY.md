@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-01 자동 수집 등록 (3팩, 2026-11-21 01:34 KST)
+
+- 팩: Fantasy RPG Icons (slug fantasy-rpg-icons-0), 라이선스: CC0, 제작자: Drummyfish
+- 출처: https://opengameart.org/content/fantasy-rpg-icons-0
+- 저장: assets-3d-lowpoly-2 fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2153→2156, 기존 행 불변 확인
+- 팩: Fantasy RPG Icons 2 (slug fantasy-rpg-icons-2), 라이선스: CC0, 제작자: Drummyfish
+- 출처: https://opengameart.org/content/fantasy-rpg-icons-2
+- 저장: assets-3d-lowpoly-2 fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2153→2156, 기존 행 불변 확인
+- 팩: Fruit Icon Pack (slug fruit-icon-pack), 라이선스: CC-BY 3.0, 제작자: Moku
+- 출처: https://opengameart.org/content/fruit-icon-pack
+- 저장: assets-3d-lowpoly-2 fruit-icon-pack/fruit-icon-pack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2153→2156, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-01 자동 수집 등록 (3팩, 2026-11-21 01:22 KST)
 
 - 팩: Ambient Solo Guitar Interludes (slug ambient-solo-guitar-interludes), 라이선스: CC-BY 4.0, 제작자: SpringySpringo
