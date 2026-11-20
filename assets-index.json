@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b179e8d5e3b43317f5eb622f8ab27fe3f52c7be7",
-  "count": 2106,
+  "generated_from": "catalog.csv@7da2c36e553f4ddf9cb4a41346ad981d5dbd4e38",
+  "count": 2109,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -74412,6 +74412,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/runway-tile",
+      "name": "Runway Tile",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "runway-tile/runway-tile.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/runway-tile-9a2808",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Runway Tile by Polyfork (https://polyfork.dev/asset/runway-tile-9a2808), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 시험 수집 3개",
+      "preview": "runway-tile/preview.png",
+      "download_path": "runway-tile/runway-tile.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/stone-flagged-courtyard-tile",
+      "name": "Stone-Flagged Courtyard Tile",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "stone-flagged-courtyard-tile/stone-flagged-courtyard-tile.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/stone-flagged-courtyard-tile-529c20",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Stone-Flagged Courtyard Tile by Polyfork (https://polyfork.dev/asset/stone-flagged-courtyard-tile-529c20), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 시험 수집 3개",
+      "preview": "stone-flagged-courtyard-tile/preview.png",
+      "download_path": "stone-flagged-courtyard-tile/stone-flagged-courtyard-tile.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stone-flagged-courtyard-tile/stone-flagged-courtyard-tile.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stone-flagged-courtyard-tile/stone-flagged-courtyard-tile.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/tree-stump",
+      "name": "Tree Stump",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "tree-stump/tree-stump.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/tree-stump-00f3bf",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Tree Stump by Polyfork (https://polyfork.dev/asset/tree-stump-00f3bf), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 시험 수집 3개",
+      "preview": "tree-stump/preview.png",
+      "download_path": "tree-stump/tree-stump.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tree-stump/tree-stump.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tree-stump/tree-stump.zip"
       ],
       "sample": null,
       "multipart": false,
