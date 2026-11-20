@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@64a64fb1b33cc7f7737dea212364f40b35532fba",
-  "count": 2165,
+  "generated_from": "catalog.csv@358230a69ece302ec4edbf598ecf6ffe0832659a",
+  "count": 2168,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76511,6 +76511,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/potion-icons",
+      "name": "Potion Icons",
+      "repo": "assets-ui-icons",
+      "file": "potion-icons-1/potion-icons-1.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Oyasumi",
+      "source_url": "https://opengameart.org/content/potion-icons-1",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Oyasumi (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "potion-icons-1/preview.png",
+      "download_path": "potion-icons-1/potion-icons-1.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/potion-icons-1/potion-icons-1.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/potion-icons-1/potion-icons-1.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/skymon-icon-pack-free",
+      "name": "Skymon Icon Pack Free",
+      "repo": "assets-ui-icons",
+      "file": "skymon-icon-pack-free/skymon-icon-pack-free.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "DefaceGames",
+      "source_url": "https://opengameart.org/content/skymon-icon-pack-free",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: DefaceGames (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "skymon-icon-pack-free/preview.png",
+      "download_path": "skymon-icon-pack-free/skymon-icon-pack-free.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/skymon-icon-pack-free/skymon-icon-pack-free.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/skymon-icon-pack-free/skymon-icon-pack-free.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/space-constuction-tile-and-icon-set",
+      "name": "Space Constuction Tile and Icon Set",
+      "repo": "assets-ui-icons",
+      "file": "space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "RUOK",
+      "source_url": "https://opengameart.org/content/space-constuction-tile-and-icon-set",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: RUOK (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "space-constuction-tile-and-icon-set/preview.png",
+      "download_path": "space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip"
       ],
       "sample": null,
       "multipart": false,

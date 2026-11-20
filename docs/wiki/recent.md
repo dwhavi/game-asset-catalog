@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@64a64fb1b33cc7f7737dea212364f40b35532fba`
+> generated from `catalog.csv@358230a69ece302ec4edbf598ecf6ffe0832659a`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -56,13 +56,16 @@
 | [pixelfx](https://github.com/patch-gg/pixelfx) | `effect` | Patch | MIT | O | X | - | 2026-11-20 |
 | [Pocket Soccer 3D 경기 효과음·해설 음성 14종](https://github.com/ShaunPrice/soccer-3d) | `sfx` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/soccer-3d-match-audio/soccer-3d-match-audio.zip) | 2026-11-20 |
 | [Pocket Soccer 3D 타이틀 아트워크·앱 아이콘](https://github.com/ShaunPrice/soccer-3d) | `background-2d` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/soccer-3d-title-artwork/soccer-3d-title-artwork.zip) | 2026-11-20 |
+| [Potion Icons](https://opengameart.org/content/potion-icons-1) | `ui` | Oyasumi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/potion-icons-1/potion-icons-1.zip) | 2026-11-20 |
 | [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip) | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
 | [Silkworm Tray Rack](https://polyfork.dev/asset/silkworm-tray-rack-bf6067) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/silkworm-tray-rack/silkworm-tray-rack.zip) | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
 | [Silly Theme Song](https://opengameart.org/content/silly-theme-song) | `music` | vandem\_music | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip) | 2026-11-20 |
+| [Skymon Icon Pack Free](https://opengameart.org/content/skymon-icon-pack-free) | `ui` | DefaceGames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/skymon-icon-pack-free/skymon-icon-pack-free.zip) | 2026-11-20 |
 | [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip) | 2026-11-20 |
+| [Space Constuction Tile and Icon Set](https://opengameart.org/content/space-constuction-tile-and-icon-set) | `ui` | RUOK | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip) | 2026-11-20 |
 | [Stake Palisade Run](https://polyfork.dev/asset/stake-palisade-run-548617) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stake-palisade-run/stake-palisade-run.zip) | 2026-11-20 |
 | [Starember Field Procedural Character Toolkit](https://github.com/weit0529/gamedemo_by_Fable5.2) | `other` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-code/raw/main/starember-field-char-toolkit/starember-field-char-toolkit.zip) | 2026-11-20 |
 | [Starember Field Render Modules](https://github.com/weit0529/gamedemo_by_Fable5.2) | `other` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-code/raw/main/starember-field-render/starember-field-render.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Box with different colors](https://opengameart.org/content/box-with-different-colors) | `model-3d` | iamsujitcu | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/box-with-different-colors/box-with-different-colors.zip) | 2026-11-19 |
 | [Brigand](https://opengameart.org/content/brigand) | `model-3d` | AnthonyMyers | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-brigand/brigand.zip) | 2026-11-19 |
 | [Bunny 3D](https://opengameart.org/content/bunny-3d) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bunny-3d/bunny-3d.zip) | 2026-11-19 |
-| [Castle Kit](https://opengameart.org/content/castle-kit) | `model-3d` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/castle-kit/castle-kit.zip) | 2026-11-19 |
-| [Cave Man Creation](https://opengameart.org/content/cave-man-creation) | `model-3d` | Johannes Nienaber Creations | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cave-man-creation/cave-man-creation.zip) | 2026-11-19 |
-| [Chair](https://opengameart.org/content/chair-8) | `model-3d` | pikachufan25 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/chair-8/chair-8.zip) | 2026-11-19 |

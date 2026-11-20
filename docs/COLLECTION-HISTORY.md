@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-07 자동 수집 등록 (3팩, 2026-11-21 07:48 KST)
+
+- 팩: Potion Icons (slug potion-icons-1), 라이선스: CC0, 제작자: Oyasumi
+- 출처: https://opengameart.org/content/potion-icons-1
+- 저장: assets-3d-lowpoly-2 potion-icons-1/potion-icons-1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2165→2168, 기존 행 불변 확인
+- 팩: Skymon Icon Pack Free (slug skymon-icon-pack-free), 라이선스: CC0, 제작자: DefaceGames
+- 출처: https://opengameart.org/content/skymon-icon-pack-free
+- 저장: assets-3d-lowpoly-2 skymon-icon-pack-free/skymon-icon-pack-free.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2165→2168, 기존 행 불변 확인
+- 팩: Space Constuction Tile and Icon Set (slug space-constuction-tile-and-icon-set), 라이선스: CC0, 제작자: RUOK
+- 출처: https://opengameart.org/content/space-constuction-tile-and-icon-set
+- 저장: assets-3d-lowpoly-2 space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2165→2168, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-07 자동 수집 등록 (3팩, 2026-11-21 07:44 KST)
 
 - 팩: C Tonal Electronic (slug c-tonal-electronic), 라이선스: CC0, 제작자: Pro Sensory

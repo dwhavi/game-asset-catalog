@@ -1,17 +1,17 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@64a64fb1b33cc7f7737dea212364f40b35532fba`
+> generated from `catalog.csv@358230a69ece302ec4edbf598ecf6ffe0832659a`
 
 # UI 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `ui`(UI)에 해당하는 에셋 **212개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
+분류 `ui`(UI)에 해당하는 에셋 **215개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 212행 (전체 212개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 215행 (전체 215개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -20,6 +20,9 @@
 | [Fantasy RPG Icons](https://opengameart.org/content/fantasy-rpg-icons-0) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip) | 2026-11-20 |
 | [Fantasy RPG Icons 2](https://opengameart.org/content/fantasy-rpg-icons-2) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip) | 2026-11-20 |
 | [Fruit Icon Pack](https://opengameart.org/content/fruit-icon-pack) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip) | 2026-11-20 |
+| [Potion Icons](https://opengameart.org/content/potion-icons-1) | `ui` | Oyasumi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/potion-icons-1/potion-icons-1.zip) | 2026-11-20 |
+| [Skymon Icon Pack Free](https://opengameart.org/content/skymon-icon-pack-free) | `ui` | DefaceGames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/skymon-icon-pack-free/skymon-icon-pack-free.zip) | 2026-11-20 |
+| [Space Constuction Tile and Icon Set](https://opengameart.org/content/space-constuction-tile-and-icon-set) | `ui` | RUOK | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip) | 2026-11-20 |
 | [Technology and Machinery Icons](https://opengameart.org/content/technology-and-machinery-icons) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/technology-and-machinery-icons/technology-and-machinery-icons.zip) | 2026-11-20 |
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |
 | [Ancient Armory \| 2D Historical Weapons](https://opengameart.org/content/ancient-armory-2d-historical-weapons) | `ui` | JoeRaig | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/ancient-armory/ancient-armory.zip) | 2026-11-07 |
