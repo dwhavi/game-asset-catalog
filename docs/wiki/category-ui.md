@@ -1,20 +1,23 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@f14707488eafebbba3ad6a38f26e7b9d8e1c149f`
+> generated from `catalog.csv@07c3d90999ecbf53c572568e88b90e76d5354c69`
 
 # UI 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `ui`(UI)에 해당하는 에셋 **205개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
+분류 `ui`(UI)에 해당하는 에셋 **208개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 205행 (전체 205개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 208행 (전체 208개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
+| [Technology and Machinery Icons](https://opengameart.org/content/technology-and-machinery-icons) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/technology-and-machinery-icons/technology-and-machinery-icons.zip) | 2026-11-20 |
+| [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |
 | [Ancient Armory \| 2D Historical Weapons](https://opengameart.org/content/ancient-armory-2d-historical-weapons) | `ui` | JoeRaig | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/ancient-armory/ancient-armory.zip) | 2026-11-07 |
 | [Assets: UI Casual Free #5 \[Buttons, Bars, Panels\]](https://opengameart.org/content/assets-ui-casual-free-5-buttons-bars-panels) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-ui-casual-free-5-buttons-bars-panels/assets-ui-casual-free-5-buttons-bars-panels.zip) | 2026-11-07 |
 | [Medieval themed banner](https://opengameart.org/content/medieval-themed-banner) | `ui` | ege | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/medieval-themed-banner/status-frame.png) | 2026-11-07 |

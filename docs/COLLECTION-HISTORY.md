@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261120-09 자동 수집 등록 (3팩, 2026-11-20 09:29 KST)
+
+- 팩: 2D Pixel Art Retro OS & Horror Icon Pack | Pixo (slug 2d-pixel-art-retro-os-horror-icon-pack-pixo), 라이선스: CC-BY 4.0, 제작자: Hyperwebster
+- 출처: https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo
+- 저장: assets-3d-lowpoly-2 2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2098→2101, 기존 행 불변 확인
+- 팩: Technology and Machinery Icons (slug technology-and-machinery-icons), 라이선스: CC-BY 3.0, 제작자: Moku
+- 출처: https://opengameart.org/content/technology-and-machinery-icons
+- 저장: assets-3d-lowpoly-2 technology-and-machinery-icons/technology-and-machinery-icons.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2098→2101, 기존 행 불변 확인
+- 팩: Tiny Misc UI (slug tiny-misc-ui), 라이선스: OGA-BY 3.0, 제작자: EmoPreben
+- 출처: https://opengameart.org/content/tiny-misc-ui
+- 저장: assets-3d-lowpoly-2 tiny-misc-ui/tiny-misc-ui.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2098→2101, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261120-07 자동 수집 등록 (3팩, 2026-11-20 07:00 KST)
 
 - 팩: 16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0) (slug 16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0), 라이선스: CC0, 제작자: levshop
