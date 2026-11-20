@@ -1,6 +1,10 @@
 # 수집 이력 (라운드별 상세)
+### 2026-11-20 pixelfx 추가 (1팩, 총 2144팩)\n\nPatch의 MIT 라이선스 pixelfx를 assets-2d-pixel에 추가했습니다. catalog.csv는 2143→2144로 증가했으며 기존 항목과 중복되지 않음을 확인했습니다.\n
 
-### AUTO-20261120-18 자동 수집 등록 (3팩, 2026-11-20 18:11 KST)
+### AUTO-20261120-18 자동 수집 등록 (3팩, 2026-11-20 18:11 KST)### 2026-11-20 pixelfx 추가 (1팩, 총 2144팩)
+Patch의 MIT 라이선스 pixelfx를 assets-2d-pixel에 추가했습니다. catalog.csv는 2143에서 2144로 증가했으며 기존 항목과 중복되지 않음을 확인했습니다.
+
+
 
 - 팩: Cool Adventure (slug cool-adventure), 라이선스: CC0, 제작자: MintoDog
 - 출처: https://opengameart.org/content/cool-adventure
