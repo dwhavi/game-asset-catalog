@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7da2c36e553f4ddf9cb4a41346ad981d5dbd4e38`
+> generated from `catalog.csv@07ff9bc7d03f53ff7dd65996b2fd4d28872af065`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -17,6 +17,7 @@
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
 | [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip) | 2026-11-20 |
+| [Starember Field Synthesized SFX](https://github.com/weit0529/gamedemo_by_Fable5.2) | `sfx` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/starember-field-sfx/starember-field-sfx.zip) | 2026-11-20 |
 | [Stone-Flagged Courtyard Tile](https://polyfork.dev/asset/stone-flagged-courtyard-tile-529c20) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stone-flagged-courtyard-tile/stone-flagged-courtyard-tile.zip) | 2026-11-20 |
 | [Technology and Machinery Icons](https://opengameart.org/content/technology-and-machinery-icons) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/technology-and-machinery-icons/technology-and-machinery-icons.zip) | 2026-11-20 |
 | [The Lost Storm CC-BY 4.0 Models](https://github.com/sigco3111/the-lost-storm-ko) | `model-3d` | 다수(Sketchfab·PolyOne·martinjario·100STYLE) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip) | 2026-11-20 |
@@ -112,4 +113,3 @@
 | [Objects in a house](https://opengameart.org/content/objects-in-a-house) | `model-3d` | TiZeta | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/objects-in-a-house/objects-in-a-house.zip) | 2026-11-19 |
 | [Old Baseball](https://opengameart.org/content/old-baseball) | `model-3d` | LonesomeDucky | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-old-baseball/old-baseball.zip) | 2026-11-19 |
 | [Old book](https://opengameart.org/content/old-book) | `model-3d` | Aare | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/old-book/old-book.zip) | 2026-11-19 |
-| [Old canon](https://opengameart.org/content/old-canon) | `model-3d` | tbbk | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/old-canon/old-canon.zip) | 2026-11-19 |
