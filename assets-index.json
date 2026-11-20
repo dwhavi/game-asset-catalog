@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@6dd56a933efbbc260ee27bad864548eefddf3202",
+  "generated_from": "catalog.csv@cde1e94097b3e491256a1bebdb41adcbf61e84d8",
   "count": 2144,
   "assets": [
     {
@@ -75820,8 +75820,8 @@
       "attribution_required": true,
       "ai_generated": false,
       "added": "2026-11-20",
-      "notes": "코드 기반 2D 이펙트 244종(21개 카테고리); JS/canvas 라이브러리, npm 설치 또는 src 복사 사용, tools/render.mjs로 PNG 스프라이트시트 내보내기 가능; 원본 커밋 5294518 미러(SOURCE-COMMIT.txt), zip 없이 폴더 보관; 미리보기 추후 추가; 서드파티 고지: 일부 효과 Hugo Duprez(MIT), act.js는 hollow-crown 각색, gallery/fonts의 Patch Pixel 폰트는 MIT 제외(© Patch)",
-      "preview": null,
+      "notes": "코드 기반 2D 이펙트 244종(21개 카테고리); JS/canvas 라이브러리, npm 설치 또는 src 복사 사용, tools/render.mjs로 PNG 스프라이트시트 내보내기 가능; 원본 커밋 5294518 미러(SOURCE-COMMIT.txt), zip 없이 폴더 보관; 미리보기 등록됨(montage 스틸); 서드파티 고지: 일부 효과 Hugo Duprez(MIT), act.js는 hollow-crown 각색, gallery/fonts의 Patch Pixel 폰트는 MIT 제외(© Patch)",
+      "preview": "previews/pixelfx.png",
       "download_path": "https://github.com/sigco3111/assets-2d-pixel/tree/main/pixelfx",
       "download_url": null,
       "download_urls": [],

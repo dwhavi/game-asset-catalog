@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@6dd56a933efbbc260ee27bad864548eefddf3202`
+- 원본: `catalog.csv@cde1e94097b3e491256a1bebdb41adcbf61e84d8`
 - 데이터 행 수: **2144**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,147,791 bytes, `assets-index.min.json` 2,545,465 bytes
+- 파일 크기: `assets-index.json` 3,147,821 bytes, `assets-index.min.json` 2,545,495 bytes
 
 ## 2. 집계
 
@@ -246,7 +246,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - effect_kind가 하나 이상인 에셋: 254 / 2144
 
-- attribution_required=true: 259, ai_generated=true: 39, preview 있음: 1672, 분할(split) 행: 147
+- attribution_required=true: 259, ai_generated=true: 39, preview 있음: 1673, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -405,7 +405,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2140 | Pocket Soccer 3D 타이틀 아트워크·앱 아이콘 | assets-2d-pixel | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 472건
+- preview가 없는 행: 471건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 
