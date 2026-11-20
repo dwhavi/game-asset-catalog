@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@07c3d90999ecbf53c572568e88b90e76d5354c69`
+> generated from `catalog.csv@dc6569cd290846f65483d11b47bd950c024240fc`
 
 # 효과음 모음
 
@@ -15,7 +15,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
-| [The Lost Storm Replacement SFX](https://github.com/sigco3111/the-lost-storm-ko) | `sfx` | The Lost Storm Korean fan localization (synthesized in-project) | MIT | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/1-the-lost-storm-audio.zip) | 2026-11-20 |
+| [The Lost Storm Replacement SFX](https://github.com/sigco3111/the-lost-storm-ko) | `sfx` | The Lost Storm Korean fan localization (synthesized in-project) | MIT | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/the-lost-storm-audio.zip) | 2026-11-20 |
 | [insect-sounds](https://opengameart.org/content/insect-sounds) | `sfx` | 출처 페이지 참조 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/insect-sounds/insect-sounds.zip) | 2026-11-17 |
 | [Lo Fi Squelching noise](https://opengameart.org/content/lo-fi-squelching-noise) | `sfx` | Some Weirdo | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/lo-fi-squelching-noise/lo-fi-squelching-noise.zip) | 2026-11-17 |
 | [8-Bit Sound Effect Pack](https://opengameart.org/content/8-bit-sound-effect-pack) | `sfx` | OwlishMedia | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/8-bit-sound-effect-pack/Game_SFX_by_OwlishMedia_0.zip) | 2026-11-16 |

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@07c3d90999ecbf53c572568e88b90e76d5354c69",
-  "count": 2101,
+  "generated_from": "catalog.csv@dc6569cd290846f65483d11b47bd950c024240fc",
+  "count": 2103,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -74119,7 +74119,7 @@
       "id": "assets-audio/the-lost-storm-replacement-sfx",
       "name": "The Lost Storm Replacement SFX",
       "repo": "assets-audio",
-      "file": "the-lost-storm-audio/1-the-lost-storm-audio.zip",
+      "file": "the-lost-storm-audio/the-lost-storm-audio.zip",
       "type": "효과음",
       "category": "sfx",
       "tags": [
@@ -74141,10 +74141,10 @@
       "added": "2026-11-20",
       "notes": "자체 합성 효과음 OGG 219개; 생성 스크립트 audio-synth.py 동봉; 원작 음원 미포함; the-lost-storm-ko 저장소 MIT와 동일",
       "preview": null,
-      "download_path": "the-lost-storm-audio/1-the-lost-storm-audio.zip",
-      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/1-the-lost-storm-audio.zip",
+      "download_path": "the-lost-storm-audio/the-lost-storm-audio.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/the-lost-storm-audio.zip",
       "download_urls": [
-        "https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/1-the-lost-storm-audio.zip"
+        "https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/the-lost-storm-audio.zip"
       ],
       "sample": null,
       "multipart": false,
@@ -74244,6 +74244,78 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/the-lost-storm-cc-by-4-0-models",
+      "name": "The Lost Storm CC-BY 4.0 Models",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "models",
+        "weapons",
+        "helmets",
+        "characters",
+        "animations",
+        "glb",
+        "fantasy"
+      ],
+      "effect_kind": [],
+      "author": "다수(Sketchfab·PolyOne·martinjario·100STYLE)",
+      "source_url": "https://github.com/sigco3111/the-lost-storm-ko",
+      "license": "CC BY 4.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "항목별 귀속 필수(팩 폴더 CREDITS.txt / CC-BY-4.0.txt)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "The Lost Storm 게임용 GLB 변형분; 헬멧 12종(남/여 핏)·무기 24종·skeleton/wight·스핀 클립 3종; CC0·자체제작 모델 제외",
+      "preview": null,
+      "download_path": "the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/the-lost-storm-cc0-pbr-textures",
+      "name": "The Lost Storm CC0 PBR Textures",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip",
+      "type": "텍스처",
+      "category": "other",
+      "tags": [
+        "textures",
+        "pbr",
+        "webp",
+        "poly-haven",
+        "fantasy"
+      ],
+      "effect_kind": [],
+      "author": "Poly Haven",
+      "source_url": "https://github.com/sigco3111/the-lost-storm-ko",
+      "license": "CC0 1.0",
+      "license_note": "1.0",
+      "license_family": "cc0",
+      "attribution": "불필요",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-20",
+      "notes": "The Lost Storm 배포 PBR 텍스처(color/normal/orm WebP + half/ 모바일 절반 해상도)",
+      "preview": null,
+      "download_path": "the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip"
       ],
       "sample": null,
       "multipart": false,

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@07c3d90999ecbf53c572568e88b90e76d5354c69`
+> generated from `catalog.csv@dc6569cd290846f65483d11b47bd950c024240fc`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -15,7 +15,9 @@
 |---|---|---|---|---|---|---|---|
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Technology and Machinery Icons](https://opengameart.org/content/technology-and-machinery-icons) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/technology-and-machinery-icons/technology-and-machinery-icons.zip) | 2026-11-20 |
-| [The Lost Storm Replacement SFX](https://github.com/sigco3111/the-lost-storm-ko) | `sfx` | The Lost Storm Korean fan localization (synthesized in-project) | MIT | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/1-the-lost-storm-audio.zip) | 2026-11-20 |
+| [The Lost Storm CC-BY 4.0 Models](https://github.com/sigco3111/the-lost-storm-ko) | `model-3d` | 다수(Sketchfab·PolyOne·martinjario·100STYLE) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip) | 2026-11-20 |
+| [The Lost Storm CC0 PBR Textures](https://github.com/sigco3111/the-lost-storm-ko) | `other` | Poly Haven | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip) | 2026-11-20 |
+| [The Lost Storm Replacement SFX](https://github.com/sigco3111/the-lost-storm-ko) | `sfx` | The Lost Storm Korean fan localization (synthesized in-project) | MIT | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/the-lost-storm-audio.zip) | 2026-11-20 |
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |
 | [16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)](https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0) | `sprite-2d` | levshop | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip) | 2026-11-19 |
 | [20 Cups, 4 Chairs, and a Toilet](https://opengameart.org/content/20-cups-4-chairs-and-a-toilet) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-20-cups-4-chairs-and-a-toilet/20-cups-4-chairs-and-a-toilet.zip) | 2026-11-19 |
@@ -111,5 +113,3 @@
 | [Porta Potty / Portable Toilet / Mobile Toilet](https://opengameart.org/content/porta-potty-portable-toilet-mobile-toilet) | `model-3d` | mubble | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/porta-potty-portable-toilet-mobile-toilet/porta-potty-portable-toilet-mobile-toilet.zip) | 2026-11-19 |
 | [PS2 Styled Characters](https://opengameart.org/content/ps2-styled-characters) | `model-3d` | Wobble Blocks | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/ps2-styled-characters/ps2-styled-characters.zip) | 2026-11-19 |
 | [PSX style medieval house](https://opengameart.org/content/psx-style-medieval-house) | `model-3d` | \_Creature\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/psx-style-medieval-house/psx-style-medieval-house.zip) | 2026-11-19 |
-| [PSX style medieval keep](https://opengameart.org/content/psx-style-medieval-keep) | `model-3d` | \_Creature\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/psx-style-medieval-keep/psx-style-medieval-keep.zip) | 2026-11-19 |
-| [Pyramid 3d](https://opengameart.org/content/pyramid-3d) | `model-3d` | Intrix | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/pyramid-3d/pyramid-3d.zip) | 2026-11-19 |
