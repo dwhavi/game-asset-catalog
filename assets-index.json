@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@358230a69ece302ec4edbf598ecf6ffe0832659a",
-  "count": 2168,
+  "generated_from": "catalog.csv@7193a87948091ab2d7d647f20d66dc45c93ca870",
+  "count": 2171,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76610,6 +76610,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/candy-cane-arch",
+      "name": "Candy Cane Arch",
+      "repo": "assets-3d-polyfork",
+      "file": "candy-cane-arch/candy-cane-arch.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/candy-cane-arch-c17ce3",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Candy Cane Arch by Polyfork (https://polyfork.dev/asset/candy-cane-arch-c17ce3), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "candy-cane-arch/preview.png",
+      "download_path": "candy-cane-arch/candy-cane-arch.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/candy-cane-arch/candy-cane-arch.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/candy-cane-arch/candy-cane-arch.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/elf-wrapping-table",
+      "name": "Elf Wrapping Table",
+      "repo": "assets-3d-polyfork",
+      "file": "elf-wrapping-table/elf-wrapping-table.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/elf-wrapping-table-96c704",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Elf Wrapping Table by Polyfork (https://polyfork.dev/asset/elf-wrapping-table-96c704), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "elf-wrapping-table/preview.png",
+      "download_path": "elf-wrapping-table/elf-wrapping-table.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/netted-tree-bundle",
+      "name": "Netted Tree Bundle",
+      "repo": "assets-3d-polyfork",
+      "file": "netted-tree-bundle/netted-tree-bundle.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/netted-tree-bundle-1bd759",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Netted Tree Bundle by Polyfork (https://polyfork.dev/asset/netted-tree-bundle-1bd759), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "netted-tree-bundle/preview.png",
+      "download_path": "netted-tree-bundle/netted-tree-bundle.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip"
       ],
       "sample": null,
       "multipart": false,

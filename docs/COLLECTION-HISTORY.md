@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-09 자동 수집 등록 (3팩, 2026-11-21 09:16 KST)
+
+- 팩: Candy Cane Arch (slug candy-cane-arch), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/candy-cane-arch-c17ce3
+- 저장: assets-3d-polyfork candy-cane-arch/candy-cane-arch.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2168→2171, 기존 행 불변 확인
+- 팩: Elf Wrapping Table (slug elf-wrapping-table), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/elf-wrapping-table-96c704
+- 저장: assets-3d-polyfork elf-wrapping-table/elf-wrapping-table.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2168→2171, 기존 행 불변 확인
+- 팩: Netted Tree Bundle (slug netted-tree-bundle), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/netted-tree-bundle-1bd759
+- 저장: assets-3d-polyfork netted-tree-bundle/netted-tree-bundle.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2168→2171, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-07 자동 수집 등록 (3팩, 2026-11-21 07:48 KST)
 
 - 팩: Potion Icons (slug potion-icons-1), 라이선스: CC0, 제작자: Oyasumi
