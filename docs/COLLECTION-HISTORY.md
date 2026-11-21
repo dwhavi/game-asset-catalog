@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-21 자동 수집 등록 (3팩, 2026-11-21 21:32 KST)
+
+- 팩: Army Supply Cart (slug army-supply-cart), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/army-supply-cart-8cc498
+- 저장: assets-3d-polyfork army-supply-cart/army-supply-cart.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2186→2189, 기존 행 불변 확인
+- 팩: Lit Taxiway Sign (slug lit-taxiway-sign), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/lit-taxiway-sign-206955
+- 저장: assets-3d-polyfork lit-taxiway-sign/lit-taxiway-sign.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2186→2189, 기존 행 불변 확인
+- 팩: Official's Horse Carriage (slug official-s-horse-carriage), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/official-s-horse-carriage-90d177
+- 저장: assets-3d-polyfork official-s-horse-carriage/official-s-horse-carriage.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2186→2189, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-20 자동 수집 등록 (3팩, 2026-11-21 20:46 KST)
 
 - 팩: 200+ Tiny Buttons (slug 200-tiny-buttons), 라이선스: CC0, 제작자: Screaming Brain Studios

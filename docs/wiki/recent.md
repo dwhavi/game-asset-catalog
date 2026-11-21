@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@b645d2d6e2c5fa7d8eb0b9d95aad8050ce94e2a5`
+> generated from `catalog.csv@3168694e0da5f3a098fd24743cd1c3036b30e9ac`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -15,12 +15,15 @@
 |---|---|---|---|---|---|---|---|
 | [200+ Tiny Buttons](https://opengameart.org/content/200-tiny-buttons) | `ui` | Screaming Brain Studios | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip) | 2026-11-21 |
 | [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip) | 2026-11-21 |
+| [Army Supply Cart](https://polyfork.dev/asset/army-supply-cart-8cc498) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/army-supply-cart/army-supply-cart.zip) | 2026-11-21 |
 | [Candy Cane Arch](https://polyfork.dev/asset/candy-cane-arch-c17ce3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/candy-cane-arch/candy-cane-arch.zip) | 2026-11-21 |
 | [Commander's Tent](https://polyfork.dev/asset/commander-s-tent-c8b8b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/commander-s-tent/commander-s-tent.zip) | 2026-11-21 |
 | [deluge](https://opengameart.org/content/deluge) | `music` | tomcat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/deluge/deluge.zip) | 2026-11-21 |
 | [Elf Wrapping Table](https://polyfork.dev/asset/elf-wrapping-table-96c704) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip) | 2026-11-21 |
+| [Lit Taxiway Sign](https://polyfork.dev/asset/lit-taxiway-sign-206955) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip) | 2026-11-21 |
 | [N64 UI](https://opengameart.org/content/n64-ui) | `ui` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip) | 2026-11-21 |
 | [Netted Tree Bundle](https://polyfork.dev/asset/netted-tree-bundle-1bd759) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip) | 2026-11-21 |
+| [Official's Horse Carriage](https://polyfork.dev/asset/official-s-horse-carriage-90d177) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip) | 2026-11-21 |
 | [Pixel Art Heal Skill Icons](https://opengameart.org/content/pixel-art-heal-skill-icons) | `ui` | DustDFG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip) | 2026-11-21 |
 | [Saturday Morning](https://opengameart.org/content/saturday-morning) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/saturday-morning/saturday-morning.zip) | 2026-11-21 |
 | [Stable](https://polyfork.dev/asset/stable-57d8b1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip) | 2026-11-21 |
@@ -110,6 +113,3 @@
 | [3d donut](https://opengameart.org/content/3d-donut) | `model-3d` | moath alkhawtani | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-donut/3d-donut.zip) | 2026-11-19 |
 | [3D Lowpoly Chair](https://opengameart.org/content/3d-lowpoly-chair) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-lowpoly-chair/3d-lowpoly-chair.zip) | 2026-11-19 |
 | [3D Piano Model](https://opengameart.org/content/3d-piano-model) | `model-3d` | pickentcode | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-piano-model/3d-piano-model.zip) | 2026-11-19 |
-| [3d Santa (Raw Model)](https://opengameart.org/content/3d-santa-raw-model) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-santa-raw-model/3d-santa-raw-model.zip) | 2026-11-19 |
-| [3D Swords](https://opengameart.org/content/3d-swords) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-swords/3d-swords.zip) | 2026-11-19 |
-| [3d Tables and Chairs (Ultimate Asset Pack)](https://opengameart.org/content/3d-tables-and-chairs-ultimate-asset-pack) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-3d-tables-and-chairs-ultimate-asset-pack/3d-tables-and-chairs-ultimate-asset-pack.zip) | 2026-11-19 |

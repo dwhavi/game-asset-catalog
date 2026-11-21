@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@b645d2d6e2c5fa7d8eb0b9d95aad8050ce94e2a5",
-  "count": 2186,
+  "generated_from": "catalog.csv@3168694e0da5f3a098fd24743cd1c3036b30e9ac",
+  "count": 2189,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77203,6 +77203,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/army-supply-cart",
+      "name": "Army Supply Cart",
+      "repo": "assets-3d-polyfork",
+      "file": "army-supply-cart/army-supply-cart.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/army-supply-cart-8cc498",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Army Supply Cart by Polyfork (https://polyfork.dev/asset/army-supply-cart-8cc498), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "army-supply-cart/preview.png",
+      "download_path": "army-supply-cart/army-supply-cart.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/army-supply-cart/army-supply-cart.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/army-supply-cart/army-supply-cart.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/lit-taxiway-sign",
+      "name": "Lit Taxiway Sign",
+      "repo": "assets-3d-polyfork",
+      "file": "lit-taxiway-sign/lit-taxiway-sign.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/lit-taxiway-sign-206955",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Lit Taxiway Sign by Polyfork (https://polyfork.dev/asset/lit-taxiway-sign-206955), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "lit-taxiway-sign/preview.png",
+      "download_path": "lit-taxiway-sign/lit-taxiway-sign.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/official-s-horse-carriage",
+      "name": "Official's Horse Carriage",
+      "repo": "assets-3d-polyfork",
+      "file": "official-s-horse-carriage/official-s-horse-carriage.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/official-s-horse-carriage-90d177",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Official's Horse Carriage by Polyfork (https://polyfork.dev/asset/official-s-horse-carriage-90d177), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "official-s-horse-carriage/preview.png",
+      "download_path": "official-s-horse-carriage/official-s-horse-carriage.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip"
       ],
       "sample": null,
       "multipart": false,
