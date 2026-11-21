@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@5e5497e26f878ef06c2ed132563421ef19d81135",
-  "count": 2180,
+  "generated_from": "catalog.csv@68ddb25319005322fe998a75bed64ec40a8f1b4e",
+  "count": 2183,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77006,6 +77006,102 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wooden-runner-sled/wooden-runner-sled.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wooden-runner-sled/wooden-runner-sled.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/deluge",
+      "name": "deluge",
+      "repo": "assets-audio",
+      "file": "deluge/deluge.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "tomcat",
+      "source_url": "https://opengameart.org/content/deluge",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: tomcat (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "deluge/deluge.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/deluge/deluge.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/deluge/deluge.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/saturday-morning",
+      "name": "Saturday Morning",
+      "repo": "assets-audio",
+      "file": "saturday-morning/saturday-morning.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "purrplecat",
+      "source_url": "https://opengameart.org/content/saturday-morning",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: purrplecat (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "saturday-morning/saturday-morning.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/saturday-morning/saturday-morning.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/saturday-morning/saturday-morning.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/the-battle-begins-looping",
+      "name": "The Battle Begins (Looping)",
+      "repo": "assets-audio",
+      "file": "the-battle-begins-looping/the-battle-begins-looping.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Eric Matyas",
+      "source_url": "https://opengameart.org/content/the-battle-begins-looping",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Eric Matyas (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "the-battle-begins-looping/the-battle-begins-looping.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip"
       ],
       "sample": null,
       "multipart": false,

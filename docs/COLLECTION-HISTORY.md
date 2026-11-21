@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-20 자동 수집 등록 (3팩, 2026-11-21 20:37 KST)
+
+- 팩: deluge (slug deluge), 라이선스: CC-BY 4.0, 제작자: tomcat
+- 출처: https://opengameart.org/content/deluge
+- 저장: assets-3d-lowpoly-2 deluge/deluge.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2180→2183, 기존 행 불변 확인
+- 팩: Saturday Morning (slug saturday-morning), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/saturday-morning
+- 저장: assets-3d-lowpoly-2 saturday-morning/saturday-morning.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2180→2183, 기존 행 불변 확인
+- 팩: The Battle Begins (Looping) (slug the-battle-begins-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/the-battle-begins-looping
+- 저장: assets-3d-lowpoly-2 the-battle-begins-looping/the-battle-begins-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2180→2183, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-16 자동 수집 등록 (3팩, 2026-11-21 16:42 KST)
 
 - 팩: Taxiway Centreline Stud Run (slug taxiway-centreline-stud-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
