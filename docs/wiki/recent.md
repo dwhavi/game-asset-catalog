@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@61e5e88f78960930277c01a8331a738c096181fe`
+> generated from `catalog.csv@38a89c2f01ed7155be417427365a8217dbce4f0b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -29,11 +29,14 @@
 | [deluge](https://opengameart.org/content/deluge) | `music` | tomcat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/deluge/deluge.zip) | 2026-11-21 |
 | [Eerie Title Theme](https://opengameart.org/content/eerie-title-theme) | `music` | Technodono | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/eerie-title-theme/eerie-title-theme.zip) | 2026-11-21 |
 | [Elf Wrapping Table](https://polyfork.dev/asset/elf-wrapping-table-96c704) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip) | 2026-11-21 |
+| [Exclamation / Quest Icon](https://opengameart.org/content/exclamation-quest-icon) | `ui` | donte | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/exclamation-quest-icon/exclamation-quest-icon.zip) | 2026-11-21 |
+| [Fantasy MMORPG HUD & Mobile Controllers](https://opengameart.org/content/fantasy-mmorpg-hud-mobile-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip) | 2026-11-21 |
 | [FL Version of October Jazz](https://opengameart.org/content/fl-version-of-october-jazz) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fl-version-of-october-jazz/fl-version-of-october-jazz.zip) | 2026-11-21 |
 | [FPS Shooter HUD & Controllers](https://opengameart.org/content/fps-shooter-hud-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip) | 2026-11-21 |
 | [GUI Pack](https://opengameart.org/content/gui-pack-0) | `ui` | xvideosman | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/gui-pack-0/gui-pack-0.zip) | 2026-11-21 |
 | [Hiding in My Room Until Everyone Leaves](https://opengameart.org/content/hiding-in-my-room-until-everyone-leaves) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip) | 2026-11-21 |
 | [Lit Taxiway Sign](https://polyfork.dev/asset/lit-taxiway-sign-206955) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip) | 2026-11-21 |
+| [Medieval Icons \| Inventory +284](https://opengameart.org/content/medieval-icons-inventory-284) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip) | 2026-11-21 |
 | [N64 UI](https://opengameart.org/content/n64-ui) | `ui` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip) | 2026-11-21 |
 | [Netted Tree Bundle](https://polyfork.dev/asset/netted-tree-bundle-1bd759) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip) | 2026-11-21 |
 | [Official's Horse Carriage](https://polyfork.dev/asset/official-s-horse-carriage-90d177) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip) | 2026-11-21 |
@@ -110,6 +113,3 @@
 | [Technology and Machinery Icons](https://opengameart.org/content/technology-and-machinery-icons) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/technology-and-machinery-icons/technology-and-machinery-icons.zip) | 2026-11-20 |
 | [The Lost Storm CC-BY 4.0 Models](https://github.com/sigco3111/the-lost-storm-ko) | `model-3d` | 다수(Sketchfab·PolyOne·martinjario·100STYLE) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip) | 2026-11-20 |
 | [The Lost Storm CC0 PBR Textures](https://github.com/sigco3111/the-lost-storm-ko) | `other` | Poly Haven | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip) | 2026-11-20 |
-| [The Lost Storm Replacement SFX](https://github.com/sigco3111/the-lost-storm-ko) | `sfx` | The Lost Storm Korean fan localization (synthesized in-project) | MIT | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/the-lost-storm-audio.zip) | 2026-11-20 |
-| [Three "western desert" like tracks](https://opengameart.org/content/three-western-desert-like-tracks) | `music` | Bockanator | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip) | 2026-11-20 |
-| [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |

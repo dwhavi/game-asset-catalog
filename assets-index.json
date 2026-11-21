@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@61e5e88f78960930277c01a8331a738c096181fe",
-  "count": 2204,
+  "generated_from": "catalog.csv@38a89c2f01ed7155be417427365a8217dbce4f0b",
+  "count": 2207,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77791,6 +77791,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/up-all-night-0/up-all-night-0.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/up-all-night-0/up-all-night-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/exclamation-quest-icon",
+      "name": "Exclamation / Quest Icon",
+      "repo": "assets-ui-icons",
+      "file": "exclamation-quest-icon/exclamation-quest-icon.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "donte",
+      "source_url": "https://opengameart.org/content/exclamation-quest-icon",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: donte (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "exclamation-quest-icon/preview.png",
+      "download_path": "exclamation-quest-icon/exclamation-quest-icon.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/exclamation-quest-icon/exclamation-quest-icon.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/exclamation-quest-icon/exclamation-quest-icon.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/fantasy-mmorpg-hud-mobile-controllers",
+      "name": "Fantasy MMORPG HUD & Mobile Controllers",
+      "repo": "assets-ui-icons",
+      "file": "fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "AliHamieh",
+      "source_url": "https://opengameart.org/content/fantasy-mmorpg-hud-mobile-controllers",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: AliHamieh (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "fantasy-mmorpg-hud-mobile-controllers/preview.png",
+      "download_path": "fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/medieval-icons-inventory-284",
+      "name": "Medieval Icons | Inventory +284",
+      "repo": "assets-ui-icons",
+      "file": "release:pack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Wenrexa",
+      "source_url": "https://opengameart.org/content/medieval-icons-inventory-284",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Wenrexa (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "medieval-icons-inventory-284/preview.png",
+      "download_path": "release:pack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip"
       ],
       "sample": null,
       "multipart": false,

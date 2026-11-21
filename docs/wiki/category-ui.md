@@ -1,24 +1,27 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@61e5e88f78960930277c01a8331a738c096181fe`
+> generated from `catalog.csv@38a89c2f01ed7155be417427365a8217dbce4f0b`
 
 # UI 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `ui`(UI)에 해당하는 에셋 **224개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
+분류 `ui`(UI)에 해당하는 에셋 **227개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 224행 (전체 224개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 227행 (전체 227개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [200+ Tiny Buttons](https://opengameart.org/content/200-tiny-buttons) | `ui` | Screaming Brain Studios | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip) | 2026-11-21 |
 | [Basic Game GUI](https://opengameart.org/content/basic-game-gui) | `ui` | DomoArto | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/basic-game-gui/basic-game-gui.zip) | 2026-11-21 |
+| [Exclamation / Quest Icon](https://opengameart.org/content/exclamation-quest-icon) | `ui` | donte | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/exclamation-quest-icon/exclamation-quest-icon.zip) | 2026-11-21 |
+| [Fantasy MMORPG HUD & Mobile Controllers](https://opengameart.org/content/fantasy-mmorpg-hud-mobile-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip) | 2026-11-21 |
 | [FPS Shooter HUD & Controllers](https://opengameart.org/content/fps-shooter-hud-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip) | 2026-11-21 |
 | [GUI Pack](https://opengameart.org/content/gui-pack-0) | `ui` | xvideosman | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/gui-pack-0/gui-pack-0.zip) | 2026-11-21 |
+| [Medieval Icons \| Inventory +284](https://opengameart.org/content/medieval-icons-inventory-284) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip) | 2026-11-21 |
 | [N64 UI](https://opengameart.org/content/n64-ui) | `ui` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip) | 2026-11-21 |
 | [Pixel Art Heal Skill Icons](https://opengameart.org/content/pixel-art-heal-skill-icons) | `ui` | DustDFG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip) | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |

@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-08 자동 수집 등록 (3팩, 2026-11-22 08:35 KST)
+
+- 팩: Exclamation / Quest Icon (slug exclamation-quest-icon), 라이선스: CC0, 제작자: donte
+- 출처: https://opengameart.org/content/exclamation-quest-icon
+- 저장: assets-3d-lowpoly-2 exclamation-quest-icon/exclamation-quest-icon.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2204→2207, 기존 행 불변 확인
+- 팩: Fantasy MMORPG HUD & Mobile Controllers (slug fantasy-mmorpg-hud-mobile-controllers), 라이선스: CC-BY 3.0, 제작자: AliHamieh
+- 출처: https://opengameart.org/content/fantasy-mmorpg-hud-mobile-controllers
+- 저장: assets-3d-lowpoly-2 fantasy-mmorpg-hud-mobile-controllers/fantasy-mmorpg-hud-mobile-controllers.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2204→2207, 기존 행 불변 확인
+- 팩: Medieval Icons | Inventory +284 (slug medieval-icons-inventory-284), 라이선스: CC0, 제작자: Wenrexa
+- 출처: https://opengameart.org/content/medieval-icons-inventory-284
+- 저장: assets-3d-lowpoly-2 release:pack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2204→2207, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-08 자동 수집 등록 (3팩, 2026-11-22 08:13 KST)
 
 - 팩: Eerie Title Theme (slug eerie-title-theme), 라이선스: CC0, 제작자: Technodono
