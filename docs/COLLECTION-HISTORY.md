@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-15 자동 수집 등록 (3팩, 2026-11-21 15:36 KST)
+
+- 팩: Commander's Tent (slug commander-s-tent), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/commander-s-tent-c8b8b5
+- 저장: assets-3d-polyfork commander-s-tent/commander-s-tent.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2174→2177, 기존 행 불변 확인
+- 팩: Stable (slug stable), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/stable-57d8b1
+- 저장: assets-3d-polyfork stable/stable.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2174→2177, 기존 행 불변 확인
+- 팩: Water Trip-Hammer Mill (slug water-trip-hammer-mill), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/water-trip-hammer-mill-c301d5
+- 저장: assets-3d-polyfork water-trip-hammer-mill/water-trip-hammer-mill.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2174→2177, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-12 자동 수집 등록 (3팩, 2026-11-21 12:41 KST)
 
 - 팩: Activity Icons (slug activity-icons), 라이선스: GPL 3.0, 제작자: StendhalGame

@@ -1,29 +1,32 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@111190dcea4f2d39a3f5b7320ac9c62d7523d763`
+> generated from `catalog.csv@445b598705d887c1df0c1233a1e77b8ef1503a77`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **672개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **675개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 672개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 675개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip) | 2026-11-21 |
 | [Candy Cane Arch](https://polyfork.dev/asset/candy-cane-arch-c17ce3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/candy-cane-arch/candy-cane-arch.zip) | 2026-11-21 |
+| [Commander's Tent](https://polyfork.dev/asset/commander-s-tent-c8b8b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/commander-s-tent/commander-s-tent.zip) | 2026-11-21 |
 | [Elf Wrapping Table](https://polyfork.dev/asset/elf-wrapping-table-96c704) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip) | 2026-11-21 |
 | [Netted Tree Bundle](https://polyfork.dev/asset/netted-tree-bundle-1bd759) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip) | 2026-11-21 |
+| [Stable](https://polyfork.dev/asset/stable-57d8b1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip) | 2026-11-21 |
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
 | [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
 | [Timber Tower House](https://polyfork.dev/asset/timber-tower-house-494243) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip) | 2026-11-21 |
+| [Water Trip-Hammer Mill](https://polyfork.dev/asset/water-trip-hammer-mill-c301d5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip) | 2026-11-21 |
 | [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip) | 2026-11-21 |
 | [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip) | 2026-11-21 |
 | [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/clay-wine-jar/clay-wine-jar.zip) | 2026-11-20 |
@@ -414,6 +417,3 @@
 | [Iron Knife](https://opengameart.org/content/iron-knife) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.31/iron-knife.zip) | 2026-11-04 |
 | [Katana](https://opengameart.org/content/katana-2) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.27/katana-2.zip) | 2026-11-04 |
 | [Knight lying](https://opengameart.org/content/knight-lying) | `model-3d` | manwesulimo2004 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.16/knight-lying.zip) | 2026-11-04 |
-| [Knight statue](https://opengameart.org/content/knight-statue) | `model-3d` | Charlie | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/knight-statue.zip) | 2026-11-04 |
-| [Landscape Asset v1](https://opengameart.org/content/landscape-asset-v1) | `model-3d` | Buch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.13/landscape-asset-v1.zip) | 2026-11-04 |
-| [Landscape Asset v2](https://opengameart.org/content/landscape-asset-v2) | `model-3d` | rubberduck | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/landscape-asset-v2.zip) | 2026-11-04 |

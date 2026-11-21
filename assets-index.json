@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@111190dcea4f2d39a3f5b7320ac9c62d7523d763",
-  "count": 2174,
+  "generated_from": "catalog.csv@445b598705d887c1df0c1233a1e77b8ef1503a77",
+  "count": 2177,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76808,6 +76808,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/sci-fi-icons-collection/sci-fi-icons-collection.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/sci-fi-icons-collection/sci-fi-icons-collection.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/commander-s-tent",
+      "name": "Commander's Tent",
+      "repo": "assets-3d-polyfork",
+      "file": "commander-s-tent/commander-s-tent.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/commander-s-tent-c8b8b5",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Commander's Tent by Polyfork (https://polyfork.dev/asset/commander-s-tent-c8b8b5), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "commander-s-tent/preview.png",
+      "download_path": "commander-s-tent/commander-s-tent.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/commander-s-tent/commander-s-tent.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/commander-s-tent/commander-s-tent.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/stable",
+      "name": "Stable",
+      "repo": "assets-3d-polyfork",
+      "file": "stable/stable.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/stable-57d8b1",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Stable by Polyfork (https://polyfork.dev/asset/stable-57d8b1), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "stable/preview.png",
+      "download_path": "stable/stable.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/water-trip-hammer-mill",
+      "name": "Water Trip-Hammer Mill",
+      "repo": "assets-3d-polyfork",
+      "file": "water-trip-hammer-mill/water-trip-hammer-mill.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/water-trip-hammer-mill-c301d5",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Water Trip-Hammer Mill by Polyfork (https://polyfork.dev/asset/water-trip-hammer-mill-c301d5), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "water-trip-hammer-mill/preview.png",
+      "download_path": "water-trip-hammer-mill/water-trip-hammer-mill.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip"
       ],
       "sample": null,
       "multipart": false,
