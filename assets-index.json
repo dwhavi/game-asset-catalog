@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@a69344edcd8691623afa73dd824633355d0cd69f",
-  "count": 2198,
+  "generated_from": "catalog.csv@c42122b556b1aaa5fa93876648d86cc52fb15d34",
+  "count": 2201,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77596,6 +77596,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/gui-pack-0/gui-pack-0.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/gui-pack-0/gui-pack-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/packed-earth-street-tile",
+      "name": "Packed-Earth Street Tile",
+      "repo": "assets-3d-polyfork",
+      "file": "packed-earth-street-tile/packed-earth-street-tile.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/packed-earth-street-tile-dc6251",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Packed-Earth Street Tile by Polyfork (https://polyfork.dev/asset/packed-earth-street-tile-dc6251), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "packed-earth-street-tile/preview.png",
+      "download_path": "packed-earth-street-tile/packed-earth-street-tile.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/raised-granary",
+      "name": "Raised Granary",
+      "repo": "assets-3d-polyfork",
+      "file": "raised-granary/raised-granary.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/raised-granary-287b40",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Raised Granary by Polyfork (https://polyfork.dev/asset/raised-granary-287b40), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "raised-granary/preview.png",
+      "download_path": "raised-granary/raised-granary.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/wall-corner-tower",
+      "name": "Wall Corner Tower",
+      "repo": "assets-3d-polyfork",
+      "file": "wall-corner-tower/wall-corner-tower.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/wall-corner-tower-524c61",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Wall Corner Tower by Polyfork (https://polyfork.dev/asset/wall-corner-tower-524c61), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "wall-corner-tower/preview.png",
+      "download_path": "wall-corner-tower/wall-corner-tower.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip"
       ],
       "sample": null,
       "multipart": false,

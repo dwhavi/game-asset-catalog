@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@a69344edcd8691623afa73dd824633355d0cd69f`
+> generated from `catalog.csv@c42122b556b1aaa5fa93876648d86cc52fb15d34`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,6 +14,9 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
+| [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
+| [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
+| [Wall Corner Tower](https://polyfork.dev/asset/wall-corner-tower-524c61) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip) | 2026-11-22 |
 | [Wattle Fence Run](https://polyfork.dev/asset/wattle-fence-run-703830) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip) | 2026-11-22 |
 | [Windlass Well](https://polyfork.dev/asset/windlass-well-ebc2fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip) | 2026-11-22 |
 | [200+ Tiny Buttons](https://opengameart.org/content/200-tiny-buttons) | `ui` | Screaming Brain Studios | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip) | 2026-11-21 |
@@ -110,6 +113,3 @@
 | [Traction Trebuchet](https://polyfork.dev/asset/traction-trebuchet-1e5d18) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traction-trebuchet/traction-trebuchet.zip) | 2026-11-20 |
 | [Tree Stump](https://polyfork.dev/asset/tree-stump-00f3bf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tree-stump/tree-stump.zip) | 2026-11-20 |
 | [War Drum on a Frame](https://polyfork.dev/asset/war-drum-on-a-5fdf9d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/war-drum-on-a-frame/war-drum-on-a-frame.zip) | 2026-11-20 |
-| [Waybill Clipboard](https://polyfork.dev/asset/waybill-clipboard-05bd4a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/waybill-clipboard/waybill-clipboard.zip) | 2026-11-20 |
-| [When i'm feeling a bit snowed-in](https://opengameart.org/content/when-im-feeling-a-bit-snowed-in) | `music` | Bonky | OGA-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/when-im-feeling-a-bit-snowed-in/when-im-feeling-a-bit-snowed-in.zip) | 2026-11-20 |
-| [물결 소탕 스프라이트 26 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `sprite-2d` | zhgarylu | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/everyday-game-tide-sprites/12-everyday-game-tide-sprites.zip) | 2026-11-20 |

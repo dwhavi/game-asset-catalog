@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-06 자동 수집 등록 (3팩, 2026-11-22 06:40 KST)
+
+- 팩: Packed-Earth Street Tile (slug packed-earth-street-tile), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/packed-earth-street-tile-dc6251
+- 저장: assets-3d-polyfork packed-earth-street-tile/packed-earth-street-tile.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2198→2201, 기존 행 불변 확인
+- 팩: Raised Granary (slug raised-granary), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/raised-granary-287b40
+- 저장: assets-3d-polyfork raised-granary/raised-granary.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2198→2201, 기존 행 불변 확인
+- 팩: Wall Corner Tower (slug wall-corner-tower), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/wall-corner-tower-524c61
+- 저장: assets-3d-polyfork wall-corner-tower/wall-corner-tower.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2198→2201, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-03 자동 수집 등록 (3팩, 2026-11-22 03:32 KST)
 
 - 팩: Basic Game GUI (slug basic-game-gui), 라이선스: CC-BY 4.0, 제작자: DomoArto

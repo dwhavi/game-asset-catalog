@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@a69344edcd8691623afa73dd824633355d0cd69f`
-- 데이터 행 수: **2198**
+- 원본: `catalog.csv@c42122b556b1aaa5fa93876648d86cc52fb15d34`
+- 데이터 행 수: **2201**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,219,108 bytes, `assets-index.min.json` 2,602,834 bytes
+- 파일 크기: `assets-index.json` 3,223,337 bytes, `assets-index.min.json` 2,606,283 bytes
 
 ## 2. 집계
 
@@ -21,7 +21,7 @@
 | assets-audio | 498 |
 | assets-ui-icons | 246 |
 | assets-3d-lowpoly-2 | 219 |
-| assets-3d-polyfork | 30 |
+| assets-3d-polyfork | 33 |
 | assets-code | 7 |
 | assets-2d-portraits | 3 |
 
@@ -29,7 +29,7 @@
 
 | category | 개수 |
 |---|---|
-| model-3d | 684 |
+| model-3d | 687 |
 | music | 248 |
 | sfx | 245 |
 | ui | 224 |
@@ -54,7 +54,7 @@
 
 | type(원본) | category | 개수 |
 |---|---|---|
-| 3D 모델 | model-3d | 374 |
+| 3D 모델 | model-3d | 377 |
 | 효과음 | sfx | 245 |
 | 3D | model-3d | 237 |
 | 음악 | music | 229 |
@@ -133,7 +133,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | license_family | 개수 |
 |---|---|
 | cc0 | 1895 |
-| cc-by | 258 |
+| cc-by | 261 |
 | other | 20 |
 | mit | 14 |
 | gpl | 11 |
@@ -143,7 +143,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | license | 개수 |
 |---|---|
 | CC0 | 1893 |
-| CC-BY 4.0 | 128 |
+| CC-BY 4.0 | 131 |
 | CC-BY 3.0 | 111 |
 | MIT | 14 |
 | CC-BY | 11 |
@@ -189,18 +189,18 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-19 | 125 |
 | 2026-11-20 | 68 |
 | 2026-11-21 | 30 |
-| 2026-11-22 | 3 |
+| 2026-11-22 | 6 |
 
 ### 상위 태그 30
 
 | tag | 개수 |
 |---|---|
-| 3d | 500 |
+| 3d | 503 |
 | 2d | 254 |
 | sfx | 246 |
 | music | 230 |
 | opengameart | 194 |
-| lowpoly | 183 |
+| lowpoly | 186 |
 | ui·아이콘 | 182 |
 | rpg | 151 |
 | fantasy | 115 |
@@ -246,9 +246,9 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 10 |
 
-- effect_kind가 하나 이상인 에셋: 255 / 2198
+- effect_kind가 하나 이상인 에셋: 255 / 2201
 
-- attribution_required=true: 299, ai_generated=true: 39, preview 있음: 1715, 분할(split) 행: 147
+- attribution_required=true: 302, ai_generated=true: 39, preview 있음: 1718, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -297,7 +297,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 ### 3.4 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 라이선스 표기 — 값은 수정하지 않음
 
-- 허용 목록과 정확히 일치: 2168행
+- 허용 목록과 정확히 일치: 2171행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 10행 (8종)
 - 허용 목록에 해당하지 않음: **20행** (8종)
 
@@ -339,7 +339,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
   - assets-audio/the-lost-storm-replacement-sfx
 - 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 178건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 299건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 302건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 7건
 
@@ -353,10 +353,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1932 | https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip | 중복 슬래시 |
 | 2145 | https://github.com/sigco3111/assets-2d-pixel/tree/main/pixelfx | 중복 슬래시, 확장자 없음 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 7건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip, releases/download/a105-sewer-tunnels/sewer-tunnels.zip, releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1544행, 저장소 트리 경로 654행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1544행, 저장소 트리 경로 657행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 2109, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, (없음) 1, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 2112, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, (없음) 1, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 
