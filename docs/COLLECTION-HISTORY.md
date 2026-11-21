@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-01 자동 수집 등록 (3팩, 2026-11-22 01:08 KST)
+
+- 팩: General (slug general), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/general-base
+- 저장: assets-3d-polyfork general/general.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2189→2192, 기존 행 불변 확인
+- 팩: Wattle Fence Run (slug wattle-fence-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/wattle-fence-run-703830
+- 저장: assets-3d-polyfork wattle-fence-run/wattle-fence-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2189→2192, 기존 행 불변 확인
+- 팩: Windlass Well (slug windlass-well), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/windlass-well-ebc2fb
+- 저장: assets-3d-polyfork windlass-well/windlass-well.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2189→2192, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-21 자동 수집 등록 (3팩, 2026-11-21 21:32 KST)
 
 - 팩: Army Supply Cart (slug army-supply-cart), 라이선스: CC-BY 4.0, 제작자: Polyfork

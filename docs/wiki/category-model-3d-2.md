@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@3168694e0da5f3a098fd24743cd1c3036b30e9ac`
+> generated from `catalog.csv@830eeb558de70acf8fd5906eea387f39d0c96bf1`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **681개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **684개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 281행 (전체 681개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 284행 (전체 684개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Grass Pack #03](https://opengameart.org/content/grass-pack-03) | `model-3d` | Pompei2 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/grass-pack-03.zip) | 2026-11-04 |
+| [Hatchet](https://opengameart.org/content/hatchet) | `model-3d` | Tozan | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.24/hatchet.zip) | 2026-11-04 |
+| [Heavy Greatsword](https://opengameart.org/content/heavy-greatsword) | `model-3d` | Viktor Kraus | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.26/heavy-greatsword.zip) | 2026-11-04 |
 | [Hesco box](https://opengameart.org/content/hesco-box) | `model-3d` | verbalshadow | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.22/hesco-box.zip) | 2026-11-04 |
 | [High-poly AK-47](https://opengameart.org/content/high-poly-ak-47) | `model-3d` | HaelDB | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.27/high-poly-ak-47.zip) | 2026-11-04 |
 | [Human Basemeshes](https://opengameart.org/content/human-basemeshes) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/human-basemeshes.zip) | 2026-11-04 |

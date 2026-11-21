@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@3168694e0da5f3a098fd24743cd1c3036b30e9ac",
-  "count": 2189,
+  "generated_from": "catalog.csv@830eeb558de70acf8fd5906eea387f39d0c96bf1",
+  "count": 2192,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77302,6 +77302,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/general",
+      "name": "General",
+      "repo": "assets-3d-polyfork",
+      "file": "general/general.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/general-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "General by Polyfork (https://polyfork.dev/asset/general-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "general/preview.png",
+      "download_path": "general/general.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/wattle-fence-run",
+      "name": "Wattle Fence Run",
+      "repo": "assets-3d-polyfork",
+      "file": "wattle-fence-run/wattle-fence-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/wattle-fence-run-703830",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Wattle Fence Run by Polyfork (https://polyfork.dev/asset/wattle-fence-run-703830), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "wattle-fence-run/preview.png",
+      "download_path": "wattle-fence-run/wattle-fence-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/windlass-well",
+      "name": "Windlass Well",
+      "repo": "assets-3d-polyfork",
+      "file": "windlass-well/windlass-well.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/windlass-well-ebc2fb",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Windlass Well by Polyfork (https://polyfork.dev/asset/windlass-well-ebc2fb), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "windlass-well/preview.png",
+      "download_path": "windlass-well/windlass-well.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip"
       ],
       "sample": null,
       "multipart": false,
