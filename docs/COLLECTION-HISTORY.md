@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-03 자동 수집 등록 (3팩, 2026-11-22 03:32 KST)
+
+- 팩: Basic Game GUI (slug basic-game-gui), 라이선스: CC-BY 4.0, 제작자: DomoArto
+- 출처: https://opengameart.org/content/basic-game-gui
+- 저장: assets-3d-lowpoly-2 basic-game-gui/basic-game-gui.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2195→2198, 기존 행 불변 확인
+- 팩: FPS Shooter HUD & Controllers (slug fps-shooter-hud-controllers), 라이선스: CC-BY 3.0, 제작자: AliHamieh
+- 출처: https://opengameart.org/content/fps-shooter-hud-controllers
+- 저장: assets-3d-lowpoly-2 fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2195→2198, 기존 행 불변 확인
+- 팩: GUI Pack (slug gui-pack-0), 라이선스: CC-BY 3.0, 제작자: xvideosman
+- 출처: https://opengameart.org/content/gui-pack-0
+- 저장: assets-3d-lowpoly-2 gui-pack-0/gui-pack-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2195→2198, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-03 자동 수집 등록 (3팩, 2026-11-22 03:12 KST)
 
 - 팩: C Tonal (slug c-tonal), 라이선스: CC0, 제작자: Pro Sensory

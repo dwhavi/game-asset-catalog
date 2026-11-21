@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@3583a03091740a2621840bd0087bbb26fa00f141",
-  "count": 2195,
+  "generated_from": "catalog.csv@a784752a633278e8d22f15d9cc90c617091beb4e",
+  "count": 2198,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77497,6 +77497,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/basic-game-gui",
+      "name": "Basic Game GUI",
+      "repo": "assets-ui-icons",
+      "file": "basic-game-gui/basic-game-gui.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "DomoArto",
+      "source_url": "https://opengameart.org/content/basic-game-gui",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: DomoArto (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": "basic-game-gui/preview.png",
+      "download_path": "basic-game-gui/basic-game-gui.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/basic-game-gui/basic-game-gui.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/basic-game-gui/basic-game-gui.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/fps-shooter-hud-controllers",
+      "name": "FPS Shooter HUD & Controllers",
+      "repo": "assets-ui-icons",
+      "file": "fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "AliHamieh",
+      "source_url": "https://opengameart.org/content/fps-shooter-hud-controllers",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: AliHamieh (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "fps-shooter-hud-controllers/preview.png",
+      "download_path": "fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/gui-pack",
+      "name": "GUI Pack",
+      "repo": "assets-ui-icons",
+      "file": "gui-pack-0/gui-pack-0.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "xvideosman",
+      "source_url": "https://opengameart.org/content/gui-pack-0",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: xvideosman (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "gui-pack-0/preview.png",
+      "download_path": "gui-pack-0/gui-pack-0.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/gui-pack-0/gui-pack-0.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/gui-pack-0/gui-pack-0.zip"
       ],
       "sample": null,
       "multipart": false,
