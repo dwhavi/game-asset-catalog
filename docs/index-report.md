@@ -4,7 +4,7 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@445b598705d887c1df0c1233a1e77b8ef1503a77`
+- 원본: `catalog.csv@afe99a10a336f22a8d9e955956d270b0bd8dbaf9`
 - 데이터 행 수: **2177**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
