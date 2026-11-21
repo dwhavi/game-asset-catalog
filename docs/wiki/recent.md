@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c42122b556b1aaa5fa93876648d86cc52fb15d34`
+> generated from `catalog.csv@61e5e88f78960930277c01a8331a738c096181fe`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -27,6 +27,7 @@
 | [Candy Cane Arch](https://polyfork.dev/asset/candy-cane-arch-c17ce3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/candy-cane-arch/candy-cane-arch.zip) | 2026-11-21 |
 | [Commander's Tent](https://polyfork.dev/asset/commander-s-tent-c8b8b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/commander-s-tent/commander-s-tent.zip) | 2026-11-21 |
 | [deluge](https://opengameart.org/content/deluge) | `music` | tomcat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/deluge/deluge.zip) | 2026-11-21 |
+| [Eerie Title Theme](https://opengameart.org/content/eerie-title-theme) | `music` | Technodono | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/eerie-title-theme/eerie-title-theme.zip) | 2026-11-21 |
 | [Elf Wrapping Table](https://polyfork.dev/asset/elf-wrapping-table-96c704) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip) | 2026-11-21 |
 | [FL Version of October Jazz](https://opengameart.org/content/fl-version-of-october-jazz) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fl-version-of-october-jazz/fl-version-of-october-jazz.zip) | 2026-11-21 |
 | [FPS Shooter HUD & Controllers](https://opengameart.org/content/fps-shooter-hud-controllers) | `ui` | AliHamieh | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fps-shooter-hud-controllers/fps-shooter-hud-controllers.zip) | 2026-11-21 |
@@ -37,6 +38,7 @@
 | [Netted Tree Bundle](https://polyfork.dev/asset/netted-tree-bundle-1bd759) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip) | 2026-11-21 |
 | [Official's Horse Carriage](https://polyfork.dev/asset/official-s-horse-carriage-90d177) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip) | 2026-11-21 |
 | [Pixel Art Heal Skill Icons](https://opengameart.org/content/pixel-art-heal-skill-icons) | `ui` | DustDFG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip) | 2026-11-21 |
+| [Remembering Something I Forgot](https://opengameart.org/content/remembering-something-i-forgot) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/remembering-something-i-forgot/remembering-something-i-forgot.zip) | 2026-11-21 |
 | [Saturday Morning](https://opengameart.org/content/saturday-morning) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/saturday-morning/saturday-morning.zip) | 2026-11-21 |
 | [Stable](https://polyfork.dev/asset/stable-57d8b1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip) | 2026-11-21 |
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
@@ -45,6 +47,7 @@
 | [The Battle Begins (Looping)](https://opengameart.org/content/the-battle-begins-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip) | 2026-11-21 |
 | [Timber Tower House](https://polyfork.dev/asset/timber-tower-house-494243) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip) | 2026-11-21 |
 | [Two-Seat Toboggan](https://polyfork.dev/asset/two-seat-toboggan-09392b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/two-seat-toboggan/two-seat-toboggan.zip) | 2026-11-21 |
+| [Up All Night](https://opengameart.org/content/up-all-night-0) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/up-all-night-0/up-all-night-0.zip) | 2026-11-21 |
 | [Water Trip-Hammer Mill](https://polyfork.dev/asset/water-trip-hammer-mill-c301d5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip) | 2026-11-21 |
 | [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip) | 2026-11-21 |
 | [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip) | 2026-11-21 |
@@ -110,6 +113,3 @@
 | [The Lost Storm Replacement SFX](https://github.com/sigco3111/the-lost-storm-ko) | `sfx` | The Lost Storm Korean fan localization (synthesized in-project) | MIT | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-lost-storm-audio/the-lost-storm-audio.zip) | 2026-11-20 |
 | [Three "western desert" like tracks](https://opengameart.org/content/three-western-desert-like-tracks) | `music` | Bockanator | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-three-western-desert-like-tracks/three-western-desert-like-tracks.zip) | 2026-11-20 |
 | [Tiny Misc UI](https://opengameart.org/content/tiny-misc-ui) | `ui` | EmoPreben | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/tiny-misc-ui/tiny-misc-ui.zip) | 2026-11-20 |
-| [Traction Trebuchet](https://polyfork.dev/asset/traction-trebuchet-1e5d18) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traction-trebuchet/traction-trebuchet.zip) | 2026-11-20 |
-| [Tree Stump](https://polyfork.dev/asset/tree-stump-00f3bf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/tree-stump/tree-stump.zip) | 2026-11-20 |
-| [War Drum on a Frame](https://polyfork.dev/asset/war-drum-on-a-5fdf9d) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/war-drum-on-a-frame/war-drum-on-a-frame.zip) | 2026-11-20 |

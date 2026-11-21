@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-08 자동 수집 등록 (3팩, 2026-11-22 08:13 KST)
+
+- 팩: Eerie Title Theme (slug eerie-title-theme), 라이선스: CC0, 제작자: Technodono
+- 출처: https://opengameart.org/content/eerie-title-theme
+- 저장: assets-3d-lowpoly-2 eerie-title-theme/eerie-title-theme.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2201→2204, 기존 행 불변 확인
+- 팩: Remembering Something I Forgot (slug remembering-something-i-forgot), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/remembering-something-i-forgot
+- 저장: assets-3d-lowpoly-2 remembering-something-i-forgot/remembering-something-i-forgot.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2201→2204, 기존 행 불변 확인
+- 팩: Up All Night (slug up-all-night-0), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/up-all-night-0
+- 저장: assets-3d-lowpoly-2 up-all-night-0/up-all-night-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2201→2204, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-06 자동 수집 등록 (3팩, 2026-11-22 06:40 KST)
 
 - 팩: Packed-Earth Street Tile (slug packed-earth-street-tile), 라이선스: CC-BY 4.0, 제작자: Polyfork
