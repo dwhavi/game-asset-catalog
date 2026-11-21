@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@afe99a10a336f22a8d9e955956d270b0bd8dbaf9`
+> generated from `catalog.csv@5e5497e26f878ef06c2ed132563421ef19d81135`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2177개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2180개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1890 | 0 | 예 |
-| cc-by | CC-BY | 242 | 242 | 예 |
+| cc-by | CC-BY | 245 | 245 | 예 |
 | mit | MIT | 14 | 13 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 20 | 17 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1888 |
-| CC-BY 4.0 | cc-by | O | 115 |
+| CC-BY 4.0 | cc-by | O | 118 |
 | CC-BY 3.0 | cc-by | O | 108 |
 | MIT | mit | O | 13 |
 | CC-BY | cc-by | O | 11 |
@@ -54,7 +54,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 283개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 286개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -66,10 +66,13 @@
 | [Stable](https://polyfork.dev/asset/stable-57d8b1) | Polyfork | CC-BY 4.0 | Stable by Polyfork (https://polyfork.dev/asset/stable-57d8b1), CC BY 4.0 | 2026-11-21 |
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | Polyfork | CC-BY 4.0 | Stone Guardian Beast by Polyfork (https://polyfork.dev/asset/stone-guardian-beast-663ee9), CC BY 4.0 | 2026-11-21 |
 | [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | Polyfork | CC-BY 4.0 | Strategy Table by Polyfork (https://polyfork.dev/asset/strategy-table-882a29), CC BY 4.0 | 2026-11-21 |
+| [Taxiway Centreline Stud Run](https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020) | Polyfork | CC-BY 4.0 | Taxiway Centreline Stud Run by Polyfork (https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020), CC BY 4.0 | 2026-11-21 |
 | [Timber Tower House](https://polyfork.dev/asset/timber-tower-house-494243) | Polyfork | CC-BY 4.0 | Timber Tower House by Polyfork (https://polyfork.dev/asset/timber-tower-house-494243), CC BY 4.0 | 2026-11-21 |
+| [Two-Seat Toboggan](https://polyfork.dev/asset/two-seat-toboggan-09392b) | Polyfork | CC-BY 4.0 | Two-Seat Toboggan by Polyfork (https://polyfork.dev/asset/two-seat-toboggan-09392b), CC BY 4.0 | 2026-11-21 |
 | [Water Trip-Hammer Mill](https://polyfork.dev/asset/water-trip-hammer-mill-c301d5) | Polyfork | CC-BY 4.0 | Water Trip-Hammer Mill by Polyfork (https://polyfork.dev/asset/water-trip-hammer-mill-c301d5), CC BY 4.0 | 2026-11-21 |
 | [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | Polyfork | CC-BY 4.0 | Weeping Willow by Polyfork (https://polyfork.dev/asset/weeping-willow-55e38c), CC BY 4.0 | 2026-11-21 |
 | [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | Polyfork | CC-BY 4.0 | Wine Inn by Polyfork (https://polyfork.dev/asset/wine-inn-a41b12), CC BY 4.0 | 2026-11-21 |
+| [Wooden Runner Sled](https://polyfork.dev/asset/wooden-runner-sled-30bcc1) | Polyfork | CC-BY 4.0 | Wooden Runner Sled by Polyfork (https://polyfork.dev/asset/wooden-runner-sled-30bcc1), CC BY 4.0 | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | Hyperwebster | CC-BY 4.0 | 필수: Hyperwebster (opengameart.org), CC-BY 4.0 | 2026-11-20 |
 | [Activity Icons](https://opengameart.org/content/activity-icons) | StendhalGame | GPL 3.0 | 필수: StendhalGame (opengameart.org), GPL 3.0 | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | Alegreya Project Authors / Natanael Gama | OFL-1.1 | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스 | 2026-11-20 |

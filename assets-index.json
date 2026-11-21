@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@afe99a10a336f22a8d9e955956d270b0bd8dbaf9",
-  "count": 2177,
+  "generated_from": "catalog.csv@5e5497e26f878ef06c2ed132563421ef19d81135",
+  "count": 2180,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -76907,6 +76907,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/taxiway-centreline-stud-run",
+      "name": "Taxiway Centreline Stud Run",
+      "repo": "assets-3d-polyfork",
+      "file": "taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Taxiway Centreline Stud Run by Polyfork (https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "taxiway-centreline-stud-run/preview.png",
+      "download_path": "taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/two-seat-toboggan",
+      "name": "Two-Seat Toboggan",
+      "repo": "assets-3d-polyfork",
+      "file": "two-seat-toboggan/two-seat-toboggan.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/two-seat-toboggan-09392b",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Two-Seat Toboggan by Polyfork (https://polyfork.dev/asset/two-seat-toboggan-09392b), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "two-seat-toboggan/preview.png",
+      "download_path": "two-seat-toboggan/two-seat-toboggan.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/two-seat-toboggan/two-seat-toboggan.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/two-seat-toboggan/two-seat-toboggan.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/wooden-runner-sled",
+      "name": "Wooden Runner Sled",
+      "repo": "assets-3d-polyfork",
+      "file": "wooden-runner-sled/wooden-runner-sled.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/wooden-runner-sled-30bcc1",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Wooden Runner Sled by Polyfork (https://polyfork.dev/asset/wooden-runner-sled-30bcc1), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "wooden-runner-sled/preview.png",
+      "download_path": "wooden-runner-sled/wooden-runner-sled.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wooden-runner-sled/wooden-runner-sled.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/wooden-runner-sled/wooden-runner-sled.zip"
       ],
       "sample": null,
       "multipart": false,

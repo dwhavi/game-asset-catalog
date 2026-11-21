@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@afe99a10a336f22a8d9e955956d270b0bd8dbaf9`
+> generated from `catalog.csv@5e5497e26f878ef06c2ed132563421ef19d81135`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -21,10 +21,13 @@
 | [Stable](https://polyfork.dev/asset/stable-57d8b1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip) | 2026-11-21 |
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
 | [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
+| [Taxiway Centreline Stud Run](https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip) | 2026-11-21 |
 | [Timber Tower House](https://polyfork.dev/asset/timber-tower-house-494243) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip) | 2026-11-21 |
+| [Two-Seat Toboggan](https://polyfork.dev/asset/two-seat-toboggan-09392b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/two-seat-toboggan/two-seat-toboggan.zip) | 2026-11-21 |
 | [Water Trip-Hammer Mill](https://polyfork.dev/asset/water-trip-hammer-mill-c301d5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip) | 2026-11-21 |
 | [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip) | 2026-11-21 |
 | [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip) | 2026-11-21 |
+| [Wooden Runner Sled](https://polyfork.dev/asset/wooden-runner-sled-30bcc1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wooden-runner-sled/wooden-runner-sled.zip) | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Activity Icons](https://opengameart.org/content/activity-icons) | `ui` | StendhalGame | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/activity-icons/activity-icons.zip) | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [A 3D signal effect for Unity + Satellite 3D Model](https://opengameart.org/content/a-3d-signal-effect-for-unity-satellite-3d-model) | `model-3d` | FlexUnit | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/a-3d-signal-effect-for-unity-satellite-3d-model/a-3d-signal-effect-for-unity-satellite-3d-model.zip) | 2026-11-19 |
 | [A-104 Cold Fusion Assault Rifle](https://opengameart.org/content/a-104-cold-fusion-assault-rifle) | `model-3d` | qubodup | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/a-104-cold-fusion-assault-rifle/a-104-cold-fusion-assault-rifle.zip) | 2026-11-19 |
 | [Acient ruins](https://opengameart.org/content/acient-ruins) | `model-3d` | killyoverdrive | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/acient-ruins/acient-ruins.zip) | 2026-11-19 |
-| [AKIRA-LASER RIFLE ST-001](https://opengameart.org/content/akira-laser-rifle-st-001) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/akira-laser-rifle-st-001/akira-laser-rifle-st-001.zip) | 2026-11-19 |
-| [Barrels](https://opengameart.org/content/barrels-3) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/barrels-3/barrels-3.zip) | 2026-11-19 |
-| [Bartender](https://opengameart.org/content/bartender) | `model-3d` | CDmir | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-bartender/bartender.zip) | 2026-11-19 |

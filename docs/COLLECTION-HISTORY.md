@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-16 자동 수집 등록 (3팩, 2026-11-21 16:42 KST)
+
+- 팩: Taxiway Centreline Stud Run (slug taxiway-centreline-stud-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020
+- 저장: assets-3d-polyfork taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2177→2180, 기존 행 불변 확인
+- 팩: Two-Seat Toboggan (slug two-seat-toboggan), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/two-seat-toboggan-09392b
+- 저장: assets-3d-polyfork two-seat-toboggan/two-seat-toboggan.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2177→2180, 기존 행 불변 확인
+- 팩: Wooden Runner Sled (slug wooden-runner-sled), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/wooden-runner-sled-30bcc1
+- 저장: assets-3d-polyfork wooden-runner-sled/wooden-runner-sled.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2177→2180, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-15 자동 수집 등록 (3팩, 2026-11-21 15:36 KST)
 
 - 팩: Commander's Tent (slug commander-s-tent), 라이선스: CC-BY 4.0, 제작자: Polyfork
