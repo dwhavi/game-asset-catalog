@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7193a87948091ab2d7d647f20d66dc45c93ca870`
+> generated from `catalog.csv@111190dcea4f2d39a3f5b7320ac9c62d7523d763`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -23,6 +23,7 @@
 | [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip) | 2026-11-21 |
 | [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip) | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
+| [Activity Icons](https://opengameart.org/content/activity-icons) | `ui` | StendhalGame | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/activity-icons/activity-icons.zip) | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
 | [Ambient Solo Guitar Interludes](https://opengameart.org/content/ambient-solo-guitar-interludes) | `music` | SpringySpringo | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ambient-solo-guitar-interludes/ambient-solo-guitar-interludes.zip) | 2026-11-20 |
 | [Battle Drones 바위 타일 텍스처 5종 (심리스 512²)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-rock-textures/battledrones-rock-textures.zip) | 2026-11-20 |
@@ -40,6 +41,7 @@
 | [Concrete Echo 콘크리트·플라스터 PBR 텍스처 6쌍](https://github.com/Rikinshah787/Game-Fable-5.2) | `other` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/concrete-echo-concrete-textures/concrete-echo-concrete-textures.zip) | 2026-11-20 |
 | [Cool Adventure](https://opengameart.org/content/cool-adventure) | `music` | MintoDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cool-adventure/cool-adventure.zip) | 2026-11-20 |
 | [cyber core](https://opengameart.org/content/cyber-core) | `music` | oglsdl | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-cyber-core/cyber-core.zip) | 2026-11-20 |
+| [Dark ARPG UI](https://opengameart.org/content/dark-arpg-ui) | `ui` | vault13dweller | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dark-arpg-ui/dark-arpg-ui.zip) | 2026-11-20 |
 | [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip) | 2026-11-20 |
 | [Fantasy RPG Icons](https://opengameart.org/content/fantasy-rpg-icons-0) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip) | 2026-11-20 |
 | [Fantasy RPG Icons 2](https://opengameart.org/content/fantasy-rpg-icons-2) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip) | 2026-11-20 |
@@ -62,6 +64,7 @@
 | [Potion Icons](https://opengameart.org/content/potion-icons-1) | `ui` | Oyasumi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/potion-icons-1/potion-icons-1.zip) | 2026-11-20 |
 | [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip) | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
+| [Sci-Fi Icons Collection](https://opengameart.org/content/sci-fi-icons-collection) | `ui` | FlexUnit | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/sci-fi-icons-collection/sci-fi-icons-collection.zip) | 2026-11-20 |
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
 | [Silkworm Tray Rack](https://polyfork.dev/asset/silkworm-tray-rack-bf6067) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/silkworm-tray-rack/silkworm-tray-rack.zip) | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
@@ -110,6 +113,3 @@
 | [Basic 3D Terrain Tiles](https://opengameart.org/content/basic-3d-terrain-tiles) | `model-3d` | MrOvkill | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-basic-3d-terrain-tiles/basic-3d-terrain-tiles.zip) | 2026-11-19 |
 | [Bebis 3D](https://opengameart.org/content/bebis-3d) | `model-3d` | bebis | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bebis-3d/bebis-3d.zip) | 2026-11-19 |
 | [Bedside Table](https://opengameart.org/content/bedside-table) | `model-3d` | Mish7913 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bedside-table/bedside-table.zip) | 2026-11-19 |
-| [Bike](https://opengameart.org/content/bike-0) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bike-0/bike-0.zip) | 2026-11-19 |
-| [blue toy car](https://opengameart.org/content/blue-toy-car) | `model-3d` | DREAM\_SEARCH\_REPEAT | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/blue-toy-car/blue-toy-car.zip) | 2026-11-19 |
-| [Bottle Cap](https://opengameart.org/content/bottle-cap) | `model-3d` | Paul Wortmann | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/bottle-cap/bottle-cap.zip) | 2026-11-19 |

@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-12 자동 수집 등록 (3팩, 2026-11-21 12:41 KST)
+
+- 팩: Activity Icons (slug activity-icons), 라이선스: GPL 3.0, 제작자: StendhalGame
+- 출처: https://opengameart.org/content/activity-icons
+- 저장: assets-3d-lowpoly-2 activity-icons/activity-icons.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2171→2174, 기존 행 불변 확인
+- 팩: Dark ARPG UI (slug dark-arpg-ui), 라이선스: CC-BY 4.0, 제작자: vault13dweller
+- 출처: https://opengameart.org/content/dark-arpg-ui
+- 저장: assets-3d-lowpoly-2 dark-arpg-ui/dark-arpg-ui.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2171→2174, 기존 행 불변 확인
+- 팩: Sci-Fi Icons Collection (slug sci-fi-icons-collection), 라이선스: CC-BY 4.0, 제작자: FlexUnit
+- 출처: https://opengameart.org/content/sci-fi-icons-collection
+- 저장: assets-3d-lowpoly-2 sci-fi-icons-collection/sci-fi-icons-collection.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2171→2174, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-09 자동 수집 등록 (3팩, 2026-11-21 09:16 KST)
 
 - 팩: Candy Cane Arch (slug candy-cane-arch), 라이선스: CC-BY 4.0, 제작자: Polyfork

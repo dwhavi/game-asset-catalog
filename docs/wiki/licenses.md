@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7193a87948091ab2d7d647f20d66dc45c93ca870`
+> generated from `catalog.csv@111190dcea4f2d39a3f5b7320ac9c62d7523d763`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2171개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2174개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,9 +17,9 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1890 | 0 | 예 |
-| cc-by | CC-BY | 237 | 237 | 예 |
+| cc-by | CC-BY | 239 | 239 | 예 |
 | mit | MIT | 14 | 13 | 예 |
-| gpl | GPL 2.0/3.0 | 10 | 10 | 예 |
+| gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 20 | 17 | 아니오 |
 
 ## 라이선스 문구(license)별 개수
@@ -29,11 +29,11 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1888 |
-| CC-BY 4.0 | cc-by | O | 110 |
+| CC-BY 4.0 | cc-by | O | 112 |
 | CC-BY 3.0 | cc-by | O | 108 |
 | MIT | mit | O | 13 |
 | CC-BY | cc-by | O | 11 |
-| GPL 3.0 | gpl | O | 10 |
+| GPL 3.0 | gpl | O | 11 |
 | 알 수 없음 | other | O | 9 |
 | Apache-2.0 | other | O | 4 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
@@ -54,7 +54,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 277개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 280개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | Polyfork | CC-BY 4.0 | Weeping Willow by Polyfork (https://polyfork.dev/asset/weeping-willow-55e38c), CC BY 4.0 | 2026-11-21 |
 | [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | Polyfork | CC-BY 4.0 | Wine Inn by Polyfork (https://polyfork.dev/asset/wine-inn-a41b12), CC BY 4.0 | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | Hyperwebster | CC-BY 4.0 | 필수: Hyperwebster (opengameart.org), CC-BY 4.0 | 2026-11-20 |
+| [Activity Icons](https://opengameart.org/content/activity-icons) | StendhalGame | GPL 3.0 | 필수: StendhalGame (opengameart.org), GPL 3.0 | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | Alegreya Project Authors / Natanael Gama | OFL-1.1 | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스 | 2026-11-20 |
 | [Ambient Solo Guitar Interludes](https://opengameart.org/content/ambient-solo-guitar-interludes) | SpringySpringo | CC-BY 4.0 | 필수: SpringySpringo (opengameart.org), CC-BY 4.0 | 2026-11-20 |
 | [Battle Drones 바위 타일 텍스처 5종 (심리스 512²)](https://github.com/simonw/battledrones) | Battle Drones authors (simonw) | Apache-2.0 | required (Apache-2.0): 저작권·라이선스 고지와 변경 표기 유지 (Battle Drones authors, simonw/battledrones) | 2026-11-20 |
@@ -80,6 +81,7 @@
 | [Cold Boot 토마스 3D 머리 (Lee Perry-Smith 스캔)](https://github.com/rossinek/cold-boot) | Lee Perry-Smith (Infinite Realities) | CC-BY 3.0 | 필수: Tomas's head is based on "Infinite, 3D Head Scan" by Lee Perry-Smith (www.ir-ltd.net), licensed CC BY 3.0, modified | 2026-11-20 |
 | [Concrete Echo FPS 프롭 3D 모델 24종+Soldier](https://github.com/Rikinshah787/Game-Fable-5.2) | Rikinshah787 | 알 수 없음 | 권장(미확인): Rikinshah787 (github.com/Rikinshah787/Game-Fable-5.2) | 2026-11-20 |
 | [Concrete Echo 콘크리트·플라스터 PBR 텍스처 6쌍](https://github.com/Rikinshah787/Game-Fable-5.2) | Rikinshah787 | 알 수 없음 | 권장(미확인): Rikinshah787 (github.com/Rikinshah787/Game-Fable-5.2) | 2026-11-20 |
+| [Dark ARPG UI](https://opengameart.org/content/dark-arpg-ui) | vault13dweller | CC-BY 4.0 | 필수: vault13dweller (opengameart.org), CC-BY 4.0 | 2026-11-20 |
 | [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | zhgarylu | 알 수 없음 | 권장(미확인): zhgarylu (github.com/zhgarylu/everyday-game) | 2026-11-20 |
 | [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | Polyfork | CC-BY 4.0 | Fire Arena by Polyfork (https://polyfork.dev/asset/fire-arena-e2e3ef), CC BY 4.0 | 2026-11-20 |
 | [Fruit Icon Pack](https://opengameart.org/content/fruit-icon-pack) | Moku | CC-BY 3.0 | 필수: Moku (opengameart.org), CC-BY 3.0 | 2026-11-20 |
@@ -98,6 +100,7 @@
 | [Pocket Soccer 3D 타이틀 아트워크·앱 아이콘](https://github.com/ShaunPrice/soccer-3d) | ShaunPrice | 알 수 없음 | 권장(미확인): ShaunPrice (github.com/ShaunPrice/soccer-3d) | 2026-11-20 |
 | [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | Polyfork | CC-BY 4.0 | Pushback Tug by Polyfork (https://polyfork.dev/asset/pushback-tug-8eab46), CC BY 4.0 | 2026-11-20 |
 | [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | Polyfork | CC-BY 4.0 | Runway Tile by Polyfork (https://polyfork.dev/asset/runway-tile-9a2808), CC BY 4.0 | 2026-11-20 |
+| [Sci-Fi Icons Collection](https://opengameart.org/content/sci-fi-icons-collection) | FlexUnit | CC-BY 4.0 | 필수: FlexUnit (opengameart.org), CC-BY 4.0 | 2026-11-20 |
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | Polyfork | CC-BY 4.0 | Shipping Label Printer by Polyfork (https://polyfork.dev/asset/shipping-label-printer-ba8a6a), CC BY 4.0 | 2026-11-20 |
 | [Silkworm Tray Rack](https://polyfork.dev/asset/silkworm-tray-rack-bf6067) | Polyfork | CC-BY 4.0 | Silkworm Tray Rack by Polyfork (https://polyfork.dev/asset/silkworm-tray-rack-bf6067), CC BY 4.0 | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | mla | CC-BY 4.0 | 필수: mla (opengameart.org), CC-BY 4.0 | 2026-11-20 |
