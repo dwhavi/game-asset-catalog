@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@830eeb558de70acf8fd5906eea387f39d0c96bf1`
+> generated from `catalog.csv@3583a03091740a2621840bd0087bbb26fa00f141`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -19,10 +19,13 @@
 | [200+ Tiny Buttons](https://opengameart.org/content/200-tiny-buttons) | `ui` | Screaming Brain Studios | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip) | 2026-11-21 |
 | [Arched Stone Bridge](https://polyfork.dev/asset/arched-stone-bridge-9474cf) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/arched-stone-bridge/arched-stone-bridge.zip) | 2026-11-21 |
 | [Army Supply Cart](https://polyfork.dev/asset/army-supply-cart-8cc498) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/army-supply-cart/army-supply-cart.zip) | 2026-11-21 |
+| [C Tonal](https://opengameart.org/content/c-tonal) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/c-tonal/c-tonal.zip) | 2026-11-21 |
 | [Candy Cane Arch](https://polyfork.dev/asset/candy-cane-arch-c17ce3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/candy-cane-arch/candy-cane-arch.zip) | 2026-11-21 |
 | [Commander's Tent](https://polyfork.dev/asset/commander-s-tent-c8b8b5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/commander-s-tent/commander-s-tent.zip) | 2026-11-21 |
 | [deluge](https://opengameart.org/content/deluge) | `music` | tomcat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/deluge/deluge.zip) | 2026-11-21 |
 | [Elf Wrapping Table](https://polyfork.dev/asset/elf-wrapping-table-96c704) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/elf-wrapping-table/elf-wrapping-table.zip) | 2026-11-21 |
+| [FL Version of October Jazz](https://opengameart.org/content/fl-version-of-october-jazz) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/fl-version-of-october-jazz/fl-version-of-october-jazz.zip) | 2026-11-21 |
+| [Hiding in My Room Until Everyone Leaves](https://opengameart.org/content/hiding-in-my-room-until-everyone-leaves) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip) | 2026-11-21 |
 | [Lit Taxiway Sign](https://polyfork.dev/asset/lit-taxiway-sign-206955) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip) | 2026-11-21 |
 | [N64 UI](https://opengameart.org/content/n64-ui) | `ui` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip) | 2026-11-21 |
 | [Netted Tree Bundle](https://polyfork.dev/asset/netted-tree-bundle-1bd759) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip) | 2026-11-21 |
@@ -110,6 +113,3 @@
 | [배달 라이더·광저우 드리프트 절차적 3D 코드 (everyday-game)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-rider-3d/14-everyday-game-rider-3d.zip) | 2026-11-20 |
 | [16x16 Retro Sci-Fi Pixel Art Sampler Pack (CC0)](https://opengameart.org/content/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0) | `sprite-2d` | levshop | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0/16x16-retro-sci-fi-pixel-art-sampler-pack-cc0-0.zip) | 2026-11-19 |
 | [20 Cups, 4 Chairs, and a Toilet](https://opengameart.org/content/20-cups-4-chairs-and-a-toilet) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/release%3Apack-20-cups-4-chairs-and-a-toilet/20-cups-4-chairs-and-a-toilet.zip) | 2026-11-19 |
-| [20 Gases](https://opengameart.org/content/20-gases) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/20-gases/20-gases.zip) | 2026-11-19 |
-| [3D Car](https://opengameart.org/content/3d-car-0) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-car-0/3d-car-0.zip) | 2026-11-19 |
-| [3D Ceiling Fans](https://opengameart.org/content/3d-ceiling-fans) | `model-3d` | Lyricsz | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/3d-ceiling-fans/3d-ceiling-fans.zip) | 2026-11-19 |

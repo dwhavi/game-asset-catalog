@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-03 자동 수집 등록 (3팩, 2026-11-22 03:12 KST)
+
+- 팩: C Tonal (slug c-tonal), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/c-tonal
+- 저장: assets-3d-lowpoly-2 c-tonal/c-tonal.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2192→2195, 기존 행 불변 확인
+- 팩: FL Version of October Jazz (slug fl-version-of-october-jazz), 라이선스: CC0, 제작자: Pro Sensory
+- 출처: https://opengameart.org/content/fl-version-of-october-jazz
+- 저장: assets-3d-lowpoly-2 fl-version-of-october-jazz/fl-version-of-october-jazz.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2192→2195, 기존 행 불변 확인
+- 팩: Hiding in My Room Until Everyone Leaves (slug hiding-in-my-room-until-everyone-leaves), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/hiding-in-my-room-until-everyone-leaves
+- 저장: assets-3d-lowpoly-2 release:pack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2192→2195, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-01 자동 수집 등록 (3팩, 2026-11-22 01:08 KST)
 
 - 팩: General (slug general), 라이선스: CC-BY 4.0, 제작자: Polyfork

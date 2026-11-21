@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@830eeb558de70acf8fd5906eea387f39d0c96bf1",
-  "count": 2192,
+  "generated_from": "catalog.csv@3583a03091740a2621840bd0087bbb26fa00f141",
+  "count": 2195,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77401,6 +77401,102 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/c-tonal",
+      "name": "C Tonal",
+      "repo": "assets-audio",
+      "file": "c-tonal/c-tonal.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Pro Sensory",
+      "source_url": "https://opengameart.org/content/c-tonal",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Pro Sensory (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "c-tonal/c-tonal.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/c-tonal/c-tonal.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/c-tonal/c-tonal.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/fl-version-of-october-jazz",
+      "name": "FL Version of October Jazz",
+      "repo": "assets-audio",
+      "file": "fl-version-of-october-jazz/fl-version-of-october-jazz.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Pro Sensory",
+      "source_url": "https://opengameart.org/content/fl-version-of-october-jazz",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Pro Sensory (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "fl-version-of-october-jazz/fl-version-of-october-jazz.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/fl-version-of-october-jazz/fl-version-of-october-jazz.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/fl-version-of-october-jazz/fl-version-of-october-jazz.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/hiding-in-my-room-until-everyone-leaves",
+      "name": "Hiding in My Room Until Everyone Leaves",
+      "repo": "assets-audio",
+      "file": "release:pack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "purrplecat",
+      "source_url": "https://opengameart.org/content/hiding-in-my-room-until-everyone-leaves",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: purrplecat (opengameart.org), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC-BY 4.0 확인 (자동 수집, 원문: : CC-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "release:pack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip"
       ],
       "sample": null,
       "multipart": false,
