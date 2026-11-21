@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@68ddb25319005322fe998a75bed64ec40a8f1b4e`
+> generated from `catalog.csv@b645d2d6e2c5fa7d8eb0b9d95aad8050ce94e2a5`
 
 # 게임 에셋 카탈로그 위키
 
@@ -12,7 +12,7 @@
 - 이 위키의 자동 생성 문서는 직접 고치지 않습니다. 에셋이 바뀌면 두 스크립트를 다시 실행합니다(표준 라이브러리만 사용, 같은 입력이면 같은 출력).
 - 에셋마다 쪽을 따로 만들지 않습니다. 표의 이름을 누르면 제작자의 출처 페이지로 갑니다.
 - 손으로 쓰는 문서는 [사용 장부](usage-ledger.md) 하나뿐이며 생성기가 덮어쓰지 않습니다.
-- 현재 색인: 에셋 **2183개** (`catalog.csv@68ddb25319005322fe998a75bed64ec40a8f1b4e`).
+- 현재 색인: 에셋 **2186개** (`catalog.csv@b645d2d6e2c5fa7d8eb0b9d95aad8050ce94e2a5`).
 
 ## 링크
 
@@ -49,7 +49,7 @@
 | `sprite-2d` | 2D 스프라이트 | 137 | [category-sprite-2d.md](category-sprite-2d.md) |
 | `background-2d` | 2D 배경 | 30 | [category-background-2d.md](category-background-2d.md) |
 | `map-2d` | 2D 맵 | 3 | [category-map-2d.md](category-map-2d.md) |
-| `ui` | UI | 218 | [category-ui.md](category-ui.md) |
+| `ui` | UI | 221 | [category-ui.md](category-ui.md) |
 | `icon` | 아이콘 | 40 | [category-icon.md](category-icon.md) |
 | `portrait` | 초상화 | 2 | [category-portrait.md](category-portrait.md) |
 | `font` | 폰트 | 3 | [category-font.md](category-font.md) |
@@ -62,7 +62,7 @@
 | `puzzle` | 퍼즐 | 2 | [category-puzzle.md](category-puzzle.md) |
 | `other` | 기타 | 141 | [category-other.md](category-other.md) |
 
-합계 2183개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
+합계 2186개. 분류가 400행을 넘는 목록은 `-2` 쪽으로 이어집니다.
 
 ## 효과 종류별 개수
 
@@ -78,7 +78,7 @@
 | `ice` | 얼음 | 21 | [effects-ice.md](effects-ice.md) |
 | `lightning` | 번개 | 29 | [effects-lightning.md](effects-lightning.md) |
 | `wind` | 바람 | 9 | [effects-wind.md](effects-wind.md) |
-| `heal` | 치유 | 16 | [effects-heal.md](effects-heal.md) |
+| `heal` | 치유 | 17 | [effects-heal.md](effects-heal.md) |
 | `laser` | 레이저 | 17 | [effects-laser.md](effects-laser.md) |
 | `particle` | 입자 | 31 | [effects-particle.md](effects-particle.md) |
 | `smoke` | 연기 | 12 | [effects-smoke.md](effects-smoke.md) |

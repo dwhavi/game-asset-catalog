@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261121-20 자동 수집 등록 (3팩, 2026-11-21 20:46 KST)
+
+- 팩: 200+ Tiny Buttons (slug 200-tiny-buttons), 라이선스: CC0, 제작자: Screaming Brain Studios
+- 출처: https://opengameart.org/content/200-tiny-buttons
+- 저장: assets-3d-lowpoly-2 200-tiny-buttons/200-tiny-buttons.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2183→2186, 기존 행 불변 확인
+- 팩: N64 UI (slug n64-ui), 라이선스: CC0, 제작자: n64guy
+- 출처: https://opengameart.org/content/n64-ui
+- 저장: assets-3d-lowpoly-2 n64-ui/n64-ui.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2183→2186, 기존 행 불변 확인
+- 팩: Pixel Art Heal Skill Icons (slug pixel-art-heal-skill-icons), 라이선스: CC0, 제작자: DustDFG
+- 출처: https://opengameart.org/content/pixel-art-heal-skill-icons
+- 저장: assets-3d-lowpoly-2 pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2183→2186, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261121-20 자동 수집 등록 (3팩, 2026-11-21 20:37 KST)
 
 - 팩: deluge (slug deluge), 라이선스: CC-BY 4.0, 제작자: tomcat

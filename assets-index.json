@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@68ddb25319005322fe998a75bed64ec40a8f1b4e",
-  "count": 2183,
+  "generated_from": "catalog.csv@b645d2d6e2c5fa7d8eb0b9d95aad8050ce94e2a5",
+  "count": 2186,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77102,6 +77102,107 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/200-tiny-buttons",
+      "name": "200+ Tiny Buttons",
+      "repo": "assets-ui-icons",
+      "file": "200-tiny-buttons/200-tiny-buttons.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Screaming Brain Studios",
+      "source_url": "https://opengameart.org/content/200-tiny-buttons",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Screaming Brain Studios (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "200-tiny-buttons/preview.png",
+      "download_path": "200-tiny-buttons/200-tiny-buttons.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/n64-ui",
+      "name": "N64 UI",
+      "repo": "assets-ui-icons",
+      "file": "n64-ui/n64-ui.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "n64guy",
+      "source_url": "https://opengameart.org/content/n64-ui",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: n64guy (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "n64-ui/preview.png",
+      "download_path": "n64-ui/n64-ui.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/pixel-art-heal-skill-icons",
+      "name": "Pixel Art Heal Skill Icons",
+      "repo": "assets-ui-icons",
+      "file": "pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [
+        "heal"
+      ],
+      "author": "DustDFG",
+      "source_url": "https://opengameart.org/content/pixel-art-heal-skill-icons",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: DustDFG (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-21",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "pixel-art-heal-skill-icons/preview.png",
+      "download_path": "pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip"
       ],
       "sample": null,
       "multipart": false,
