@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ee426195198394eb3432777b67c7049913ce63a3",
-  "count": 2233,
+  "generated_from": "catalog.csv@7429ac2825ca9c50d0d4c5ec3e0869c31524353b",
+  "count": 2236,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -78742,6 +78742,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/baggage-tug",
+      "name": "Baggage Tug",
+      "repo": "assets-3d-polyfork",
+      "file": "baggage-tug/baggage-tug.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/baggage-tug-fb69f7",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Baggage Tug by Polyfork (https://polyfork.dev/asset/baggage-tug-fb69f7), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "baggage-tug/preview.png",
+      "download_path": "baggage-tug/baggage-tug.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/baggage-tug/baggage-tug.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/baggage-tug/baggage-tug.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/rammed-earth-farmhouse",
+      "name": "Rammed-Earth Farmhouse",
+      "repo": "assets-3d-polyfork",
+      "file": "rammed-earth-farmhouse/rammed-earth-farmhouse.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Rammed-Earth Farmhouse by Polyfork (https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "rammed-earth-farmhouse/preview.png",
+      "download_path": "rammed-earth-farmhouse/rammed-earth-farmhouse.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/rammed-earth-farmhouse/rammed-earth-farmhouse.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/rammed-earth-farmhouse/rammed-earth-farmhouse.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/stand-docking-guidance-display",
+      "name": "Stand Docking Guidance Display",
+      "repo": "assets-3d-polyfork",
+      "file": "stand-docking-guidance-display/stand-docking-guidance-display.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/stand-docking-guidance-display-2a0b05",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Stand Docking Guidance Display by Polyfork (https://polyfork.dev/asset/stand-docking-guidance-display-2a0b05), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "stand-docking-guidance-display/preview.png",
+      "download_path": "stand-docking-guidance-display/stand-docking-guidance-display.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip"
       ],
       "sample": null,
       "multipart": false,

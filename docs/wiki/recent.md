@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ee426195198394eb3432777b67c7049913ce63a3`
+> generated from `catalog.csv@7429ac2825ca9c50d0d4c5ec3e0869c31524353b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -15,6 +15,7 @@
 |---|---|---|---|---|---|---|---|
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
+| [Baggage Tug](https://polyfork.dev/asset/baggage-tug-fb69f7) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baggage-tug/baggage-tug.zip) | 2026-11-22 |
 | [Bronze Tripod Cauldron](https://polyfork.dev/asset/bronze-tripod-cauldron-7ee4ba) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/bronze-tripod-cauldron/bronze-tripod-cauldron.zip) | 2026-11-22 |
 | [Chinese Scholar Tree](https://polyfork.dev/asset/chinese-scholar-tree-059fce) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-scholar-tree/chinese-scholar-tree.zip) | 2026-11-22 |
 | [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip) | 2026-11-22 |
@@ -34,7 +35,9 @@
 | [Pixelated Button (for 2D Platformer)](https://opengameart.org/content/pixelated-button-for-2d-platformer) | `ui` | c0ffeenn\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip) | 2026-11-22 |
 | [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
+| [Rammed-Earth Farmhouse](https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rammed-earth-farmhouse/rammed-earth-farmhouse.zip) | 2026-11-22 |
 | [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
+| [Stand Docking Guidance Display](https://polyfork.dev/asset/stand-docking-guidance-display-2a0b05) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip) | 2026-11-22 |
 | [Steel Wreck Hull Section](https://polyfork.dev/asset/steel-wreck-hull-section-b3132a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip) | 2026-11-22 |
 | [The Haunted House On Your Street](https://opengameart.org/content/the-haunted-house-on-your-street) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip) | 2026-11-22 |
 | [Towbarless Pushback Tug](https://polyfork.dev/asset/towbarless-pushback-tug-989602) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [Graveyard Shift 키아트 (밤비 내리는 주유소 좀비)](https://github.com/ethanplusai/zombies) | `background-2d` | ethanplusai | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/zombies-keyart/zombies-keyart.zip) | 2026-11-20 |
 | [Han Weapon Rack](https://polyfork.dev/asset/han-weapon-rack-b51a33) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/han-weapon-rack/han-weapon-rack.zip) | 2026-11-20 |
 | [Iron Standing Brazier](https://polyfork.dev/asset/iron-standing-brazier-89d117) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/iron-standing-brazier/iron-standing-brazier.zip) | 2026-11-20 |
-| [Klarbase 절차적 섬 월드 생성 코드](https://github.com/TanmoyP/klarbase) | `other` | TanmoyP and Klarbase contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/klarbase-procedural-world/klarbase-procedural-world.zip) | 2026-11-20 |
-| [LANTERNFALL 절차적 3D RPG 코드 17종](https://github.com/loktar00/lanternfall) | `other` | loktar00 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lanternfall-procedural-code/lanternfall-procedural-code.zip) | 2026-11-20 |
-| [Opening the Window for Some Fresh Air](https://opengameart.org/content/opening-the-window-for-some-fresh-air) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip) | 2026-11-20 |

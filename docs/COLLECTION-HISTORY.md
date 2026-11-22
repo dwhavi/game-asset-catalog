@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-23 자동 수집 등록 (3팩, 2026-11-22 23:36 KST)
+
+- 팩: Baggage Tug (slug baggage-tug), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/baggage-tug-fb69f7
+- 저장: assets-3d-polyfork baggage-tug/baggage-tug.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2233→2236, 기존 행 불변 확인
+- 팩: Rammed-Earth Farmhouse (slug rammed-earth-farmhouse), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc
+- 저장: assets-3d-polyfork rammed-earth-farmhouse/rammed-earth-farmhouse.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2233→2236, 기존 행 불변 확인
+- 팩: Stand Docking Guidance Display (slug stand-docking-guidance-display), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/stand-docking-guidance-display-2a0b05
+- 저장: assets-3d-polyfork stand-docking-guidance-display/stand-docking-guidance-display.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2233→2236, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-20 자동 수집 등록 (2팩, 2026-11-22 20:50 KST)
 
 - 팩: Fun Hyper Casual UI (slug fun-hyper-casual-ui), 라이선스: CC-BY 3.0, 제작자: AlmostMikhail
