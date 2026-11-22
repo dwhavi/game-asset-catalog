@@ -1,5 +1,16 @@
 # 수집 이력 (라운드별 상세)
 
+### TREE-20261123 수동 등록 (2팩, 2026-11-23 KST)
+
+소유자 승인(iMessage, 2026-11-23 07:48 KST)으로 Rand Monster contributors의 MIT 생성기 lowpoly-tree-generator를 코드 팩과 생성 샘플 모델 팩으로 수집했습니다. 출처 저장소 클론(HEAD 4377dd6, package.json 메타데이터의 업스트림 rand-monster/lowpoly-tree-generator와 동일) 후 LICENSE(MIT, Copyright (c) 2026 Rand Monster contributors)·THIRD_PARTY_NOTICES(의존 3종 모두 MIT)·CREDITS(원본 코드, 제3자 모델 없음 명시)를 확인했습니다. Node 22에서 node --test 21개 전량 통과, 아키타입 6종 GLB 내보내기를 검증했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Lowpoly Tree Generator 절차적 나무 생성 코드](https://github.com/sigco3111/assets-code/tree/main/lowpoly-tree-generator) | assets-code | Rand Monster contributors | MIT | 생성기 전체 소스(src 7모듈·examples·test·문서, 43KB zip); 귀속 필수(저작권 표기+MIT 전문 유지); LICENSE.txt·LICENSE-SOURCE.txt·CREDITS.txt 동봉; 미리보기는 생성 모델 렌더 |
+| [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/lowpoly-tree-samples) | assets-3d-lowpoly-2 | Rand Monster contributors | MIT | 아키타입 6종 GLB(버텍스 컬러·무텍스처, 삼각형 705~1708, 덩굴 포함 4종, 141KB zip); MIT 조건 동일; LICENSE.txt·LICENSE-SOURCE.txt·CREDITS.txt 동봉; 미리보기는 6종 렌더 합성(소프트웨어 래스터) |
+
+종류: 코드 모듈 1팩(assets-code), 3D 자연 1팩(assets-3d-lowpoly-2). 라이선스: MIT 2팩. 새 저장소 없음. assets-code는 7→8팩, assets-3d-lowpoly-2는 219→220팩, 총 2,248→2,250팩.
+
 ### AUTO-20261123-07 자동 수집 등록 (3팩, 2026-11-23 07:29 KST)
 
 - 팩: Orc berserker (slug orc-berserker), 라이선스: CC-BY 4.0, 제작자: Polyfork

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@1062c4a0880fee4983c095f30787971cdcaae136",
-  "count": 2248,
+  "generated_from": "catalog.csv@9f36e33e752bf21c0b3bee9a25f35038be4242ef",
+  "count": 2250,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -79234,6 +79234,84 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-code/lowpoly-tree-generator-절차적-나무-생성-코드",
+      "name": "Lowpoly Tree Generator 절차적 나무 생성 코드",
+      "repo": "assets-code",
+      "file": "lowpoly-tree-generator/lowpoly-tree-generator.zip",
+      "type": "코드 모듈 (3D)",
+      "category": "other",
+      "tags": [
+        "code",
+        "javascript",
+        "threejs",
+        "procedural",
+        "3d",
+        "tree",
+        "generator",
+        "lowpoly",
+        "csg",
+        "glb",
+        "vines"
+      ],
+      "effect_kind": [],
+      "author": "Rand Monster contributors",
+      "source_url": "https://github.com/pajama-studio/lowpoly-tree-generator",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Rand Monster contributors)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "파라미터 기반 로우폴리 나무 생성기(CSG 용접 트렁크·뿌리·가지, 클러스터 캐노피, 아키타입 6종, 덩굴 옵션, GLB 내보내기); Three.js·three-bvh-csg·three-mesh-bvh 의존(모두 MIT, THIRD_PARTY_NOTICES 동봉); MIT 전문 LICENSE.txt 동봉; node --test 21개 통과(2026-11-23); 생성 샘플은 assets-3d-lowpoly-2 lowpoly-tree-samples",
+      "preview": "lowpoly-tree-generator/preview.png",
+      "download_path": "lowpoly-tree-generator/lowpoly-tree-generator.zip",
+      "download_url": "https://github.com/sigco3111/assets-code/raw/main/lowpoly-tree-generator/lowpoly-tree-generator.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-code/raw/main/lowpoly-tree-generator/lowpoly-tree-generator.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/lowpoly-tree-샘플-모델-6종-glb",
+      "name": "Lowpoly Tree 샘플 모델 6종 (GLB)",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "lowpoly-tree-samples/lowpoly-tree-samples.zip",
+      "type": "3D 자연",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "lowpoly",
+        "tree",
+        "procedural",
+        "glb",
+        "nature",
+        "vegetation"
+      ],
+      "effect_kind": [],
+      "author": "Rand Monster contributors",
+      "source_url": "https://github.com/pajama-studio/lowpoly-tree-generator",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Rand Monster contributors)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "MIT 생성기(lowpoly-tree-generator) 아키타입 6종을 GLB로 내보낸 샘플; 버텍스 컬러·무텍스처; 삼각형 705~1708; 덩굴 포함 모델 4종; MIT 전문 LICENSE 동봉; 코드 팩은 assets-code lowpoly-tree-generator",
+      "preview": "lowpoly-tree-samples/preview.png",
+      "download_path": "lowpoly-tree-samples/lowpoly-tree-samples.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip"
       ],
       "sample": null,
       "multipart": false,
