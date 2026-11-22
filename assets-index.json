@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@f4eba33b25158ce56804f476082b54388b414491",
-  "count": 2253,
+  "generated_from": "catalog.csv@4882a7d74c9d515a4f90407fdd3eb9ff47e22db6",
+  "count": 2256,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -79442,6 +79442,102 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/procedural-animal-samples/procedural-animal-samples.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/procedural-animal-samples/procedural-animal-samples.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/generic-video-game-music",
+      "name": "Generic video game music",
+      "repo": "assets-audio",
+      "file": "generic-video-game-music/generic-video-game-music.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Bonky",
+      "source_url": "https://opengameart.org/content/generic-video-game-music",
+      "license": "OGA-BY 3.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "필수: Bonky (opengameart.org), OGA-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) OGA-BY 3.0 확인 (자동 수집, 원문: : OGA-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "generic-video-game-music/generic-video-game-music.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/generic-video-game-music/generic-video-game-music.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/generic-video-game-music/generic-video-game-music.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/nintendo-esque-menu-music",
+      "name": "Nintendo-esque Menu Music",
+      "repo": "assets-audio",
+      "file": "nintendo-esque-menu-music/nintendo-esque-menu-music.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Bonky",
+      "source_url": "https://opengameart.org/content/nintendo-esque-menu-music",
+      "license": "OGA-BY 3.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "필수: Bonky (opengameart.org), OGA-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) OGA-BY 3.0 확인 (자동 수집, 원문: : OGA-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "nintendo-esque-menu-music/nintendo-esque-menu-music.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/nintendo-esque-menu-music/nintendo-esque-menu-music.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/nintendo-esque-menu-music/nintendo-esque-menu-music.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/spooky-month",
+      "name": "Spooky Month",
+      "repo": "assets-audio",
+      "file": "spooky-month/spooky-month.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Bonky",
+      "source_url": "https://opengameart.org/content/spooky-month",
+      "license": "OGA-BY 3.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "필수: Bonky (opengameart.org), OGA-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) OGA-BY 3.0 확인 (자동 수집, 원문: : OGA-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "spooky-month/spooky-month.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/spooky-month/spooky-month.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/spooky-month/spooky-month.zip"
       ],
       "sample": null,
       "multipart": false,

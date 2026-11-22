@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@f4eba33b25158ce56804f476082b54388b414491`
+> generated from `catalog.csv@4882a7d74c9d515a4f90407fdd3eb9ff47e22db6`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -40,6 +40,7 @@
 | [Departures Kerb Canopy Run](https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip) | 2026-11-22 |
 | [Fun Hyper Casual UI](https://opengameart.org/content/fun-hyper-casual-ui) | `ui` | AlmostMikhail | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fun-hyper-casual-ui/fun-hyper-casual-ui.zip) | 2026-11-22 |
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
+| [Generic video game music](https://opengameart.org/content/generic-video-game-music) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/generic-video-game-music/generic-video-game-music.zip) | 2026-11-22 |
 | [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip) | 2026-11-22 |
 | [Jujube Tree](https://polyfork.dev/asset/jujube-tree-0e69dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip) | 2026-11-22 |
 | [Lacquer Tree](https://polyfork.dev/asset/lacquer-tree-6b8e43) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lacquer-tree/lacquer-tree.zip) | 2026-11-22 |
@@ -47,6 +48,7 @@
 | [Lever and Button](https://opengameart.org/content/lever-and-button) | `ui` | FunnyDude | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip) | 2026-11-22 |
 | [Loading Screen](https://opengameart.org/content/loading-screen) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-loading-screen/loading-screen.zip) | 2026-11-22 |
 | [Mulberry Tree](https://polyfork.dev/asset/mulberry-tree-032f4e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mulberry-tree/mulberry-tree.zip) | 2026-11-22 |
+| [Nintendo-esque Menu Music](https://opengameart.org/content/nintendo-esque-menu-music) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/nintendo-esque-menu-music/nintendo-esque-menu-music.zip) | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
 | [Piano](https://opengameart.org/content/piano-0) | `music` | maggie.beans3696 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/piano-0/piano-0.zip) | 2026-11-22 |
 | [Pixelated Button (for 2D Platformer)](https://opengameart.org/content/pixelated-button-for-2d-platformer) | `ui` | c0ffeenn\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip) | 2026-11-22 |
@@ -54,6 +56,7 @@
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
 | [Rammed-Earth Farmhouse](https://polyfork.dev/asset/rammed-earth-farmhouse-6432fc) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/rammed-earth-farmhouse/rammed-earth-farmhouse.zip) | 2026-11-22 |
 | [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
+| [Spooky Month](https://opengameart.org/content/spooky-month) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/spooky-month/spooky-month.zip) | 2026-11-22 |
 | [Stand Docking Guidance Display](https://polyfork.dev/asset/stand-docking-guidance-display-2a0b05) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip) | 2026-11-22 |
 | [Steel Wreck Hull Section](https://polyfork.dev/asset/steel-wreck-hull-section-b3132a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip) | 2026-11-22 |
 | [The Haunted House On Your Street](https://opengameart.org/content/the-haunted-house-on-your-street) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [Battle Drones 키아트 (가로·세로 2종)](https://github.com/simonw/battledrones) | `background-2d` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-keyart/battledrones-keyart.zip) | 2026-11-20 |
 | [Battle Drones 페인티드 지형 맵 7종 (알베도 타일)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/battledrones-terrain-maps/battledrones-terrain-maps.zip) | 2026-11-20 |
 | [C Tonal Electronic](https://opengameart.org/content/c-tonal-electronic) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/c-tonal-electronic/c-tonal-electronic.zip) | 2026-11-20 |
-| [Cadle WebAudio 합성 음향 엔진](https://github.com/Humpalumps/Cadle) | `other` | Ian Cadle (Humpalumps) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cadle-webaudio-synth/cadle-webaudio-synth.zip) | 2026-11-20 |
-| [Chasing Excellence](https://opengameart.org/content/chasing-excellence) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/chasing-excellence/chasing-excellence.zip) | 2026-11-20 |
-| [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/clay-wine-jar/clay-wine-jar.zip) | 2026-11-20 |

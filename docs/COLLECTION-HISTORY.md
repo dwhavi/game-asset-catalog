@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-08 자동 수집 등록 (3팩, 2026-11-23 08:45 KST)
+
+- 팩: Generic video game music (slug generic-video-game-music), 라이선스: OGA-BY 3.0, 제작자: Bonky
+- 출처: https://opengameart.org/content/generic-video-game-music
+- 저장: assets-3d-lowpoly-2 generic-video-game-music/generic-video-game-music.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2253→2256, 기존 행 불변 확인
+- 팩: Nintendo-esque Menu Music (slug nintendo-esque-menu-music), 라이선스: OGA-BY 3.0, 제작자: Bonky
+- 출처: https://opengameart.org/content/nintendo-esque-menu-music
+- 저장: assets-3d-lowpoly-2 nintendo-esque-menu-music/nintendo-esque-menu-music.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2253→2256, 기존 행 불변 확인
+- 팩: Spooky Month (slug spooky-month), 라이선스: OGA-BY 3.0, 제작자: Bonky
+- 출처: https://opengameart.org/content/spooky-month
+- 저장: assets-3d-lowpoly-2 spooky-month/spooky-month.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2253→2256, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### ANI-20261123 수동 등록 (2팩, 2026-11-23 KST)
 
 소유자 요청(iMessage phoneconv-01M7H19AJTBYEDBPZNMGRHESDR, 2026-11-23 08:24 KST)으로 Majid Manzarpour의 MIT 코드 저장소 threejs-procedural-animals를 코드 팩과 베이크 샘플 팩으로 수집했습니다. 출처 저장소 클론(HEAD c95ae49) 후 LICENSE(MIT, Copyright (c) 2026 Majid Manzarpour and procedural-animals contributors)를 확인했고, 모델·텍스처·오디오 같은 번들 미디어가 없는 코드 전용 저장소(동물은 실행 시 코드로 생성)임을 파일 목록·README로 확인했습니다. 유일한 의존은 three.js 피어 의존(MIT, 미번들)입니다. Node 22에서 `node tools/test.mjs` 24종 전량 통과, bake CLI로 6종 개체를 베이크하고 도구 자체 검증(배열 라운드트립 동일·로드 후 본 행렬 NaN 없음·버텍스 수 일치)을 통과했습니다. 미리보기는 베이크 개체 6종을 헤드리스 크롬 WebGL로 실제 렌더한 이미지입니다.

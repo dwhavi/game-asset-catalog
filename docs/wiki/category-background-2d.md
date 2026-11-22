@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@f4eba33b25158ce56804f476082b54388b414491`
+> generated from `catalog.csv@4882a7d74c9d515a4f90407fdd3eb9ff47e22db6`
 
 # 2D 배경 모음
 
