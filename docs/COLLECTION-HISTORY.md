@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-20 자동 수집 등록 (3팩, 2026-11-22 20:14 KST)
+
+- 팩: A Short Walk With You (slug a-short-walk-with-you), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/a-short-walk-with-you
+- 저장: assets-3d-lowpoly-2 a-short-walk-with-you/a-short-walk-with-you.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2228→2231, 기존 행 불변 확인
+- 팩: Let's Go Shopping (slug lets-go-shopping-0), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/lets-go-shopping-0
+- 저장: assets-3d-lowpoly-2 lets-go-shopping-0/lets-go-shopping-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2228→2231, 기존 행 불변 확인
+- 팩: The Haunted House On Your Street (slug the-haunted-house-on-your-street), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/the-haunted-house-on-your-street
+- 저장: assets-3d-lowpoly-2 the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2228→2231, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-19 자동 수집 등록 (3팩, 2026-11-22 19:35 KST)
 
 - 팩: Lacquer Tree (slug lacquer-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork
