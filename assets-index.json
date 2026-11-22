@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@7429ac2825ca9c50d0d4c5ec3e0869c31524353b",
-  "count": 2236,
+  "generated_from": "catalog.csv@c7f0038a69c83c9e87cc60dd208e734676d6ec09",
+  "count": 2239,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -78841,6 +78841,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/fuel-technician",
+      "name": "Fuel Technician",
+      "repo": "assets-3d-polyfork",
+      "file": "fuel-technician/fuel-technician.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/fuel-technician-df4ce0",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Fuel Technician by Polyfork (https://polyfork.dev/asset/fuel-technician-df4ce0), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "fuel-technician/preview.png",
+      "download_path": "fuel-technician/fuel-technician.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/pack-donkey",
+      "name": "Pack Donkey",
+      "repo": "assets-3d-polyfork",
+      "file": "pack-donkey/pack-donkey.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/pack-donkey-c69029",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Pack Donkey by Polyfork (https://polyfork.dev/asset/pack-donkey-c69029), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "pack-donkey/preview.png",
+      "download_path": "pack-donkey/pack-donkey.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/runway-edge-light-run",
+      "name": "Runway Edge Light Run",
+      "repo": "assets-3d-polyfork",
+      "file": "runway-edge-light-run/runway-edge-light-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/runway-edge-light-run-ebe7e1",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Runway Edge Light Run by Polyfork (https://polyfork.dev/asset/runway-edge-light-run-ebe7e1), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "runway-edge-light-run/preview.png",
+      "download_path": "runway-edge-light-run/runway-edge-light-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip"
       ],
       "sample": null,
       "multipart": false,

@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-01 자동 수집 등록 (3팩, 2026-11-23 01:38 KST)
+
+- 팩: Fuel Technician (slug fuel-technician), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/fuel-technician-df4ce0
+- 저장: assets-3d-polyfork fuel-technician/fuel-technician.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2236→2239, 기존 행 불변 확인
+- 팩: Pack Donkey (slug pack-donkey), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/pack-donkey-c69029
+- 저장: assets-3d-polyfork pack-donkey/pack-donkey.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2236→2239, 기존 행 불변 확인
+- 팩: Runway Edge Light Run (slug runway-edge-light-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/runway-edge-light-run-ebe7e1
+- 저장: assets-3d-polyfork runway-edge-light-run/runway-edge-light-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2236→2239, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-23 자동 수집 등록 (3팩, 2026-11-22 23:36 KST)
 
 - 팩: Baggage Tug (slug baggage-tug), 라이선스: CC-BY 4.0, 제작자: Polyfork
