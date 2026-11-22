@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### ANI-20261123 수동 등록 (2팩, 2026-11-23 KST)
+
+소유자 요청(iMessage phoneconv-01M7H19AJTBYEDBPZNMGRHESDR, 2026-11-23 08:24 KST)으로 Majid Manzarpour의 MIT 코드 저장소 threejs-procedural-animals를 코드 팩과 베이크 샘플 팩으로 수집했습니다. 출처 저장소 클론(HEAD c95ae49) 후 LICENSE(MIT, Copyright (c) 2026 Majid Manzarpour and procedural-animals contributors)를 확인했고, 모델·텍스처·오디오 같은 번들 미디어가 없는 코드 전용 저장소(동물은 실행 시 코드로 생성)임을 파일 목록·README로 확인했습니다. 유일한 의존은 three.js 피어 의존(MIT, 미번들)입니다. Node 22에서 `node tools/test.mjs` 24종 전량 통과, bake CLI로 6종 개체를 베이크하고 도구 자체 검증(배열 라운드트립 동일·로드 후 본 행렬 NaN 없음·버텍스 수 일치)을 통과했습니다. 미리보기는 베이크 개체 6종을 헤드리스 크롬 WebGL로 실제 렌더한 이미지입니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Procedural Animals 절차적 동물 24종 코드 (three.js)](https://github.com/sigco3111/assets-code/tree/main/procedural-animals-threejs) | assets-code | Majid Manzarpour and procedural-animals contributors | MIT | 생성기 전체 소스(src 239파일·타입 선언·bake CLI·문서, 1.2MB zip); 귀속 필수(저작권 표기+MIT 전문 유지); LICENSE.txt·LICENSE-SOURCE.txt·CREDITS.txt 동봉; 미리보기는 베이크 개체 실제 렌더 |
+| [Procedural Animals 베이크 샘플 6종 (.animal)](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/procedural-animal-samples) | assets-3d-lowpoly-2 | Majid Manzarpour and procedural-animals contributors | MIT | 6종 베이크 개체 .animal(seed 3, quality high, 64,814~75,503 버텍스, 25MB zip); 리그·스킨·애니메이션 포함 전용 포맷(로드에 동일 라이브러리 필요, GLB 아님); MIT 조건 동일; LICENSE.txt·LICENSE-SOURCE.txt·CREDITS.txt·README.txt 동봉; 미리보기는 6종 실제 렌더 |
+
+종류: 코드 모듈 1팩(assets-code), 3D 동물 1팩(assets-3d-lowpoly-2). 라이선스: MIT 2팩. 새 저장소 없음. assets-code는 9→10팩, 총 2,251→2,253팩.
+
+
 ### GP-20261123 수동 등록 (1팩, 2026-11-23 KST)
 
 소유자 요청(iMessage phoneconv-01M7H19AJTBYEDBPZNMGRHESDR, 2026-11-23 08:00 KST)으로 mohamedachrefelouafi의 MIT 코드 저장소 GeometryPainterThreeJS를 코드 팩으로 수집했습니다. 출처 저장소 클론(HEAD 79c7556) 후 LICENSE(MIT, Copyright (c) 2026 mohamedachrefelouafi)를 확인했고, 번들 모델·텍스처·오디오가 없는 코드 전용 저장소(ts/html/json/md/css만)임을 파일 목록으로 확인했습니다. Node 22에서 npm run build(tsc --noEmit 포함) 통과, 헤드리스 크롬 WebGL2 백엔드로 크리스탈 모드 실제 렌더를 캡처해 동작을 검증했습니다.
