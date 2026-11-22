@@ -1,5 +1,17 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-20 자동 수집 등록 (2팩, 2026-11-22 20:50 KST)
+
+- 팩: Fun Hyper Casual UI (slug fun-hyper-casual-ui), 라이선스: CC-BY 3.0, 제작자: AlmostMikhail
+- 출처: https://opengameart.org/content/fun-hyper-casual-ui
+- 저장: assets-3d-lowpoly-2 fun-hyper-casual-ui/fun-hyper-casual-ui.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2231→2233, 기존 행 불변 확인
+- 팩: Pixelated Button (for 2D Platformer) (slug pixelated-button-for-2d-platformer), 라이선스: CC0, 제작자: c0ffeenn_
+- 출처: https://opengameart.org/content/pixelated-button-for-2d-platformer
+- 저장: assets-3d-lowpoly-2 pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2231→2233, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-20 자동 수집 등록 (3팩, 2026-11-22 20:14 KST)
 
 - 팩: A Short Walk With You (slug a-short-walk-with-you), 라이선스: CC-BY 4.0, 제작자: purrplecat

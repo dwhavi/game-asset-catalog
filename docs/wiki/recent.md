@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@73979e542c70db3ee05c143c644e21247e107648`
+> generated from `catalog.csv@ee426195198394eb3432777b67c7049913ce63a3`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -22,6 +22,7 @@
 | [Column Run](https://polyfork.dev/asset/column-run-018da3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/column-run/column-run.zip) | 2026-11-22 |
 | [Container Loader](https://polyfork.dev/asset/container-loader-254a74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/container-loader/container-loader.zip) | 2026-11-22 |
 | [Departures Kerb Canopy Run](https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip) | 2026-11-22 |
+| [Fun Hyper Casual UI](https://opengameart.org/content/fun-hyper-casual-ui) | `ui` | AlmostMikhail | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fun-hyper-casual-ui/fun-hyper-casual-ui.zip) | 2026-11-22 |
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
 | [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip) | 2026-11-22 |
 | [Jujube Tree](https://polyfork.dev/asset/jujube-tree-0e69dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip) | 2026-11-22 |
@@ -30,6 +31,7 @@
 | [Lever and Button](https://opengameart.org/content/lever-and-button) | `ui` | FunnyDude | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip) | 2026-11-22 |
 | [Mulberry Tree](https://polyfork.dev/asset/mulberry-tree-032f4e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mulberry-tree/mulberry-tree.zip) | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
+| [Pixelated Button (for 2D Platformer)](https://opengameart.org/content/pixelated-button-for-2d-platformer) | `ui` | c0ffeenn\_ | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip) | 2026-11-22 |
 | [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
 | [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
@@ -111,5 +113,3 @@
 | [Klarbase 절차적 섬 월드 생성 코드](https://github.com/TanmoyP/klarbase) | `other` | TanmoyP and Klarbase contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/klarbase-procedural-world/klarbase-procedural-world.zip) | 2026-11-20 |
 | [LANTERNFALL 절차적 3D RPG 코드 17종](https://github.com/loktar00/lanternfall) | `other` | loktar00 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lanternfall-procedural-code/lanternfall-procedural-code.zip) | 2026-11-20 |
 | [Opening the Window for Some Fresh Air](https://opengameart.org/content/opening-the-window-for-some-fresh-air) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/opening-the-window-for-some-fresh-air/opening-the-window-for-some-fresh-air.zip) | 2026-11-20 |
-| [Ox Cart](https://polyfork.dev/asset/ox-cart-c12bca) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ox-cart/ox-cart.zip) | 2026-11-20 |
-| [Papertrails 종이 질감 텍스처 9종](https://github.com/xikhar/papertrails) | `texture` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/papertrails-paper-textures/papertrails-paper-textures.zip) | 2026-11-20 |

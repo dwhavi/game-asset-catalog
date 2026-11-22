@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@73979e542c70db3ee05c143c644e21247e107648",
-  "count": 2231,
+  "generated_from": "catalog.csv@ee426195198394eb3432777b67c7049913ce63a3",
+  "count": 2233,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -78676,6 +78676,72 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/fun-hyper-casual-ui",
+      "name": "Fun Hyper Casual UI",
+      "repo": "assets-ui-icons",
+      "file": "fun-hyper-casual-ui/fun-hyper-casual-ui.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "AlmostMikhail",
+      "source_url": "https://opengameart.org/content/fun-hyper-casual-ui",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: AlmostMikhail (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": "fun-hyper-casual-ui/preview.png",
+      "download_path": "fun-hyper-casual-ui/fun-hyper-casual-ui.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/fun-hyper-casual-ui/fun-hyper-casual-ui.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/fun-hyper-casual-ui/fun-hyper-casual-ui.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/pixelated-button-for-2d-platformer",
+      "name": "Pixelated Button (for 2D Platformer)",
+      "repo": "assets-ui-icons",
+      "file": "pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "c0ffeenn_",
+      "source_url": "https://opengameart.org/content/pixelated-button-for-2d-platformer",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: c0ffeenn_ (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "pixelated-button-for-2d-platformer/preview.png",
+      "download_path": "pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/pixelated-button-for-2d-platformer/pixelated-button-for-2d-platformer.zip"
       ],
       "sample": null,
       "multipart": false,
