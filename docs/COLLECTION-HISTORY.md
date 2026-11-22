@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-03 자동 수집 등록 (3팩, 2026-11-23 03:31 KST)
+
+- 팩: Cave (slug cave-1), 라이선스: CC-BY 4.0, 제작자: maggie.beans3696
+- 출처: https://opengameart.org/content/cave-1
+- 저장: assets-3d-lowpoly-2 cave-1/cave-1.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2242→2245, 기존 행 불변 확인
+- 팩: Loading Screen (slug loading-screen), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/loading-screen
+- 저장: assets-3d-lowpoly-2 release:pack-loading-screen/loading-screen.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2242→2245, 기존 행 불변 확인
+- 팩: Piano (slug piano-0), 라이선스: CC-BY 4.0, 제작자: maggie.beans3696
+- 출처: https://opengameart.org/content/piano-0
+- 저장: assets-3d-lowpoly-2 piano-0/piano-0.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2242→2245, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-02 자동 수집 등록 (3팩, 2026-11-23 02:09 KST)
 
 - 팩: Iron-Banded Chest (slug iron-banded-chest), 라이선스: CC-BY 4.0, 제작자: Polyfork

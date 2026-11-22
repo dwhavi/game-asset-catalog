@@ -1,22 +1,25 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ef90b03c4e9ca882c02feb6f9268cb672f544ee9`
+> generated from `catalog.csv@eb5c11727d5ab02d3310f4fab7790290aa30cc29`
 
 # 음악 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `music`(음악)에 해당하는 에셋 **257개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
+분류 `music`(음악)에 해당하는 에셋 **260개**입니다. 라이브러리에서 보기: [?cat=music](https://sigco3111.github.io/game-asset-catalog/?cat=music)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 257행 (전체 257개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 260행 (전체 260개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
+| [Cave](https://opengameart.org/content/cave-1) | `music` | maggie.beans3696 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cave-1/cave-1.zip) | 2026-11-22 |
 | [Let's Go Shopping](https://opengameart.org/content/lets-go-shopping-0) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/lets-go-shopping-0/lets-go-shopping-0.zip) | 2026-11-22 |
+| [Loading Screen](https://opengameart.org/content/loading-screen) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-loading-screen/loading-screen.zip) | 2026-11-22 |
+| [Piano](https://opengameart.org/content/piano-0) | `music` | maggie.beans3696 | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/piano-0/piano-0.zip) | 2026-11-22 |
 | [The Haunted House On Your Street](https://opengameart.org/content/the-haunted-house-on-your-street) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip) | 2026-11-22 |
 | [C Tonal](https://opengameart.org/content/c-tonal) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/c-tonal/c-tonal.zip) | 2026-11-21 |
 | [deluge](https://opengameart.org/content/deluge) | `music` | tomcat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/deluge/deluge.zip) | 2026-11-21 |
