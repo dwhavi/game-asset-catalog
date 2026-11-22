@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-09 자동 수집 등록 (3팩, 2026-11-22 09:31 KST)
+
+- 팩: City Wall Run (slug city-wall-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/city-wall-run-1f4c31
+- 저장: assets-3d-polyfork city-wall-run/city-wall-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2207→2210, 기존 행 불변 확인
+- 팩: Que Pillar Tower (slug que-pillar-tower), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/que-pillar-tower-40d7f3
+- 저장: assets-3d-polyfork que-pillar-tower/que-pillar-tower.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2207→2210, 기존 행 불변 확인
+- 팩: Smithy (slug smithy), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/smithy-c5a4be
+- 저장: assets-3d-polyfork smithy/smithy.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2207→2210, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-08 자동 수집 등록 (3팩, 2026-11-22 08:35 KST)
 
 - 팩: Exclamation / Quest Icon (slug exclamation-quest-icon), 라이선스: CC0, 제작자: donte

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@38a89c2f01ed7155be417427365a8217dbce4f0b`
+> generated from `catalog.csv@1c91ed5ffab435a6115d994a3bc759cfac837a6b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,9 +13,12 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip) | 2026-11-22 |
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
+| [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
+| [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
 | [Wall Corner Tower](https://polyfork.dev/asset/wall-corner-tower-524c61) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip) | 2026-11-22 |
 | [Wattle Fence Run](https://polyfork.dev/asset/wattle-fence-run-703830) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip) | 2026-11-22 |
 | [Windlass Well](https://polyfork.dev/asset/windlass-well-ebc2fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [Starember Field Render Modules](https://github.com/weit0529/gamedemo_by_Fable5.2) | `other` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-code/raw/main/starember-field-render/starember-field-render.zip) | 2026-11-20 |
 | [Starember Field Synthesized SFX](https://github.com/weit0529/gamedemo_by_Fable5.2) | `sfx` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/starember-field-sfx/starember-field-sfx.zip) | 2026-11-20 |
 | [Stone-Flagged Courtyard Tile](https://polyfork.dev/asset/stone-flagged-courtyard-tile-529c20) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/stone-flagged-courtyard-tile/stone-flagged-courtyard-tile.zip) | 2026-11-20 |
-| [Technology and Machinery Icons](https://opengameart.org/content/technology-and-machinery-icons) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/technology-and-machinery-icons/technology-and-machinery-icons.zip) | 2026-11-20 |
-| [The Lost Storm CC-BY 4.0 Models](https://github.com/sigco3111/the-lost-storm-ko) | `model-3d` | 다수(Sketchfab·PolyOne·martinjario·100STYLE) | CC BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-ccby-models/the-lost-storm-ccby-models.zip) | 2026-11-20 |
-| [The Lost Storm CC0 PBR Textures](https://github.com/sigco3111/the-lost-storm-ko) | `other` | Poly Haven | CC0 1.0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/the-lost-storm-cc0-textures/the-lost-storm-cc0-textures.zip) | 2026-11-20 |

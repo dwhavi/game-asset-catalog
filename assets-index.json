@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@38a89c2f01ed7155be417427365a8217dbce4f0b",
-  "count": 2207,
+  "generated_from": "catalog.csv@1c91ed5ffab435a6115d994a3bc759cfac837a6b",
+  "count": 2210,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77890,6 +77890,105 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/city-wall-run",
+      "name": "City Wall Run",
+      "repo": "assets-3d-polyfork",
+      "file": "city-wall-run/city-wall-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/city-wall-run-1f4c31",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "City Wall Run by Polyfork (https://polyfork.dev/asset/city-wall-run-1f4c31), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "city-wall-run/preview.png",
+      "download_path": "city-wall-run/city-wall-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/que-pillar-tower",
+      "name": "Que Pillar Tower",
+      "repo": "assets-3d-polyfork",
+      "file": "que-pillar-tower/que-pillar-tower.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/que-pillar-tower-40d7f3",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Que Pillar Tower by Polyfork (https://polyfork.dev/asset/que-pillar-tower-40d7f3), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "que-pillar-tower/preview.png",
+      "download_path": "que-pillar-tower/que-pillar-tower.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/smithy",
+      "name": "Smithy",
+      "repo": "assets-3d-polyfork",
+      "file": "smithy/smithy.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/smithy-c5a4be",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Smithy by Polyfork (https://polyfork.dev/asset/smithy-c5a4be), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "smithy/preview.png",
+      "download_path": "smithy/smithy.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip"
       ],
       "sample": null,
       "multipart": false,
