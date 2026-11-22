@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@2b8f1ced6f1a953275145076bbae7deb96839a9d`
+> generated from `catalog.csv@1062c4a0880fee4983c095f30787971cdcaae136`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2245개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2248개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1902 | 0 | 예 |
-| cc-by | CC-BY | 297 | 297 | 예 |
+| cc-by | CC-BY | 300 | 300 | 예 |
 | mit | MIT | 14 | 13 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 21 | 18 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1900 |
-| CC-BY 4.0 | cc-by | O | 163 |
+| CC-BY 4.0 | cc-by | O | 166 |
 | CC-BY 3.0 | cc-by | O | 115 |
 | MIT | mit | O | 13 |
 | CC-BY | cc-by | O | 11 |
@@ -54,14 +54,17 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 339개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 342개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | Polyfork | CC-BY 4.0 | Fuel Technician by Polyfork (https://polyfork.dev/asset/fuel-technician-df4ce0), CC BY 4.0 | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | Polyfork | CC-BY 4.0 | Iron-Banded Chest by Polyfork (https://polyfork.dev/asset/iron-banded-chest-64731f), CC BY 4.0 | 2026-11-23 |
+| [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | Polyfork | CC-BY 4.0 | Orc berserker by Polyfork (https://polyfork.dev/asset/orc-berserker-base), CC BY 4.0 | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | Polyfork | CC-BY 4.0 | Pack Donkey by Polyfork (https://polyfork.dev/asset/pack-donkey-c69029), CC BY 4.0 | 2026-11-23 |
+| [Reindeer](https://polyfork.dev/asset/reindeer-base) | Polyfork | CC-BY 4.0 | Reindeer by Polyfork (https://polyfork.dev/asset/reindeer-base), CC BY 4.0 | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | Polyfork | CC-BY 4.0 | Runway Edge Light Run by Polyfork (https://polyfork.dev/asset/runway-edge-light-run-ebe7e1), CC BY 4.0 | 2026-11-23 |
+| [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | Polyfork | CC-BY 4.0 | Training Bench by Polyfork (https://polyfork.dev/asset/training-bench-34f148), CC BY 4.0 | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | Polyfork | CC-BY 4.0 | Traveller by Polyfork (https://polyfork.dev/asset/traveller-92f20c), CC BY 4.0 | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | Polyfork | CC-BY 4.0 | Weapon Rack by Polyfork (https://polyfork.dev/asset/weapon-rack-962f74), CC BY 4.0 | 2026-11-23 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | purrplecat | CC-BY 4.0 | 필수: purrplecat (opengameart.org), CC-BY 4.0 | 2026-11-22 |

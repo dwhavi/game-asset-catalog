@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@2b8f1ced6f1a953275145076bbae7deb96839a9d`
+> generated from `catalog.csv@1062c4a0880fee4983c095f30787971cdcaae136`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -15,8 +15,11 @@
 |---|---|---|---|---|---|---|---|
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip) | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
+| [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip) | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip) | 2026-11-23 |
+| [Reindeer](https://polyfork.dev/asset/reindeer-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer/reindeer.zip) | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip) | 2026-11-23 |
+| [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [Cold Boot 할보르센 3D 머리 (MakeHuman CC0)](https://github.com/rossinek/cold-boot) | `character-3d` | MakeHuman team (가공: rossinek) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-halvorsen-head/cold-boot-halvorsen-head.zip) | 2026-11-20 |
 | [Concrete Echo FPS 프롭 3D 모델 24종+Soldier](https://github.com/Rikinshah787/Game-Fable-5.2) | `model-3d` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/concrete-echo-props/concrete-echo-props.zip) | 2026-11-20 |
 | [Concrete Echo 콘크리트·플라스터 PBR 텍스처 6쌍](https://github.com/Rikinshah787/Game-Fable-5.2) | `other` | Rikinshah787 | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/concrete-echo-concrete-textures/concrete-echo-concrete-textures.zip) | 2026-11-20 |
-| [Cool Adventure](https://opengameart.org/content/cool-adventure) | `music` | MintoDog | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/cool-adventure/cool-adventure.zip) | 2026-11-20 |
-| [cyber core](https://opengameart.org/content/cyber-core) | `music` | oglsdl | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-cyber-core/cyber-core.zip) | 2026-11-20 |
-| [Dark ARPG UI](https://opengameart.org/content/dark-arpg-ui) | `ui` | vault13dweller | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/dark-arpg-ui/dark-arpg-ui.zip) | 2026-11-20 |

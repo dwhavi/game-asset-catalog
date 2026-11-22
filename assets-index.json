@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@2b8f1ced6f1a953275145076bbae7deb96839a9d",
-  "count": 2245,
+  "generated_from": "catalog.csv@1062c4a0880fee4983c095f30787971cdcaae136",
+  "count": 2248,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -79135,6 +79135,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/piano-0/piano-0.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/piano-0/piano-0.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/orc-berserker",
+      "name": "Orc berserker",
+      "repo": "assets-3d-polyfork",
+      "file": "orc-berserker/orc-berserker.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/orc-berserker-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Orc berserker by Polyfork (https://polyfork.dev/asset/orc-berserker-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "orc-berserker/preview.png",
+      "download_path": "orc-berserker/orc-berserker.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/reindeer",
+      "name": "Reindeer",
+      "repo": "assets-3d-polyfork",
+      "file": "reindeer/reindeer.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/reindeer-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Reindeer by Polyfork (https://polyfork.dev/asset/reindeer-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "reindeer/preview.png",
+      "download_path": "reindeer/reindeer.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer/reindeer.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer/reindeer.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/training-bench",
+      "name": "Training Bench",
+      "repo": "assets-3d-polyfork",
+      "file": "training-bench/training-bench.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/training-bench-34f148",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Training Bench by Polyfork (https://polyfork.dev/asset/training-bench-34f148), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "training-bench/preview.png",
+      "download_path": "training-bench/training-bench.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip"
       ],
       "sample": null,
       "multipart": false,
