@@ -1,5 +1,33 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-17 자동 수집 등록 (6팩, 2026-11-22 17:52 KST)
+
+- 팩: Bronze Tripod Cauldron (slug bronze-tripod-cauldron), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/bronze-tripod-cauldron-7ee4ba
+- 저장: assets-3d-polyfork bronze-tripod-cauldron/bronze-tripod-cauldron.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2219→2225, 기존 행 불변 확인
+- 팩: Chinese Scholar Tree (slug chinese-scholar-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/chinese-scholar-tree-059fce
+- 저장: assets-3d-polyfork chinese-scholar-tree/chinese-scholar-tree.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2219→2225, 기존 행 불변 확인
+- 팩: Column Run (slug column-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/column-run-018da3
+- 저장: assets-3d-polyfork column-run/column-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2219→2225, 기존 행 불변 확인
+- 팩: Human vest shorts (slug human-vest-shorts), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/human-vest-shorts-base
+- 저장: assets-3d-polyfork human-vest-shorts/human-vest-shorts.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2219→2225, 기존 행 불변 확인
+- 팩: Jujube Tree (slug jujube-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/jujube-tree-0e69dd
+- 저장: assets-3d-polyfork jujube-tree/jujube-tree.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2219→2225, 기존 행 불변 확인
+- 팩: Steel Wreck Hull Section (slug steel-wreck-hull-section), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/steel-wreck-hull-section-b3132a
+- 저장: assets-3d-polyfork steel-wreck-hull-section/steel-wreck-hull-section.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2219→2225, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-12 자동 수집 등록 (3팩, 2026-11-22 12:29 KST)
 
 - 팩: Assets Free Interface UI Dark Miko (slug assets-free-interface-ui-dark-miko), 라이선스: CC0, 제작자: Wenrexa

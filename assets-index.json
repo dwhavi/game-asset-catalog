@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@0af66643b3bf4c277588abba0f489b60e88667a8",
-  "count": 2219,
+  "generated_from": "catalog.csv@6b8c3219a1467815398796f3466eeda3b50c4533",
+  "count": 2225,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -78283,6 +78283,204 @@
       "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/bronze-tripod-cauldron",
+      "name": "Bronze Tripod Cauldron",
+      "repo": "assets-3d-polyfork",
+      "file": "bronze-tripod-cauldron/bronze-tripod-cauldron.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/bronze-tripod-cauldron-7ee4ba",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Bronze Tripod Cauldron by Polyfork (https://polyfork.dev/asset/bronze-tripod-cauldron-7ee4ba), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "bronze-tripod-cauldron/preview.png",
+      "download_path": "bronze-tripod-cauldron/bronze-tripod-cauldron.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/bronze-tripod-cauldron/bronze-tripod-cauldron.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/bronze-tripod-cauldron/bronze-tripod-cauldron.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/chinese-scholar-tree",
+      "name": "Chinese Scholar Tree",
+      "repo": "assets-3d-polyfork",
+      "file": "chinese-scholar-tree/chinese-scholar-tree.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/chinese-scholar-tree-059fce",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Chinese Scholar Tree by Polyfork (https://polyfork.dev/asset/chinese-scholar-tree-059fce), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "chinese-scholar-tree/preview.png",
+      "download_path": "chinese-scholar-tree/chinese-scholar-tree.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-scholar-tree/chinese-scholar-tree.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-scholar-tree/chinese-scholar-tree.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/column-run",
+      "name": "Column Run",
+      "repo": "assets-3d-polyfork",
+      "file": "column-run/column-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/column-run-018da3",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Column Run by Polyfork (https://polyfork.dev/asset/column-run-018da3), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "column-run/preview.png",
+      "download_path": "column-run/column-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/column-run/column-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/column-run/column-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/human-vest-shorts",
+      "name": "Human vest shorts",
+      "repo": "assets-3d-polyfork",
+      "file": "human-vest-shorts/human-vest-shorts.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/human-vest-shorts-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Human vest shorts by Polyfork (https://polyfork.dev/asset/human-vest-shorts-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "human-vest-shorts/preview.png",
+      "download_path": "human-vest-shorts/human-vest-shorts.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/jujube-tree",
+      "name": "Jujube Tree",
+      "repo": "assets-3d-polyfork",
+      "file": "jujube-tree/jujube-tree.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/jujube-tree-0e69dd",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Jujube Tree by Polyfork (https://polyfork.dev/asset/jujube-tree-0e69dd), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "jujube-tree/preview.png",
+      "download_path": "jujube-tree/jujube-tree.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/steel-wreck-hull-section",
+      "name": "Steel Wreck Hull Section",
+      "repo": "assets-3d-polyfork",
+      "file": "steel-wreck-hull-section/steel-wreck-hull-section.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/steel-wreck-hull-section-b3132a",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Steel Wreck Hull Section by Polyfork (https://polyfork.dev/asset/steel-wreck-hull-section-b3132a), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "steel-wreck-hull-section/preview.png",
+      "download_path": "steel-wreck-hull-section/steel-wreck-hull-section.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip"
       ],
       "sample": null,
       "multipart": false,

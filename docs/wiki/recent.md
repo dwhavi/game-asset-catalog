@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@0af66643b3bf4c277588abba0f489b60e88667a8`
+> generated from `catalog.csv@6b8c3219a1467815398796f3466eeda3b50c4533`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,16 +14,22 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
+| [Bronze Tripod Cauldron](https://polyfork.dev/asset/bronze-tripod-cauldron-7ee4ba) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/bronze-tripod-cauldron/bronze-tripod-cauldron.zip) | 2026-11-22 |
+| [Chinese Scholar Tree](https://polyfork.dev/asset/chinese-scholar-tree-059fce) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/chinese-scholar-tree/chinese-scholar-tree.zip) | 2026-11-22 |
 | [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip) | 2026-11-22 |
 | [Colored Number-Buttons (01-99)](https://opengameart.org/content/colored-number-buttons-01-99) | `ui` | DreyArts | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip) | 2026-11-22 |
+| [Column Run](https://polyfork.dev/asset/column-run-018da3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/column-run/column-run.zip) | 2026-11-22 |
 | [Container Loader](https://polyfork.dev/asset/container-loader-254a74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/container-loader/container-loader.zip) | 2026-11-22 |
 | [Departures Kerb Canopy Run](https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip) | 2026-11-22 |
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
+| [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip) | 2026-11-22 |
+| [Jujube Tree](https://polyfork.dev/asset/jujube-tree-0e69dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip) | 2026-11-22 |
 | [Lever and Button](https://opengameart.org/content/lever-and-button) | `ui` | FunnyDude | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip) | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
 | [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
 | [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
+| [Steel Wreck Hull Section](https://polyfork.dev/asset/steel-wreck-hull-section-b3132a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip) | 2026-11-22 |
 | [Towbarless Pushback Tug](https://polyfork.dev/asset/towbarless-pushback-tug-989602) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip) | 2026-11-22 |
 | [Wall Corner Tower](https://polyfork.dev/asset/wall-corner-tower-524c61) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip) | 2026-11-22 |
 | [Wattle Fence Run](https://polyfork.dev/asset/wattle-fence-run-703830) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip) | 2026-11-22 |
@@ -107,9 +113,3 @@
 | [Pocket Soccer 3D 경기 효과음·해설 음성 14종](https://github.com/ShaunPrice/soccer-3d) | `sfx` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/soccer-3d-match-audio/soccer-3d-match-audio.zip) | 2026-11-20 |
 | [Pocket Soccer 3D 타이틀 아트워크·앱 아이콘](https://github.com/ShaunPrice/soccer-3d) | `background-2d` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/soccer-3d-title-artwork/soccer-3d-title-artwork.zip) | 2026-11-20 |
 | [Potion Icons](https://opengameart.org/content/potion-icons-1) | `ui` | Oyasumi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/potion-icons-1/potion-icons-1.zip) | 2026-11-20 |
-| [Pushback Tug](https://polyfork.dev/asset/pushback-tug-8eab46) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pushback-tug/pushback-tug.zip) | 2026-11-20 |
-| [Runway Tile](https://polyfork.dev/asset/runway-tile-9a2808) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/runway-tile/runway-tile.zip) | 2026-11-20 |
-| [Sci-Fi Icons Collection](https://opengameart.org/content/sci-fi-icons-collection) | `ui` | FlexUnit | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/sci-fi-icons-collection/sci-fi-icons-collection.zip) | 2026-11-20 |
-| [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
-| [Silkworm Tray Rack](https://polyfork.dev/asset/silkworm-tray-rack-bf6067) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/silkworm-tray-rack/silkworm-tray-rack.zip) | 2026-11-20 |
-| [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
