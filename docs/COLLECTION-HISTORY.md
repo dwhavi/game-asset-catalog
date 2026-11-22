@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-10 자동 수집 등록 (3팩, 2026-11-22 10:39 KST)
+
+- 팩: Container Loader (slug container-loader), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/container-loader-254a74
+- 저장: assets-3d-polyfork container-loader/container-loader.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2210→2213, 기존 행 불변 확인
+- 팩: Departures Kerb Canopy Run (slug departures-kerb-canopy-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e
+- 저장: assets-3d-polyfork departures-kerb-canopy-run/departures-kerb-canopy-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2210→2213, 기존 행 불변 확인
+- 팩: Towbarless Pushback Tug (slug towbarless-pushback-tug), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/towbarless-pushback-tug-989602
+- 저장: assets-3d-polyfork towbarless-pushback-tug/towbarless-pushback-tug.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2210→2213, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-09 자동 수집 등록 (3팩, 2026-11-22 09:31 KST)
 
 - 팩: City Wall Run (slug city-wall-run), 라이선스: CC-BY 4.0, 제작자: Polyfork

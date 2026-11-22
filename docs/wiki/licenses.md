@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@1c91ed5ffab435a6115d994a3bc759cfac837a6b`
+> generated from `catalog.csv@7db015edff9cad4cdcbeb6043b5a6171b39a6671`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2210개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2213개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -17,7 +17,7 @@
 | license_family | 이름 | 개수 | 표기 필요 개수 | 허용 목록 |
 |---|---|---|---|---|
 | cc0 | CC0 | 1898 | 0 | 예 |
-| cc-by | CC-BY | 267 | 267 | 예 |
+| cc-by | CC-BY | 270 | 270 | 예 |
 | mit | MIT | 14 | 13 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 20 | 17 | 아니오 |
@@ -29,7 +29,7 @@
 | license | license_family | 표기 필요 | 개수 |
 |---|---|---|---|
 | CC0 | cc0 | X | 1896 |
-| CC-BY 4.0 | cc-by | O | 136 |
+| CC-BY 4.0 | cc-by | O | 139 |
 | CC-BY 3.0 | cc-by | O | 112 |
 | MIT | mit | O | 13 |
 | CC-BY | cc-by | O | 11 |
@@ -54,16 +54,19 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 308개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 311개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | Polyfork | CC-BY 4.0 | City Wall Run by Polyfork (https://polyfork.dev/asset/city-wall-run-1f4c31), CC BY 4.0 | 2026-11-22 |
+| [Container Loader](https://polyfork.dev/asset/container-loader-254a74) | Polyfork | CC-BY 4.0 | Container Loader by Polyfork (https://polyfork.dev/asset/container-loader-254a74), CC BY 4.0 | 2026-11-22 |
+| [Departures Kerb Canopy Run](https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e) | Polyfork | CC-BY 4.0 | Departures Kerb Canopy Run by Polyfork (https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e), CC BY 4.0 | 2026-11-22 |
 | [General](https://polyfork.dev/asset/general-base) | Polyfork | CC-BY 4.0 | General by Polyfork (https://polyfork.dev/asset/general-base), CC BY 4.0 | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | Polyfork | CC-BY 4.0 | Packed-Earth Street Tile by Polyfork (https://polyfork.dev/asset/packed-earth-street-tile-dc6251), CC BY 4.0 | 2026-11-22 |
 | [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | Polyfork | CC-BY 4.0 | Que Pillar Tower by Polyfork (https://polyfork.dev/asset/que-pillar-tower-40d7f3), CC BY 4.0 | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | Polyfork | CC-BY 4.0 | Raised Granary by Polyfork (https://polyfork.dev/asset/raised-granary-287b40), CC BY 4.0 | 2026-11-22 |
 | [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | Polyfork | CC-BY 4.0 | Smithy by Polyfork (https://polyfork.dev/asset/smithy-c5a4be), CC BY 4.0 | 2026-11-22 |
+| [Towbarless Pushback Tug](https://polyfork.dev/asset/towbarless-pushback-tug-989602) | Polyfork | CC-BY 4.0 | Towbarless Pushback Tug by Polyfork (https://polyfork.dev/asset/towbarless-pushback-tug-989602), CC BY 4.0 | 2026-11-22 |
 | [Wall Corner Tower](https://polyfork.dev/asset/wall-corner-tower-524c61) | Polyfork | CC-BY 4.0 | Wall Corner Tower by Polyfork (https://polyfork.dev/asset/wall-corner-tower-524c61), CC BY 4.0 | 2026-11-22 |
 | [Wattle Fence Run](https://polyfork.dev/asset/wattle-fence-run-703830) | Polyfork | CC-BY 4.0 | Wattle Fence Run by Polyfork (https://polyfork.dev/asset/wattle-fence-run-703830), CC BY 4.0 | 2026-11-22 |
 | [Windlass Well](https://polyfork.dev/asset/windlass-well-ebc2fb) | Polyfork | CC-BY 4.0 | Windlass Well by Polyfork (https://polyfork.dev/asset/windlass-well-ebc2fb), CC BY 4.0 | 2026-11-22 |

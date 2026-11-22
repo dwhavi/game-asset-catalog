@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@1c91ed5ffab435a6115d994a3bc759cfac837a6b",
-  "count": 2210,
+  "generated_from": "catalog.csv@7db015edff9cad4cdcbeb6043b5a6171b39a6671",
+  "count": 2213,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -77989,6 +77989,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/container-loader",
+      "name": "Container Loader",
+      "repo": "assets-3d-polyfork",
+      "file": "container-loader/container-loader.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/container-loader-254a74",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Container Loader by Polyfork (https://polyfork.dev/asset/container-loader-254a74), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "container-loader/preview.png",
+      "download_path": "container-loader/container-loader.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/container-loader/container-loader.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/container-loader/container-loader.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/departures-kerb-canopy-run",
+      "name": "Departures Kerb Canopy Run",
+      "repo": "assets-3d-polyfork",
+      "file": "departures-kerb-canopy-run/departures-kerb-canopy-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Departures Kerb Canopy Run by Polyfork (https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "departures-kerb-canopy-run/preview.png",
+      "download_path": "departures-kerb-canopy-run/departures-kerb-canopy-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/towbarless-pushback-tug",
+      "name": "Towbarless Pushback Tug",
+      "repo": "assets-3d-polyfork",
+      "file": "towbarless-pushback-tug/towbarless-pushback-tug.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/towbarless-pushback-tug-989602",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Towbarless Pushback Tug by Polyfork (https://polyfork.dev/asset/towbarless-pushback-tug-989602), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "towbarless-pushback-tug/preview.png",
+      "download_path": "towbarless-pushback-tug/towbarless-pushback-tug.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip"
       ],
       "sample": null,
       "multipart": false,
