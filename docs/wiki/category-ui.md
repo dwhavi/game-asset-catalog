@@ -1,20 +1,23 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ac89a6ae2669fb91e7301b8c61720865b9871feb`
+> generated from `catalog.csv@2743a723ebd85f484d670ff87f765b938b2a240d`
 
 # UI 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `ui`(UI)에 해당하는 에셋 **227개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
+분류 `ui`(UI)에 해당하는 에셋 **230개**입니다. 라이브러리에서 보기: [?cat=ui](https://sigco3111.github.io/game-asset-catalog/?cat=ui)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
-현재 쪽: 227행 (전체 227개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 230행 (전체 230개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
+| [Colored Number-Buttons (01-99)](https://opengameart.org/content/colored-number-buttons-01-99) | `ui` | DreyArts | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip) | 2026-11-22 |
+| [Lever and Button](https://opengameart.org/content/lever-and-button) | `ui` | FunnyDude | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip) | 2026-11-22 |
 | [200+ Tiny Buttons](https://opengameart.org/content/200-tiny-buttons) | `ui` | Screaming Brain Studios | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/200-tiny-buttons/200-tiny-buttons.zip) | 2026-11-21 |
 | [Basic Game GUI](https://opengameart.org/content/basic-game-gui) | `ui` | DomoArto | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/basic-game-gui/basic-game-gui.zip) | 2026-11-21 |
 | [Exclamation / Quest Icon](https://opengameart.org/content/exclamation-quest-icon) | `ui` | donte | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/exclamation-quest-icon/exclamation-quest-icon.zip) | 2026-11-21 |

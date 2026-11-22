@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-12 자동 수집 등록 (3팩, 2026-11-22 12:29 KST)
+
+- 팩: Assets Free Interface UI Dark Miko (slug assets-free-interface-ui-dark-miko), 라이선스: CC0, 제작자: Wenrexa
+- 출처: https://opengameart.org/content/assets-free-interface-ui-dark-miko
+- 저장: assets-3d-lowpoly-2 assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2216→2219, 기존 행 불변 확인
+- 팩: Colored Number-Buttons (01-99) (slug colored-number-buttons-01-99), 라이선스: CC0, 제작자: DreyArts
+- 출처: https://opengameart.org/content/colored-number-buttons-01-99
+- 저장: assets-3d-lowpoly-2 colored-number-buttons-01-99/colored-number-buttons-01-99.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2216→2219, 기존 행 불변 확인
+- 팩: Lever and Button (slug lever-and-button), 라이선스: CC0, 제작자: FunnyDude
+- 출처: https://opengameart.org/content/lever-and-button
+- 저장: assets-3d-lowpoly-2 lever-and-button/lever-and-button.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2216→2219, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-12 자동 수집 등록 (3팩, 2026-11-22 12:10 KST)
 
 - 팩: My Cookie Fell Apart (slug my-cookie-fell-apart), 라이선스: CC-BY 4.0, 제작자: purrplecat

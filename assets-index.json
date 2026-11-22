@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ac89a6ae2669fb91e7301b8c61720865b9871feb",
-  "count": 2216,
+  "generated_from": "catalog.csv@2743a723ebd85f484d670ff87f765b938b2a240d",
+  "count": 2219,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -78184,6 +78184,105 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/stories-of-long-ago-looping/stories-of-long-ago-looping.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/stories-of-long-ago-looping/stories-of-long-ago-looping.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/assets-free-interface-ui-dark-miko",
+      "name": "Assets Free Interface UI Dark Miko",
+      "repo": "assets-ui-icons",
+      "file": "assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Wenrexa",
+      "source_url": "https://opengameart.org/content/assets-free-interface-ui-dark-miko",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: Wenrexa (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "assets-free-interface-ui-dark-miko/preview.png",
+      "download_path": "assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/colored-number-buttons-01-99",
+      "name": "Colored Number-Buttons (01-99)",
+      "repo": "assets-ui-icons",
+      "file": "colored-number-buttons-01-99/colored-number-buttons-01-99.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "DreyArts",
+      "source_url": "https://opengameart.org/content/colored-number-buttons-01-99",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: DreyArts (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "colored-number-buttons-01-99/preview.png",
+      "download_path": "colored-number-buttons-01-99/colored-number-buttons-01-99.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/lever-and-button",
+      "name": "Lever and Button",
+      "repo": "assets-ui-icons",
+      "file": "lever-and-button/lever-and-button.zip",
+      "type": "UI·아이콘",
+      "category": "ui",
+      "tags": [
+        "ui",
+        "icons",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "FunnyDude",
+      "source_url": "https://opengameart.org/content/lever-and-button",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: FunnyDude (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": "lever-and-button/preview.png",
+      "download_path": "lever-and-button/lever-and-button.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip"
       ],
       "sample": null,
       "multipart": false,

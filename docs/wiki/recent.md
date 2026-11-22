@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ac89a6ae2669fb91e7301b8c61720865b9871feb`
+> generated from `catalog.csv@2743a723ebd85f484d670ff87f765b938b2a240d`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,10 +13,13 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
 | [City Wall Run](https://polyfork.dev/asset/city-wall-run-1f4c31) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/city-wall-run/city-wall-run.zip) | 2026-11-22 |
+| [Colored Number-Buttons (01-99)](https://opengameart.org/content/colored-number-buttons-01-99) | `ui` | DreyArts | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/colored-number-buttons-01-99/colored-number-buttons-01-99.zip) | 2026-11-22 |
 | [Container Loader](https://polyfork.dev/asset/container-loader-254a74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/container-loader/container-loader.zip) | 2026-11-22 |
 | [Departures Kerb Canopy Run](https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip) | 2026-11-22 |
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
+| [Lever and Button](https://opengameart.org/content/lever-and-button) | `ui` | FunnyDude | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip) | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
 | [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [Shipping Label Printer](https://polyfork.dev/asset/shipping-label-printer-ba8a6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/shipping-label-printer/shipping-label-printer.zip) | 2026-11-20 |
 | [Silkworm Tray Rack](https://polyfork.dev/asset/silkworm-tray-rack-bf6067) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/silkworm-tray-rack/silkworm-tray-rack.zip) | 2026-11-20 |
 | [Silly Song 1](https://opengameart.org/content/silly-song-1) | `music` | mla | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-silly-song-1/silly-song-1.zip) | 2026-11-20 |
-| [Silly Theme Song](https://opengameart.org/content/silly-theme-song) | `music` | vandem\_music | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip) | 2026-11-20 |
-| [Skymon Icon Pack Free](https://opengameart.org/content/skymon-icon-pack-free) | `ui` | DefaceGames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/skymon-icon-pack-free/skymon-icon-pack-free.zip) | 2026-11-20 |
-| [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip) | 2026-11-20 |
