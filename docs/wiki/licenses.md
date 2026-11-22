@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7c4252880b31267c4cb620aaca0268baba787655`
+> generated from `catalog.csv@eef3a19f883ca8a9d4048d596f8e04d768fe58a3`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2251개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2253개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | cc0 | CC0 | 1902 | 0 | 예 |
 | cc-by | CC-BY | 300 | 300 | 예 |
-| mit | MIT | 17 | 16 | 예 |
+| mit | MIT | 19 | 18 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 21 | 18 | 아니오 |
 
@@ -31,7 +31,7 @@
 | CC0 | cc0 | X | 1900 |
 | CC-BY 4.0 | cc-by | O | 166 |
 | CC-BY 3.0 | cc-by | O | 115 |
-| MIT | mit | O | 16 |
+| MIT | mit | O | 18 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 11 |
 | 알 수 없음 | other | O | 9 |
@@ -54,7 +54,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 345개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 347개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -65,6 +65,8 @@
 | [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | Rand Monster contributors | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Rand Monster contributors) | 2026-11-23 |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | Polyfork | CC-BY 4.0 | Orc berserker by Polyfork (https://polyfork.dev/asset/orc-berserker-base), CC BY 4.0 | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | Polyfork | CC-BY 4.0 | Pack Donkey by Polyfork (https://polyfork.dev/asset/pack-donkey-c69029), CC BY 4.0 | 2026-11-23 |
+| [Procedural Animals 베이크 샘플 6종 (.animal)](https://github.com/majidmanzarpour/threejs-procedural-animals) | Majid Manzarpour and procedural-animals contributors | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Majid Manzarpour and procedural-animals contributors) | 2026-11-23 |
+| [Procedural Animals 절차적 동물 24종 코드 (three.js)](https://github.com/majidmanzarpour/threejs-procedural-animals) | Majid Manzarpour and procedural-animals contributors | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Majid Manzarpour and procedural-animals contributors) | 2026-11-23 |
 | [Reindeer](https://polyfork.dev/asset/reindeer-base) | Polyfork | CC-BY 4.0 | Reindeer by Polyfork (https://polyfork.dev/asset/reindeer-base), CC BY 4.0 | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | Polyfork | CC-BY 4.0 | Runway Edge Light Run by Polyfork (https://polyfork.dev/asset/runway-edge-light-run-ebe7e1), CC BY 4.0 | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | Polyfork | CC-BY 4.0 | Training Bench by Polyfork (https://polyfork.dev/asset/training-bench-34f148), CC BY 4.0 | 2026-11-23 |

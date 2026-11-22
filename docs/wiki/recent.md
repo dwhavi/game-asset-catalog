@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7c4252880b31267c4cb620aaca0268baba787655`
+> generated from `catalog.csv@eef3a19f883ca8a9d4048d596f8e04d768fe58a3`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -20,6 +20,8 @@
 | [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | `model-3d` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip) | 2026-11-23 |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip) | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip) | 2026-11-23 |
+| [Procedural Animals 베이크 샘플 6종 (.animal)](https://github.com/majidmanzarpour/threejs-procedural-animals) | `model-3d` | Majid Manzarpour and procedural-animals contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/procedural-animal-samples/procedural-animal-samples.zip) | 2026-11-23 |
+| [Procedural Animals 절차적 동물 24종 코드 (three.js)](https://github.com/majidmanzarpour/threejs-procedural-animals) | `other` | Majid Manzarpour and procedural-animals contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/procedural-animals-threejs/procedural-animals-threejs.zip) | 2026-11-23 |
 | [Reindeer](https://polyfork.dev/asset/reindeer-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer/reindeer.zip) | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip) | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
@@ -111,5 +113,3 @@
 | [Cadle WebAudio 합성 음향 엔진](https://github.com/Humpalumps/Cadle) | `other` | Ian Cadle (Humpalumps) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/cadle-webaudio-synth/cadle-webaudio-synth.zip) | 2026-11-20 |
 | [Chasing Excellence](https://opengameart.org/content/chasing-excellence) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/chasing-excellence/chasing-excellence.zip) | 2026-11-20 |
 | [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/clay-wine-jar/clay-wine-jar.zip) | 2026-11-20 |
-| [Cold Boot 인하우스 생성 음성 484파일](https://github.com/rossinek/cold-boot) | `voice` | rossinek (Cold Boot) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/cold-boot-voices/cold-boot-voices.zip) | 2026-11-20 |
-| [Cold Boot 토마스 3D 머리 (Lee Perry-Smith 스캔)](https://github.com/rossinek/cold-boot) | `character-3d` | Lee Perry-Smith (Infinite Realities) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-tomas-head/cold-boot-tomas-head.zip) | 2026-11-20 |
