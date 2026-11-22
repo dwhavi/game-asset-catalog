@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6b8c3219a1467815398796f3466eeda3b50c4533`
+> generated from `catalog.csv@199afcc08efc64413c8b139eb0f446b6dc505014`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -24,13 +24,16 @@
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
 | [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip) | 2026-11-22 |
 | [Jujube Tree](https://polyfork.dev/asset/jujube-tree-0e69dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip) | 2026-11-22 |
+| [Lacquer Tree](https://polyfork.dev/asset/lacquer-tree-6b8e43) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lacquer-tree/lacquer-tree.zip) | 2026-11-22 |
 | [Lever and Button](https://opengameart.org/content/lever-and-button) | `ui` | FunnyDude | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/lever-and-button/lever-and-button.zip) | 2026-11-22 |
+| [Mulberry Tree](https://polyfork.dev/asset/mulberry-tree-032f4e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mulberry-tree/mulberry-tree.zip) | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
 | [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
 | [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
 | [Steel Wreck Hull Section](https://polyfork.dev/asset/steel-wreck-hull-section-b3132a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip) | 2026-11-22 |
 | [Towbarless Pushback Tug](https://polyfork.dev/asset/towbarless-pushback-tug-989602) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip) | 2026-11-22 |
+| [Village Elm](https://polyfork.dev/asset/village-elm-310fe2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/village-elm/village-elm.zip) | 2026-11-22 |
 | [Wall Corner Tower](https://polyfork.dev/asset/wall-corner-tower-524c61) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip) | 2026-11-22 |
 | [Wattle Fence Run](https://polyfork.dev/asset/wattle-fence-run-703830) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip) | 2026-11-22 |
 | [Windlass Well](https://polyfork.dev/asset/windlass-well-ebc2fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [Papertrails 종이오리기 아트 아틀라스 3종](https://github.com/xikhar/papertrails) | `sprite-2d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/papertrails-art-atlas/papertrails-art-atlas.zip) | 2026-11-20 |
 | [Papertrails 팝업북 3D 모델 (타일·여행자)](https://github.com/xikhar/papertrails) | `model-3d` | xikhar (Shikhar) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/papertrails-popup-models/papertrails-popup-models.zip) | 2026-11-20 |
 | [pixelfx](https://github.com/patch-gg/pixelfx) | `effect` | Patch | MIT | O | X | - | 2026-11-20 |
-| [Pocket Soccer 3D 경기 효과음·해설 음성 14종](https://github.com/ShaunPrice/soccer-3d) | `sfx` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/soccer-3d-match-audio/soccer-3d-match-audio.zip) | 2026-11-20 |
-| [Pocket Soccer 3D 타이틀 아트워크·앱 아이콘](https://github.com/ShaunPrice/soccer-3d) | `background-2d` | ShaunPrice | 알 수 없음 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/soccer-3d-title-artwork/soccer-3d-title-artwork.zip) | 2026-11-20 |
-| [Potion Icons](https://opengameart.org/content/potion-icons-1) | `ui` | Oyasumi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/potion-icons-1/potion-icons-1.zip) | 2026-11-20 |

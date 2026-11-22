@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6b8c3219a1467815398796f3466eeda3b50c4533`
+> generated from `catalog.csv@199afcc08efc64413c8b139eb0f446b6dc505014`
 
 # 3D 캐릭터 모음
 

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@6b8c3219a1467815398796f3466eeda3b50c4533",
-  "count": 2225,
+  "generated_from": "catalog.csv@199afcc08efc64413c8b139eb0f446b6dc505014",
+  "count": 2228,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -78481,6 +78481,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/lacquer-tree",
+      "name": "Lacquer Tree",
+      "repo": "assets-3d-polyfork",
+      "file": "lacquer-tree/lacquer-tree.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/lacquer-tree-6b8e43",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Lacquer Tree by Polyfork (https://polyfork.dev/asset/lacquer-tree-6b8e43), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "lacquer-tree/preview.png",
+      "download_path": "lacquer-tree/lacquer-tree.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lacquer-tree/lacquer-tree.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/lacquer-tree/lacquer-tree.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/mulberry-tree",
+      "name": "Mulberry Tree",
+      "repo": "assets-3d-polyfork",
+      "file": "mulberry-tree/mulberry-tree.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/mulberry-tree-032f4e",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Mulberry Tree by Polyfork (https://polyfork.dev/asset/mulberry-tree-032f4e), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "mulberry-tree/preview.png",
+      "download_path": "mulberry-tree/mulberry-tree.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/mulberry-tree/mulberry-tree.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/mulberry-tree/mulberry-tree.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/village-elm",
+      "name": "Village Elm",
+      "repo": "assets-3d-polyfork",
+      "file": "village-elm/village-elm.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/village-elm-310fe2",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Village Elm by Polyfork (https://polyfork.dev/asset/village-elm-310fe2), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "village-elm/preview.png",
+      "download_path": "village-elm/village-elm.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/village-elm/village-elm.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/village-elm/village-elm.zip"
       ],
       "sample": null,
       "multipart": false,

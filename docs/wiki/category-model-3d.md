@@ -1,19 +1,19 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6b8c3219a1467815398796f3466eeda3b50c4533`
+> generated from `catalog.csv@199afcc08efc64413c8b139eb0f446b6dc505014`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **699개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **702개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 699개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 702개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
@@ -26,12 +26,15 @@
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
 | [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip) | 2026-11-22 |
 | [Jujube Tree](https://polyfork.dev/asset/jujube-tree-0e69dd) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/jujube-tree/jujube-tree.zip) | 2026-11-22 |
+| [Lacquer Tree](https://polyfork.dev/asset/lacquer-tree-6b8e43) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lacquer-tree/lacquer-tree.zip) | 2026-11-22 |
+| [Mulberry Tree](https://polyfork.dev/asset/mulberry-tree-032f4e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/mulberry-tree/mulberry-tree.zip) | 2026-11-22 |
 | [Packed-Earth Street Tile](https://polyfork.dev/asset/packed-earth-street-tile-dc6251) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/packed-earth-street-tile/packed-earth-street-tile.zip) | 2026-11-22 |
 | [Que Pillar Tower](https://polyfork.dev/asset/que-pillar-tower-40d7f3) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/que-pillar-tower/que-pillar-tower.zip) | 2026-11-22 |
 | [Raised Granary](https://polyfork.dev/asset/raised-granary-287b40) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/raised-granary/raised-granary.zip) | 2026-11-22 |
 | [Smithy](https://polyfork.dev/asset/smithy-c5a4be) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/smithy/smithy.zip) | 2026-11-22 |
 | [Steel Wreck Hull Section](https://polyfork.dev/asset/steel-wreck-hull-section-b3132a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip) | 2026-11-22 |
 | [Towbarless Pushback Tug](https://polyfork.dev/asset/towbarless-pushback-tug-989602) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip) | 2026-11-22 |
+| [Village Elm](https://polyfork.dev/asset/village-elm-310fe2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/village-elm/village-elm.zip) | 2026-11-22 |
 | [Wall Corner Tower](https://polyfork.dev/asset/wall-corner-tower-524c61) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wall-corner-tower/wall-corner-tower.zip) | 2026-11-22 |
 | [Wattle Fence Run](https://polyfork.dev/asset/wattle-fence-run-703830) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wattle-fence-run/wattle-fence-run.zip) | 2026-11-22 |
 | [Windlass Well](https://polyfork.dev/asset/windlass-well-ebc2fb) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/windlass-well/windlass-well.zip) | 2026-11-22 |
@@ -414,6 +417,3 @@
 | [Free Hedges](https://opengameart.org/content/free-hedges) | `model-3d` | cdgramos | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.10/free-hedges.zip) | 2026-11-04 |
 | [Free Hi-Tech Sci-Fi IT thing](https://opengameart.org/content/free-hi-tech-sci-fi-it-thing) | `model-3d` | Moviemake | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/free-hi-tech-sci-fi-it-thing.zip) | 2026-11-04 |
 | [Free houseplants](https://opengameart.org/content/free-houseplants) | `model-3d` | Duion2 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/free-houseplants.zip) | 2026-11-04 |
-| [Free LowPoly Golds](https://opengameart.org/content/free-lowpoly-golds) | `model-3d` | yethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.11/free-lowpoly-golds.zip) | 2026-11-04 |
-| [Free LowPoly Rocks set01](https://opengameart.org/content/free-lowpoly-rocks-set01) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.19/free-lowpoly-rocks-set01.zip) | 2026-11-04 |
-| [Free LowPoly Rocks set02](https://opengameart.org/content/free-lowpoly-rocks-set02) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.20/free-lowpoly-rocks-set02.zip) | 2026-11-04 |

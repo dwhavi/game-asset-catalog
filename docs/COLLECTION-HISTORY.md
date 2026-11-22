@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-19 자동 수집 등록 (3팩, 2026-11-22 19:35 KST)
+
+- 팩: Lacquer Tree (slug lacquer-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/lacquer-tree-6b8e43
+- 저장: assets-3d-polyfork lacquer-tree/lacquer-tree.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2225→2228, 기존 행 불변 확인
+- 팩: Mulberry Tree (slug mulberry-tree), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/mulberry-tree-032f4e
+- 저장: assets-3d-polyfork mulberry-tree/mulberry-tree.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2225→2228, 기존 행 불변 확인
+- 팩: Village Elm (slug village-elm), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/village-elm-310fe2
+- 저장: assets-3d-polyfork village-elm/village-elm.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2225→2228, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-17 자동 수집 등록 (6팩, 2026-11-22 17:52 KST)
 
 - 팩: Bronze Tripod Cauldron (slug bronze-tripod-cauldron), 라이선스: CC-BY 4.0, 제작자: Polyfork
