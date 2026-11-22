@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c7f0038a69c83c9e87cc60dd208e734676d6ec09`
+> generated from `catalog.csv@ef90b03c4e9ca882c02feb6f9268cb672f544ee9`
 
 # 이펙트 모음
 

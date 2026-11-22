@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c7f0038a69c83c9e87cc60dd208e734676d6ec09`
+> generated from `catalog.csv@ef90b03c4e9ca882c02feb6f9268cb672f544ee9`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,8 +14,11 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip) | 2026-11-23 |
+| [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
 | [Pack Donkey](https://polyfork.dev/asset/pack-donkey-c69029) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/pack-donkey/pack-donkey.zip) | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip) | 2026-11-23 |
+| [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
+| [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
 | [Baggage Tug](https://polyfork.dev/asset/baggage-tug-fb69f7) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baggage-tug/baggage-tug.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [everyday-game 절차적 3D 코드 11종 (Three.js)](https://github.com/zhgarylu/everyday-game) | `other` | zhgarylu | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip) | 2026-11-20 |
 | [Fantasy RPG Icons](https://opengameart.org/content/fantasy-rpg-icons-0) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-0/fantasy-rpg-icons-0.zip) | 2026-11-20 |
 | [Fantasy RPG Icons 2](https://opengameart.org/content/fantasy-rpg-icons-2) | `ui` | Drummyfish | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fantasy-rpg-icons-2/fantasy-rpg-icons-2.zip) | 2026-11-20 |
-| [Fire Arena](https://polyfork.dev/asset/fire-arena-e2e3ef) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/fire-arena/fire-arena.zip) | 2026-11-20 |
-| [Fruit Icon Pack](https://opengameart.org/content/fruit-icon-pack) | `ui` | Moku | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fruit-icon-pack/fruit-icon-pack.zip) | 2026-11-20 |
-| [Goodnight Newcastle](https://opengameart.org/content/goodnight-newcastle) | `music` | dmrgn | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/goodnight-newcastle/goodnight-newcastle.zip) | 2026-11-20 |

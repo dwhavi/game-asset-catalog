@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@c7f0038a69c83c9e87cc60dd208e734676d6ec09",
-  "count": 2239,
+  "generated_from": "catalog.csv@ef90b03c4e9ca882c02feb6f9268cb672f544ee9",
+  "count": 2242,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -78940,6 +78940,105 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/iron-banded-chest",
+      "name": "Iron-Banded Chest",
+      "repo": "assets-3d-polyfork",
+      "file": "iron-banded-chest/iron-banded-chest.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/iron-banded-chest-64731f",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Iron-Banded Chest by Polyfork (https://polyfork.dev/asset/iron-banded-chest-64731f), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "iron-banded-chest/preview.png",
+      "download_path": "iron-banded-chest/iron-banded-chest.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/traveller",
+      "name": "Traveller",
+      "repo": "assets-3d-polyfork",
+      "file": "traveller/traveller.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/traveller-92f20c",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Traveller by Polyfork (https://polyfork.dev/asset/traveller-92f20c), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "traveller/preview.png",
+      "download_path": "traveller/traveller.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/weapon-rack",
+      "name": "Weapon Rack",
+      "repo": "assets-3d-polyfork",
+      "file": "weapon-rack/weapon-rack.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/weapon-rack-962f74",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Weapon Rack by Polyfork (https://polyfork.dev/asset/weapon-rack-962f74), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "weapon-rack/preview.png",
+      "download_path": "weapon-rack/weapon-rack.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip"
       ],
       "sample": null,
       "multipart": false,

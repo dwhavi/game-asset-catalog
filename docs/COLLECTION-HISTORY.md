@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-02 자동 수집 등록 (3팩, 2026-11-23 02:09 KST)
+
+- 팩: Iron-Banded Chest (slug iron-banded-chest), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/iron-banded-chest-64731f
+- 저장: assets-3d-polyfork iron-banded-chest/iron-banded-chest.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2239→2242, 기존 행 불변 확인
+- 팩: Traveller (slug traveller), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/traveller-92f20c
+- 저장: assets-3d-polyfork traveller/traveller.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2239→2242, 기존 행 불변 확인
+- 팩: Weapon Rack (slug weapon-rack), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/weapon-rack-962f74
+- 저장: assets-3d-polyfork weapon-rack/weapon-rack.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2239→2242, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-01 자동 수집 등록 (3팩, 2026-11-23 01:38 KST)
 
 - 팩: Fuel Technician (slug fuel-technician), 라이선스: CC-BY 4.0, 제작자: Polyfork
