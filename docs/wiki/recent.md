@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7db015edff9cad4cdcbeb6043b5a6171b39a6671`
+> generated from `catalog.csv@ac89a6ae2669fb91e7301b8c61720865b9871feb`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -43,14 +43,17 @@
 | [Hiding in My Room Until Everyone Leaves](https://opengameart.org/content/hiding-in-my-room-until-everyone-leaves) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-hiding-in-my-room-until-everyone-leaves/hiding-in-my-room-until-everyone-leaves.zip) | 2026-11-21 |
 | [Lit Taxiway Sign](https://polyfork.dev/asset/lit-taxiway-sign-206955) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip) | 2026-11-21 |
 | [Medieval Icons \| Inventory +284](https://opengameart.org/content/medieval-icons-inventory-284) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip) | 2026-11-21 |
+| [My Cookie Fell Apart](https://opengameart.org/content/my-cookie-fell-apart) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/my-cookie-fell-apart/my-cookie-fell-apart.zip) | 2026-11-21 |
 | [N64 UI](https://opengameart.org/content/n64-ui) | `ui` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip) | 2026-11-21 |
 | [Netted Tree Bundle](https://polyfork.dev/asset/netted-tree-bundle-1bd759) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/netted-tree-bundle/netted-tree-bundle.zip) | 2026-11-21 |
+| [Nintendo-esque Music 2](https://opengameart.org/content/nintendo-esque-music-2) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/nintendo-esque-music-2/nintendo-esque-music-2.zip) | 2026-11-21 |
 | [Official's Horse Carriage](https://polyfork.dev/asset/official-s-horse-carriage-90d177) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/official-s-horse-carriage/official-s-horse-carriage.zip) | 2026-11-21 |
 | [Pixel Art Heal Skill Icons](https://opengameart.org/content/pixel-art-heal-skill-icons) | `ui` | DustDFG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/pixel-art-heal-skill-icons/pixel-art-heal-skill-icons.zip) | 2026-11-21 |
 | [Remembering Something I Forgot](https://opengameart.org/content/remembering-something-i-forgot) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/remembering-something-i-forgot/remembering-something-i-forgot.zip) | 2026-11-21 |
 | [Saturday Morning](https://opengameart.org/content/saturday-morning) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/saturday-morning/saturday-morning.zip) | 2026-11-21 |
 | [Stable](https://polyfork.dev/asset/stable-57d8b1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip) | 2026-11-21 |
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
+| [Stories of Long Ago (Looping)](https://opengameart.org/content/stories-of-long-ago-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/stories-of-long-ago-looping/stories-of-long-ago-looping.zip) | 2026-11-21 |
 | [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
 | [Taxiway Centreline Stud Run](https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip) | 2026-11-21 |
 | [The Battle Begins (Looping)](https://opengameart.org/content/the-battle-begins-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip) | 2026-11-21 |
@@ -110,6 +113,3 @@
 | [Silly Theme Song](https://opengameart.org/content/silly-theme-song) | `music` | vandem\_music | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/silly-theme-song/silly-theme-song.zip) | 2026-11-20 |
 | [Skymon Icon Pack Free](https://opengameart.org/content/skymon-icon-pack-free) | `ui` | DefaceGames | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/skymon-icon-pack-free/skymon-icon-pack-free.zip) | 2026-11-20 |
 | [Sometimes I Feel Like I'm Stuck in Limbo](https://opengameart.org/content/sometimes-i-feel-like-im-stuck-in-limbo) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/release%3Apack-sometimes-i-feel-like-im-stuck-in-limbo/sometimes-i-feel-like-im-stuck-in-limbo.zip) | 2026-11-20 |
-| [Space Constuction Tile and Icon Set](https://opengameart.org/content/space-constuction-tile-and-icon-set) | `ui` | RUOK | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/space-constuction-tile-and-icon-set/space-constuction-tile-and-icon-set.zip) | 2026-11-20 |
-| [Stake Palisade Run](https://polyfork.dev/asset/stake-palisade-run-548617) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stake-palisade-run/stake-palisade-run.zip) | 2026-11-20 |
-| [Starember Field Procedural Character Toolkit](https://github.com/weit0529/gamedemo_by_Fable5.2) | `other` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-code/raw/main/starember-field-char-toolkit/starember-field-char-toolkit.zip) | 2026-11-20 |

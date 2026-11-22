@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261122-12 자동 수집 등록 (3팩, 2026-11-22 12:10 KST)
+
+- 팩: My Cookie Fell Apart (slug my-cookie-fell-apart), 라이선스: CC-BY 4.0, 제작자: purrplecat
+- 출처: https://opengameart.org/content/my-cookie-fell-apart
+- 저장: assets-3d-lowpoly-2 my-cookie-fell-apart/my-cookie-fell-apart.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2213→2216, 기존 행 불변 확인
+- 팩: Nintendo-esque Music 2 (slug nintendo-esque-music-2), 라이선스: OGA-BY 3.0, 제작자: Bonky
+- 출처: https://opengameart.org/content/nintendo-esque-music-2
+- 저장: assets-3d-lowpoly-2 nintendo-esque-music-2/nintendo-esque-music-2.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2213→2216, 기존 행 불변 확인
+- 팩: Stories of Long Ago (Looping) (slug stories-of-long-ago-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/stories-of-long-ago-looping
+- 저장: assets-3d-lowpoly-2 stories-of-long-ago-looping/stories-of-long-ago-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2213→2216, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261122-10 자동 수집 등록 (3팩, 2026-11-22 10:39 KST)
 
 - 팩: Container Loader (slug container-loader), 라이선스: CC-BY 4.0, 제작자: Polyfork

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@7db015edff9cad4cdcbeb6043b5a6171b39a6671`
+> generated from `catalog.csv@ac89a6ae2669fb91e7301b8c61720865b9871feb`
 
 # 폰트 모음
 
