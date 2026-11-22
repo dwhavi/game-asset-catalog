@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@eef3a19f883ca8a9d4048d596f8e04d768fe58a3`
+> generated from `catalog.csv@f4eba33b25158ce56804f476082b54388b414491`
 
 # 오라 이펙트 모음
 

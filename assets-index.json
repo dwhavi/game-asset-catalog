@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@eef3a19f883ca8a9d4048d596f8e04d768fe58a3",
+  "generated_from": "catalog.csv@f4eba33b25158ce56804f476082b54388b414491",
   "count": 2253,
   "assets": [
     {
@@ -79436,7 +79436,7 @@
       "attribution_required": true,
       "ai_generated": false,
       "added": "2026-11-23",
-      "notes": "MIT 생성기(procedural-animals-threejs)로 베이크한 개체 6종 .animal(wolf·horse·eagle·shark·snake·spider, seed 3, quality high, 64,814~75,503 버텍스); 리그·스킨·애니메이션 포함 전용 포맷(로드에 동일 라이브러리 필요, GLB 아님); 베이크 자체 검증(라운드트립 동일) 전량 통과; MIT 전문 LICENSE 동봉; 코드 팩은 assets-code procedural-animals-threejs",
+      "notes": "저장소명과 달리 로우폴리가 아닌 high 품질 베이크 개체 6종(개체당 64,814~75,503 버텍스); MIT 생성기(procedural-animals-threejs) 산출물 .animal 전용 포맷 — 리그·스킨·애니메이션 포함, 로드에 동일 라이브러리 필요(GLB 아님); wolf·horse·eagle·shark·snake·spider, seed 3; 베이크 자체 검증(라운드트립 동일) 전량 통과; MIT 전문 LICENSE 동봉; 코드 팩은 assets-code procedural-animals-threejs",
       "preview": "procedural-animal-samples/preview.png",
       "download_path": "procedural-animal-samples/procedural-animal-samples.zip",
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/procedural-animal-samples/procedural-animal-samples.zip",

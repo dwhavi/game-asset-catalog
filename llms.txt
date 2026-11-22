@@ -1,6 +1,6 @@
 # game-asset-catalog
 
-> generated from `catalog.csv@eef3a19f883ca8a9d4048d596f8e04d768fe58a3` by tools/build_wiki.py (do not edit by hand)
+> generated from `catalog.csv@f4eba33b25158ce56804f476082b54388b414491` by tools/build_wiki.py (do not edit by hand)
 
 Catalog of 2253 free game asset packs (2D sprites and tilesets, 3D models, UI and icons, sound effects, music, VFX) with source, author, licence and attribution data. Only redistributable licences are listed. The packs themselves live in sibling repos (assets-2d-pixel, assets-3d-lowpoly, assets-ui-icons, assets-audio, assets-2d-portraits, assets-code); this repo holds the index, the search site and a wiki.
 
@@ -34,7 +34,7 @@ Example: https://sigco3111.github.io/game-asset-catalog/?cat=sfx&fx=explosion&li
 ## Regenerate
 `python3 tools/build_index.py` (catalog.csv -> assets-index.json, assets-index.min.json, docs/index-report.md) then `python3 tools/build_wiki.py` (-> docs/wiki/*.md and this file). Python 3 stdlib only; output is deterministic. `python3 tools/build_wiki.py --check` validates links and counts.
 
-## Counts snapshot (catalog.csv@eef3a19f883ca8a9d4048d596f8e04d768fe58a3)
+## Counts snapshot (catalog.csv@f4eba33b25158ce56804f476082b54388b414491)
 - Assets: 2253; attribution required: 347; AI-generated: 39
 - By licence family: cc0 1902, cc-by 300, mit 19, gpl 11, other 21
 - By category: effect 146, sfx 245, music 260, voice 3, tileset-2d 146, sprite-2d 137, background-2d 30, map-2d 3, ui 232, icon 40, portrait 2, font 3, texture 71, model-3d 716, character-3d 35, vehicle-3d 10, building-3d 23, board 5, puzzle 2, other 144
