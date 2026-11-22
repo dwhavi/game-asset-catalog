@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8dd1b0bb484d53d7083548a1b5acf19d5c5942d7`
+> generated from `catalog.csv@7c4252880b31267c4cb620aaca0268baba787655`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -14,6 +14,7 @@
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip) | 2026-11-23 |
+| [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/achrefelouafi/GeometryPainterThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/geometry-painter-threejs/geometry-painter-threejs.zip) | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
 | [Lowpoly Tree Generator 절차적 나무 생성 코드](https://github.com/pajama-studio/lowpoly-tree-generator) | `other` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lowpoly-tree-generator/lowpoly-tree-generator.zip) | 2026-11-23 |
 | [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | `model-3d` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip) | 2026-11-23 |
@@ -112,4 +113,3 @@
 | [Clay Wine Jar](https://polyfork.dev/asset/clay-wine-jar-8eea26) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/clay-wine-jar/clay-wine-jar.zip) | 2026-11-20 |
 | [Cold Boot 인하우스 생성 음성 484파일](https://github.com/rossinek/cold-boot) | `voice` | rossinek (Cold Boot) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/cold-boot-voices/cold-boot-voices.zip) | 2026-11-20 |
 | [Cold Boot 토마스 3D 머리 (Lee Perry-Smith 스캔)](https://github.com/rossinek/cold-boot) | `character-3d` | Lee Perry-Smith (Infinite Realities) | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-tomas-head/cold-boot-tomas-head.zip) | 2026-11-20 |
-| [Cold Boot 할보르센 3D 머리 (MakeHuman CC0)](https://github.com/rossinek/cold-boot) | `character-3d` | MakeHuman team (가공: rossinek) | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/cold-boot-halvorsen-head/cold-boot-halvorsen-head.zip) | 2026-11-20 |

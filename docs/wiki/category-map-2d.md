@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8dd1b0bb484d53d7083548a1b5acf19d5c5942d7`
+> generated from `catalog.csv@7c4252880b31267c4cb620aaca0268baba787655`
 
 # 2D 맵 모음
 
