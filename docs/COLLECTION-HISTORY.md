@@ -1,5 +1,15 @@
 # 수집 이력 (라운드별 상세)
 
+### GP-20261123 수동 등록 (1팩, 2026-11-23 KST)
+
+소유자 요청(iMessage phoneconv-01M7H19AJTBYEDBPZNMGRHESDR, 2026-11-23 08:00 KST)으로 mohamedachrefelouafi의 MIT 코드 저장소 GeometryPainterThreeJS를 코드 팩으로 수집했습니다. 출처 저장소 클론(HEAD 79c7556) 후 LICENSE(MIT, Copyright (c) 2026 mohamedachrefelouafi)를 확인했고, 번들 모델·텍스처·오디오가 없는 코드 전용 저장소(ts/html/json/md/css만)임을 파일 목록으로 확인했습니다. Node 22에서 npm run build(tsc --noEmit 포함) 통과, 헤드리스 크롬 WebGL2 백엔드로 크리스탈 모드 실제 렌더를 캡처해 동작을 검증했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/sigco3111/assets-code/tree/main/geometry-painter-threejs) | assets-code | mohamedachrefelouafi | MIT | 표면 스트로크 페인팅 모드 시스템 전체 소스(src 10모듈·데모 10종·문서, 118KB zip); 귀속 필수(저작권 표기+MIT 전문 유지); LICENSE.txt·LICENSE-SOURCE.txt·CREDITS.txt·THIRD_PARTY_NOTICES.md 동봉; 미리보기는 크리스탈 모드 실제 렌더(WebGL2) |
+
+종류: 코드 모듈 1팩(assets-code). 라이선스: MIT 1팩. 새 저장소 없음. assets-code는 8→9팩, 총 2,250→2,251팩.
+
 ### TREE-20261123 수동 등록 (2팩, 2026-11-23 KST)
 
 소유자 승인(iMessage, 2026-11-23 07:48 KST)으로 Rand Monster contributors의 MIT 생성기 lowpoly-tree-generator를 코드 팩과 생성 샘플 모델 팩으로 수집했습니다. 출처 저장소 클론(HEAD 4377dd6, package.json 메타데이터의 업스트림 rand-monster/lowpoly-tree-generator와 동일) 후 LICENSE(MIT, Copyright (c) 2026 Rand Monster contributors)·THIRD_PARTY_NOTICES(의존 3종 모두 MIT)·CREDITS(원본 코드, 제3자 모델 없음 명시)를 확인했습니다. Node 22에서 node --test 21개 전량 통과, 아키타입 6종 GLB 내보내기를 검증했습니다.
