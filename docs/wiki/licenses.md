@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c648510e7b7bc97690e5e97fb3291dc228775ce2`
+> generated from `catalog.csv@e94be7427c6b42dcc8729fd207bb3b83dd7eea6e`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2271개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2272개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -20,7 +20,7 @@
 | cc-by | CC-BY | 307 | 307 | 예 |
 | mit | MIT | 23 | 22 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
-| other | 기타(허용 목록 밖) | 25 | 22 | 아니오 |
+| other | 기타(허용 목록 밖) | 26 | 23 | 아니오 |
 
 ## 라이선스 문구(license)별 개수
 
@@ -34,7 +34,7 @@
 | MIT | mit | O | 22 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 11 |
-| 알 수 없음 | other | O | 9 |
+| 알 수 없음 | other | O | 10 |
 | OGA-BY 3.0 | other | O | 5 |
 | Apache-2.0 | other | O | 4 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | cc-by | O | 3 |
@@ -54,11 +54,12 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 362개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 363개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
 | [AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요) | 2026-11-23 |
+| [AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 | 2026-11-23 |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi) | 2026-11-23 |
 | [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | Polyfork | CC-BY 4.0 | Baby Pram by Polyfork (https://polyfork.dev/asset/baby-pram-73d9f2), CC BY 4.0 | 2026-11-23 |
 | [Christmas Market Stall](https://polyfork.dev/asset/christmas-market-stall-e0ebe9) | Polyfork | CC-BY 4.0 | Christmas Market Stall by Polyfork (https://polyfork.dev/asset/christmas-market-stall-e0ebe9), CC BY 4.0 | 2026-11-23 |
@@ -440,10 +441,11 @@
 
 ## 허용 목록 밖 에셋 (확인 없이 쓰지 마세요)
 
-license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 25개입니다. **do not use without checking** — 사용하기 전에 라이선스 문구와 출처를 직접 확인하세요.
+license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 26개입니다. **do not use without checking** — 사용하기 전에 라이선스 문구와 출처를 직접 확인하세요.
 
 | 이름 | license_family | 라이선스 | 표기 필요 | AI 생성 | 추가일 |
 |---|---|---|---|---|---|
+| [AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | other | 알 수 없음 | O | X | 2026-11-23 |
 | [Gay Old Time (Bounce House)](https://opengameart.org/content/gay-old-time-bounce-house) | other | OGA-BY 4.0 | O | X | 2026-11-22 |
 | [Generic video game music](https://opengameart.org/content/generic-video-game-music) | other | OGA-BY 3.0 | O | X | 2026-11-22 |
 | [Nintendo-esque Menu Music](https://opengameart.org/content/nintendo-esque-menu-music) | other | OGA-BY 3.0 | O | X | 2026-11-22 |

@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@c648510e7b7bc97690e5e97fb3291dc228775ce2",
-  "count": 2271,
+  "generated_from": "catalog.csv@e94be7427c6b42dcc8729fd207bb3b83dd7eea6e",
+  "count": 2272,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80065,7 +80065,7 @@
       "id": "assets-3d-lowpoly-2/abilitycasting-결투장-생물-소품-3d-모델-6종-glb",
       "name": "AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)",
       "repo": "assets-3d-lowpoly-2",
-      "file": "abilitycasting-models/abilitycasting-models.zip",
+      "file": "releases/download/abilitycasting-models/abilitycasting-models.zip",
       "type": "3D 모델",
       "category": "model-3d",
       "tags": [
@@ -80082,7 +80082,8 @@
         "rigged",
         "animated",
         "environment",
-        "hdri"
+        "hdri",
+        "blender"
       ],
       "effect_kind": [
         "magic"
@@ -80096,12 +80097,56 @@
       "attribution_required": true,
       "ai_generated": false,
       "added": "2026-11-23",
-      "notes": "원작자 Blender 제작 확인분 6종(duel_hall 환경, wolf 리그+클립 6종, shark Breach·Swim 클립, arcane_tome, wildroot_reliquary, amethyst_stones)+결투장 천 텍스처+환경 HDRI(Poly Haven Spruit Sunrise 2K, CC0). GLB 메타(Blender I/O)·전용 클립·설정 주석·art/*.blend로 자작 확인. 제외: dragon.glb·magical_gyroscope.glb(Sketchfab 서드파티, 원라이선스 불명), Mixamo FBX 4종·diffuse.png(재배포 금지), cathedral·배너·스테인드글라스·룬 텍스처(출처 미확인). Blender 원본은 원본 저장소 art/ 참고. MIT 전문 동봉. 코드 팩은 assets-code abilitycasting-spell-vfx",
+      "notes": "원작자 Blender 제작 확인분 6종(duel_hall 환경, wolf 리그+클립 6종, shark Breach·Swim 클립, arcane_tome, wildroot_reliquary, amethyst_stones)+결투장 천 텍스처+환경 HDRI(Poly Haven Spruit Sunrise 2K, CC0)+Blender 원본 3종(.blend). 자작 근거: README가 art/ Duel Hall·wolf를 프로젝트 소스로 명시, 설정 주석 tome/reliquary/amethyst 'built in Blender', GLB 메타 Blender I/O, shark는 전용 클립(정황). zip 56MB로 Releases(abilitycasting-models) 첨부. 제외: Mixamo FBX·diffuse.png(재배포 금지); dragon·gyroscope·일부 텍스처는 권리 미확인 팩 abilitycasting-unverified. MIT 전문 동봉. 코드 팩은 assets-code abilitycasting-spell-vfx",
       "preview": "abilitycasting-models/preview.png",
-      "download_path": "abilitycasting-models/abilitycasting-models.zip",
-      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-models/abilitycasting-models.zip",
+      "download_path": "releases/download/abilitycasting-models/abilitycasting-models.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip",
       "download_urls": [
-        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-models/abilitycasting-models.zip"
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/abilitycasting-드래곤-자이로스코프-모델-환경-텍스처-권리-미확인",
+      "name": "AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "abilitycasting-unverified/abilitycasting-unverified.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "model",
+        "glb",
+        "dragon",
+        "gyroscope",
+        "texture",
+        "pbr",
+        "cathedral",
+        "banner",
+        "stained-glass",
+        "fantasy",
+        "unverified"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "mohamedachrefelouafi (서드파티 원권리자 불명)",
+      "source_url": "https://github.com/achrefelouafi/AbilityCastingThreeJS",
+      "license": "알 수 없음",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "서드파티·출처 미확인 항목: dragon.glb·magical_gyroscope.glb(GLB 메타 Sketchfab, 원본 항목 불명), cathedral PBR 4종, 배너 4종·stained_glass·rune_glow. 원본 README는 서드파티 모델이 원라이선스 유지라고만 명시. 명시적 금지 없음 → 소유자 정책으로 알 수 없음 수록. 재사용 허락 미확인, 사용 전 원권리자 확인 필요, 권리자 요청 시 즉시 내림. Mixamo FBX·diffuse.png는 명시적 재배포 금지로 미수록",
+      "preview": "abilitycasting-unverified/preview.png",
+      "download_path": "abilitycasting-unverified/abilitycasting-unverified.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip"
       ],
       "sample": null,
       "multipart": false,

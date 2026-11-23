@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c648510e7b7bc97690e5e97fb3291dc228775ce2`
+> generated from `catalog.csv@e94be7427c6b42dcc8729fd207bb3b83dd7eea6e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,7 +13,8 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
-| [AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
+| [AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
+| [AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip) | 2026-11-23 |
 | [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baby-pram/baby-pram.zip) | 2026-11-23 |
 | [Christmas Market Stall](https://polyfork.dev/asset/christmas-market-stall-e0ebe9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/christmas-market-stall/christmas-market-stall.zip) | 2026-11-23 |
@@ -112,4 +113,3 @@
 | [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
 | [Taxiway Centreline Stud Run](https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip) | 2026-11-21 |
 | [The Battle Begins (Looping)](https://opengameart.org/content/the-battle-begins-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip) | 2026-11-21 |
-| [Timber Tower House](https://polyfork.dev/asset/timber-tower-house-494243) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip) | 2026-11-21 |

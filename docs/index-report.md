@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@c648510e7b7bc97690e5e97fb3291dc228775ce2`
-- 데이터 행 수: **2271**
+- 원본: `catalog.csv@e94be7427c6b42dcc8729fd207bb3b83dd7eea6e`
+- 데이터 행 수: **2272**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,324,395 bytes, `assets-index.min.json` 2,688,278 bytes
+- 파일 크기: `assets-index.json` 3,326,757 bytes, `assets-index.min.json` 2,690,274 bytes
 
 ## 2. 집계
 
@@ -20,7 +20,7 @@
 | assets-audio | 516 |
 | assets-3d-lowpoly | 508 |
 | assets-ui-icons | 254 |
-| assets-3d-lowpoly-2 | 222 |
+| assets-3d-lowpoly-2 | 223 |
 | assets-3d-polyfork | 66 |
 | assets-code | 13 |
 | assets-2d-portraits | 3 |
@@ -29,7 +29,7 @@
 
 | category | 개수 |
 |---|---|
-| model-3d | 723 |
+| model-3d | 724 |
 | music | 266 |
 | sfx | 245 |
 | ui | 232 |
@@ -54,7 +54,7 @@
 
 | type(원본) | category | 개수 |
 |---|---|---|
-| 3D 모델 | model-3d | 411 |
+| 3D 모델 | model-3d | 412 |
 | 음악 | music | 247 |
 | 효과음 | sfx | 245 |
 | 3D | model-3d | 237 |
@@ -135,7 +135,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | cc0 | 1905 |
 | cc-by | 307 |
-| other | 25 |
+| other | 26 |
 | mit | 23 |
 | gpl | 11 |
 
@@ -149,7 +149,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | MIT | 23 |
 | CC-BY | 11 |
 | GPL 3.0 | 11 |
-| 알 수 없음 | 9 |
+| 알 수 없음 | 10 |
 | OGA-BY 3.0 | 5 |
 | Apache-2.0 | 4 |
 | CC-BY 3.0 / GPL 2.0 (원본 페이지 이중 표기, 둘 다 허용 라이선스; CC-BY 3.0 선택) | 3 |
@@ -191,13 +191,13 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-20 | 68 |
 | 2026-11-21 | 39 |
 | 2026-11-22 | 41 |
-| 2026-11-23 | 26 |
+| 2026-11-23 | 27 |
 
 ### 상위 태그 30
 
 | tag | 개수 |
 |---|---|
-| 3d | 542 |
+| 3d | 543 |
 | 2d | 254 |
 | sfx | 246 |
 | music | 230 |
@@ -205,15 +205,15 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | opengameart | 220 |
 | ui·아이콘 | 182 |
 | rpg | 151 |
-| fantasy | 116 |
+| fantasy | 117 |
 | icons | 105 |
 | pixel | 105 |
 | ui | 93 |
 | effect | 85 |
 | platformer | 84 |
 | magic | 74 |
+| texture | 74 |
 | animated | 73 |
-| texture | 73 |
 | polyfork | 72 |
 | tileset | 67 |
 | effects | 62 |
@@ -234,7 +234,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 |---|---|
 | hit | 46 |
 | impact | 49 |
-| magic | 101 |
+| magic | 102 |
 | explosion | 69 |
 | lightning | 30 |
 | fire | 56 |
@@ -248,21 +248,22 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | projectile | 27 |
 | slash | 10 |
 
-- effect_kind가 하나 이상인 에셋: 260 / 2271
+- effect_kind가 하나 이상인 에셋: 261 / 2272
 
-- attribution_required=true: 362, ai_generated=true: 39, preview 있음: 1770, 분할(split) 행: 147
+- attribution_required=true: 363, ai_generated=true: 39, preview 있음: 1771, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
 ### 3.1 필수 필드가 빈 행: 0건
 
 
-### 3.2 source_url 중복: 21개 URL에 걸쳐 55행 (한 페이지에서 여러 팩을 만든 경우 포함)
+### 3.2 source_url 중복: 21개 URL에 걸쳐 56행 (한 페이지에서 여러 팩을 만든 경우 포함)
 
 | source_url | 행 수 | id 예시 |
 |---|---|---|
 | https://github.com/AgenticGameDevs/generated-assets | 8 | assets-3d-lowpoly-2/fjordfall-boats-vehicles, assets-3d-lowpoly-2/fjordfall-buildings, assets-3d-lowpoly-2/fjordfall-characters |
 | https://github.com/simonw/battledrones | 4 | assets-2d-pixel/battle-drones-키아트-가로-세로-2종, assets-2d-pixel/battle-drones-바위-타일-텍스처-5종-심리스-512, assets-2d-pixel/battle-drones-페인티드-지형-맵-7종-알베도-타일 |
+| https://github.com/achrefelouafi/AbilityCastingThreeJS | 3 | assets-code/abilitycasting-시네마틱-주문-vfx-코드-9종-three-js-glsl, assets-3d-lowpoly-2/abilitycasting-결투장-생물-소품-3d-모델-6종-glb, assets-3d-lowpoly-2/abilitycasting-드래곤-자이로스코프-모델-환경-텍스처-권리-미확인 |
 | https://github.com/rossinek/cold-boot | 3 | assets-3d-lowpoly-2/cold-boot-할보르센-3d-머리-makehuman-cc0, assets-3d-lowpoly-2/cold-boot-토마스-3d-머리-lee-perry-smith-스캔, assets-audio/cold-boot-인하우스-생성-음성-484파일 |
 | https://github.com/sigco3111/the-lost-storm-ko | 3 | assets-audio/the-lost-storm-replacement-sfx, assets-3d-lowpoly-2/the-lost-storm-cc-by-4-0-models, assets-3d-lowpoly-2/the-lost-storm-cc0-pbr-textures |
 | https://github.com/weit0529/gamedemo_by_Fable5.2 | 3 | assets-audio/starember-field-synthesized-sfx, assets-code/starember-field-render-modules, assets-code/starember-field-procedural-character-toolkit |
@@ -270,7 +271,6 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | https://github.com/zhgarylu/everyday-game | 3 | assets-2d-pixel/물결-소탕-스프라이트-26-everyday-game, assets-code/배달-라이더-광저우-드리프트-절차적-3d-코드-everyday-game, assets-code/everyday-game-절차적-3d-코드-11종-three-js |
 | https://github.com/Rikinshah787/Game-Fable-5.2 | 2 | assets-3d-lowpoly-2/concrete-echo-fps-프롭-3d-모델-24종-soldier, assets-2d-pixel/concrete-echo-콘크리트-플라스터-pbr-텍스처-6쌍 |
 | https://github.com/ShaunPrice/soccer-3d | 2 | assets-audio/pocket-soccer-3d-경기-효과음-해설-음성-14종, assets-2d-pixel/pocket-soccer-3d-타이틀-아트워크-앱-아이콘 |
-| https://github.com/achrefelouafi/AbilityCastingThreeJS | 2 | assets-code/abilitycasting-시네마틱-주문-vfx-코드-9종-three-js-glsl, assets-3d-lowpoly-2/abilitycasting-결투장-생물-소품-3d-모델-6종-glb |
 | https://github.com/achrefelouafi/CyberCityThreeJS | 2 | assets-3d-lowpoly/cybercity-modular-kit, assets-3d-lowpoly/cybercity-hover-car |
 | https://github.com/majidmanzarpour/threejs-procedural-animals | 2 | assets-code/procedural-animals-절차적-동물-24종-코드-three-js, assets-3d-lowpoly-2/procedural-animals-베이크-샘플-6종-animal |
 | https://github.com/pajama-studio/lowpoly-tree-generator | 2 | assets-code/lowpoly-tree-generator-절차적-나무-생성-코드, assets-3d-lowpoly-2/lowpoly-tree-샘플-모델-6종-glb |
@@ -301,7 +301,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - 허용 목록과 정확히 일치: 2236행
 - 허용 라이선스로 시작하지만 부가 설명이 붙은 표기: 10행 (8종)
-- 허용 목록에 해당하지 않음: **25행** (8종)
+- 허용 목록에 해당하지 않음: **26행** (8종)
 
 | 부가 설명이 붙은 license | 행 수 |
 |---|---|
@@ -321,7 +321,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | OFL-1.1 | 1 | assets-ui-icons/afterlight-세리프-웹폰트-3족-alegreya-cinzel |
 | OGA-BY 3.0 | 5 | assets-ui-icons/tiny-misc-ui, assets-audio/nintendo-esque-music-2, assets-audio/generic-video-game-music, assets-audio/nintendo-esque-menu-music, assets-audio/spooky-month |
 | OGA-BY 4.0 | 2 | assets-audio/when-i-m-feeling-a-bit-snowed-in, assets-audio/gay-old-time-bounce-house |
-| 알 수 없음 | 9 | assets-2d-pixel/물결-소탕-스프라이트-26-everyday-game, assets-code/배달-라이더-광저우-드리프트-절차적-3d-코드-everyday-game, assets-code/everyday-game-절차적-3d-코드-11종-three-js, assets-3d-lowpoly-2/concrete-echo-fps-프롭-3d-모델-24종-soldier, assets-2d-pixel/concrete-echo-콘크리트-플라스터-pbr-텍스처-6쌍, assets-code/lanternfall-절차적-3d-rpg-코드-17종, assets-audio/pocket-soccer-3d-경기-효과음-해설-음성-14종, assets-2d-pixel/pocket-soccer-3d-타이틀-아트워크-앱-아이콘, assets-audio/cold-boot-인하우스-생성-음성-484파일 |
+| 알 수 없음 | 10 | assets-2d-pixel/물결-소탕-스프라이트-26-everyday-game, assets-code/배달-라이더-광저우-드리프트-절차적-3d-코드-everyday-game, assets-code/everyday-game-절차적-3d-코드-11종-three-js, assets-3d-lowpoly-2/concrete-echo-fps-프롭-3d-모델-24종-soldier, assets-2d-pixel/concrete-echo-콘크리트-플라스터-pbr-텍스처-6쌍, assets-code/lanternfall-절차적-3d-rpg-코드-17종, assets-audio/pocket-soccer-3d-경기-효과음-해설-음성-14종, assets-2d-pixel/pocket-soccer-3d-타이틀-아트워크-앱-아이콘, assets-audio/cold-boot-인하우스-생성-음성-484파일, assets-3d-lowpoly-2/abilitycasting-드래곤-자이로스코프-모델-환경-텍스처-권리-미확인 |
 | 원작자 허용 (수정·사용 자유; 그대로 다시 올려 파는 것 금지) | 1 | assets-2d-pixel/불씨의-서약-아트 |
 | 자체 제작(소유자 보유) · Instinct(소유자의 AI 어시스턴트)가 AI로 생성, 소유자 결정으로 유지 · 조건 없이 사용 가능 (own work, AI-generated by Instinct, kept by owner decision) | 2 | assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56 |
 
@@ -341,7 +341,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
   - assets-audio/the-lost-storm-replacement-sfx
 - 참고: license_family=cc0인데 attribution이 `optional`로 시작하지 않는 행: 186건
 - 참고: attribution이 `불요`로 시작하거나 `없음`/`none`/`n/a`인 행: 13건 — attribution_required=false 처리 (정제 2차 변경; 이전에는 `불요` 2행이 true였음: assets-2d-portraits/삼국지-초상화-660, assets-2d-pixel/천하삼분-게임-에셋-56)
-- 참고: attribution_required=true인 행 362건 (cc0인데 true: 0건)
+- 참고: attribution_required=true인 행 363건 (cc0인데 true: 0건)
 
 ### 3.6 file 열 경로 형식 이상: 7건
 
@@ -355,10 +355,10 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 1932 | https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip | 중복 슬래시 |
 | 2145 | https://github.com/sigco3111/assets-2d-pixel/tree/main/pixelfx | 중복 슬래시, 확장자 없음 |
 - file 열이 저장소 상대경로가 아니라 전체 URL인 행 7건: 색인의 download_path는 같은 저장소의 상대경로로 환산(cheonha-sambun/cheonha-sambun-assets.zip, releases/download/a105-sewer-tunnels/sewer-tunnels.zip, releases/download/a105-office-campus-buildings-and-restaurant/office-campus-buildings-and-restaurant.zip), 원본 file 값은 `file`에 그대로 유지.
-- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1546행, 저장소 트리 경로 725행
+- file 열 구성: 릴리스 자산 경로(`releases/download/<태그>/<파일>`) 1547행, 저장소 트리 경로 725행
 - split 열 값이 `Y`(파트 파일명 미나열, 폴더 내 part1~N zip)인 행: 11건 — `multipart=true`, download_url은 file 열(part1) 기준.
 - 파트 파일명이 나열된 분할 업로드(split 열) 147행: file 열의 단일 파일명은 릴리스에 존재하지 않을 수 있고 실제 파일은 `split_parts`임 (예: `assets-3d-lowpoly/kaykit-skeletons-1-0`). 이 행들의 `download_url`은 null, 대신 `download_urls`에 분할 파일 URL 목록을 둠.
-- file 확장자 분포: .zip 2182, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, (없음) 1, .gif 1, .gz 1, .jpg 1
+- file 확장자 분포: .zip 2183, .part01 47, .png 16, .ogg 7, .mp3 6, .blend 4, .wav 3, .svg 2, (없음) 1, .gif 1, .gz 1, .jpg 1
 
 ### 3.7 기타 관찰
 
@@ -514,14 +514,14 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 | UI Sounds | assets-audio | 714, 1543 | releases/download/v6.5/ui-sounds.zip; ui-sounds/ui-sounds.zip |
 | Weapon Slash - Effect | assets-2d-pixel | 897, 1827 | releases/download/v8.26/weapon-slash-effect.zip; weapon-slash-effect/weapon-slash-everything.zip |
 
-- source_url이 같은 값 21개(55행):
+- source_url이 같은 값 21개(56행):
 
 | source_url | CSV 줄 | name |
 |---|---|---|
 | https://github.com/AgenticGameDevs/generated-assets | 1889, 1890, 1891, 1892, 1893, 1894, 1895, 1896 | Fjordfall Boats & Vehicles; Fjordfall Buildings; Fjordfall Characters; Skybound Six Synthesized SFX; Fjordfall Props; Fjordfall Wildlife; Fjordfall Vegetation; Fjordfall Sound Effects |
 | https://github.com/Rikinshah787/Game-Fable-5.2 | 2136, 2137 | Concrete Echo FPS 프롭 3D 모델 24종+Soldier; Concrete Echo 콘크리트·플라스터 PBR 텍스처 6쌍 |
 | https://github.com/ShaunPrice/soccer-3d | 2139, 2140 | Pocket Soccer 3D 경기 효과음·해설 음성 14종; Pocket Soccer 3D 타이틀 아트워크·앱 아이콘 |
-| https://github.com/achrefelouafi/AbilityCastingThreeJS | 2271, 2272 | AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL); AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB) |
+| https://github.com/achrefelouafi/AbilityCastingThreeJS | 2271, 2272, 2273 | AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL); AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB); AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인) |
 | https://github.com/achrefelouafi/CyberCityThreeJS | 1527, 1528 | CyberCity Modular Kit; CyberCity Hover Car |
 | https://github.com/majidmanzarpour/threejs-procedural-animals | 2253, 2254 | Procedural Animals 절차적 동물 24종 코드 (three.js); Procedural Animals 베이크 샘플 6종 (.animal) |
 | https://github.com/pajama-studio/lowpoly-tree-generator | 2250, 2251 | Lowpoly Tree Generator 절차적 나무 생성 코드; Lowpoly Tree 샘플 모델 6종 (GLB) |
@@ -554,7 +554,7 @@ catalog.csv·license 값은 수정하지 않았습니다. 아래는 소유자의
 
 ### (c) 허용 목록 밖의 자체 제작 라이선스 표기 (값 유지, 소유자 확인용)
 
-license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own work, AI-generated …`)인 행 25건. 값은 그대로 두었고 `license_family`는 other, `ai_generated`는 true입니다.
+license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own work, AI-generated …`)인 행 26건. 값은 그대로 두었고 `license_family`는 other, `ai_generated`는 true입니다.
 
 | CSV 줄 | name | repo | attribution |
 |---|---|---|---|
@@ -583,6 +583,7 @@ license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own
 | 2256 | Nintendo-esque Menu Music | assets-audio | 필수: Bonky (opengameart.org), OGA-BY 3.0 |
 | 2257 | Spooky Month | assets-audio | 필수: Bonky (opengameart.org), OGA-BY 3.0 |
 | 2269 | Gay Old Time (Bounce House) | assets-audio | 필수: Haley Halcyon (opengameart.org), OGA-BY 4.0 |
+| 2273 | AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인) | assets-3d-lowpoly-2 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 |
 
 ### (d) 분할 업로드 행 정책
 
