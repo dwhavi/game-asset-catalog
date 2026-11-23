@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ebb829a67784bd1ce5fdc7f07678e65334b76d62",
-  "count": 2259,
+  "generated_from": "catalog.csv@ad494864ed6b65b4edf2894328391c565546682b",
+  "count": 2262,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -79663,6 +79663,107 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/ice-rink-tile",
+      "name": "Ice Rink Tile",
+      "repo": "assets-3d-polyfork",
+      "file": "ice-rink-tile/ice-rink-tile.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [
+        "ice"
+      ],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/ice-rink-tile-aceb6a",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Ice Rink Tile by Polyfork (https://polyfork.dev/asset/ice-rink-tile-aceb6a), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "ice-rink-tile/preview.png",
+      "download_path": "ice-rink-tile/ice-rink-tile.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ice-rink-tile/ice-rink-tile.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/ice-rink-tile/ice-rink-tile.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/roof-snow-blanket-run",
+      "name": "Roof Snow Blanket Run",
+      "repo": "assets-3d-polyfork",
+      "file": "roof-snow-blanket-run/roof-snow-blanket-run.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/roof-snow-blanket-run-9dd068",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Roof Snow Blanket Run by Polyfork (https://polyfork.dev/asset/roof-snow-blanket-run-9dd068), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "roof-snow-blanket-run/preview.png",
+      "download_path": "roof-snow-blanket-run/roof-snow-blanket-run.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/roof-snow-blanket-run/roof-snow-blanket-run.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/roof-snow-blanket-run/roof-snow-blanket-run.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/snowball-pile",
+      "name": "Snowball Pile",
+      "repo": "assets-3d-polyfork",
+      "file": "snowball-pile/snowball-pile.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/snowball-pile-af4655",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Snowball Pile by Polyfork (https://polyfork.dev/asset/snowball-pile-af4655), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "snowball-pile/preview.png",
+      "download_path": "snowball-pile/snowball-pile.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip"
       ],
       "sample": null,
       "multipart": false,

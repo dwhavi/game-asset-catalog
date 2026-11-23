@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-11 자동 수집 등록 (3팩, 2026-11-23 11:30 KST)
+
+- 팩: Ice Rink Tile (slug ice-rink-tile), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/ice-rink-tile-aceb6a
+- 저장: assets-3d-polyfork ice-rink-tile/ice-rink-tile.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2259→2262, 기존 행 불변 확인
+- 팩: Roof Snow Blanket Run (slug roof-snow-blanket-run), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/roof-snow-blanket-run-9dd068
+- 저장: assets-3d-polyfork roof-snow-blanket-run/roof-snow-blanket-run.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2259→2262, 기존 행 불변 확인
+- 팩: Snowball Pile (slug snowball-pile), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/snowball-pile-af4655
+- 저장: assets-3d-polyfork snowball-pile/snowball-pile.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2259→2262, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-08 자동 수집 등록 (3팩, 2026-11-23 08:45 KST)
 
 - 팩: Generic video game music (slug generic-video-game-music), 라이선스: OGA-BY 3.0, 제작자: Bonky

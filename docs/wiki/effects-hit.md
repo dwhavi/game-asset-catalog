@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ebb829a67784bd1ce5fdc7f07678e65334b76d62`
+> generated from `catalog.csv@ad494864ed6b65b4edf2894328391c565546682b`
 
 # 타격·충격 이펙트 모음 — hit
 

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ebb829a67784bd1ce5fdc7f07678e65334b76d62`
+> generated from `catalog.csv@ad494864ed6b65b4edf2894328391c565546682b`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -18,6 +18,7 @@
 | [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip) | 2026-11-23 |
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip) | 2026-11-23 |
 | [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/achrefelouafi/GeometryPainterThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/geometry-painter-threejs/geometry-painter-threejs.zip) | 2026-11-23 |
+| [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ice-rink-tile/ice-rink-tile.zip) | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
 | [Lowpoly Tree Generator 절차적 나무 생성 코드](https://github.com/pajama-studio/lowpoly-tree-generator) | `other` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lowpoly-tree-generator/lowpoly-tree-generator.zip) | 2026-11-23 |
 | [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | `model-3d` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip) | 2026-11-23 |
@@ -26,7 +27,9 @@
 | [Procedural Animals 베이크 샘플 6종 (.animal)](https://github.com/majidmanzarpour/threejs-procedural-animals) | `model-3d` | Majid Manzarpour and procedural-animals contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/procedural-animal-samples/procedural-animal-samples.zip) | 2026-11-23 |
 | [Procedural Animals 절차적 동물 24종 코드 (three.js)](https://github.com/majidmanzarpour/threejs-procedural-animals) | `other` | Majid Manzarpour and procedural-animals contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/procedural-animals-threejs/procedural-animals-threejs.zip) | 2026-11-23 |
 | [Reindeer](https://polyfork.dev/asset/reindeer-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer/reindeer.zip) | 2026-11-23 |
+| [Roof Snow Blanket Run](https://polyfork.dev/asset/roof-snow-blanket-run-9dd068) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roof-snow-blanket-run/roof-snow-blanket-run.zip) | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip) | 2026-11-23 |
+| [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip) | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
@@ -110,6 +113,3 @@
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Activity Icons](https://opengameart.org/content/activity-icons) | `ui` | StendhalGame | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/activity-icons/activity-icons.zip) | 2026-11-20 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
-| [Ambient Solo Guitar Interludes](https://opengameart.org/content/ambient-solo-guitar-interludes) | `music` | SpringySpringo | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ambient-solo-guitar-interludes/ambient-solo-guitar-interludes.zip) | 2026-11-20 |
-| [Battle Drones 바위 타일 텍스처 5종 (심리스 512²)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-rock-textures/battledrones-rock-textures.zip) | 2026-11-20 |
-| [Battle Drones 유닛·건물 아이콘 28종+변형](https://github.com/simonw/battledrones) | `ui` | Battle Drones authors (simonw) | Apache-2.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/battledrones-unit-icons/battledrones-unit-icons.zip) | 2026-11-20 |
