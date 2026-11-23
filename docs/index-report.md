@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@8e15808bbf0bfdb0c35a10b551acc576784c4c7e`
+- 원본: `catalog.csv@fac067012681c356732576e7cc1185b85d35f32d`
 - 데이터 행 수: **2275**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,331,215 bytes, `assets-index.min.json` 2,693,864 bytes
+- 파일 크기: `assets-index.json` 3,331,213 bytes, `assets-index.min.json` 2,693,862 bytes
 
 ## 2. 집계
 
@@ -585,7 +585,7 @@ license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own
 | 2257 | Spooky Month | assets-audio | 필수: Bonky (opengameart.org), OGA-BY 3.0 |
 | 2269 | Gay Old Time (Bounce House) | assets-audio | 필수: Haley Halcyon (opengameart.org), OGA-BY 4.0 |
 | 2273 | AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인) | assets-3d-lowpoly-2 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 |
-| 2276 | Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14) | assets-ui-icons | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금 지, 수정본 동일 라이선스 |
+| 2276 | Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14) | assets-ui-icons | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스 |
 
 ### (d) 분할 업로드 행 정책
 

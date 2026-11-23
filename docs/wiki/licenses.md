@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@8e15808bbf0bfdb0c35a10b551acc576784c4c7e`
+> generated from `catalog.csv@fac067012681c356732576e7cc1185b85d35f32d`
 
 # 라이선스 모음
 
@@ -66,7 +66,7 @@
 | [Cyclops](https://polyfork.dev/asset/cyclops-base) | Polyfork | CC-BY 4.0 | Cyclops by Polyfork (https://polyfork.dev/asset/cyclops-base), CC BY 4.0 | 2026-11-23 |
 | [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi) | 2026-11-23 |
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | Polyfork | CC-BY 4.0 | Fuel Technician by Polyfork (https://polyfork.dev/asset/fuel-technician-df4ce0), CC BY 4.0 | 2026-11-23 |
-| [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | Lee Minseo (quiple) | OFL-1.1 | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금 지, 수정본 동일 라이선스 | 2026-11-23 |
+| [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | Lee Minseo (quiple) | OFL-1.1 | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스 | 2026-11-23 |
 | [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/achrefelouafi/GeometryPainterThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi) | 2026-11-23 |
 | [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | Polyfork | CC-BY 4.0 | Ice Rink Tile by Polyfork (https://polyfork.dev/asset/ice-rink-tile-aceb6a), CC BY 4.0 | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | Polyfork | CC-BY 4.0 | Iron-Banded Chest by Polyfork (https://polyfork.dev/asset/iron-banded-chest-64731f), CC BY 4.0 | 2026-11-23 |

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@8e15808bbf0bfdb0c35a10b551acc576784c4c7e",
+  "generated_from": "catalog.csv@fac067012681c356732576e7cc1185b85d35f32d",
   "count": 2275,
   "assets": [
     {
@@ -80246,7 +80246,7 @@
       "license": "OFL-1.1",
       "license_note": null,
       "license_family": "other",
-      "attribution": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금\n지, 수정본 동일 라이선스",
+      "attribution": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금지, 수정본 동일 라이선스",
       "attribution_required": true,
       "ai_generated": false,
       "added": "2026-11-23",
