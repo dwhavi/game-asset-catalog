@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@4882a7d74c9d515a4f90407fdd3eb9ff47e22db6`
+> generated from `catalog.csv@ebb829a67784bd1ce5fdc7f07678e65334b76d62`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,9 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)](https://polyhaven.com/a/spruit_sunrise) | `other` | Poly Haven | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-hdri-spruit-sunrise/elemental-sandbox-hdri-spruit-sunrise.zip) | 2026-11-23 |
+| [Elemental Sandbox 바위 PBR 텍스처 4종 (ambientCG Rock030 1K)](https://ambientcg.com/a/Rock030) | `other` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-rock030-pbr/elemental-sandbox-rock030-pbr.zip) | 2026-11-23 |
+| [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip) | 2026-11-23 |
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip) | 2026-11-23 |
 | [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/achrefelouafi/GeometryPainterThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/geometry-painter-threejs/geometry-painter-threejs.zip) | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
@@ -110,6 +113,3 @@
 | [Ambient Solo Guitar Interludes](https://opengameart.org/content/ambient-solo-guitar-interludes) | `music` | SpringySpringo | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/ambient-solo-guitar-interludes/ambient-solo-guitar-interludes.zip) | 2026-11-20 |
 | [Battle Drones 바위 타일 텍스처 5종 (심리스 512²)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-rock-textures/battledrones-rock-textures.zip) | 2026-11-20 |
 | [Battle Drones 유닛·건물 아이콘 28종+변형](https://github.com/simonw/battledrones) | `ui` | Battle Drones authors (simonw) | Apache-2.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/battledrones-unit-icons/battledrones-unit-icons.zip) | 2026-11-20 |
-| [Battle Drones 키아트 (가로·세로 2종)](https://github.com/simonw/battledrones) | `background-2d` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/battledrones-keyart/battledrones-keyart.zip) | 2026-11-20 |
-| [Battle Drones 페인티드 지형 맵 7종 (알베도 타일)](https://github.com/simonw/battledrones) | `other` | Battle Drones authors (simonw) | Apache-2.0 | O | O | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/battledrones-terrain-maps/battledrones-terrain-maps.zip) | 2026-11-20 |
-| [C Tonal Electronic](https://opengameart.org/content/c-tonal-electronic) | `music` | Pro Sensory | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/c-tonal-electronic/c-tonal-electronic.zip) | 2026-11-20 |
