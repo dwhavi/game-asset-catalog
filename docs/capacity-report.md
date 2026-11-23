@@ -1,17 +1,19 @@
 # 저장소 용량 점검 보고서
 
-생성: 2026-11-16 13:24 KST (`python3 tools/check_sizes.py`, 매주 월요일 자동 갱신)
+생성: 2026-11-23 14:19 KST (`python3 tools/check_sizes.py`, 매주 월요일 자동 갱신)
 
 | 저장소 | 용량(MB) | 상태 | 900MB까지 남은 용량(MB) |
 | --- | ---: | --- | ---: |
-| assets-2d-pixel | 443.0 | 양호 | 457.0 |
-| assets-audio | 389.7 | 양호 | 510.3 |
+| assets-2d-pixel | 486.6 | 양호 | 413.4 |
+| assets-audio | 500.4 | 양호 | 399.6 |
 | assets-3d-lowpoly | 666.9 | 양호 | 233.1 |
-| assets-3d-lowpoly-2 | 176.7 | 양호 | 723.3 |
-| assets-ui-icons | 56.0 | 양호 | 844.0 |
+| assets-3d-lowpoly-2 | 507.2 | 양호 | 392.8 |
+| assets-ui-icons | 90.8 | 양호 | 809.2 |
 | assets-2d-portraits | 50.8 | 양호 | 849.2 |
+| assets-code | 17.8 | 양호 | 882.2 |
+| assets-3d-polyfork | 5.8 | 양호 | 894.2 |
 
-5개 저장소 합계: 1,783.1MB (저장소별로 판단하며 합계는 참고용입니다).
+5개 저장소 합계: 2,326.2MB (저장소별로 판단하며 합계는 참고용입니다).
 
 ## 판정 규칙
 
