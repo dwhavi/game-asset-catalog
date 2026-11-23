@@ -1,5 +1,22 @@
 # 수집 이력 (라운드별 상세)
 
+### AC-20261123-2 수동 등록 (3팩, 2026-11-23 KST)
+
+소유자 요청(iMessage phonemsg-01M83AFQGXZQN50403FFC8G720·phonemsg-01M83AFQS88PFF4W6Y20MQHC95, 2026-11-23 13:26 KST)으로 sigco3111/abyss-stairs(Patch @techhyung의 "심연의 계단" 미러)에서 활용 가능한 에셋을 기존 라이브러리에 추가했습니다. CREDITS.md 197항목을 전수 확인하고 기존 카탈로그와 대조했습니다. tiny-dungeon, tiny-town, tiny-city, particle-pack, smoke-particles, ui-pack-pixel-adventure, impact-sounds, digital-audio, interface-sounds, rpg-audio, jrpg-pack-3-evil, boss-battle-music, jrpg-pack-5-action, 12-music-loops 등 14종은 이미 등록되어 있어 제외하고 신규 3팩만 수록했습니다. 각 팩은 외부 공식 배포처(Kenney 공식 사이트, incompetech, quiple/galmuri GitHub 릴리스)에서 원본을 직접 내려받아 릴리스 첨부와 MD5를 대조했습니다.
+
+Patch 콘텐츠 라이선스는 제작자 허가 없이 콘텐츠를 Patch 밖으로 옮기는 것을 제한하므로, 게임 코드·데이터·아트 스크립트(art/*.mjs)·스크린샷(shots/)·UI 합성 이미지·heroes.png·items.png 등 abyss-stairs 원본 콘텐츠는 파일을 수록하지 않고 이 메타데이터만 남깁니다(재배포 제한 원본의 기존 규칙 적용).
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Sci-Fi Sounds](https://github.com/sigco3111/assets-audio/releases/tag/sci-fi-sounds) | assets-audio | Kenney | CC0 | 공식 kenney.nl zip 바이트 그대로(릴리스 첨부, MD5 대조), OGG 73개, 원본 License.txt(CC0) 내장, 게임 사용 6음 전부 포함, 샘플 previews/scifisounds_sample.ogg |
+| [Kevin MacLeod - Night Cave & Dark Times](https://github.com/sigco3111/assets-audio/releases/tag/kevin-macleod-night-cave-dark-times) | assets-audio | Kevin MacLeod | CC-BY 4.0 | 공식 incompetech 320kbps MP3 2곡(Night Cave USUAN1100446, Dark Times USUAN1100747, MD5 대조); 트리 폴더 kevin-macleod-night-cave-dark-times/에 귀속·출처·CC-BY 4.0 전문 동봉 — 사용 시 크레딧 필수; abyss-stairs BGM 사용분 |
+| [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/sigco3111/assets-ui-icons/releases/tag/galmuri) | assets-ui-icons | Lee Minseo (quiple) | OFL-1.1 | 공식 v2.40.4 릴리스 zip 그대로(파일 40개: Galmuri11/11 Bold/11 Condensed/14 및 Bitmap 변종 TTF·BDF·WOFF2, MD5 대조); 트리 폴더 galmuri/에 OFL 전문·pack.md·CREDITS.txt·meta.json·preview.png; OFL 전문 유지·폰트 단독 판매 금지·수정본 동일 라이선스; abyss-stairs UI 폰트 사용분 |
+
+종류: 효과음 1팩·배경음악 1팩(assets-audio 516→518), 폰트 1팩(assets-ui-icons 254→255). 라이선스: CC0 1팩, CC-BY 4.0 1팩, OFL-1.1 1팩. 새 저장소 없음. 총 2,272→2,275팩. 포털 등록: catalog.csv 2,272→2,275, 기존 행 불변 확인(바이트 대조).
+
+- 규칙 메모: CC-BY 4.0 음원은 사용 시 크레딧 표기가 필요하며 필요한 귀속 문구가 팩 폴더에 함께 들어 있습니다. OFL-1.1 폰트는 OFL 전문 유지가 조건입니다.
+- - 기존 카탈로그의 boss-battle-music 행은 제작자가 KaadmY로 기록되어 있고 abyss-stairs CREDITS.md는 Juhani Junkala로 적고 있습니다. 파일 동일성 확인 전이라 오류로 단정하거나 임의 수정하지 않고 불일치 후보로만 기록합니다.
+  - - 저장소 README 수치를 catalog.csv 기준으로 동기화했습니다(assets-audio 462→518, assets-ui-icons 218→255; 이전 라운드에서 두 README가 갱신되지 않아 차이가 누적된 상태였습니다).
 ### AC-20261123 수동 등록 (3팩, 2026-11-23 KST)
 
 소유자 요청(iMessage phoneconv-01M7H19AJTBYEDBPZNMGRHESDR, 2026-11-23 12:56 KST)으로 mohamedachrefelouafi의 MIT 저장소 AbilityCastingThreeJS(Elemental Sandbox, 시네마틱 주문 9종 샌드박스)를 수집했습니다. 출처 저장소 클론(HEAD e856fac) 후 LICENSE(MIT, Copyright (c) 2026 mohamedachrefelouafi)를 확인했습니다. 원본 README가 "HDR probe·캐릭터 FBX·서드파티 모델은 원라이선스 유지"라고 별도 명시하므로 GLB 메타데이터·설정 주석·art/ Blender 소스로 항목별 자작 여부를 구분했습니다. Node에서 npm run build(vite) 통과(2026-11-23).
