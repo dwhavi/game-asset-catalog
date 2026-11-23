@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e94be7427c6b42dcc8729fd207bb3b83dd7eea6e`
+> generated from `catalog.csv@c57f5678c81fbb9dd6dd1d43fe2d83a6964b603f`
 
 # 라이선스 모음
 
@@ -58,8 +58,8 @@
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
-| [AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요) | 2026-11-23 |
-| [AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 | 2026-11-23 |
+| [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요) | 2026-11-23 |
+| [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 | 2026-11-23 |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi) | 2026-11-23 |
 | [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | Polyfork | CC-BY 4.0 | Baby Pram by Polyfork (https://polyfork.dev/asset/baby-pram-73d9f2), CC BY 4.0 | 2026-11-23 |
 | [Christmas Market Stall](https://polyfork.dev/asset/christmas-market-stall-e0ebe9) | Polyfork | CC-BY 4.0 | Christmas Market Stall by Polyfork (https://polyfork.dev/asset/christmas-market-stall-e0ebe9), CC BY 4.0 | 2026-11-23 |
@@ -445,7 +445,7 @@ license_family가 `cc0`·`cc-by`·`mit`·`gpl`이 아닌 에셋 26개입니다. 
 
 | 이름 | license_family | 라이선스 | 표기 필요 | AI 생성 | 추가일 |
 |---|---|---|---|---|---|
-| [AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | other | 알 수 없음 | O | X | 2026-11-23 |
+| [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | other | 알 수 없음 | O | X | 2026-11-23 |
 | [Gay Old Time (Bounce House)](https://opengameart.org/content/gay-old-time-bounce-house) | other | OGA-BY 4.0 | O | X | 2026-11-22 |
 | [Generic video game music](https://opengameart.org/content/generic-video-game-music) | other | OGA-BY 3.0 | O | X | 2026-11-22 |
 | [Nintendo-esque Menu Music](https://opengameart.org/content/nintendo-esque-menu-music) | other | OGA-BY 3.0 | O | X | 2026-11-22 |

@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e94be7427c6b42dcc8729fd207bb3b83dd7eea6e`
+> generated from `catalog.csv@c57f5678c81fbb9dd6dd1d43fe2d83a6964b603f`
 
 # 폭발 이펙트 모음
 

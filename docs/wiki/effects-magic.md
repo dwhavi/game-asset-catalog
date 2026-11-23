@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e94be7427c6b42dcc8729fd207bb3b83dd7eea6e`
+> generated from `catalog.csv@c57f5678c81fbb9dd6dd1d43fe2d83a6964b603f`
 
 # 마법 이펙트 모음
 
@@ -16,8 +16,8 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
-| [AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
-| [AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
+| [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
+| [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip) | 2026-11-23 |
 | [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |
 | [Starember Field Synthesized SFX](https://github.com/weit0529/gamedemo_by_Fable5.2) | `sfx` | weit0529 | MIT | O | O | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/starember-field-sfx/starember-field-sfx.zip) | 2026-11-20 |
