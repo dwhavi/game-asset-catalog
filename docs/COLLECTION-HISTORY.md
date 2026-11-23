@@ -10,7 +10,8 @@ Patch 콘텐츠 라이선스는 제작자 허가 없이 콘텐츠를 Patch 밖�
 | --- | --- | --- | --- | --- |
 | [Sci-Fi Sounds](https://github.com/sigco3111/assets-audio/releases/tag/sci-fi-sounds) | assets-audio | Kenney | CC0 | 공식 kenney.nl zip 바이트 그대로(릴리스 첨부, MD5 대조), OGG 73개, 원본 License.txt(CC0) 내장, 게임 사용 6음 전부 포함, 샘플 previews/scifisounds_sample.ogg |
 | [Kevin MacLeod - Night Cave & Dark Times](https://github.com/sigco3111/assets-audio/releases/tag/kevin-macleod-night-cave-dark-times) | assets-audio | Kevin MacLeod | CC-BY 4.0 | 공식 incompetech 320kbps MP3 2곡(Night Cave USUAN1100446, Dark Times USUAN1100747, MD5 대조); 트리 폴더 kevin-macleod-night-cave-dark-times/에 귀속·출처·CC-BY 4.0 전문 동봉 — 사용 시 크레딧 필수; abyss-stairs BGM 사용분 |
-| [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/sigco3111/assets-ui-icons/releases/tag/galmuri) | assets-ui-icons | Lee Minseo (quiple) | OFL-1.1 | 공식 v2.40.4 릴리스 zip 그대로(파일 40개: Galmuri11/11 Bold/11 Condensed/14 및 Bitmap 변종 TTF·BDF·WOFF2, MD5 대조); 트리 폴더 galmuri/에 OFL 전문·pack.md·CREDITS.txt·meta.json·preview.png; OFL 전문 유지·폰트 단독 판매 금지·수정본 동일 라이선스; abyss-stairs UI 폰트 사용분 |
+| almuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/sigco3111/assets-ui-icons/releases/tag/galmuri) | assets-ui-icons | Lee Minseo (quiple) | OFL-1.1 | 공식 v2.40.4 릴리스 zip 그대로(파일 40개: Galmuri11/11 Bold/11 Condensed/14 및 Bitmap 
+TF·BDF·WOFF2, MD5 대조); 트리 폴더 galmuri/에 OFL 전문·pack.md·CREDITS.txt·meta.json·preview.png; OFL 전문 유지·폰트 단독 판매 금지·수정본 동일 라이선스; abyss-stairs UI 폰트 사용분 |
 
 종류: 효과음 1팩·배경음악 1팩(assets-audio 516→518), 폰트 1팩(assets-ui-icons 254→255). 라이선스: CC0 1팩, CC-BY 4.0 1팩, OFL-1.1 1팩. 새 저장소 없음. 총 2,272→2,275팩. 포털 등록: catalog.csv 2,272→2,275, 기존 행 불변 확인(바이트 대조).
 
