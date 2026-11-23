@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@e185a2c025b1bc07f20a051a353f0ffd072b5693",
-  "count": 2269,
+  "generated_from": "catalog.csv@c648510e7b7bc97690e5e97fb3291dc228775ce2",
+  "count": 2271,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80011,6 +80011,97 @@
       "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-audio/raw/main/the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-code/abilitycasting-시네마틱-주문-vfx-코드-9종-three-js-glsl",
+      "name": "AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)",
+      "repo": "assets-code",
+      "file": "abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip",
+      "type": "코드 모듈 (3D)",
+      "category": "other",
+      "tags": [
+        "code",
+        "javascript",
+        "threejs",
+        "glsl",
+        "vfx",
+        "ability",
+        "spell",
+        "shader",
+        "particles",
+        "ragdoll",
+        "postprocessing",
+        "game"
+      ],
+      "effect_kind": [
+        "magic",
+        "particle"
+      ],
+      "author": "mohamedachrefelouafi",
+      "source_url": "https://github.com/achrefelouafi/AbilityCastingThreeJS",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "시네마틱 주문 9종(Abyssal Maw·Chains of Penance·Dragonfire Circle·Stormheart Gyroscope·Amethyst Verdict·Astral Tome·Wildroot Reliquary·Starbreaker Lance·Astral Fang)+Ability 기반·매니저, GPU 파티클, GLSL 머티리얼, 래그돌·더미, 깊이 프리패스·왜곡·ACES 포스트 체인, 지면 조준 인디케이터, VFX 에디터(lil-gui). src 전체(archive 제외) 참고용 원본. npm 의존 미번들. Mixamo FBX·diffuse.png(재배포 금지), Sketchfab 모델 dragon·gyroscope(원라이선스 불명) 제외. npm run build 통과(2026-11-23). 모델 팩은 assets-3d-lowpoly-2 abilitycasting-models",
+      "preview": "abilitycasting-spell-vfx/preview.png",
+      "download_path": "abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip",
+      "download_url": "https://github.com/sigco3111/assets-code/raw/main/abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-code/raw/main/abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-lowpoly-2/abilitycasting-결투장-생물-소품-3d-모델-6종-glb",
+      "name": "AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)",
+      "repo": "assets-3d-lowpoly-2",
+      "file": "abilitycasting-models/abilitycasting-models.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "model",
+        "glb",
+        "fantasy",
+        "arena",
+        "hall",
+        "wolf",
+        "shark",
+        "tome",
+        "stones",
+        "rigged",
+        "animated",
+        "environment",
+        "hdri"
+      ],
+      "effect_kind": [
+        "magic"
+      ],
+      "author": "mohamedachrefelouafi",
+      "source_url": "https://github.com/achrefelouafi/AbilityCastingThreeJS",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "원작자 Blender 제작 확인분 6종(duel_hall 환경, wolf 리그+클립 6종, shark Breach·Swim 클립, arcane_tome, wildroot_reliquary, amethyst_stones)+결투장 천 텍스처+환경 HDRI(Poly Haven Spruit Sunrise 2K, CC0). GLB 메타(Blender I/O)·전용 클립·설정 주석·art/*.blend로 자작 확인. 제외: dragon.glb·magical_gyroscope.glb(Sketchfab 서드파티, 원라이선스 불명), Mixamo FBX 4종·diffuse.png(재배포 금지), cathedral·배너·스테인드글라스·룬 텍스처(출처 미확인). Blender 원본은 원본 저장소 art/ 참고. MIT 전문 동봉. 코드 팩은 assets-code abilitycasting-spell-vfx",
+      "preview": "abilitycasting-models/preview.png",
+      "download_path": "abilitycasting-models/abilitycasting-models.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-models/abilitycasting-models.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-models/abilitycasting-models.zip"
       ],
       "sample": null,
       "multipart": false,
