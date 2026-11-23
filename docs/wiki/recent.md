@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ad494864ed6b65b4edf2894328391c565546682b`
+> generated from `catalog.csv@2fc18181f038c978759d6e60895a0ee5d04941de`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -32,6 +32,7 @@
 | [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip) | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
+| [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
@@ -112,4 +113,3 @@
 | [Wooden Runner Sled](https://polyfork.dev/asset/wooden-runner-sled-30bcc1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wooden-runner-sled/wooden-runner-sled.zip) | 2026-11-21 |
 | [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
 | [Activity Icons](https://opengameart.org/content/activity-icons) | `ui` | StendhalGame | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/activity-icons/activity-icons.zip) | 2026-11-20 |
-| [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |

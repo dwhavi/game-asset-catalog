@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@ad494864ed6b65b4edf2894328391c565546682b`
+> generated from `catalog.csv@2fc18181f038c978759d6e60895a0ee5d04941de`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2262개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2263개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | cc0 | CC0 | 1904 | 0 | 예 |
 | cc-by | CC-BY | 303 | 303 | 예 |
-| mit | MIT | 20 | 19 | 예 |
+| mit | MIT | 21 | 20 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 24 | 21 | 아니오 |
 
@@ -31,7 +31,7 @@
 | CC0 | cc0 | X | 1902 |
 | CC-BY 4.0 | cc-by | O | 169 |
 | CC-BY 3.0 | cc-by | O | 115 |
-| MIT | mit | O | 19 |
+| MIT | mit | O | 20 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 11 |
 | 알 수 없음 | other | O | 9 |
@@ -54,7 +54,7 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 354개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 355개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | Polyfork | CC-BY 4.0 | Snowball Pile by Polyfork (https://polyfork.dev/asset/snowball-pile-af4655), CC BY 4.0 | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | Polyfork | CC-BY 4.0 | Training Bench by Polyfork (https://polyfork.dev/asset/training-bench-34f148), CC BY 4.0 | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | Polyfork | CC-BY 4.0 | Traveller by Polyfork (https://polyfork.dev/asset/traveller-92f20c), CC BY 4.0 | 2026-11-23 |
+| [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Humpalumps / Patch) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | Polyfork | CC-BY 4.0 | Weapon Rack by Polyfork (https://polyfork.dev/asset/weapon-rack-962f74), CC BY 4.0 | 2026-11-23 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | purrplecat | CC-BY 4.0 | 필수: purrplecat (opengameart.org), CC-BY 4.0 | 2026-11-22 |
 | [Baggage Tug](https://polyfork.dev/asset/baggage-tug-fb69f7) | Polyfork | CC-BY 4.0 | Baggage Tug by Polyfork (https://polyfork.dev/asset/baggage-tug-fb69f7), CC BY 4.0 | 2026-11-22 |

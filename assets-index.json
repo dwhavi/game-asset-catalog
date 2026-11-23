@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@ad494864ed6b65b4edf2894328391c565546682b",
-  "count": 2262,
+  "generated_from": "catalog.csv@2fc18181f038c978759d6e60895a0ee5d04941de",
+  "count": 2263,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -79764,6 +79764,58 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-code/ultra-elements-원소-주문-vfx-코드-39종-three-js-webgl2",
+      "name": "Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)",
+      "repo": "assets-code",
+      "file": "ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip",
+      "type": "코드 모듈 (3D)",
+      "category": "other",
+      "tags": [
+        "code",
+        "javascript",
+        "threejs",
+        "webgl2",
+        "glsl",
+        "vfx",
+        "spells",
+        "magic",
+        "particles",
+        "fluid",
+        "fire",
+        "water",
+        "lightning",
+        "procedural",
+        "game"
+      ],
+      "effect_kind": [
+        "magic",
+        "lightning",
+        "fire",
+        "ice",
+        "wind",
+        "particle"
+      ],
+      "author": "Humpalumps (Ultra Elements), 데모 어댑트: Patch",
+      "source_url": "https://github.com/Humpalumps/ultra-elements",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Humpalumps / Patch)",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "원소 주문 39종(번개·불·물·얼음·대지·바람·공허·빛·산성·비전·혼합) GPU 실시간 시뮬레이션: FLIP 유체, 연소 솔버, 레이마칭 볼륨, 번개, 중력 렌즈, 바닥 반응(그을음·서리·균열). 텍스처·모델·사운드 없이 전량 코드 생성. elements.js(Patch 어댑트), lib-ultra-elements(주문·엔진), spells.json(설정 411개·프리셋), tuning.js 수록. three 0.186.1, Vite import.meta.glob 사용. MIT 전문 동봉. 한국어 데모 sigco3111.github.io/elements-ko",
+      "preview": "ultra-elements-spell-vfx/preview.png",
+      "download_path": "ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip",
+      "download_url": "https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip"
       ],
       "sample": null,
       "multipart": false,
