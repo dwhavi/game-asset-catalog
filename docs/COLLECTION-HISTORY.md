@@ -2571,3 +2571,16 @@ A100 라운드: OpenGameArt에서 Low-Poly Halloween Kit(CC0), Wooden Overhang M
 | Wooden Overhang Modular Kit | CC-BY 4.0 | 17개, 3.1MB |
 | Shield Spell | CC-BY 3.0 | 방어막 스프라이트, 0.48MB |
 
+## 2026-11-23 Elemental Sandbox 수집 (3팩, 총 2259팩)
+
+사용자가 GitHub 리포지토리 LinearAbilityExtThreeJS(Elemental Sandbox, Three.js 어빌리티 샌드박스, MIT)를 지정해 활용 가능한 에셋 수집을 요청했습니다. 원본 출처까지 확인해 바이트 일치(MD5)가 검증된 CC0 2종과 repo 전체 MIT 코드 1종만 등록했습니다.
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [Elemental Sandbox 바위 PBR 텍스처 4종 (ambientCG Rock030 1K)](https://github.com/sigco3111/assets-2d-pixel/tree/main/elemental-sandbox-rock030-pbr) | assets-2d-pixel | ambientCG | CC0 | 대성당 바닥 바위 PBR 4맵(color·normalGL·roughness·ao, 1K JPG); ambientCG Rock030 1K-JPG 공식 다운로드와 MD5 일치 확인; 원작 폴더명은 cathedral이나 내용은 Rock030; zip 5.25MB → Releases(elemental-sandbox-rock030-pbr) 첨부 |
+| [Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)](https://github.com/sigco3111/assets-2d-pixel/tree/main/elemental-sandbox-hdri-spruit-sunrise) | assets-2d-pixel | Poly Haven | CC0 | 조명·반사용 2K HDR(equirect); 공식 2K HDR 다운로드와 MD5 일치 확인; zip 4.84MB → Releases(elemental-sandbox-hdri-spruit-sunrise) 첨부 |
+| [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/sigco3111/assets-code/tree/main/elemental-sandbox-ability-vfx) | assets-code | mohamedachrefelouafi | MIT | 스킬 7종(Pyre·ElectricalSphere·Portal·FirePortal·Kraken·Earth·AetherRing)+기반/매니저, GLSL 머티리얼 17종; src 전체(archive 제외) 참고용 원본; MIT 전문 동봉 |
+
+종류: 2D·텍스처 1팩·HDRI 환경맵 1팩(assets-2d-pixel), 코드 모듈 1팩(assets-code). 라이선스: CC0 2팩, MIT 1팩. 제외: Mixamo FBX 4종·diffuse.png(라이선스상 재배포 금지), textures.glb(출처 불명), docs/screenshots. 업로드 후 Releases 에셋 다운로드 MD5와 미리보기 raw MD5를 로컬 원본과 대조해 전부 일치 확인. 새 저장소 없음.
+
+실제 팩 수(catalog.csv 기준): 총 2259팩.
