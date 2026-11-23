@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@e734beb7eae870a808138f5f908b425a3399fe88",
-  "count": 2266,
+  "generated_from": "catalog.csv@e185a2c025b1bc07f20a051a353f0ffd072b5693",
+  "count": 2269,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -79915,6 +79915,102 @@
       "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/a-kingdom-of-tears-battle-theme-remake-wip",
+      "name": "A Kingdom of tears battle theme(REMAKE)(wip)",
+      "repo": "assets-audio",
+      "file": "a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "game guy maker",
+      "source_url": "https://opengameart.org/content/a-kingdom-of-tears-battle-themeremakewip",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "필수: game guy maker (opengameart.org), CC0",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) CC0 확인 (자동 수집, 원문: : CC0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/gay-old-time-bounce-house",
+      "name": "Gay Old Time (Bounce House)",
+      "repo": "assets-audio",
+      "file": "gay-old-time-bounce-house/gay-old-time-bounce-house.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Haley Halcyon",
+      "source_url": "https://opengameart.org/content/gay-old-time-bounce-house",
+      "license": "OGA-BY 4.0",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "필수: Haley Halcyon (opengameart.org), OGA-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) OGA-BY 4.0 확인 (자동 수집, 원문: : OGA-BY 4.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "gay-old-time-bounce-house/gay-old-time-bounce-house.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/gay-old-time-bounce-house/gay-old-time-bounce-house.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/gay-old-time-bounce-house/gay-old-time-bounce-house.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/the-goblins-of-pixeltown-looping",
+      "name": "The Goblins of Pixeltown (Looping)",
+      "repo": "assets-audio",
+      "file": "the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "audio",
+        "opengameart"
+      ],
+      "effect_kind": [],
+      "author": "Eric Matyas",
+      "source_url": "https://opengameart.org/content/the-goblins-of-pixeltown-looping",
+      "license": "CC-BY 3.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "필수: Eric Matyas (opengameart.org), CC-BY 3.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-22",
+      "notes": "출처 페이지 License(s) CC-BY 3.0 확인 (자동 수집, 원문: : CC-BY 3.0 ); CREDITS.txt 표기",
+      "preview": null,
+      "download_path": "the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/raw/main/the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/raw/main/the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip"
       ],
       "sample": null,
       "multipart": false,

@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-13 자동 수집 등록 (3팩, 2026-11-23 13:02 KST)
+
+- 팩: A Kingdom of tears battle theme(REMAKE)(wip) (slug a-kingdom-of-tears-battle-themeremakewip), 라이선스: CC0, 제작자: game guy maker
+- 출처: https://opengameart.org/content/a-kingdom-of-tears-battle-themeremakewip
+- 저장: assets-3d-lowpoly-2 a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2266→2269, 기존 행 불변 확인
+- 팩: Gay Old Time (Bounce House) (slug gay-old-time-bounce-house), 라이선스: OGA-BY 4.0, 제작자: Haley Halcyon
+- 출처: https://opengameart.org/content/gay-old-time-bounce-house
+- 저장: assets-3d-lowpoly-2 gay-old-time-bounce-house/gay-old-time-bounce-house.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2266→2269, 기존 행 불변 확인
+- 팩: The Goblins of Pixeltown (Looping) (slug the-goblins-of-pixeltown-looping), 라이선스: CC-BY 3.0, 제작자: Eric Matyas
+- 출처: https://opengameart.org/content/the-goblins-of-pixeltown-looping
+- 저장: assets-3d-lowpoly-2 the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2266→2269, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### AUTO-20261123-12 자동 수집 등록 (3팩, 2026-11-23 12:08 KST)
 
 - 팩: Baby Pram (slug baby-pram), 라이선스: CC-BY 4.0, 제작자: Polyfork

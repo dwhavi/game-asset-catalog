@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@e734beb7eae870a808138f5f908b425a3399fe88`
+> generated from `catalog.csv@e185a2c025b1bc07f20a051a353f0ffd072b5693`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -37,6 +37,7 @@
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
 | [Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)](https://github.com/Humpalumps/ultra-elements) | `other` | Humpalumps (Ultra Elements), 데모 어댑트: Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip) | 2026-11-23 |
 | [Weapon Rack](https://polyfork.dev/asset/weapon-rack-962f74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weapon-rack/weapon-rack.zip) | 2026-11-23 |
+| [A Kingdom of tears battle theme(REMAKE)(wip)](https://opengameart.org/content/a-kingdom-of-tears-battle-themeremakewip) | `music` | game guy maker | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-kingdom-of-tears-battle-themeremakewip/a-kingdom-of-tears-battle-themeremakewip.zip) | 2026-11-22 |
 | [A Short Walk With You](https://opengameart.org/content/a-short-walk-with-you) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/a-short-walk-with-you/a-short-walk-with-you.zip) | 2026-11-22 |
 | [Assets Free Interface UI Dark Miko](https://opengameart.org/content/assets-free-interface-ui-dark-miko) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/assets-free-interface-ui-dark-miko/assets-free-interface-ui-dark-miko.zip) | 2026-11-22 |
 | [Baggage Tug](https://polyfork.dev/asset/baggage-tug-fb69f7) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baggage-tug/baggage-tug.zip) | 2026-11-22 |
@@ -49,6 +50,7 @@
 | [Container Loader](https://polyfork.dev/asset/container-loader-254a74) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/container-loader/container-loader.zip) | 2026-11-22 |
 | [Departures Kerb Canopy Run](https://polyfork.dev/asset/departures-kerb-canopy-run-d1ed9e) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/departures-kerb-canopy-run/departures-kerb-canopy-run.zip) | 2026-11-22 |
 | [Fun Hyper Casual UI](https://opengameart.org/content/fun-hyper-casual-ui) | `ui` | AlmostMikhail | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/fun-hyper-casual-ui/fun-hyper-casual-ui.zip) | 2026-11-22 |
+| [Gay Old Time (Bounce House)](https://opengameart.org/content/gay-old-time-bounce-house) | `music` | Haley Halcyon | OGA-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/gay-old-time-bounce-house/gay-old-time-bounce-house.zip) | 2026-11-22 |
 | [General](https://polyfork.dev/asset/general-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/general/general.zip) | 2026-11-22 |
 | [Generic video game music](https://opengameart.org/content/generic-video-game-music) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/generic-video-game-music/generic-video-game-music.zip) | 2026-11-22 |
 | [Human vest shorts](https://polyfork.dev/asset/human-vest-shorts-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/human-vest-shorts/human-vest-shorts.zip) | 2026-11-22 |
@@ -69,6 +71,7 @@
 | [Spooky Month](https://opengameart.org/content/spooky-month) | `music` | Bonky | OGA-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/spooky-month/spooky-month.zip) | 2026-11-22 |
 | [Stand Docking Guidance Display](https://polyfork.dev/asset/stand-docking-guidance-display-2a0b05) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stand-docking-guidance-display/stand-docking-guidance-display.zip) | 2026-11-22 |
 | [Steel Wreck Hull Section](https://polyfork.dev/asset/steel-wreck-hull-section-b3132a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/steel-wreck-hull-section/steel-wreck-hull-section.zip) | 2026-11-22 |
+| [The Goblins of Pixeltown (Looping)](https://opengameart.org/content/the-goblins-of-pixeltown-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-goblins-of-pixeltown-looping/the-goblins-of-pixeltown-looping.zip) | 2026-11-22 |
 | [The Haunted House On Your Street](https://opengameart.org/content/the-haunted-house-on-your-street) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-haunted-house-on-your-street/the-haunted-house-on-your-street.zip) | 2026-11-22 |
 | [Towbarless Pushback Tug](https://polyfork.dev/asset/towbarless-pushback-tug-989602) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/towbarless-pushback-tug/towbarless-pushback-tug.zip) | 2026-11-22 |
 | [Village Elm](https://polyfork.dev/asset/village-elm-310fe2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/village-elm/village-elm.zip) | 2026-11-22 |
@@ -110,6 +113,3 @@
 | [Timber Tower House](https://polyfork.dev/asset/timber-tower-house-494243) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/timber-tower-house/timber-tower-house.zip) | 2026-11-21 |
 | [Two-Seat Toboggan](https://polyfork.dev/asset/two-seat-toboggan-09392b) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/two-seat-toboggan/two-seat-toboggan.zip) | 2026-11-21 |
 | [Up All Night](https://opengameart.org/content/up-all-night-0) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/up-all-night-0/up-all-night-0.zip) | 2026-11-21 |
-| [Water Trip-Hammer Mill](https://polyfork.dev/asset/water-trip-hammer-mill-c301d5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip) | 2026-11-21 |
-| [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip) | 2026-11-21 |
-| [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip) | 2026-11-21 |
