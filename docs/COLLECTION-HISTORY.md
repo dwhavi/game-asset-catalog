@@ -1,5 +1,13 @@
 # 수집 이력 (라운드별 상세)
 
+### A115 수동 라운드 (1팩, 2026-11-23 KST)
+
+- 팩: Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2) (slug ultra-elements-spell-vfx), 라이선스: MIT, 제작자: Humpalumps (Ultra Elements), 데모 어댑트: Patch
+- 출처: https://github.com/Humpalumps/ultra-elements (Elements 데모: https://patch.gg/patch/elements)
+- 저장: assets-code ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip (Elements 한글화 수집)
+- 포털 등록: catalog.csv 2262→2263, 기존 행 불변 확인
+- 규칙 메모: 텍스처·모델·사운드 없이 전량 코드 생성이라 코드팩으로 수집. 미리보기는 원본 데모 스틸(thumbs, Patch MIT) 4종 몽타주. MIT 전문 LICENSE.txt·LICENSE-ultra-elements.txt·THIRD_PARTY_NOTICES 동봉
+
 ### AUTO-20261123-11 자동 수집 등록 (3팩, 2026-11-23 11:30 KST)
 
 - 팩: Ice Rink Tile (slug ice-rink-tile), 라이선스: CC-BY 4.0, 제작자: Polyfork
