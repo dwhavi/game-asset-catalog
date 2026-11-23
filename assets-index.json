@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@2fc18181f038c978759d6e60895a0ee5d04941de",
-  "count": 2263,
+  "generated_from": "catalog.csv@e734beb7eae870a808138f5f908b425a3399fe88",
+  "count": 2266,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -79816,6 +79816,105 @@
       "download_url": "https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-code/raw/main/ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/baby-pram",
+      "name": "Baby Pram",
+      "repo": "assets-3d-polyfork",
+      "file": "baby-pram/baby-pram.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/baby-pram-73d9f2",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Baby Pram by Polyfork (https://polyfork.dev/asset/baby-pram-73d9f2), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "baby-pram/preview.png",
+      "download_path": "baby-pram/baby-pram.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/baby-pram/baby-pram.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/baby-pram/baby-pram.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/christmas-market-stall",
+      "name": "Christmas Market Stall",
+      "repo": "assets-3d-polyfork",
+      "file": "christmas-market-stall/christmas-market-stall.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/christmas-market-stall-e0ebe9",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Christmas Market Stall by Polyfork (https://polyfork.dev/asset/christmas-market-stall-e0ebe9), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "christmas-market-stall/preview.png",
+      "download_path": "christmas-market-stall/christmas-market-stall.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/christmas-market-stall/christmas-market-stall.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/christmas-market-stall/christmas-market-stall.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-3d-polyfork/cyclops",
+      "name": "Cyclops",
+      "repo": "assets-3d-polyfork",
+      "file": "cyclops/cyclops.zip",
+      "type": "3D 모델",
+      "category": "model-3d",
+      "tags": [
+        "3d",
+        "polyfork",
+        "lowpoly"
+      ],
+      "effect_kind": [],
+      "author": "Polyfork",
+      "source_url": "https://polyfork.dev/asset/cyclops-base",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "Cyclops by Polyfork (https://polyfork.dev/asset/cyclops-base), CC BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+      "preview": "cyclops/preview.png",
+      "download_path": "cyclops/cyclops.zip",
+      "download_url": "https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip"
       ],
       "sample": null,
       "multipart": false,

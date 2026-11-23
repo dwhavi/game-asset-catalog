@@ -1,18 +1,21 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@2fc18181f038c978759d6e60895a0ee5d04941de`
+> generated from `catalog.csv@e734beb7eae870a808138f5f908b425a3399fe88`
 
 # 최근 추가된 에셋 (최신 100개)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-20.
+추가일이 가장 최근인 에셋 100개입니다(추가일 내림차순, 같으면 이름순). 가장 이른 추가일: 2026-11-21.
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baby-pram/baby-pram.zip) | 2026-11-23 |
+| [Christmas Market Stall](https://polyfork.dev/asset/christmas-market-stall-e0ebe9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/christmas-market-stall/christmas-market-stall.zip) | 2026-11-23 |
+| [Cyclops](https://polyfork.dev/asset/cyclops-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip) | 2026-11-23 |
 | [Elemental Sandbox HDRI 환경광 (Poly Haven Spruit Sunrise 2K)](https://polyhaven.com/a/spruit_sunrise) | `other` | Poly Haven | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-hdri-spruit-sunrise/elemental-sandbox-hdri-spruit-sunrise.zip) | 2026-11-23 |
 | [Elemental Sandbox 바위 PBR 텍스처 4종 (ambientCG Rock030 1K)](https://ambientcg.com/a/Rock030) | `other` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-rock030-pbr/elemental-sandbox-rock030-pbr.zip) | 2026-11-23 |
 | [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip) | 2026-11-23 |
@@ -110,6 +113,3 @@
 | [Water Trip-Hammer Mill](https://polyfork.dev/asset/water-trip-hammer-mill-c301d5) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/water-trip-hammer-mill/water-trip-hammer-mill.zip) | 2026-11-21 |
 | [Weeping Willow](https://polyfork.dev/asset/weeping-willow-55e38c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/weeping-willow/weeping-willow.zip) | 2026-11-21 |
 | [Wine Inn](https://polyfork.dev/asset/wine-inn-a41b12) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wine-inn/wine-inn.zip) | 2026-11-21 |
-| [Wooden Runner Sled](https://polyfork.dev/asset/wooden-runner-sled-30bcc1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/wooden-runner-sled/wooden-runner-sled.zip) | 2026-11-21 |
-| [2D Pixel Art Retro OS & Horror Icon Pack \| Pixo](https://opengameart.org/content/2d-pixel-art-retro-os-horror-icon-pack-pixo) | `ui` | Hyperwebster | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/2d-pixel-art-retro-os-horror-icon-pack-pixo/2d-pixel-art-retro-os-horror-icon-pack-pixo.zip) | 2026-11-20 |
-| [Activity Icons](https://opengameart.org/content/activity-icons) | `ui` | StendhalGame | GPL 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/activity-icons/activity-icons.zip) | 2026-11-20 |

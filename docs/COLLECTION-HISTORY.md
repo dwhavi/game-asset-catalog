@@ -1,5 +1,21 @@
 # 수집 이력 (라운드별 상세)
 
+### AUTO-20261123-12 자동 수집 등록 (3팩, 2026-11-23 12:08 KST)
+
+- 팩: Baby Pram (slug baby-pram), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/baby-pram-73d9f2
+- 저장: assets-3d-polyfork baby-pram/baby-pram.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2263→2266, 기존 행 불변 확인
+- 팩: Christmas Market Stall (slug christmas-market-stall), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/christmas-market-stall-e0ebe9
+- 저장: assets-3d-polyfork christmas-market-stall/christmas-market-stall.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2263→2266, 기존 행 불변 확인
+- 팩: Cyclops (slug cyclops), 라이선스: CC-BY 4.0, 제작자: Polyfork
+- 출처: https://polyfork.dev/asset/cyclops-base
+- 저장: assets-3d-polyfork cyclops/cyclops.zip (auto-collect 수집)
+- 포털 등록: catalog.csv 2263→2266, 기존 행 불변 확인
+- 규칙 메모: 출처 페이지 License(s) 단일 계열 확인, 복수 라이선스 팩 제외, CREDITS.txt 표기
+
 ### A115 수동 라운드 (1팩, 2026-11-23 KST)
 
 - 팩: Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2) (slug ultra-elements-spell-vfx), 라이선스: MIT, 제작자: Humpalumps (Ultra Elements), 데모 어댑트: Patch
