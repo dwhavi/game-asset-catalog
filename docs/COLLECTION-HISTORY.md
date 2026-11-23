@@ -1,5 +1,14 @@
 # 수집 이력 (라운드별 상세)
 
+### VFX-STARTER-20261123 (1팩)
+
+- 00GameDevs 마법 VFX Starter 5종, MIT, assets-code 등록
+- 출처: https://patch.gg/00vchannel/00gamedevs-vfx-starter
+- 원본 릴리스 0.1.2, 5개 모듈 SHA-256 매니페스트 일치 확인
+- 외부 텍스처·모델·음원 불필요. 모듈·통합 가이드·라이선스·실행 샘플과 직접 렌더한 미리보기 포함
+- Patch 전용 helper·브랜드·게임 아트 제외
+- npm build, WebGL2 5종 렌더 및 생명주기 점검 통과. 모바일 실기기 성능 미검증
+
 ### AC-20261123-3 수동 등록 (9팩, 2026-11-23 KST)
 
 소유자 요청(iMessage phonemsg-01M83EWSN73YJFHDR4KCNSZTR7, 2026-11-23 14:43 KST)으로 Patch @patch_gg가 anymove(AI 모션캡처)로 만든 최신 크리처 9종을 수집했습니다. 별도 조사 담당이 9종 모두 개별 상세 페이지의 CC0 표기를 확인했고, 실행 시 현재 소스에서 각 페이지의 CC0 표기 5개소("CC0 · no credit needed" 등)를 종별로 재확인했습니다. GitHub 예시 GLB는 AI 서비스 별도 약관이므로 수집 대상이 아니며, 개별 9종만 수집했습니다(사이트 대량 미러 아님).

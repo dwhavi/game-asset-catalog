@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6dca88cb5f0cf7d33945e0ba53af5186a1a43008`
+> generated from `catalog.csv@73226bbb1ede10cacf0023b47273081ac17cbb67`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -13,6 +13,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | `other` | 00GameDevs (@00vchannel) | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip) | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip) | 2026-11-23 |
@@ -112,4 +113,3 @@
 | [Lit Taxiway Sign](https://polyfork.dev/asset/lit-taxiway-sign-206955) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/lit-taxiway-sign/lit-taxiway-sign.zip) | 2026-11-21 |
 | [Medieval Icons \| Inventory +284](https://opengameart.org/content/medieval-icons-inventory-284) | `ui` | Wenrexa | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/release%3Apack-medieval-icons-inventory-284/medieval-icons-inventory-284.zip) | 2026-11-21 |
 | [My Cookie Fell Apart](https://opengameart.org/content/my-cookie-fell-apart) | `music` | purrplecat | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/my-cookie-fell-apart/my-cookie-fell-apart.zip) | 2026-11-21 |
-| [N64 UI](https://opengameart.org/content/n64-ui) | `ui` | n64guy | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/n64-ui/n64-ui.zip) | 2026-11-21 |

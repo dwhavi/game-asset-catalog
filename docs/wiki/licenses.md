@@ -1,12 +1,12 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@6dca88cb5f0cf7d33945e0ba53af5186a1a43008`
+> generated from `catalog.csv@73226bbb1ede10cacf0023b47273081ac17cbb67`
 
 # 라이선스 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-에셋 **2284개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
+에셋 **2285개**의 라이선스 사실을 `assets-index.json`에서 그대로 옮긴 문서입니다. 라이선스를 해석하거나 바꿔 적지 않습니다. 의심스러우면 각 에셋의 출처 링크와 zip 안 원본 License 파일을 확인하세요.
 
 ## 허용 라이선스
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | cc0 | CC0 | 1915 | 0 | 예 |
 | cc-by | CC-BY | 308 | 308 | 예 |
-| mit | MIT | 23 | 22 | 예 |
+| mit | MIT | 24 | 23 | 예 |
 | gpl | GPL 2.0/3.0 | 11 | 11 | 예 |
 | other | 기타(허용 목록 밖) | 27 | 24 | 아니오 |
 
@@ -31,7 +31,7 @@
 | CC0 | cc0 | X | 1913 |
 | CC-BY 4.0 | cc-by | O | 173 |
 | CC-BY 3.0 | cc-by | O | 116 |
-| MIT | mit | O | 22 |
+| MIT | mit | O | 23 |
 | CC-BY | cc-by | O | 11 |
 | GPL 3.0 | gpl | O | 11 |
 | 알 수 없음 | other | O | 10 |
@@ -54,10 +54,11 @@
 
 ## 표기가 필요한 에셋
 
-`attribution_required`가 참인 에셋 365개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
+`attribution_required`가 참인 에셋 366개입니다(CC-BY·MIT·GPL). '표기 문구'는 색인의 `attribution` 값 그대로입니다. CC0 에셋은 표기가 필수가 아닙니다.
 
 | 이름 | 제작자 | 라이선스 | 표기 문구 | 추가일 |
 |---|---|---|---|---|
+| [00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)](https://patch.gg/00vchannel/00gamedevs-vfx-starter) | 00GameDevs (@00vchannel) | MIT | required (MIT): Copyright (c) 2026 00GameDevs (@00vchannel), 저작권·허가 고지 유지 | 2026-11-23 |
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi). 환경 HDRI만 Poly Haven CC0(귀속 불필요) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 | 2026-11-23 |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | mohamedachrefelouafi | MIT | required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi) | 2026-11-23 |

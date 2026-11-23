@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@6dca88cb5f0cf7d33945e0ba53af5186a1a43008",
-  "count": 2284,
+  "generated_from": "catalog.csv@73226bbb1ede10cacf0023b47273081ac17cbb67",
+  "count": 2285,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80583,6 +80583,56 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-woman.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-woman.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-code/00gamedevs-마법-vfx-starter-5종-three-js-webgl2",
+      "name": "00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)",
+      "repo": "assets-code",
+      "file": "00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip",
+      "type": "코드 모듈 (3D)",
+      "category": "other",
+      "tags": [
+        "code",
+        "javascript",
+        "threejs",
+        "webgl2",
+        "glsl",
+        "vfx",
+        "magic",
+        "spells",
+        "chains",
+        "black-hole",
+        "slash",
+        "lightning",
+        "particles",
+        "procedural"
+      ],
+      "effect_kind": [
+        "magic",
+        "explosion",
+        "lightning",
+        "particle",
+        "slash"
+      ],
+      "author": "00GameDevs (@00vchannel)",
+      "source_url": "https://patch.gg/00vchannel/00gamedevs-vfx-starter",
+      "license": "MIT",
+      "license_note": null,
+      "license_family": "mit",
+      "attribution": "required (MIT): Copyright (c) 2026 00GameDevs (@00vchannel), 저작권·허가 고지 유지",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "마법 VFX 5모듈 원본: 암흑 사슬 폭발·공간 참격·블랙홀·황금 사슬 비·성유물 강림. 외부 텍스처·모델·음원 없음. three 0.187.0/WebGL2 필요. MIT 고지·통합 가이드·SHA256 매니페스트·실행 샘플 동봉. npm build 및 5종 렌더/생명주기 확인. Patch helper·브랜드·게임 아트 제외. 모바일 성능 미검증.",
+      "preview": "00gamedevs-vfx-starter/preview.png",
+      "download_path": "00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip",
+      "download_url": "https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-code/raw/main/00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip"
       ],
       "sample": null,
       "multipart": false,
