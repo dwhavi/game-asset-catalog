@@ -4,13 +4,13 @@
 
 소유자 요청(iMessage phoneconv-01M7H19AJTBYEDBPZNMGRHESDR, 2026-11-23 12:56 KST)으로 mohamedachrefelouafi의 MIT 저장소 AbilityCastingThreeJS(Elemental Sandbox, 시네마틱 주문 9종 샌드박스)를 수집했습니다. 출처 저장소 클론(HEAD e856fac) 후 LICENSE(MIT, Copyright (c) 2026 mohamedachrefelouafi)를 확인했습니다. 원본 README가 "HDR probe·캐릭터 FBX·서드파티 모델은 원라이선스 유지"라고 별도 명시하므로 GLB 메타데이터·설정 주석·art/ Blender 소스로 항목별 자작 여부를 구분했습니다. Node에서 npm run build(vite) 통과(2026-11-23).
 
-보완(13:12 KST): 초기 등록에서 출처 불명을 이유로 제외했던 서드파티·미확인 항목은 소유자 수집 정책("라이선스가 없어도 수집해. 사용할 수 없다고 명시하지 않으면 모두 수집해", phonemsg-01M7VT4XHB984RCJBPC4FCFD23, 2026-11-20)상 명시적 금지가 아니므로 권리 미확인 팩으로 추가 수록했습니다. 명시적 재배포 금지(Mixamo FBX·diffuse.png)만 계속 제외합니다. 모델 팩에는 .blend 원본 3종을 포함하고 zip이 56MB라 Releases로 옮겼습니다.
+보완(13:12 KST): 초기 등록에서 출처 불명을 이유로 제외했던 서드파티·미확인 항목은 소유자 수집 정책("라이선스가 없어도 수집해. 사용할 수 없다고 명시하지 않으면 모두 수집해", phonemsg-01M7VT4XHB984RCJBPC4FCFD23, 2026-11-20)상 명시적 금지가 아니므로 권리 미확인 팩으로 추가 수록했습니다. 명시적 재배포 금지(Mixamo FBX·diffuse.png)만 계속 제외합니다. 모델 팩에는 .blend 원본 3종을 포함하고 zip이 53MB라 Releases로 옮겼습니다. 추가 검토에서 shark.glb는 Blender 메타·전용 클립의 정황뿐이라 MIT 확정이 불가하다고 판단, 권리 미확인 팩으로 이동했습니다(모델 팩 6종→5종).
 
 | 팩 | 저장소 | 제작 | 라이선스 | 비고 |
 | --- | --- | --- | --- | --- |
 | [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/sigco3111/assets-code/tree/main/abilitycasting-spell-vfx) | assets-code | mohamedachrefelouafi | MIT | 주문 9종+기반·매니저·GPU 파티클·GLSL 머티리얼·래그돌·포스트 체인·조준 인디케이터·VFX 에디터, src 전체(archive 제외, 499KB zip); 귀속 필수(저작권 표기+MIT 전문 유지); LICENSE.txt·LICENSE-SOURCE.txt·CREDITS.txt 동봉; 미리보기는 원본 주문 스틸 4종 몽타주 |
-| [AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/abilitycasting-models) | assets-3d-lowpoly-2 | mohamedachrefelouafi (HDRI: Poly Haven, Greg Zaal) | MIT (HDRI만 CC0) | 자작 확인 GLB 6종+결투장 천 텍스처+Spruit Sunrise 2K HDR+.blend 원본 3종(56MB zip, Releases 첨부); shark MIT 표기는 전용 클립·Blender 메타에 근거한 정황 판정(notes 참고); 미리보기는 원본 결투장 렌더(duel_hall_hero) |
-| [AbilityCasting 드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/abilitycasting-unverified) | assets-3d-lowpoly-2 | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | dragon.glb·magical_gyroscope.glb(Sketchfab 메타)+cathedral PBR·배너·스테인드글라스·룬 텍스처(17MB zip); 재사용 허락 미확인, 사용 전 원권리자 확인 필요, 권리자 요청 시 즉시 내림; 미리보기는 원본 주문 스틸 2종 |
+| [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/abilitycasting-models) | assets-3d-lowpoly-2 | mohamedachrefelouafi (HDRI: Poly Haven, Greg Zaal) | MIT (HDRI만 CC0) | 자작 명시 근거가 있는 GLB 5종(README·설정 주석·.blend 소스로 확인)+결투장 천 텍스처+Spruit Sunrise 2K HDR+.blend 원본 3종(53MB zip, Releases 첨부); 미리보기는 원본 결투장 렌더(duel_hall_hero) |
+| [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/abilitycasting-unverified) | assets-3d-lowpoly-2 | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | shark.glb(Blender 메타·전용 클립뿐, 자작 명시 근거 부족)+dragon.glb·magical_gyroscope.glb(Sketchfab 메타)+cathedral PBR·배너·스테인드글라스·룬 텍스처(20MB zip); 재사용 허락 미확인, 사용 전 원권리자 확인 필요, 권리자 요청 시 즉시 내림; 미리보기는 원본 주문 스틸 2종 |
 
 종류: 코드 모듈 1팩(assets-code), 3D 모델 2팩(assets-3d-lowpoly-2). 라이선스: MIT 2팩(모델 팩의 HDRI 파일만 CC0), 알 수 없음 1팩. 새 저장소 없음. assets-code는 12→13팩, assets-3d-lowpoly-2는 221→223팩, 총 2,269→2,272팩.
 
