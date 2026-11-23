@@ -1,5 +1,16 @@
 # 수집 이력 (라운드별 상세)
 
+### AC-20261123 수동 등록 (2팩, 2026-11-23 KST)
+
+소유자 요청(iMessage phoneconv-01M7H19AJTBYEDBPZNMGRHESDR, 2026-11-23 12:56 KST)으로 mohamedachrefelouafi의 MIT 저장소 AbilityCastingThreeJS(Elemental Sandbox, 시네마틱 주문 9종 샌드박스)를 코드 팩과 모델 팩으로 수집했습니다. 출처 저장소 클론(HEAD e856fac) 후 LICENSE(MIT, Copyright (c) 2026 mohamedachrefelouafi)를 확인했습니다. 원본 README가 "HDR probe·캐릭터 FBX·서드파티 모델은 원라이선스 유지"라고 별도 명시하므로, GLB 메타데이터(generator)·전용 클립·설정 주석("built in Blender")·art/ Blender 소스로 항목별 자작 여부를 확인하고 서드파티·출처 불명 항목은 제외했습니다. Node에서 npm run build(vite) 통과(2026-11-23).
+
+| 팩 | 저장소 | 제작 | 라이선스 | 비고 |
+| --- | --- | --- | --- | --- |
+| [AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)](https://github.com/sigco3111/assets-code/tree/main/abilitycasting-spell-vfx) | assets-code | mohamedachrefelouafi | MIT | 주문 9종+기반·매니저·GPU 파티클·GLSL 머티리얼·래그돌·포스트 체인·조준 인디케이터·VFX 에디터, src 전체(archive 제외, 499KB zip); 귀속 필수(저작권 표기+MIT 전문 유지); LICENSE.txt·LICENSE-SOURCE.txt·CREDITS.txt 동봉; Mixamo FBX·Sketchfab 모델 제외; 미리보기는 원본 스크린샷 배너 |
+| [AbilityCasting 결투장·생물·소품 3D 모델 6종 (GLB)](https://github.com/sigco3111/assets-3d-lowpoly-2/tree/main/abilitycasting-models) | assets-3d-lowpoly-2 | mohamedachrefelouafi (HDRI: Poly Haven, Greg Zaal) | MIT (HDRI만 CC0) | 자작 확인 GLB 6종+결투장 천 텍스처+Spruit Sunrise 2K HDR(33MB zip); dragon·gyroscope는 Sketchfab 서드파티(원라이선스 불명)로 제외, Mixamo FBX·diffuse.png(재배포 금지)·출처 미확인 텍스처 제외; .blend 원본은 원본 저장소 art/; 미리보기는 원본 결투장 렌더(duel_hall_hero) |
+
+종류: 코드 모듈 1팩(assets-code), 3D 모델 1팩(assets-3d-lowpoly-2). 라이선스: MIT 2팩(모델 팩의 HDRI 파일만 CC0). 새 저장소 없음. assets-code는 12→13팩, assets-3d-lowpoly-2는 221→222팩, 총 2,269→2,271팩.
+
 ### AUTO-20261123-13 자동 수집 등록 (3팩, 2026-11-23 13:02 KST)
 
 - 팩: A Kingdom of tears battle theme(REMAKE)(wip) (slug a-kingdom-of-tears-battle-themeremakewip), 라이선스: CC0, 제작자: game guy maker
