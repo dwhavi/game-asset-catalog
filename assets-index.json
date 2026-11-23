@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@c57f5678c81fbb9dd6dd1d43fe2d83a6964b603f",
-  "count": 2272,
+  "generated_from": "catalog.csv@513c07384c68f7a4bc09a01d30ab43cfacbb7329",
+  "count": 2275,
   "assets": [
     {
       "id": "assets-2d-pixel/micro-roguelike-1-2",
@@ -80147,6 +80147,115 @@
       "download_url": "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip",
       "download_urls": [
         "https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/sci-fi-sounds-2",
+      "name": "Sci-Fi Sounds",
+      "repo": "assets-audio",
+      "file": "releases/download/sci-fi-sounds/kenney_scifisounds.zip",
+      "type": "효과음",
+      "category": "sfx",
+      "tags": [
+        "sfx",
+        "scifi",
+        "space",
+        "laser"
+      ],
+      "effect_kind": [
+        "laser"
+      ],
+      "author": "Kenney",
+      "source_url": "https://kenney.nl/assets/sci-fi-sounds",
+      "license": "CC0",
+      "license_note": null,
+      "license_family": "cc0",
+      "attribution": "optional: Kenney (kenney.nl)",
+      "attribution_required": false,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "OGG 73개; zip에 원본 License.txt(CC0) 포함; 샘플: previews/scifisounds_sample.ogg; 공식 zip 바이트 그대로(릴리스 첨부)",
+      "preview": "previews/scifisounds_sample.ogg",
+      "download_path": "releases/download/sci-fi-sounds/kenney_scifisounds.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/releases/download/sci-fi-sounds/kenney_scifisounds.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/releases/download/sci-fi-sounds/kenney_scifisounds.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-audio/kevin-macleod-night-cave-dark-times",
+      "name": "Kevin MacLeod - Night Cave & Dark Times",
+      "repo": "assets-audio",
+      "file": "releases/download/kevin-macleod-night-cave-dark-times/kevin-macleod-night-cave-dark-times.zip",
+      "type": "음악",
+      "category": "music",
+      "tags": [
+        "music",
+        "bgm",
+        "dark",
+        "ambient",
+        "dungeon"
+      ],
+      "effect_kind": [],
+      "author": "Kevin MacLeod",
+      "source_url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100446",
+      "license": "CC-BY 4.0",
+      "license_note": null,
+      "license_family": "cc-by",
+      "attribution": "required: Kevin MacLeod (incompetech.com), CC-BY 4.0",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "2026-11-23",
+      "notes": "MP3 2곡(Night Cave USUAN1100446, Dark Times USUAN1100747; 공식 320kbps 바이트, 릴리스 첨부); CC-BY 4.0 전문 동봉(트리 폴더); abyss-stairs BGM 사용분",
+      "preview": null,
+      "download_path": "releases/download/kevin-macleod-night-cave-dark-times/kevin-macleod-night-cave-dark-times.zip",
+      "download_url": "https://github.com/sigco3111/assets-audio/releases/download/kevin-macleod-night-cave-dark-times/kevin-macleod-night-cave-dark-times.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-audio/releases/download/kevin-macleod-night-cave-dark-times/kevin-macleod-night-cave-dark-times.zip"
+      ],
+      "sample": null,
+      "multipart": false,
+      "split_parts": []
+    },
+    {
+      "id": "assets-ui-icons/galmuri-비트맵-한글-폰트-galmuri11-galmuri14",
+      "name": "Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)",
+      "repo": "assets-ui-icons",
+      "file": "releases/download/galmuri/galmuri-v2.40.4.zip",
+      "type": "폰트",
+      "category": "font",
+      "tags": [
+        "font",
+        "bitmap",
+        "pixel",
+        "korean",
+        "hangul",
+        "webfont",
+        "woff2",
+        "ttf"
+      ],
+      "effect_kind": [],
+      "author": "Lee Minseo (quiple)",
+      "source_url": "https://github.com/quiple/galmuri",
+      "license": "OFL-1.1",
+      "license_note": null,
+      "license_family": "other",
+      "attribution": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금\n",
+      "attribution_required": true,
+      "ai_generated": false,
+      "added": "",
+      "notes": "",
+      "preview": null,
+      "download_path": "releases/download/galmuri/galmuri-v2.40.4.zip",
+      "download_url": "https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip",
+      "download_urls": [
+        "https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip"
       ],
       "sample": null,
       "multipart": false,

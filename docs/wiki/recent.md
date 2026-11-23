@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@c57f5678c81fbb9dd6dd1d43fe2d83a6964b603f`
+> generated from `catalog.csv@513c07384c68f7a4bc09a01d30ab43cfacbb7329`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -26,6 +26,7 @@
 | [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/achrefelouafi/GeometryPainterThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/geometry-painter-threejs/geometry-painter-threejs.zip) | 2026-11-23 |
 | [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ice-rink-tile/ice-rink-tile.zip) | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
+| [Kevin MacLeod - Night Cave & Dark Times](https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100446) | `music` | Kevin MacLeod | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/kevin-macleod-night-cave-dark-times/kevin-macleod-night-cave-dark-times.zip) | 2026-11-23 |
 | [Lowpoly Tree Generator 절차적 나무 생성 코드](https://github.com/pajama-studio/lowpoly-tree-generator) | `other` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/lowpoly-tree-generator/lowpoly-tree-generator.zip) | 2026-11-23 |
 | [Lowpoly Tree 샘플 모델 6종 (GLB)](https://github.com/pajama-studio/lowpoly-tree-generator) | `model-3d` | Rand Monster contributors | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/lowpoly-tree-samples/lowpoly-tree-samples.zip) | 2026-11-23 |
 | [Orc berserker](https://polyfork.dev/asset/orc-berserker-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/orc-berserker/orc-berserker.zip) | 2026-11-23 |
@@ -35,6 +36,7 @@
 | [Reindeer](https://polyfork.dev/asset/reindeer-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/reindeer/reindeer.zip) | 2026-11-23 |
 | [Roof Snow Blanket Run](https://polyfork.dev/asset/roof-snow-blanket-run-9dd068) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/roof-snow-blanket-run/roof-snow-blanket-run.zip) | 2026-11-23 |
 | [Runway Edge Light Run](https://polyfork.dev/asset/runway-edge-light-run-ebe7e1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/runway-edge-light-run/runway-edge-light-run.zip) | 2026-11-23 |
+| [Sci-Fi Sounds](https://kenney.nl/assets/sci-fi-sounds) | `sfx` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-audio/releases/download/sci-fi-sounds/kenney_scifisounds.zip) | 2026-11-23 |
 | [Snowball Pile](https://polyfork.dev/asset/snowball-pile-af4655) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/snowball-pile/snowball-pile.zip) | 2026-11-23 |
 | [Training Bench](https://polyfork.dev/asset/training-bench-34f148) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/training-bench/training-bench.zip) | 2026-11-23 |
 | [Traveller](https://polyfork.dev/asset/traveller-92f20c) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/traveller/traveller.zip) | 2026-11-23 |
@@ -111,5 +113,3 @@
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
 | [Stories of Long Ago (Looping)](https://opengameart.org/content/stories-of-long-ago-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/stories-of-long-ago-looping/stories-of-long-ago-looping.zip) | 2026-11-21 |
 | [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |
-| [Taxiway Centreline Stud Run](https://polyfork.dev/asset/taxiway-centreline-stud-run-7a6020) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/taxiway-centreline-stud-run/taxiway-centreline-stud-run.zip) | 2026-11-21 |
-| [The Battle Begins (Looping)](https://opengameart.org/content/the-battle-begins-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/the-battle-begins-looping/the-battle-begins-looping.zip) | 2026-11-21 |
