@@ -1,22 +1,31 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fac067012681c356732576e7cc1185b85d35f32d`
+> generated from `catalog.csv@6dca88cb5f0cf7d33945e0ba53af5186a1a43008`
 
 # 3D 모델 모음 (2쪽)
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **724개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **733개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): [1쪽](category-model-3d.md) · **2쪽**
 
-현재 쪽: 324행 (전체 724개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 333행 (전체 733개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Chicken (animated)](https://opengameart.org/content/chicken-animated) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/chicken-animated.zip) | 2026-11-04 |
+| [Concrete barriers](https://opengameart.org/content/concrete-barriers) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/concrete-barriers.zip) | 2026-11-04 |
+| [Concrete pipes](https://opengameart.org/content/concrete-pipes) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/concrete-pipes.zip) | 2026-11-04 |
+| [Covered well](https://opengameart.org/content/covered-well) | `model-3d` | qubodup | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/covered-well.zip) | 2026-11-04 |
+| [Crate & Barrel bundle](https://opengameart.org/content/crate-barrel-bundle) | `model-3d` | smoke\_th | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/crate-barrel-bundle.zip) | 2026-11-04 |
+| [Cute prop models](https://opengameart.org/content/cute-prop-models) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/cute-prop-models.zip) | 2026-11-04 |
+| [Daemon statue with rig+animations](https://opengameart.org/content/daemon-statue-with-riganimations) | `model-3d` | ryan.dansie | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/daemon-statue-with-riganimations.zip) | 2026-11-04 |
+| [Death Book](https://opengameart.org/content/death-book) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.25/death-book.zip) | 2026-11-04 |
+| [Deer Female](https://opengameart.org/content/deer-female) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/deer-female.zip) | 2026-11-04 |
 | [Deer Low Poly (rigged)](https://opengameart.org/content/deer-low-poly-rigged) | `model-3d` | ohaizac | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.28/deer-low-poly-rigged.zip) | 2026-11-04 |
 | [Demon statue](https://opengameart.org/content/demon-statue) | `model-3d` | shd | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.25/demon-statue.zip) | 2026-11-04 |
 | [Desert - Low Poly Toon Battle Arena / Tower Defense Pack](https://opengameart.org/content/desert-low-poly-toon-battle-arena-tower-defense-pack) | `model-3d` | JanaChumi | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/desert-low-poly-toon-battle-arena-tower-defense-pack.zip) | 2026-11-04 |

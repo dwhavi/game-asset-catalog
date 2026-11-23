@@ -1,24 +1,33 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@fac067012681c356732576e7cc1185b85d35f32d`
+> generated from `catalog.csv@6dca88cb5f0cf7d33945e0ba53af5186a1a43008`
 
 # 3D 모델 모음
 
 [위키 홈](README.md) · [라이선스](licenses.md) · [최근 추가](recent.md) · [사용 장부](usage-ledger.md)
 
-분류 `model-3d`(3D 모델)에 해당하는 에셋 **724개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
+분류 `model-3d`(3D 모델)에 해당하는 에셋 **733개**입니다. 라이브러리에서 보기: [?cat=model-3d](https://sigco3111.github.io/game-asset-catalog/?cat=model-3d)
 
 표 열: 이름(출처 링크) · 분류 · 제작자 · 라이선스 · 표기 필요(O/X) · AI 생성(O/X) · 파일(내려받기 링크 또는 'N개 분할') · 추가일.
 'N개 분할'은 내려받기 주소가 여러 개인 에셋입니다. 모든 주소는 [assets-index.json](../../assets-index.json)의 `download_urls`에 있습니다.
 
 이 목록은 2쪽으로 나뉩니다(쪽당 최대 400행): **1쪽** · [2쪽](category-model-3d-2.md)
 
-현재 쪽: 400행 (전체 724개). 정렬: 추가일 내림차순, 같으면 이름순.
+현재 쪽: 400행 (전체 733개). 정렬: 추가일 내림차순, 같으면 이름순.
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
 | [AbilityCasting 결투장·생물·소품 3D 모델 5종 (GLB)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/abilitycasting-models/abilitycasting-models.zip) | 2026-11-23 |
 | [AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인)](https://github.com/achrefelouafi/AbilityCastingThreeJS) | `model-3d` | mohamedachrefelouafi (서드파티 원권리자 불명) | 알 수 없음 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/raw/main/abilitycasting-unverified/abilitycasting-unverified.zip) | 2026-11-23 |
+| [anymove Centaur](https://patch.gg/create/toolbox/assets/anymove:centaur) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-centaur.zip) | 2026-11-23 |
+| [anymove Giant Ape](https://patch.gg/create/toolbox/assets/anymove:ape) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-ape.zip) | 2026-11-23 |
+| [anymove Horse](https://patch.gg/create/toolbox/assets/anymove:horse) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-horse.zip) | 2026-11-23 |
+| [anymove Knight](https://patch.gg/create/toolbox/assets/anymove:knight) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-knight.zip) | 2026-11-23 |
+| [anymove Mech](https://patch.gg/create/toolbox/assets/anymove:mech) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-mech.zip) | 2026-11-23 |
+| [anymove Ogre](https://patch.gg/create/toolbox/assets/anymove:ogre) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-ogre.zip) | 2026-11-23 |
+| [anymove Scorpion](https://patch.gg/create/toolbox/assets/anymove:scorpion) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-scorpion.zip) | 2026-11-23 |
+| [anymove T-Rex](https://patch.gg/create/toolbox/assets/anymove:trex) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-trex.zip) | 2026-11-23 |
+| [anymove Woman](https://patch.gg/create/toolbox/assets/anymove:woman) | `model-3d` | Patch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly-2/releases/download/anymove/anymove-woman.zip) | 2026-11-23 |
 | [Baby Pram](https://polyfork.dev/asset/baby-pram-73d9f2) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/baby-pram/baby-pram.zip) | 2026-11-23 |
 | [Christmas Market Stall](https://polyfork.dev/asset/christmas-market-stall-e0ebe9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/christmas-market-stall/christmas-market-stall.zip) | 2026-11-23 |
 | [Cyclops](https://polyfork.dev/asset/cyclops-base) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/cyclops/cyclops.zip) | 2026-11-23 |
@@ -408,12 +417,3 @@
 | [Cethiel's Weapons 3D](https://opengameart.org/content/cethiels-weapons-3d) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.16/cethiels-weapons-3d.zip) | 2026-11-04 |
 | [Chest (Animated)](https://opengameart.org/content/chest-animated) | `model-3d` | wobba89 | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.19/chest-animated.zip) | 2026-11-04 |
 | [Chest Blizzard style](https://opengameart.org/content/chest-blizzard-style) | `model-3d` | Beast | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/chest-blizzard-style.zip) | 2026-11-04 |
-| [Chicken (animated)](https://opengameart.org/content/chicken-animated) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.12/chicken-animated.zip) | 2026-11-04 |
-| [Concrete barriers](https://opengameart.org/content/concrete-barriers) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.18/concrete-barriers.zip) | 2026-11-04 |
-| [Concrete pipes](https://opengameart.org/content/concrete-pipes) | `model-3d` | Julius | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.21/concrete-pipes.zip) | 2026-11-04 |
-| [Covered well](https://opengameart.org/content/covered-well) | `model-3d` | qubodup | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/covered-well.zip) | 2026-11-04 |
-| [Crate & Barrel bundle](https://opengameart.org/content/crate-barrel-bundle) | `model-3d` | smoke\_th | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.17/crate-barrel-bundle.zip) | 2026-11-04 |
-| [Cute prop models](https://opengameart.org/content/cute-prop-models) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.23/cute-prop-models.zip) | 2026-11-04 |
-| [Daemon statue with rig+animations](https://opengameart.org/content/daemon-statue-with-riganimations) | `model-3d` | ryan.dansie | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.30/daemon-statue-with-riganimations.zip) | 2026-11-04 |
-| [Death Book](https://opengameart.org/content/death-book) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.25/death-book.zip) | 2026-11-04 |
-| [Deer Female](https://opengameart.org/content/deer-female) | `model-3d` | Snabisch | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-3d-lowpoly/releases/download/v8.15/deer-female.zip) | 2026-11-04 |
