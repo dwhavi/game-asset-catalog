@@ -1,5 +1,12 @@
 # 수집 이력 (라운드별 상세)
 
+### PIXELFX-DOWNLOAD-20261123 (기존 1팩 수정)
+
+- pixelfx는 파일 위치에 GitHub tree 폴더 URL이 들어 있어 색인 생성기가 다운로드 URL을 만들지 않았음
+- assets-2d-pixel/pixelfx/pixelfx.zip 압축본 추가, 카탈로그 file 필드를 ZIP 상대경로로 수정
+- MIT 전문·서드파티 고지 유지. 권리 유보 폰트·README GIF·에이전트용 설정은 ZIP 미포함. 244개 효과 모듈 로드 확인
+- 팩 수 변경 없음
+
 ### VFX-STARTER-20261123 (1팩)
 
 - 00GameDevs 마법 VFX Starter 5종, MIT, assets-code 등록

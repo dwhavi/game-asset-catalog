@@ -15,7 +15,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
-| [pixelfx](https://github.com/patch-gg/pixelfx) | `effect` | Patch | MIT | O | X | - | 2026-11-20 |
+| [pixelfx](https://github.com/patch-gg/pixelfx) | `effect` | Patch | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/pixelfx/pixelfx.zip) | 2026-11-20 |
 | [spell set](https://opengameart.org/content/spell-set) | `effect` | Scribe | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/a107-spell-set/spell-set.zip) | 2026-11-17 |
 | [Elemental Weapons - Effect](https://opengameart.org/content/elemental-weapons-effect) | `effect` | Cethiel | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/elemental-weapons-effect/elemental-weapons-effect.zip) | 2026-11-16 |
 | [Gore Blood Gibs Meat Chunks](https://opengameart.org/content/gore-blood-gibs-meat-chunks) | `effect` | Reactorcore | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/raw/main/gore-blood-gibs-meat-chunks/rc_art_-_gore_blood_gibs.zip) | 2026-11-16 |
