@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@513c07384c68f7a4bc09a01d30ab43cfacbb7329`
+> generated from `catalog.csv@8e15808bbf0bfdb0c35a10b551acc576784c4c7e`
 
 # 폰트 모음
 
@@ -15,7 +15,7 @@
 
 | 이름 | 분류 | 제작자 | 라이선스 | 표기 필요 | AI 생성 | 파일 | 추가일 |
 |---|---|---|---|---|---|---|---|
+| [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | `font` | Lee Minseo (quiple) | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip) | 2026-11-23 |
 | [Afterlight 세리프 웹폰트 3족 (Alegreya·Cinzel)](https://github.com/FriendlyUser/afterlight) | `font` | Alegreya Project Authors / Natanael Gama | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/raw/main/afterlight-serif-fonts/afterlight-serif-fonts.zip) | 2026-11-20 |
 | [Kenney Fonts](https://kenney.nl/assets/kenney-fonts) | `font` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/v3.0/kenney-fonts.zip) | 2026-10-28 |
 | [Letter Tiles](https://kenney.nl/assets/letter-tiles) | `font` | Kenney | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/v3.0/letter-tiles.zip) | 2026-10-28 |
-| [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | `font` | Lee Minseo (quiple) | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip) | - |

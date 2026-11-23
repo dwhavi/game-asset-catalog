@@ -4,11 +4,11 @@
 
 ## 1. 개요
 
-- 원본: `catalog.csv@513c07384c68f7a4bc09a01d30ab43cfacbb7329`
+- 원본: `catalog.csv@8e15808bbf0bfdb0c35a10b551acc576784c4c7e`
 - 데이터 행 수: **2275**
 - CSV 헤더(14열): `name,repo,file,type,tags,author,source_url,license,attribution,added,notes,preview,sample,split`
 - 참고: 기본 11열 외 추가 열 ['preview', 'sample', 'split'] 이 있어 색인에 반영함 (`preview`는 상대경로로 변환, `sample`, `split_parts` 추가).
-- 파일 크기: `assets-index.json` 3,330,947 bytes, `assets-index.min.json` 2,693,596 bytes
+- 파일 크기: `assets-index.json` 3,331,215 bytes, `assets-index.min.json` 2,693,864 bytes
 
 ## 2. 집계
 
@@ -170,7 +170,6 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 | added | 개수 |
 |---|---|
-|  | 1 |
 | 2026-10-28 | 303 |
 | 2026-10-29 | 168 |
 | 2026-10-30 | 47 |
@@ -192,7 +191,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2026-11-20 | 68 |
 | 2026-11-21 | 39 |
 | 2026-11-22 | 41 |
-| 2026-11-23 | 29 |
+| 2026-11-23 | 30 |
 
 ### 상위 태그 30
 
@@ -251,7 +250,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 
 - effect_kind가 하나 이상인 에셋: 262 / 2275
 
-- attribution_required=true: 365, ai_generated=true: 39, preview 있음: 1772, 분할(split) 행: 147
+- attribution_required=true: 365, ai_generated=true: 39, preview 있음: 1773, 분할(split) 행: 147
 
 ## 3. 품질 점검 (catalog.csv는 수정하지 않음)
 
@@ -410,7 +409,7 @@ name/tags/notes(수집 boilerplate 제외)의 키워드가 한 범주에만 명�
 | 2140 | Pocket Soccer 3D 타이틀 아트워크·앱 아이콘 | assets-2d-pixel | notes `AI 생성` |
 
 - notes에 `AI`가 있으나 `AI 생성` 문구가 없어 false로 둔 행: 8건 (assets-ui-icons/game-icons, assets-ui-icons/game-icons-expansion, assets-3d-lowpoly/modular-dungeon-2-3d-models-2, assets-3d-lowpoly/base-human-models-low-poly, assets-2d-pixel/weapon-slash-effect-2)
-- preview가 없는 행: 503건
+- preview가 없는 행: 502건
 
 ## 4. 샘플 링크 점검 (전수 점검 아님, 표본)
 
@@ -586,7 +585,7 @@ license가 허용 목록(CC0, CC-BY, MIT, GPL 2.0/3.0) 밖의 맞춤 문구(`own
 | 2257 | Spooky Month | assets-audio | 필수: Bonky (opengameart.org), OGA-BY 3.0 |
 | 2269 | Gay Old Time (Bounce House) | assets-audio | 필수: Haley Halcyon (opengameart.org), OGA-BY 4.0 |
 | 2273 | AbilityCasting 상어·드래곤·자이로스코프 모델·환경 텍스처 (권리 미확인) | assets-3d-lowpoly-2 | 권장(미확인): mohamedachrefelouafi (github.com/achrefelouafi/AbilityCastingThreeJS), 항목별 원권리자 확인 필요 |
-| 2276 | Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14) | assets-ui-icons | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금  |
+| 2276 | Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14) | assets-ui-icons | required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금 지, 수정본 동일 라이선스 |
 
 ### (d) 분할 업로드 행 정책
 

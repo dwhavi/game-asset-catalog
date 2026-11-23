@@ -1,6 +1,6 @@
 > 이 문서는 tools/build_wiki.py가 assets-index.json에서 자동 생성합니다. 직접 고치지 마세요.
 
-> generated from `catalog.csv@513c07384c68f7a4bc09a01d30ab43cfacbb7329`
+> generated from `catalog.csv@8e15808bbf0bfdb0c35a10b551acc576784c4c7e`
 
 # 최근 추가된 에셋 (최신 100개)
 
@@ -23,6 +23,7 @@
 | [Elemental Sandbox 바위 PBR 텍스처 4종 (ambientCG Rock030 1K)](https://ambientcg.com/a/Rock030) | `other` | ambientCG | CC0 | X | X | [다운로드](https://github.com/sigco3111/assets-2d-pixel/releases/download/elemental-sandbox-rock030-pbr/elemental-sandbox-rock030-pbr.zip) | 2026-11-23 |
 | [Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)](https://github.com/achrefelouafi/LinearAbilityExtThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip) | 2026-11-23 |
 | [Fuel Technician](https://polyfork.dev/asset/fuel-technician-df4ce0) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/fuel-technician/fuel-technician.zip) | 2026-11-23 |
+| [Galmuri 비트맵 한글 폰트 (Galmuri11·Galmuri14)](https://github.com/quiple/galmuri) | `font` | Lee Minseo (quiple) | OFL-1.1 | O | X | [다운로드](https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip) | 2026-11-23 |
 | [Geometry Painter 표면 페인팅·절차적 3D 코드](https://github.com/achrefelouafi/GeometryPainterThreeJS) | `other` | mohamedachrefelouafi | MIT | O | X | [다운로드](https://github.com/sigco3111/assets-code/raw/main/geometry-painter-threejs/geometry-painter-threejs.zip) | 2026-11-23 |
 | [Ice Rink Tile](https://polyfork.dev/asset/ice-rink-tile-aceb6a) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/ice-rink-tile/ice-rink-tile.zip) | 2026-11-23 |
 | [Iron-Banded Chest](https://polyfork.dev/asset/iron-banded-chest-64731f) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/iron-banded-chest/iron-banded-chest.zip) | 2026-11-23 |
@@ -112,4 +113,3 @@
 | [Stable](https://polyfork.dev/asset/stable-57d8b1) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stable/stable.zip) | 2026-11-21 |
 | [Stone Guardian Beast](https://polyfork.dev/asset/stone-guardian-beast-663ee9) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/stone-guardian-beast/stone-guardian-beast.zip) | 2026-11-21 |
 | [Stories of Long Ago (Looping)](https://opengameart.org/content/stories-of-long-ago-looping) | `music` | Eric Matyas | CC-BY 3.0 | O | X | [다운로드](https://github.com/sigco3111/assets-audio/raw/main/stories-of-long-ago-looping/stories-of-long-ago-looping.zip) | 2026-11-21 |
-| [Strategy Table](https://polyfork.dev/asset/strategy-table-882a29) | `model-3d` | Polyfork | CC-BY 4.0 | O | X | [다운로드](https://github.com/sigco3111/assets-3d-polyfork/raw/main/strategy-table/strategy-table.zip) | 2026-11-21 |

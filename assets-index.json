@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_from": "catalog.csv@513c07384c68f7a4bc09a01d30ab43cfacbb7329",
+  "generated_from": "catalog.csv@8e15808bbf0bfdb0c35a10b551acc576784c4c7e",
   "count": 2275,
   "assets": [
     {
@@ -80246,12 +80246,12 @@
       "license": "OFL-1.1",
       "license_note": null,
       "license_family": "other",
-      "attribution": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금\n",
+      "attribution": "required (OFL-1.1): OFL 전문 유지, 폰트 단독 판매 금\n지, 수정본 동일 라이선스",
       "attribution_required": true,
       "ai_generated": false,
-      "added": "",
-      "notes": "",
-      "preview": null,
+      "added": "2026-11-23",
+      "notes": "공식 v2.40.4 zip 그대로(파일 40개, Galmuri11/11 Bold/11 Condensed/14 및 Bitmap 변종 TTF·BDF·WOFF2, OFL 전문 동봉); 한글 비트맵; abyss-stairs UI 폰트 사용분; 문서: 트리 galmuri/",
+      "preview": "galmuri/preview.png",
       "download_path": "releases/download/galmuri/galmuri-v2.40.4.zip",
       "download_url": "https://github.com/sigco3111/assets-ui-icons/releases/download/galmuri/galmuri-v2.40.4.zip",
       "download_urls": [
